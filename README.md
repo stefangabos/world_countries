@@ -23,4 +23,4 @@ SELECT * FROM countries WHERE alpha_2 = "sh"
 
 ## How can you help?
 
-You can help by making the list compatible with other database systems, by providing different image formats or by suggesting other features
+You can help by making the list compatible with other database systems or by suggesting other features that could fit in this package.
