@@ -21,3 +21,6 @@ SELECT * FROM countries WHERE alpha_2 = "sh"
 
 > Please note that when importing ```countries.sql``` if your database already contains a table named "countries", it will be deleted!
 
+## How can you help?
+
+You can help by making the list compatible with other database systems
