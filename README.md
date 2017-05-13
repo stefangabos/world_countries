@@ -56,7 +56,7 @@ WHERE
     alpha_2 = "sh"
 ```
 
-> Please note that when importing `countries.sql` if your database already contains a table named *countries*, it will be deleted!
+> Please note that when importing `countries-[lang].sql` if your database already contains a table named *countries*, it will be deleted!
 
 ## How can you help?
 
