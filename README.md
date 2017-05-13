@@ -1,14 +1,19 @@
-## An up-to-date list of world countries, as a MySQL dump file, with national flags
+# World countries with flags
 
-A list of world’s countries available as an MySQL file containing the official short names in English as specified by ISO 3166-1, the ISO 3166-1-alpha-2 code provided by the [International Organization for Standardization](http://www.iso.org/iso/en/prods-services/iso3166ma/02iso-3166-code-lists/list-en1.html) and the ISO alpha-3 code provided by the [United Nations Statistics Division](http://unstats.un.org/unsd/methods/m49/m49alpha.htm).
+*An up-to-date list of world countries and associated alpha-2, alpha-3 and numeric codes as defined by the ISO 3166 standard and published by the [International Organization for Standardization](https://www.iso.org/iso-3166-country-codes.html), with national flags included*
+
+The MySQL dump file contains:
+
+- the **ISO 3166** official short names in *English*
+- the **ISO 3166-1 alpha-2** two-letter country codes
+- the **ISO 3166-1 alpha-3** three-letter country codes
+- the **ISO 3166-1 numeric** three-digit country codes
 
 The package also contains the national flags of each country as a 16x16, 24x24, 32x32, 64x64 and 128x128 PNG images, courtesy of [IconDrawer](http://icondrawer.com/free.php). The image files are named using the ISO 3166-1-alpha-2 code of the country they represent, for easily pairing flags with countries.
 
-*Keep in mind that while all the countries have ISO 3166-1-alpha-2 code, not all the countries have an ISO 3-alpha code.*
-
 ## How to use
 
-Import ```countries.sql```  into your MySQL database. Once imported, you'll see a table called ```countries``` which you can query like
+Import `countries.sql`  into your MySQL database. Once imported, you'll see a table called ```countries``` which you can query like
 
 ```sql
 SELECT * FROM countries WHERE name = "Saint Helena, Ascension and Tristan Da Cunha"
@@ -19,7 +24,7 @@ or
 SELECT * FROM countries WHERE alpha_2 = "sh"
 ```
 
-> Please note that when importing ```countries.sql``` if your database already contains a table named "countries", it will be deleted!
+> Please note that when importing `countries.sql` if your database already contains a table named *countries*, it will be deleted!
 
 ## How can you help?
 
