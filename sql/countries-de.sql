@@ -10,7 +10,7 @@ The list contains:
 - the ISO 3166-1 alpha-2 two-letter country codes
 - the ISO 3166-1 alpha-3 three-letter country codes
 
-compiled by Stefan Gabos from Wikipedia (https://en.wikipedia.org/wiki/ISO_3166-1, https://de.wikipedia.org/wiki/ISO-3166-1-Kodierliste)
+compiled by Stefan Gabos from Wikipedia (https://en.wikipedia.org/wiki/ISO_3166-1 and https://de.wikipedia.org/wiki/ISO-3166-1-Kodierliste)
 
 https://github.com/stefangabos/world_countries
 
