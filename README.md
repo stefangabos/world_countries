@@ -1,6 +1,6 @@
 # World countries with flags
 
-*An up-to-date list of world countries and associated alpha-2, alpha-3 and numeric codes as defined by the ISO 3166 standard and published by the [International Organization for Standardization](https://www.iso.org/iso-3166-country-codes.html), with national flags included. Available in 2 languages: English and German.*
+*Up-to-date MySQL dump files of world countries and associated alpha-2, alpha-3 and numeric codes as defined by the ISO 3166 standard and published by the [International Organization for Standardization](https://www.iso.org/iso-3166-country-codes.html), with national flags included and available in multiple languages.*
 
 The MySQL dump files contain:
 
@@ -10,6 +10,8 @@ The MySQL dump files contain:
 - the **ISO 3166-1 alpha-3** three-letter country codes
 
 <small><a name="footnote"><sup>1</sup></a> for other languages the country names are in that particular language</small>
+
+The lists are currently available in **2 languages**: English and German. The file names are in the form of `countries-[lang].sql` where `[lang]` is the language the country names are written in.
 
 Excerpt from the `countries-en.sql` file:
 
