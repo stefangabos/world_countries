@@ -11,7 +11,7 @@ The MySQL dump files contain:
 
 <small><a name="footnote"><sup>1</sup></a> for other languages the country names are in that particular language</small>
 
-The lists are currently available in **2 languages**: English and German. The file names are in the form of `countries-[lang].sql` where `[lang]` is the language the country names are written in.
+The lists are currently available in **4 languages**: English, French, German and Portuguese. The file names are in the form of `countries-[lang].sql` where `[lang]` is the language the country names are written in.
 
 Excerpt from the `countries-en.sql` file:
 
@@ -35,7 +35,9 @@ The package also contains the national flags of each country as a 16x16, 24x24, 
 Download [all the files](https://github.com/stefangabos/world_countries/archive/master.zip) or just the language you want:
 
 - [English](https://raw.githubusercontent.com/stefangabos/world_countries/master/sql/countries-en.sql) compiled from [Wikipedia](https://en.wikipedia.org/wiki/ISO_3166-1)
+- [French](https://raw.githubusercontent.com/stefangabos/world_countries/master/sql/countries-fr.sql) compiled from [Wikipedia](https://fr.wikipedia.org/wiki/ISO_3166-1)
 - [German](https://raw.githubusercontent.com/stefangabos/world_countries/master/sql/countries-de.sql) compiled from [Wikipedia](https://de.wikipedia.org/wiki/ISO-3166-1-Kodierliste)
+- [Portuguese](https://raw.githubusercontent.com/stefangabos/world_countries/master/sql/countries-de.sql) compiled from [Wikipedia](https://pt.wikipedia.org/wiki/ISO_3166-1)
 
 Import `countries-[lang].sql` into your MySQL database (where *[lang]* is the language you want the country names in). Once imported, you'll see a table called ```countries``` which you can query like
 
