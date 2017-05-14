@@ -11,7 +11,7 @@ The files contain:
 
 <small><a name="footnote"><sup>1</sup></a> for other languages the country names are in that particular language</small>
 
-The lists are currently available in **6 languages**: English, French, German, Japanese, Portuguese, Russian and Spanish.
+The lists are currently available in **7 languages**: English, French, German, Japanese, Portuguese, Russian and Spanish.
 
 Excerpt from the `data/en/countries.sql` file:
 
