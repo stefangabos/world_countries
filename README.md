@@ -1,4 +1,4 @@
-# World countries in SQL, JSON and CSV formats, available in 7 languages and with national flags
+# World countries in SQL, JSON and CSV formats, available in 8 languages and with national flags
 
 *Up-to-date lists of world countries and associated alpha-2, alpha-3 and numeric codes as defined by the ISO 3166 standard and published by the [International Organization for Standardization](https://www.iso.org/iso-3166-country-codes.html), available in MySQL, JSON and CSV formats, in multiple languages and with national flags included.*
 
@@ -11,7 +11,7 @@ The files contain:
 
 <small><a name="footnote"><sup>1</sup></a> for other languages the country names are in that particular language</small>
 
-The lists are currently available in **7 languages**: English, French, German, Japanese, Portuguese, Russian and Spanish.
+The lists are currently available in **8 languages**: English, French, German, Italian, Japanese, Portuguese, Russian and Spanish.
 
 Excerpt from the `data/en/countries.sql` file:
 
