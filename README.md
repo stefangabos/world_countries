@@ -1,8 +1,8 @@
-# World countries with flags
+# World countries in SQL, JSON and CSV formats, available in 4 languages, and with national flags
 
-*Up-to-date MySQL dump files of world countries and associated alpha-2, alpha-3 and numeric codes as defined by the ISO 3166 standard and published by the [International Organization for Standardization](https://www.iso.org/iso-3166-country-codes.html), with national flags included and available in multiple languages.*
+*Up-to-date lists of world countries and associated alpha-2, alpha-3 and numeric codes as defined by the ISO 3166 standard and published by the [International Organization for Standardization](https://www.iso.org/iso-3166-country-codes.html), available in MySQL, JSON and CSV formats, in multiple languages and with national flags included.*
 
-The MySQL dump files contain:
+The files contain:
 
 - the **ISO 3166-1 numeric** country codes
 - the **ISO 3166** official short names in *English*<small><sup>[1](#footnote)</sup></small>
@@ -11,11 +11,11 @@ The MySQL dump files contain:
 
 <small><a name="footnote"><sup>1</sup></a> for other languages the country names are in that particular language</small>
 
-The lists are currently available in **4 languages**: English, French, German and Portuguese. The file names are in the form of `countries-[lang].sql` where `[lang]` is the language the country names are written in.
+The lists are currently available in **4 languages**: English, French, German and Portuguese.
 
-Excerpt from the `countries-en.sql` file:
+Excerpt from the `data/en/countries.sql` file:
 
-```csv
+```sql
 ...
 (250, 'France', 'fr', 'fra'),
 (254, 'French Guiana', 'gf', 'guf'),
@@ -30,39 +30,6 @@ Excerpt from the `countries-en.sql` file:
 
 The package also contains the national flags of each country as a 16x16, 24x24, 32x32, 64x64 and 128x128 PNG images, courtesy of [IconDrawer](http://icondrawer.com/free.php). The image files are named using the ISO 3166-1-alpha-2 code of the country they represent, for easily pairing flags with countries.
 
-## How to use
+## Sources
 
-Download [all the files](https://github.com/stefangabos/world_countries/archive/master.zip) or just the language you want:
-
-- [English](https://raw.githubusercontent.com/stefangabos/world_countries/master/sql/countries-en.sql) compiled from [Wikipedia](https://en.wikipedia.org/wiki/ISO_3166-1)
-- [French](https://raw.githubusercontent.com/stefangabos/world_countries/master/sql/countries-fr.sql) compiled from [Wikipedia](https://fr.wikipedia.org/wiki/ISO_3166-1)
-- [German](https://raw.githubusercontent.com/stefangabos/world_countries/master/sql/countries-de.sql) compiled from [Wikipedia](https://de.wikipedia.org/wiki/ISO-3166-1-Kodierliste)
-- [Portuguese](https://raw.githubusercontent.com/stefangabos/world_countries/master/sql/countries-de.sql) compiled from [Wikipedia](https://pt.wikipedia.org/wiki/ISO_3166-1)
-
-Import `countries-[lang].sql` into your MySQL database (where *[lang]* is the language you want the country names in). Once imported, you'll see a table called ```countries``` which you can query like
-
-```sql
-SELECT
-    *
-FROM
-    countries
-WHERE
-    name = "Saint Helena, Ascension and Tristan Da Cunha"
-```
-
-or
-
-```sql
-SELECT
-    *
-FROM
-    countries
-WHERE
-    alpha_2 = "sh"
-```
-
-> Please note that when importing `countries-[lang].sql` if your database already contains a table named *countries*, it will be deleted!
-
-## How can you help?
-
-You can help by making the list compatible with other database systems or by suggesting other features that could fit in this package.
+All the data comes from [Wikipedia](https://en.wikipedia.org/wiki/ISO_3166-1).
