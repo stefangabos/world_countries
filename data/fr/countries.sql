@@ -176,7 +176,7 @@ INSERT INTO `countries` (`id`, `name`, `alpha_2`, `alpha_3`) VALUES
 (570, 'Niue', 'nu', 'niu'),
 (574, 'Île Norfolk', 'nf', 'nfk'),
 (578, 'Norvège', 'no', 'nor'),
-(540, ' Nouvelle-Calédonie', 'nc', 'ncl'),
+(540, 'Nouvelle-Calédonie', 'nc', 'ncl'),
 (554, 'Nouvelle-Zélande', 'nz', 'nzl'),
 (86, 'Territoire britannique de l\'océan Indien', 'io', 'iot'),
 (512, 'Oman', 'om', 'omn'),
