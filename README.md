@@ -33,3 +33,7 @@ The package also contains the national flags of each country as a 16x16, 24x24, 
 ## Sources
 
 All the data comes from [Wikipedia](https://en.wikipedia.org/wiki/ISO_3166-1).
+
+## Support this project
+
+[![Donate](https://img.shields.io/badge/Be%20kind%20%7C%20Donate%20$3%20with%20-%20PayPal%20-brightgreen.svg)](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=BPBPYP293BRLC)
