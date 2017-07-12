@@ -120,7 +120,7 @@ INSERT INTO `countries` (`id`, `name`, `alpha_2`, `alpha_3`) VALUES
 (174,'Komory','km','com'),
 (178,'Kongo','cg','cog'),
 (410,'Korea Południowa','kr','kor'),
-(408,'KRLD','kp','prk'),
+(408,'Korea Północna','kp','prk'),
 (188,'Kostaryka','cr','cri'),
 (192,'Kuba','cu','cub'),
 (414,'Kuwejt','kw','kwt'),
