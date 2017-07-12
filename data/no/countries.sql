@@ -127,7 +127,7 @@ INSERT INTO `countries` (`id`, `name`, `alpha_2`, `alpha_3`) VALUES
 (178,'Kongo, Republikken','cg','cog'),
 (191,'Kroatia','hr','hrv'),
 (414,'Kuwait','kw','kwt'),
-(196,'Kypros','cy','cyp'),
+(196,'Republikken Kypros','cy','cyp'),
 (418,'Laos','la','lao'),
 (428,'Latvia','lv','lva'),
 (426,'Lesotho','ls','lso'),
