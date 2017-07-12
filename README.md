@@ -11,7 +11,29 @@ The files contain:
 
 <small><a name="footnote"><sup>1</sup></a> for other languages the country names are in that particular language</small>
 
-The lists are currently available in **21 languages**: Arabic, Chinese, Czech, Dutch, English, French, German, Greek, Hungarian, Italian, Japanese, Lithuanian, Norwegian, Polish, Portuguese, Romanian, Russian, Slovak, Spanish, Thai and Ukrainian.
+The lists are currently available in **21 languages**:
+
+- Arabic
+- Chinese
+- Czech
+- Dutch
+- English
+- French
+- German
+- Greek
+- Hungarian
+- Italian
+- Japanese
+- Lithuanian
+- Norwegian
+- Polish
+- Portuguese
+- Romanian
+- Russian
+- Slovak
+- Spanish
+- Thai
+- Ukrainian
 
 Excerpt from the `data/en/countries.sql` file:
 
