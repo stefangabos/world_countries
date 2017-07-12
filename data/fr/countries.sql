@@ -207,7 +207,7 @@ INSERT INTO `countries` (`id`, `name`, `alpha_2`, `alpha_3`) VALUES
 (659,'Saint-Christophe-et-Niévès','kn','kna'),
 (674,'Saint-Marin','sm','smr'),
 (663,'Saint-Martin','mf','maf'),
-(534,'Sint Maarten','sx','sxm'),
+(534,'Saint-Martin','sx','sxm'),
 (666,'Saint-Pierre-et-Miquelon','pm','spm'),
 (336,'Saint-Siège (État de la Cité du Vatican)','va','vat'),
 (670,'Saint-Vincent-et-les Grenadines','vc','vct'),
