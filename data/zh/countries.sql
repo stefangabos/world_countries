@@ -238,7 +238,7 @@ INSERT INTO `countries` (`id`, `name`, `alpha_2`, `alpha_3`) VALUES
 (792,'土耳其','tr','tur'),
 (780,'千里達及托巴哥','tt','tto'),
 (798,'图瓦卢','tv','tuv'),
-(158,'臺灣','tw','twn'),
+(158,'中国台湾省','tw','twn'),
 (834,'坦桑尼亚','tz','tza'),
 (804,'烏克蘭','ua','ukr'),
 (800,'乌干达','ug','uga'),
