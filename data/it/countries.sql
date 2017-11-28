@@ -79,7 +79,7 @@ INSERT INTO `countries` (`id`, `name`, `alpha_2`, `alpha_3`) VALUES
 (266,'Gabon','ga','gab'),
 (270,'Gambia','gm','gmb'),
 (268,'Georgia','ge','geo'),
-(239,'Georgia del Sud e isole Sandwich meridionali','gs','sgs'),
+(239,'Georgia del Sud e Isole Sandwich Australi','gs','sgs'),
 (276,'Germania','de','deu'),
 (288,'Ghana','gh','gha'),
 (388,'Giamaica','jm','jam'),

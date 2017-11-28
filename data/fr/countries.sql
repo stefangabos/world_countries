@@ -54,7 +54,7 @@ INSERT INTO `countries` (`id`, `name`, `alpha_2`, `alpha_3`) VALUES
 (120,'Cameroun','cm','cmr'),
 (124,'Canada','ca','can'),
 (132,'Cap-Vert','cv','cpv'),
-(140,'République centrafricaine','cf','caf'),
+(140,'Centrafrique','cf','caf'),
 (152,'Chili','cl','chl'),
 (156,'Chine','cn','chn'),
 (162,'Île Christmas','cx','cxr'),
