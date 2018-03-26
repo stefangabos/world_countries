@@ -255,7 +255,7 @@ INSERT INTO `countries` (`id`, `name`, `alpha_2`, `alpha_3`) VALUES
 (548,'Vanuatu','vu','vut'),
 (336,'Vatikán','va','vat'),
 (862,'Venezuela','ve','ven'),
-(704,'Vietnam','vn','vnm'),
+(704,'Vietnám','vn','vnm'),
 (876,'Wallis és Futuna','wf','wlf'),
 (894,'Zambia','zm','zmb'),
 (716,'Zimbabwe','zw','zwe'),

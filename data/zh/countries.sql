@@ -114,7 +114,7 @@ INSERT INTO `countries` (`id`, `name`, `alpha_2`, `alpha_3`) VALUES
 (360,'印尼','id','idn'),
 (372,'爱尔兰','ie','irl'),
 (376,'以色列','il','isr'),
-(833,'曼島','im','imn'),
+(833,'马恩岛','im','imn'),
 (356,'印度','in','ind'),
 (86,'英屬印度洋領地','io','iot'),
 (368,'伊拉克','iq','irq'),

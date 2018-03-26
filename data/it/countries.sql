@@ -201,7 +201,7 @@ INSERT INTO `countries` (`id`, `name`, `alpha_2`, `alpha_3`) VALUES
 (643,'Russia','ru','rus'),
 (732,'Sahara Occidentale','eh','esh'),
 (659,'Saint Kitts e Nevis','kn','kna'),
-(662,'Santa Lucia','lc','lca'),
+(662,'Saint Lucia','lc','lca'),
 (654,'Sant\'Elena, Ascensione e Tristan da Cunha','sh','shn'),
 (670,'Saint Vincent e Grenadine','vc','vct'),
 (652,'Saint-Barthélemy','bl','blm'),
