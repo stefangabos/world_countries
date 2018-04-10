@@ -201,7 +201,7 @@ INSERT INTO `countries` (`id`, `name`, `alpha_2`, `alpha_3`) VALUES
 (678,'São Tomé und Príncipe','st','stp'),
 (682,'Saudi-Arabien','sa','sau'),
 (752,'Schweden','se','swe'),
-(756,'Schweiz (Confoederatio Helvetica)','ch','che'),
+(756,'Schweiz','ch','che'),
 (686,'Senegal','sn','sen'),
 (688,'Serbien','rs','srb'),
 (690,'Seychellen','sc','syc'),
