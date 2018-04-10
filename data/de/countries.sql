@@ -253,7 +253,7 @@ INSERT INTO `countries` (`id`, `name`, `alpha_2`, `alpha_3`) VALUES
 (862,'Venezuela','ve','ven'),
 (784,'Vereinigte Arabische Emirate','ae','are'),
 (840,'Vereinigte Staaten von Amerika','us','usa'),
-(826,'Vereinigtes Königreich Großbritannien und Nordirland','gb','gbr'),
+(826,'Vereinigtes Königreich','gb','gbr'),
 (704,'Vietnam','vn','vnm'),
 (876,'Wallis und Futuna','wf','wlf'),
 (162,'Weihnachtsinsel','cx','cxr'),
