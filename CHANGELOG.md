@@ -1,3 +1,7 @@
+## version 1.2.2 (April 10, 2018)
+
+- corrected some german translations
+
 ## version 1.2.1 (January 26, 2016)
 
 - the list is now [available on GitHub](https://github.com/stefangabos/world_countries)
