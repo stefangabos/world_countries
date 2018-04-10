@@ -98,7 +98,7 @@ INSERT INTO `countries` (`id`, `name`, `alpha_2`, `alpha_3`) VALUES
 (360,'Indonesien','id','idn'),
 (833,'Insel Man','im','imn'),
 (368,'Irak','iq','irq'),
-(364,'Iran, Islamische Republik','ir','irn'),
+(364,'Iran','ir','irn'),
 (372,'Irland','ie','irl'),
 (352,'Island','is','isl'),
 (376,'Israel','il','isr'),
