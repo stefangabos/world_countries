@@ -148,7 +148,7 @@ INSERT INTO `countries` (`id`, `name`, `alpha_2`, `alpha_3`) VALUES
 (807,'Macedonia','mk','mkd'),
 (450,'Madagascar','mg','mdg'),
 (454,'Malawi','mw','mwi'),
-(458,'Malesia','my','mys'),
+(458,'Malaysia','my','mys'),
 (462,'Maldive','mv','mdv'),
 (466,'Mali','ml','mli'),
 (470,'Malta','mt','mlt'),
