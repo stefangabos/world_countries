@@ -2,6 +2,8 @@
 
 *Up-to-date lists of world countries and associated alpha-2, alpha-3 and numeric codes as defined by the ISO 3166 standard and published by the [International Organization for Standardization](https://www.iso.org/iso-3166-country-codes.html), available in MySQL, JSON and CSV formats, in multiple languages and with national flags included.*
 
+[![License](https://img.shields.io/github/license/stefangabos/world_countries.svg)](https://github.com/stefangabos/world_countries/blob/master/LICENSE.md)
+
 The files contain:
 
 - the **ISO 3166-1 numeric** country codes
