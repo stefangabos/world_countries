@@ -2,7 +2,7 @@
 
 # World countries &nbsp;[![Tweet](https://img.shields.io/twitter/url/http/shields.io.svg?style=social)](https://twitter.com/intent/tweet?text=World%20countries,%20available%20in%2021%20languages,%20in%20SQL,%20JSON%20and%20CSV%20formats,%20and%20with%20national%20flags%20included&url=https://github.com/stefangabos/world_countries&via=stefangabos&hashtags=countries,flags,iso-3166)
 
-*available in 21 languages, in SQL, JSON and CSV formats, and with national flags included*
+*available in multiple languages, in SQL, JSON and CSV formats, with associated codes as defined by the ISO 3166 standard, and with national flags included*
 
 [![License](https://img.shields.io/github/license/stefangabos/world_countries.svg)](https://github.com/stefangabos/world_countries/blob/master/LICENSE.md)
 
