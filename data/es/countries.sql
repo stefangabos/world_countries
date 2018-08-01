@@ -189,7 +189,7 @@ INSERT INTO `countries` (`id`, `name`, `alpha_2`, `alpha_3`) VALUES
 (598,'Papúa Nueva Guinea','pg','png'),
 (600,'Paraguay','py','pry'),
 (604,'Perú','pe','per'),
-(258,'Polinesia francesa','pf','pyf'),
+(258,'Polinesia Francesa','pf','pyf'),
 (616,'Polonia','pl','pol'),
 (620,'Portugal','pt','prt'),
 (630,'Puerto Rico','pr','pri'),
