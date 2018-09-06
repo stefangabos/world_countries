@@ -4,7 +4,7 @@ DROP TABLE IF EXISTS `countries`;
 
 CREATE TABLE `countries` (
   `id` int(11) NOT NULL,
-  `name` varchar(50) NOT NULL DEFAULT '',
+  `name` varchar(75) NOT NULL DEFAULT '',
   `alpha_2` char(2) NOT NULL DEFAULT '',
   `alpha_3` char(3) NOT NULL DEFAULT '',
   PRIMARY KEY (`id`)
