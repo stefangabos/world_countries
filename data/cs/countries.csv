@@ -202,6 +202,7 @@ id,name,alpha2,alpha3
 826,"Spojené království",gb,gbr
 840,"Spojené státy americké",us,usa
 688,Srbsko,rs,srb
+144,"Srí Lanka",lk,lka
 140,"Středoafrická republika",cf,caf
 729,Súdán,sd,sdn
 740,Surinam,sr,sur
@@ -218,7 +219,6 @@ id,name,alpha2,alpha3
 90,"Šalamounovy ostrovy",sb,slb
 724,Španělsko,es,esp
 744,"Špicberky a Jan Mayen",sj,sjm
-144,"Šrí Lanka",lk,lka
 752,Švédsko,se,swe
 756,Švýcarsko,ch,che
 762,Tádžikistán,tj,tjk
