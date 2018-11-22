@@ -159,7 +159,7 @@ INSERT INTO `countries` (`id`, `name`, `alpha_2`, `alpha_3`) VALUES
 (478,'Mauritanie','mr','mrt'),
 (175,'Mayotte','yt','myt'),
 (484,'Mexique','mx','mex'),
-(583,'Micronésie (pays)','fm','fsm'),
+(583,'États fédérés de Micronésie (pays)','fm','fsm'),
 (498,'Moldavie','md','mda'),
 (492,'Monaco','mc','mco'),
 (496,'Mongolie','mn','mng'),

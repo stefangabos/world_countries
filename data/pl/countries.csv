@@ -53,6 +53,7 @@ id,name,alpha2,alpha3
 218,Ekwador,ec,ecu
 232,Erytrea,er,eri
 233,Estonia,ee,est
+748,Eswatini,sz,swz
 231,Etiopia,et,eth
 238,Falklandy,fk,flk
 242,Fidżi,fj,fji
@@ -197,7 +198,6 @@ id,name,alpha2,alpha3
 706,Somalia,so,som
 144,"Sri Lanka",lk,lka
 840,"Stany Zjednoczone",us,usa
-748,Suazi,sz,swz
 729,Sudan,sd,sdn
 728,"Sudan Południowy",ss,ssd
 740,Surinam,sr,sur

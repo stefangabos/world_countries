@@ -50,7 +50,7 @@ id,name,alpha2,alpha3
 170,Colombia,co,col
 174,Comoros,km,com
 178,Congo,cg,cog
-180,"Congo (Democratic Republic of the)",cd,cod
+180,"Congo, Democratic Republic of the",cd,cod
 184,"Cook Islands",ck,cok
 188,"Costa Rica",cr,cri
 384,"Côte d'Ivoire",ci,civ
@@ -118,7 +118,7 @@ id,name,alpha2,alpha3
 404,Kenya,ke,ken
 296,Kiribati,ki,kir
 408,"Korea (Democratic People's Republic of)",kp,prk
-410,"Korea (Republic of)",kr,kor
+410,"Korea, Republic of",kr,kor
 414,Kuwait,kw,kwt
 417,Kyrgyzstan,kg,kgz
 418,"Lao People's Democratic Republic",la,lao
@@ -131,7 +131,7 @@ id,name,alpha2,alpha3
 440,Lithuania,lt,ltu
 442,Luxembourg,lu,lux
 446,Macao,mo,mac
-807,"Macedonia (the former Yugoslav Republic of)",mk,mkd
+807,"Macedonia, the former Yugoslav Republic of",mk,mkd
 450,Madagascar,mg,mdg
 454,Malawi,mw,mwi
 458,Malaysia,my,mys
@@ -145,7 +145,7 @@ id,name,alpha2,alpha3
 175,Mayotte,yt,myt
 484,Mexico,mx,mex
 583,"Micronesia (Federated States of)",fm,fsm
-498,"Moldova (Republic of)",md,mda
+498,"Moldova, Republic of",md,mda
 492,Monaco,mc,mco
 496,Mongolia,mn,mng
 499,Montenegro,me,mne
