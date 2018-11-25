@@ -11,7 +11,7 @@ Constantly updated lists of world countries, territories and areas of geographic
 In the language folders you will find files named in two different ways. Here's what you will find in each of them:
 
 |File names | Content |
-|:---:|---
+|:---:|:---
 | <a name="everything"></a>*everything.** | Files named like this contain all the **249** countries, territories, and areas of geographical interest that have an officially assigned *ISO 3166-1* code.
 | <a name="countries"></a>*countries.** | Files named like this contain **195** entries made up from the 193 sovereign states (commonly refered to as *countries*) that are members of the [United&nbsp;Nations (UN)](http://www.un.org/en/member-states/index.html) plus the 2 [observer states](https://en.wikipedia.org/wiki/United_Nations_General_Assembly_observers) of *Palestine* and the *Vatican City State*.
 
@@ -54,14 +54,14 @@ Excerpt from the `data/en/countries.sql` file:
 
 ```sql
 ...
-(250, 'France', 'fr', 'fra'),
-(254, 'French Guiana', 'gf', 'guf'),
-(258, 'French Polynesia', 'pf', 'pyf'),
-(260, 'French Southern Territories', 'tf', 'atf'),
-(266, 'Gabon', 'ga', 'gab'),
-(270, 'Gambia', 'gm', 'gmb'),
-(268, 'Georgia', 'ge', 'geo'),
-(276, 'Germany', 'de', 'deu'),
+(250,'France','fr','fra'),
+(266,'Gabon','ga','gab'),
+(270,'Gambia','gm','gmb'),
+(268,'Georgia','ge','geo'),
+(276,'Germany','de','deu'),
+(288,'Ghana','gh','gha'),
+(300,'Greece','gr','grc'),
+(308,'Grenada','gd','grd'),
 ...
 ```
 
@@ -70,13 +70,13 @@ Excerpt from the `data/en/countries.csv` file:
 ```csv
 ...
 250,France,fr,fra
-254,"French Guiana",gf,guf
-258,"French Polynesia",pf,pyf
-260,"French Southern Territories",tf,atf
 266,Gabon,ga,gab
 270,Gambia,gm,gmb
 268,Georgia,ge,geo
 276,Germany,de,deu
+288,Ghana,gh,gha
+300,Greece,gr,grc
+308,Grenada,gd,grd
 ...
 ```
 
@@ -85,13 +85,13 @@ Excerpt from the `data/en/countries.json` file:
 ```json
 ...
 {"id":250,"name":"France","alpha2":"fr","alpha3":"fra"},
-{"id":254,"name":"French Guiana","alpha2":"gf","alpha3":"guf"},
-{"id":258,"name":"French Polynesia","alpha2":"pf","alpha3":"pyf"},
-{"id":260,"name":"French Southern Territories","alpha2":"tf","alpha3":"atf"},
 {"id":266,"name":"Gabon","alpha2":"ga","alpha3":"gab"},
 {"id":270,"name":"Gambia","alpha2":"gm","alpha3":"gmb"},
 {"id":268,"name":"Georgia","alpha2":"ge","alpha3":"geo"},
 {"id":276,"name":"Germany","alpha2":"de","alpha3":"deu"},
+{"id":288,"name":"Ghana","alpha2":"gh","alpha3":"gha"},
+{"id":300,"name":"Greece","alpha2":"gr","alpha3":"grc"},
+{"id":308,"name":"Grenada","alpha2":"gd","alpha3":"grd"},
 ...
 ```
 
