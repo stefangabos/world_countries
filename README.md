@@ -6,7 +6,16 @@
 
 [![License](https://img.shields.io/github/license/stefangabos/world_countries.svg)](https://github.com/stefangabos/world_countries/blob/master/LICENSE.md)
 
-Constantly updated lists of world countries and associated *alpha-2*, *alpha-3* and *numeric codes* as defined by the **ISO 3166** standard published and maintained by the [International Organization for Standardization](https://www.iso.org/iso-3166-country-codes.html), available in `MySQL`, `JSON` and `CSV` formats, in multiple languages and with national flags included.
+Constantly updated lists of world countries, territories and areas of geographical interest, with associated *alpha-2*, *alpha-3* and *numeric codes* as defined by the *ISO 3166-1* standard, published and maintained by the [International Organization for Standardization](https://www.iso.org/iso-3166-country-codes.html), available in `MySQL`, `JSON` and `CSV` formats, in multiple languages and with national flags included.
+
+In the language folders you will find files named in two different ways. Here's what you will find in each of them:
+
+|File names | Content |
+|:---:|---
+| <a name="everything"></a>*everything.** | Files named like this contain all the **249** countries, territories, and areas of geographical interest that have an officially assigned *ISO 3166-1* code.
+| <a name="countries"></a>*countries.** | Files named like this contain **195** entries made up from the 193 sovereign states (commonly refered to as *countries*) that are members of the [United&nbsp;Nations (UN)](http://www.un.org/en/member-states/index.html) plus the 2 [observer states](https://en.wikipedia.org/wiki/United_Nations_General_Assembly_observers) of *Palestine* and the *Vatican City State*.
+
+> Note that there are 206 sovereign states in the world, the 11 states that are missing from the *countries* list being the ones having their sovereignty disputed. See the list of [sovereign states](https://en.wikipedia.org/wiki/List_of_sovereign_states) with information on their status and recognition of their sovereignty.
 
 The files contain:
 
