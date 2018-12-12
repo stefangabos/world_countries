@@ -166,7 +166,7 @@ INSERT INTO `world` (`id`, `name`, `alpha_2`, `alpha_3`) VALUES
 (499,'Monténégro','me','mne'),
 (500,'Montserrat','ms','msr'),
 (508,'Mozambique','mz','moz'),
-(104,'Birmanie','mm','mmr'),
+(104,'Myanmar','mm','mmr'),
 (516,'Namibie','na','nam'),
 (520,'Nauru','nr','nru'),
 (524,'Népal','np','npl'),

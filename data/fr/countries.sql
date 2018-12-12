@@ -133,7 +133,7 @@ INSERT INTO `countries` (`id`, `name`, `alpha_2`, `alpha_3`) VALUES
 (496,'Mongolie','mn','mng'),
 (499,'Monténégro','me','mne'),
 (508,'Mozambique','mz','moz'),
-(104,'Birmanie','mm','mmr'),
+(104,'Myanmar','mm','mmr'),
 (516,'Namibie','na','nam'),
 (520,'Nauru','nr','nru'),
 (524,'Népal','np','npl'),
