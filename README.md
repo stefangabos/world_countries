@@ -41,6 +41,7 @@ The lists are currently available in **21 languages**:
 - Japanese
 - Lithuanian
 - Norwegian
+- Nepali
 - Polish
 - Portuguese
 - Romanian
