@@ -34,6 +34,7 @@ id,name,alpha2,alpha3
 218,エクアドル,ec,ecu
 818,エジプト,eg,egy
 233,エストニア,ee,est
+748,エスワティニ,sz,swz
 231,エチオピア,et,eth
 232,エリトリア,er,eri
 222,エルサルバドル,sv,slv
@@ -54,6 +55,7 @@ id,name,alpha2,alpha3
 120,カメルーン,cm,cmr
 270,ガンビア,gm,gmb
 116,カンボジア,kh,khm
+807,北マケドニア,mk,mkd
 580,北マリアナ諸島,mp,mnp
 324,ギニア,gn,gin
 624,ギニアビサウ,gw,gnb
@@ -109,7 +111,6 @@ id,name,alpha2,alpha3
 144,スリランカ,lk,lka
 703,スロバキア,sk,svk
 705,スロベニア,si,svn
-748,スワジランド,sz,swz
 690,セーシェル,sc,syc
 226,赤道ギニア,gq,gnq
 686,セネガル,sn,sen
@@ -210,7 +211,6 @@ id,name,alpha2,alpha3
 340,ホンジュラス,hn,hnd
 584,マーシャル諸島,mh,mhl
 446,マカオ,mo,mac
-807,マケドニア旧ユーゴスラビア共和国,mk,mkd
 450,マダガスカル,mg,mdg
 175,マヨット,yt,myt
 454,マラウイ,mw,mwi

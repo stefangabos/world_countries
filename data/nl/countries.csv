@@ -96,7 +96,6 @@ id,name,alpha2,alpha3
 438,Liechtenstein,li,lie
 440,Litouwen,lt,ltu
 442,Luxemburg,lu,lux
-807,Macedonië,mk,mkd
 450,Madagaskar,mg,mdg
 454,Malawi,mw,mwi
 462,Maldiven,mv,mdv
@@ -124,6 +123,7 @@ id,name,alpha2,alpha3
 562,Niger,ne,ner
 566,Nigeria,ng,nga
 408,Noord-Korea,kp,prk
+807,Noord-Macedonië,mk,mkd
 578,Noorwegen,no,nor
 800,Oeganda,ug,uga
 804,Oekraïne,ua,ukr

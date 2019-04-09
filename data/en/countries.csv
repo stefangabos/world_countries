@@ -101,7 +101,6 @@ id,name,alpha2,alpha3
 438,Liechtenstein,li,lie
 440,Lithuania,lt,ltu
 442,Luxembourg,lu,lux
-807,"Macedonia, the former Yugoslav Republic of",mk,mkd
 450,Madagascar,mg,mdg
 454,Malawi,mw,mwi
 458,Malaysia,my,mys
@@ -128,6 +127,7 @@ id,name,alpha2,alpha3
 558,Nicaragua,ni,nic
 562,Niger,ne,ner
 566,Nigeria,ng,nga
+807,"North Macedonia",mk,mkd
 578,Norway,no,nor
 512,Oman,om,omn
 586,Pakistan,pk,pak

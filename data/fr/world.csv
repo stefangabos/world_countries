@@ -132,7 +132,7 @@ id,name,alpha2,alpha3
 440,Lituanie,lt,ltu
 442,"Luxembourg (pays)",lu,lux
 446,Macao,mo,mac
-807,"République de Macédoine (pays)",mk,mkd
+807,"Macédoine du Nord",mk,mkd
 450,Madagascar,mg,mdg
 458,Malaisie,my,mys
 454,Malawi,mw,mwi
@@ -154,7 +154,7 @@ id,name,alpha2,alpha3
 499,Monténégro,me,mne
 500,Montserrat,ms,msr
 508,Mozambique,mz,moz
-104,Myanmar,mm,mmr
+104,Birmanie,mm,mmr
 516,Namibie,na,nam
 520,Nauru,nr,nru
 524,Népal,np,npl

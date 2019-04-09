@@ -106,7 +106,6 @@ id,name,alpha2,alpha3
 584,Marshallinseln,mh,mhl
 478,Mauretanien,mr,mrt
 480,Mauritius,mu,mus
-807,Mazedonien,mk,mkd
 484,Mexiko,mx,mex
 583,Mikronesien,fm,fsm
 498,Moldau,md,mda
@@ -123,6 +122,7 @@ id,name,alpha2,alpha3
 528,Niederlande,nl,nld
 562,Niger,ne,ner
 566,Nigeria,ng,nga
+807,Nordmazedonien,mk,mkd
 578,Norwegen,no,nor
 512,Oman,om,omn
 40,Österreich,at,aut

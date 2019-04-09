@@ -129,7 +129,6 @@ id,name,alpha2,alpha3
 446,Macao,mo,mac
 450,Madagaskar,mg,mdg
 348,Maďarsko,hu,hun
-807,Makedonie,mk,mkd
 458,Malajsie,my,mys
 454,Malawi,mw,mwi
 462,Maledivy,mv,mdv
@@ -191,6 +190,7 @@ id,name,alpha2,alpha3
 682,"Saúdská Arábie",sa,sau
 686,Senegal,sn,sen
 408,"Severní Korea",kp,prk
+807,"Severní Makedonie",mk,mkd
 580,"Severní Mariany",mp,mnp
 690,Seychely,sc,syc
 694,"Sierra Leone",sl,sle

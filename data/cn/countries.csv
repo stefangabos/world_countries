@@ -12,7 +12,7 @@ id,name,alpha2,alpha3
 31,阿塞拜疆,az,aze
 44,巴哈马,bs,bhs
 48,巴林,bh,bhr
-50,孟加拉,bd,bgd
+50,孟加拉国,bd,bgd
 52,巴巴多斯,bb,brb
 112,白俄羅斯,by,blr
 56,比利時,be,bel
@@ -55,6 +55,7 @@ id,name,alpha2,alpha3
 226,赤道几内亚,gq,gnq
 232,厄立特里亚,er,eri
 233,爱沙尼亚,ee,est
+748,斯威士兰,sz,swz
 231,衣索比亞,et,eth
 242,斐济,fj,fji
 246,芬兰,fi,fin
@@ -100,7 +101,6 @@ id,name,alpha2,alpha3
 438,列支敦斯登,li,lie
 440,立陶宛,lt,ltu
 442,卢森堡,lu,lux
-807,馬其頓,mk,mkd
 450,马达加斯加,mg,mdg
 454,马拉维,mw,mwi
 458,马来西亚,my,mys
@@ -127,6 +127,7 @@ id,name,alpha2,alpha3
 558,尼加拉瓜,ni,nic
 562,尼日尔,ne,ner
 566,奈及利亞,ng,nga
+807,北馬其頓,mk,mkd
 578,挪威,no,nor
 512,阿曼,om,omn
 586,巴基斯坦,pk,pak
@@ -164,7 +165,6 @@ id,name,alpha2,alpha3
 144,斯里蘭卡,lk,lka
 729,苏丹,sd,sdn
 740,苏里南,sr,sur
-748,斯威士兰,sz,swz
 752,瑞典,se,swe
 756,瑞士,ch,che
 760,叙利亚,sy,syr

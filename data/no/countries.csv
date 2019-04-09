@@ -86,7 +86,7 @@ id,name,alpha2,alpha3
 178,"Kongo, Republikken",cg,cog
 191,Kroatia,hr,hrv
 414,Kuwait,kw,kwt
-196,"Republikken Kypros",cy,cyp
+196,Kypros,cy,cyp
 418,Laos,la,lao
 428,Latvia,lv,lva
 426,Lesotho,ls,lso
@@ -161,7 +161,7 @@ id,name,alpha2,alpha3
 740,Surinam,sr,sur
 756,Sveits,ch,che
 752,Sverige,se,swe
-748,Swaziland,sz,swz
+748,Eswatini,sz,swz
 760,Syria,sy,syr
 710,Sør-Afrika,za,zaf
 410,Sør-Korea,kr,kor

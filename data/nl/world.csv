@@ -25,7 +25,6 @@ id,name,alpha2,alpha3
 60,Bermuda,bm,bmu
 64,Bhutan,bt,btn
 68,Bolivia,bo,bol
-535,"Caribisch Nederland",bq,bes
 70,"Bosnië en Herzegovina",ba,bih
 72,Botswana,bw,bwa
 74,Bouveteiland,bv,bvt
@@ -38,6 +37,7 @@ id,name,alpha2,alpha3
 108,Burundi,bi,bdi
 116,Cambodja,kh,khm
 124,Canada,ca,can
+535,"Caribisch Nederland",bq,bes
 140,"Centraal-Afrikaanse Republiek",cf,caf
 152,Chili,cl,chl
 156,China,cn,chn
@@ -127,7 +127,6 @@ id,name,alpha2,alpha3
 440,Litouwen,lt,ltu
 442,Luxemburg,lu,lux
 446,Macau,mo,mac
-807,Macedonië,mk,mkd
 450,Madagaskar,mg,mdg
 454,Malawi,mw,mwi
 462,Maldiven,mv,mdv
@@ -162,6 +161,7 @@ id,name,alpha2,alpha3
 570,Niue,nu,niu
 580,"Noordelijke Marianen",mp,mnp
 408,Noord-Korea,kp,prk
+807,Noord-Macedonië,mk,mkd
 578,Noorwegen,no,nor
 574,Norfolk,nf,nfk
 800,Oeganda,ug,uga

@@ -112,7 +112,7 @@ INSERT INTO "countries" ("id", "name", "alpha_2", "alpha_3") VALUES
 (438,"Liechtenstein","li","lie"),
 (440,"Lituania","lt","ltu"),
 (442,"Lussemburgo","lu","lux"),
-(807,"Macedonia","mk","mkd"),
+(807,"Macedonia del Nord","mk","mkd"),
 (450,"Madagascar","mg","mdg"),
 (454,"Malawi","mw","mwi"),
 (458,"Malaysia","my","mys"),
