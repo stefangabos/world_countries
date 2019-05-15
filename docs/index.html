@@ -1,0 +1,844 @@
+
+<!doctype html>
+
+<html>
+
+    <head>
+
+        <meta charset="utf-8">
+        <meta http-equiv="X-UA-Compatible" content="IE=edge">
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+        <meta name="description" content="">
+        <link rel="shortcut icon" href="favicon.ico">
+        <title>World countries available in multiple languages, in CSV, JSON and SQL formats, with associated alpha-2, alpha-3, and numeric codes as defined by the ISO 3166 standard, and with national flags included</title>
+
+        <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css" integrity="sha384-BVYiiSIFeK1dGmJRAkycuHAHRg32OmUcww7on3RYdg4Va+PmSTsz/K68vbdEjh4u" crossorigin="anonymous">
+        <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/bootswatch/3.3.7/united/bootstrap.min.css">
+        <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/animate.css/3.7.0/animate.min.css">
+        <link rel="stylesheet" href="screen.css">
+
+        <!-- Global site tag (gtag.js) - Google Analytics -->
+        <script async src="https://www.googletagmanager.com/gtag/js?id=UA-431275-9"></script><script>window.dataLayer = window.dataLayer || [];function gtag(){dataLayer.push(arguments);}gtag('js', new Date());gtag('config', 'UA-431275-9');</script>
+
+
+    </head>
+
+    <body>
+
+        <div class="jumbotron">
+            <div class="container">
+                <h1>World countries</h1>
+                <p>available in multiple languages, in CSV, JSON and SQL formats, with associated alpha-2, alpha-3, and numeric codes as defined by the ISO 3166 standard, and with national flags included</p>
+                <hr>
+                <p>
+                    <a href="https://github.com/stefangabos/world_countries/archive/master.zip" class="btn btn-primary btn-lg" role="button" style="text-decoration: none">Download</a>
+                    <a href="https://github.com/stefangabos/world_countries/" class="btn btn-primary btn-lg" role="button" style="text-decoration: none">View on GitHub</a>
+                </p>
+            </div>
+        </div>
+
+        <div class="container">
+            <div class="row">
+                <div class="col-sm-12">
+
+                    <p>
+                        Constantly updated lists of world countries, territories and areas of geographical interest, with
+                        associated alpha-2, alpha-3 and numeric codes as defined by the ISO 3166-1 standard, published and
+                        maintained by the <a href="https://www.iso.org/iso-3166-country-codes.html">International Organization for
+                        Standardization</a>, available in CSV, JSON and SQL formats, in multiple languages and with national
+                        flags included.
+                    </p>
+
+                    <p>
+                        In the language folders you will find files named in two different ways. Here's what you will find
+                        in each of them:
+                    </p>
+
+                    <table cellspacing="0" cellpadding="0" class="table table-bordered table-striped">
+                        <thead>
+                        <tr>
+                            <th>File&nbsp;names</th>
+                            <th>Content</th>
+                        </tr>
+                        </thead>
+                        <tbody>
+                            <tr>
+                                <td>
+                                    <em>world.</em>*
+                                </td>
+                                <td>
+                                    Files named like this contain all the <strong>249</strong> countries, territories,
+                                    and areas of geographical interest that have an officially assigned <em>ISO 3166-1</em>
+                                    code.
+                                </td>
+                            </tr>
+                            <tr>
+                                <td>
+                                    <em>countries.</em>*
+                                </td>
+                                <td>
+                                    Files named like this contain <strong>195</strong> entries made up from the 193 sovereign
+                                    states (commonly refered to as <em>countries</em>) that are members of the
+                                    <a href="http://www.un.org/en/member-states/index.html" rel="nofollow">United&nbsp;Nations&nbsp;(UN)</a>
+                                    plus the 2 <a href="https://en.wikipedia.org/wiki/United_Nations_General_Assembly_observers" rel="nofollow">observer&nbsp;states</a>
+                                    of <em>Palestine</em> and the <em>Vatican City State</em>.
+                                </td>
+                            </tr>
+                        </tbody>
+                    </table>
+
+                    <blockquote>
+                        <small>
+                            Note that there are 206 sovereign states in the world, the 11 states that are missing from
+                            the <em>countries</em> list being the ones having their sovereignty disputed. See the list of
+                            <a href="https://en.wikipedia.org/wiki/List_of_sovereign_states" rel="nofollow">sovereign&nbsp;states</a>
+                            with information on their status and recognition of their sovereignty.
+                        </small>
+                    </blockquote>
+
+                    <p>
+                        The files contain:
+                    </p>
+
+                    <ul>
+                        <li>the <strong>ISO 3166-1 numeric</strong> country codes</li>
+                        <li>the <strong>ISO 3166</strong> official short names in English<sup><a href="#footnote-1">1</a></sup></li>
+                        <li>the <strong>ISO 3166-1 alpha-2</strong> two-letter country codes</li>
+                        <li>the <strong>ISO 3166-1 alpha-3</strong> three-letter country codes</li>
+                    </ul>
+
+                    <a name="footnote-1"></a><blockquote><small><sup>1</sup> for other languages the country names are in that particular language</small></blockquote>
+
+                    <p>
+                        The package also contains the national flags of each country as a 16x16, 24x24, 32x32, 48x48, 64x64
+                        and 128x128 PNG images, courtesy of <a href="http://icondrawer.com/free.php">IconDrawer</a>. The
+                        image files are named using the <em>ISO 3166-1-alpha-2</em> code of the country they represent,
+                        for easily pairing flags with countries.
+                    </p>
+
+                    <p>
+                        The lists are currently available in <strong>28 languages</strong>:
+                        Arabic, Bulgarian, Chinese, Czech, Danish, Dutch, English, Estonian, Finnish, French, German, Greek, Hungarian, Italian, Japanese, Korean, Lithuanian, Norwegian, Polish, Portuguese, Romanian, Russian, Serbian, Slovak, Spanish, Swedish, Thai, Ukrainian                    </p>
+
+                    <p>Country names in all languages are taken from <a href="https://en.wikipedia.org/wiki/ISO_3166-1">Wikipedia</a>.</p>
+
+                    <hr>
+
+                    <!-- =========================================================================================== -->
+
+                    <h2>Download</h2>
+
+                    <p>
+                        To download the entire package containing all the world countries in all the 28 languages, in all
+                        the available formats (CSV, JSON and SQL), and with flags included, use the big <strong>Download</strong>
+                        button at the <a href="#top">top</a>.
+                    </p>
+
+                    <p>
+                        Alternatively, use the form below to download world countries names in the language(s) and format(s)
+                        of your choice, with or withouht the national flags.
+                    </p>
+
+                </div>
+            </div>
+
+            <h3><strong>I.</strong> World countries, territories and areas of geographical interest</h3><br>
+
+            <div class="row">
+
+
+                <div class="col-lg-4 col-md-6 col-sm-6 col-xs-12">
+                    <div class="panel panel-default">
+                        <div class="panel-heading">
+                            <label><input type="checkbox" class="format all"><strong>Arabic</strong> (ar)</label>
+                        </div>
+                        <div class="panel-body">
+                            <table>
+                                <tbody>
+                                    <tr>
+                                        <th><label><input type="checkbox" class="format all-world">World</label></th>
+                                        <td>
+                                            <label><input type="checkbox" class="format world" name="download[]" value="ro/world.csv">CSV</label>&nbsp;
+                                            <label><input type="checkbox" class="format world" name="download[]" value="ro/world.json">JSON</label>
+                                            <label><input type="checkbox" class="format world" name="download[]" value="ro/world.sql">SQL</label>&nbsp;
+                                        </td>
+                                    </tr>
+                                    <tr>
+                                        <th><label><input type="checkbox" class="format all-countries">Countries</label></th>
+                                        <td>
+                                            <label><input type="checkbox" class="format countries" name="download[]" value="ro/countries.csv">CSV</label>&nbsp;
+                                            <label><input type="checkbox" class="format countries" name="download[]" value="ro/countries.json">JSON</label>
+                                            <label><input type="checkbox" class="format countries" name="download[]" value="ro/countries.sql">SQL</label>&nbsp;
+                                        </td>
+                                    </tr>
+                                </tbody>
+                            </table>
+                        </div>
+                    </div>
+                </div>
+
+
+                <div class="col-lg-4 col-md-6 col-sm-6 col-xs-12">
+                    <div class="panel panel-default">
+                        <div class="panel-heading">
+                            <label><input type="checkbox" class="format all"><strong>Chinese</strong> (cn)</label>
+                        </div>
+                        <div class="panel-body">
+                            <table>
+                                <tbody>
+                                    <tr>
+                                        <th><label><input type="checkbox" class="format all-world">World</label></th>
+                                        <td>
+                                            <label><input type="checkbox" class="format world" name="download[]" value="ro/world.csv">CSV</label>&nbsp;
+                                            <label><input type="checkbox" class="format world" name="download[]" value="ro/world.json">JSON</label>
+                                            <label><input type="checkbox" class="format world" name="download[]" value="ro/world.sql">SQL</label>&nbsp;
+                                        </td>
+                                    </tr>
+                                    <tr>
+                                        <th><label><input type="checkbox" class="format all-countries">Countries</label></th>
+                                        <td>
+                                            <label><input type="checkbox" class="format countries" name="download[]" value="ro/countries.csv">CSV</label>&nbsp;
+                                            <label><input type="checkbox" class="format countries" name="download[]" value="ro/countries.json">JSON</label>
+                                            <label><input type="checkbox" class="format countries" name="download[]" value="ro/countries.sql">SQL</label>&nbsp;
+                                        </td>
+                                    </tr>
+                                </tbody>
+                            </table>
+                        </div>
+                    </div>
+                </div>
+
+
+                <div class="col-lg-4 col-md-6 col-sm-6 col-xs-12">
+                    <div class="panel panel-default">
+                        <div class="panel-heading">
+                            <label><input type="checkbox" class="format all"><strong>Czech</strong> (cs)</label>
+                        </div>
+                        <div class="panel-body">
+                            <table>
+                                <tbody>
+                                    <tr>
+                                        <th><label><input type="checkbox" class="format all-world">World</label></th>
+                                        <td>
+                                            <label><input type="checkbox" class="format world" name="download[]" value="ro/world.csv">CSV</label>&nbsp;
+                                            <label><input type="checkbox" class="format world" name="download[]" value="ro/world.json">JSON</label>
+                                            <label><input type="checkbox" class="format world" name="download[]" value="ro/world.sql">SQL</label>&nbsp;
+                                        </td>
+                                    </tr>
+                                    <tr>
+                                        <th><label><input type="checkbox" class="format all-countries">Countries</label></th>
+                                        <td>
+                                            <label><input type="checkbox" class="format countries" name="download[]" value="ro/countries.csv">CSV</label>&nbsp;
+                                            <label><input type="checkbox" class="format countries" name="download[]" value="ro/countries.json">JSON</label>
+                                            <label><input type="checkbox" class="format countries" name="download[]" value="ro/countries.sql">SQL</label>&nbsp;
+                                        </td>
+                                    </tr>
+                                </tbody>
+                            </table>
+                        </div>
+                    </div>
+                </div>
+
+
+                <div class="col-lg-4 col-md-6 col-sm-6 col-xs-12">
+                    <div class="panel panel-default">
+                        <div class="panel-heading">
+                            <label><input type="checkbox" class="format all"><strong>German</strong> (de)</label>
+                        </div>
+                        <div class="panel-body">
+                            <table>
+                                <tbody>
+                                    <tr>
+                                        <th><label><input type="checkbox" class="format all-world">World</label></th>
+                                        <td>
+                                            <label><input type="checkbox" class="format world" name="download[]" value="ro/world.csv">CSV</label>&nbsp;
+                                            <label><input type="checkbox" class="format world" name="download[]" value="ro/world.json">JSON</label>
+                                            <label><input type="checkbox" class="format world" name="download[]" value="ro/world.sql">SQL</label>&nbsp;
+                                        </td>
+                                    </tr>
+                                    <tr>
+                                        <th><label><input type="checkbox" class="format all-countries">Countries</label></th>
+                                        <td>
+                                            <label><input type="checkbox" class="format countries" name="download[]" value="ro/countries.csv">CSV</label>&nbsp;
+                                            <label><input type="checkbox" class="format countries" name="download[]" value="ro/countries.json">JSON</label>
+                                            <label><input type="checkbox" class="format countries" name="download[]" value="ro/countries.sql">SQL</label>&nbsp;
+                                        </td>
+                                    </tr>
+                                </tbody>
+                            </table>
+                        </div>
+                    </div>
+                </div>
+
+
+                <div class="col-lg-4 col-md-6 col-sm-6 col-xs-12">
+                    <div class="panel panel-default">
+                        <div class="panel-heading">
+                            <label><input type="checkbox" class="format all"><strong>Greek</strong> (el)</label>
+                        </div>
+                        <div class="panel-body">
+                            <table>
+                                <tbody>
+                                    <tr>
+                                        <th><label><input type="checkbox" class="format all-world">World</label></th>
+                                        <td>
+                                            <label><input type="checkbox" class="format world" name="download[]" value="ro/world.csv">CSV</label>&nbsp;
+                                            <label><input type="checkbox" class="format world" name="download[]" value="ro/world.json">JSON</label>
+                                            <label><input type="checkbox" class="format world" name="download[]" value="ro/world.sql">SQL</label>&nbsp;
+                                        </td>
+                                    </tr>
+                                    <tr>
+                                        <th><label><input type="checkbox" class="format all-countries">Countries</label></th>
+                                        <td>
+                                            <label><input type="checkbox" class="format countries" name="download[]" value="ro/countries.csv">CSV</label>&nbsp;
+                                            <label><input type="checkbox" class="format countries" name="download[]" value="ro/countries.json">JSON</label>
+                                            <label><input type="checkbox" class="format countries" name="download[]" value="ro/countries.sql">SQL</label>&nbsp;
+                                        </td>
+                                    </tr>
+                                </tbody>
+                            </table>
+                        </div>
+                    </div>
+                </div>
+
+
+                <div class="col-lg-4 col-md-6 col-sm-6 col-xs-12">
+                    <div class="panel panel-default">
+                        <div class="panel-heading">
+                            <label><input type="checkbox" class="format all"><strong>English</strong> (en)</label>
+                        </div>
+                        <div class="panel-body">
+                            <table>
+                                <tbody>
+                                    <tr>
+                                        <th><label><input type="checkbox" class="format all-world">World</label></th>
+                                        <td>
+                                            <label><input type="checkbox" class="format world" name="download[]" value="ro/world.csv">CSV</label>&nbsp;
+                                            <label><input type="checkbox" class="format world" name="download[]" value="ro/world.json">JSON</label>
+                                            <label><input type="checkbox" class="format world" name="download[]" value="ro/world.sql">SQL</label>&nbsp;
+                                        </td>
+                                    </tr>
+                                    <tr>
+                                        <th><label><input type="checkbox" class="format all-countries">Countries</label></th>
+                                        <td>
+                                            <label><input type="checkbox" class="format countries" name="download[]" value="ro/countries.csv">CSV</label>&nbsp;
+                                            <label><input type="checkbox" class="format countries" name="download[]" value="ro/countries.json">JSON</label>
+                                            <label><input type="checkbox" class="format countries" name="download[]" value="ro/countries.sql">SQL</label>&nbsp;
+                                        </td>
+                                    </tr>
+                                </tbody>
+                            </table>
+                        </div>
+                    </div>
+                </div>
+
+
+                <div class="col-lg-4 col-md-6 col-sm-6 col-xs-12">
+                    <div class="panel panel-default">
+                        <div class="panel-heading">
+                            <label><input type="checkbox" class="format all"><strong>Spanish</strong> (es)</label>
+                        </div>
+                        <div class="panel-body">
+                            <table>
+                                <tbody>
+                                    <tr>
+                                        <th><label><input type="checkbox" class="format all-world">World</label></th>
+                                        <td>
+                                            <label><input type="checkbox" class="format world" name="download[]" value="ro/world.csv">CSV</label>&nbsp;
+                                            <label><input type="checkbox" class="format world" name="download[]" value="ro/world.json">JSON</label>
+                                            <label><input type="checkbox" class="format world" name="download[]" value="ro/world.sql">SQL</label>&nbsp;
+                                        </td>
+                                    </tr>
+                                    <tr>
+                                        <th><label><input type="checkbox" class="format all-countries">Countries</label></th>
+                                        <td>
+                                            <label><input type="checkbox" class="format countries" name="download[]" value="ro/countries.csv">CSV</label>&nbsp;
+                                            <label><input type="checkbox" class="format countries" name="download[]" value="ro/countries.json">JSON</label>
+                                            <label><input type="checkbox" class="format countries" name="download[]" value="ro/countries.sql">SQL</label>&nbsp;
+                                        </td>
+                                    </tr>
+                                </tbody>
+                            </table>
+                        </div>
+                    </div>
+                </div>
+
+
+                <div class="col-lg-4 col-md-6 col-sm-6 col-xs-12">
+                    <div class="panel panel-default">
+                        <div class="panel-heading">
+                            <label><input type="checkbox" class="format all"><strong>French</strong> (fr)</label>
+                        </div>
+                        <div class="panel-body">
+                            <table>
+                                <tbody>
+                                    <tr>
+                                        <th><label><input type="checkbox" class="format all-world">World</label></th>
+                                        <td>
+                                            <label><input type="checkbox" class="format world" name="download[]" value="ro/world.csv">CSV</label>&nbsp;
+                                            <label><input type="checkbox" class="format world" name="download[]" value="ro/world.json">JSON</label>
+                                            <label><input type="checkbox" class="format world" name="download[]" value="ro/world.sql">SQL</label>&nbsp;
+                                        </td>
+                                    </tr>
+                                    <tr>
+                                        <th><label><input type="checkbox" class="format all-countries">Countries</label></th>
+                                        <td>
+                                            <label><input type="checkbox" class="format countries" name="download[]" value="ro/countries.csv">CSV</label>&nbsp;
+                                            <label><input type="checkbox" class="format countries" name="download[]" value="ro/countries.json">JSON</label>
+                                            <label><input type="checkbox" class="format countries" name="download[]" value="ro/countries.sql">SQL</label>&nbsp;
+                                        </td>
+                                    </tr>
+                                </tbody>
+                            </table>
+                        </div>
+                    </div>
+                </div>
+
+
+                <div class="col-lg-4 col-md-6 col-sm-6 col-xs-12">
+                    <div class="panel panel-default">
+                        <div class="panel-heading">
+                            <label><input type="checkbox" class="format all"><strong>Hungarian</strong> (hu)</label>
+                        </div>
+                        <div class="panel-body">
+                            <table>
+                                <tbody>
+                                    <tr>
+                                        <th><label><input type="checkbox" class="format all-world">World</label></th>
+                                        <td>
+                                            <label><input type="checkbox" class="format world" name="download[]" value="ro/world.csv">CSV</label>&nbsp;
+                                            <label><input type="checkbox" class="format world" name="download[]" value="ro/world.json">JSON</label>
+                                            <label><input type="checkbox" class="format world" name="download[]" value="ro/world.sql">SQL</label>&nbsp;
+                                        </td>
+                                    </tr>
+                                    <tr>
+                                        <th><label><input type="checkbox" class="format all-countries">Countries</label></th>
+                                        <td>
+                                            <label><input type="checkbox" class="format countries" name="download[]" value="ro/countries.csv">CSV</label>&nbsp;
+                                            <label><input type="checkbox" class="format countries" name="download[]" value="ro/countries.json">JSON</label>
+                                            <label><input type="checkbox" class="format countries" name="download[]" value="ro/countries.sql">SQL</label>&nbsp;
+                                        </td>
+                                    </tr>
+                                </tbody>
+                            </table>
+                        </div>
+                    </div>
+                </div>
+
+
+                <div class="col-lg-4 col-md-6 col-sm-6 col-xs-12">
+                    <div class="panel panel-default">
+                        <div class="panel-heading">
+                            <label><input type="checkbox" class="format all"><strong>Italian</strong> (it)</label>
+                        </div>
+                        <div class="panel-body">
+                            <table>
+                                <tbody>
+                                    <tr>
+                                        <th><label><input type="checkbox" class="format all-world">World</label></th>
+                                        <td>
+                                            <label><input type="checkbox" class="format world" name="download[]" value="ro/world.csv">CSV</label>&nbsp;
+                                            <label><input type="checkbox" class="format world" name="download[]" value="ro/world.json">JSON</label>
+                                            <label><input type="checkbox" class="format world" name="download[]" value="ro/world.sql">SQL</label>&nbsp;
+                                        </td>
+                                    </tr>
+                                    <tr>
+                                        <th><label><input type="checkbox" class="format all-countries">Countries</label></th>
+                                        <td>
+                                            <label><input type="checkbox" class="format countries" name="download[]" value="ro/countries.csv">CSV</label>&nbsp;
+                                            <label><input type="checkbox" class="format countries" name="download[]" value="ro/countries.json">JSON</label>
+                                            <label><input type="checkbox" class="format countries" name="download[]" value="ro/countries.sql">SQL</label>&nbsp;
+                                        </td>
+                                    </tr>
+                                </tbody>
+                            </table>
+                        </div>
+                    </div>
+                </div>
+
+
+                <div class="col-lg-4 col-md-6 col-sm-6 col-xs-12">
+                    <div class="panel panel-default">
+                        <div class="panel-heading">
+                            <label><input type="checkbox" class="format all"><strong>Japanese</strong> (ja)</label>
+                        </div>
+                        <div class="panel-body">
+                            <table>
+                                <tbody>
+                                    <tr>
+                                        <th><label><input type="checkbox" class="format all-world">World</label></th>
+                                        <td>
+                                            <label><input type="checkbox" class="format world" name="download[]" value="ro/world.csv">CSV</label>&nbsp;
+                                            <label><input type="checkbox" class="format world" name="download[]" value="ro/world.json">JSON</label>
+                                            <label><input type="checkbox" class="format world" name="download[]" value="ro/world.sql">SQL</label>&nbsp;
+                                        </td>
+                                    </tr>
+                                    <tr>
+                                        <th><label><input type="checkbox" class="format all-countries">Countries</label></th>
+                                        <td>
+                                            <label><input type="checkbox" class="format countries" name="download[]" value="ro/countries.csv">CSV</label>&nbsp;
+                                            <label><input type="checkbox" class="format countries" name="download[]" value="ro/countries.json">JSON</label>
+                                            <label><input type="checkbox" class="format countries" name="download[]" value="ro/countries.sql">SQL</label>&nbsp;
+                                        </td>
+                                    </tr>
+                                </tbody>
+                            </table>
+                        </div>
+                    </div>
+                </div>
+
+
+                <div class="col-lg-4 col-md-6 col-sm-6 col-xs-12">
+                    <div class="panel panel-default">
+                        <div class="panel-heading">
+                            <label><input type="checkbox" class="format all"><strong>Lithuanian</strong> (lt)</label>
+                        </div>
+                        <div class="panel-body">
+                            <table>
+                                <tbody>
+                                    <tr>
+                                        <th><label><input type="checkbox" class="format all-world">World</label></th>
+                                        <td>
+                                            <label><input type="checkbox" class="format world" name="download[]" value="ro/world.csv">CSV</label>&nbsp;
+                                            <label><input type="checkbox" class="format world" name="download[]" value="ro/world.json">JSON</label>
+                                            <label><input type="checkbox" class="format world" name="download[]" value="ro/world.sql">SQL</label>&nbsp;
+                                        </td>
+                                    </tr>
+                                    <tr>
+                                        <th><label><input type="checkbox" class="format all-countries">Countries</label></th>
+                                        <td>
+                                            <label><input type="checkbox" class="format countries" name="download[]" value="ro/countries.csv">CSV</label>&nbsp;
+                                            <label><input type="checkbox" class="format countries" name="download[]" value="ro/countries.json">JSON</label>
+                                            <label><input type="checkbox" class="format countries" name="download[]" value="ro/countries.sql">SQL</label>&nbsp;
+                                        </td>
+                                    </tr>
+                                </tbody>
+                            </table>
+                        </div>
+                    </div>
+                </div>
+
+
+                <div class="col-lg-4 col-md-6 col-sm-6 col-xs-12">
+                    <div class="panel panel-default">
+                        <div class="panel-heading">
+                            <label><input type="checkbox" class="format all"><strong>Dutch</strong> (nl)</label>
+                        </div>
+                        <div class="panel-body">
+                            <table>
+                                <tbody>
+                                    <tr>
+                                        <th><label><input type="checkbox" class="format all-world">World</label></th>
+                                        <td>
+                                            <label><input type="checkbox" class="format world" name="download[]" value="ro/world.csv">CSV</label>&nbsp;
+                                            <label><input type="checkbox" class="format world" name="download[]" value="ro/world.json">JSON</label>
+                                            <label><input type="checkbox" class="format world" name="download[]" value="ro/world.sql">SQL</label>&nbsp;
+                                        </td>
+                                    </tr>
+                                    <tr>
+                                        <th><label><input type="checkbox" class="format all-countries">Countries</label></th>
+                                        <td>
+                                            <label><input type="checkbox" class="format countries" name="download[]" value="ro/countries.csv">CSV</label>&nbsp;
+                                            <label><input type="checkbox" class="format countries" name="download[]" value="ro/countries.json">JSON</label>
+                                            <label><input type="checkbox" class="format countries" name="download[]" value="ro/countries.sql">SQL</label>&nbsp;
+                                        </td>
+                                    </tr>
+                                </tbody>
+                            </table>
+                        </div>
+                    </div>
+                </div>
+
+
+                <div class="col-lg-4 col-md-6 col-sm-6 col-xs-12">
+                    <div class="panel panel-default">
+                        <div class="panel-heading">
+                            <label><input type="checkbox" class="format all"><strong>Norwegian</strong> (no)</label>
+                        </div>
+                        <div class="panel-body">
+                            <table>
+                                <tbody>
+                                    <tr>
+                                        <th><label><input type="checkbox" class="format all-world">World</label></th>
+                                        <td>
+                                            <label><input type="checkbox" class="format world" name="download[]" value="ro/world.csv">CSV</label>&nbsp;
+                                            <label><input type="checkbox" class="format world" name="download[]" value="ro/world.json">JSON</label>
+                                            <label><input type="checkbox" class="format world" name="download[]" value="ro/world.sql">SQL</label>&nbsp;
+                                        </td>
+                                    </tr>
+                                    <tr>
+                                        <th><label><input type="checkbox" class="format all-countries">Countries</label></th>
+                                        <td>
+                                            <label><input type="checkbox" class="format countries" name="download[]" value="ro/countries.csv">CSV</label>&nbsp;
+                                            <label><input type="checkbox" class="format countries" name="download[]" value="ro/countries.json">JSON</label>
+                                            <label><input type="checkbox" class="format countries" name="download[]" value="ro/countries.sql">SQL</label>&nbsp;
+                                        </td>
+                                    </tr>
+                                </tbody>
+                            </table>
+                        </div>
+                    </div>
+                </div>
+
+
+                <div class="col-lg-4 col-md-6 col-sm-6 col-xs-12">
+                    <div class="panel panel-default">
+                        <div class="panel-heading">
+                            <label><input type="checkbox" class="format all"><strong>Polish</strong> (pl)</label>
+                        </div>
+                        <div class="panel-body">
+                            <table>
+                                <tbody>
+                                    <tr>
+                                        <th><label><input type="checkbox" class="format all-world">World</label></th>
+                                        <td>
+                                            <label><input type="checkbox" class="format world" name="download[]" value="ro/world.csv">CSV</label>&nbsp;
+                                            <label><input type="checkbox" class="format world" name="download[]" value="ro/world.json">JSON</label>
+                                            <label><input type="checkbox" class="format world" name="download[]" value="ro/world.sql">SQL</label>&nbsp;
+                                        </td>
+                                    </tr>
+                                    <tr>
+                                        <th><label><input type="checkbox" class="format all-countries">Countries</label></th>
+                                        <td>
+                                            <label><input type="checkbox" class="format countries" name="download[]" value="ro/countries.csv">CSV</label>&nbsp;
+                                            <label><input type="checkbox" class="format countries" name="download[]" value="ro/countries.json">JSON</label>
+                                            <label><input type="checkbox" class="format countries" name="download[]" value="ro/countries.sql">SQL</label>&nbsp;
+                                        </td>
+                                    </tr>
+                                </tbody>
+                            </table>
+                        </div>
+                    </div>
+                </div>
+
+
+                <div class="col-lg-4 col-md-6 col-sm-6 col-xs-12">
+                    <div class="panel panel-default">
+                        <div class="panel-heading">
+                            <label><input type="checkbox" class="format all"><strong>Portuguese</strong> (pt)</label>
+                        </div>
+                        <div class="panel-body">
+                            <table>
+                                <tbody>
+                                    <tr>
+                                        <th><label><input type="checkbox" class="format all-world">World</label></th>
+                                        <td>
+                                            <label><input type="checkbox" class="format world" name="download[]" value="ro/world.csv">CSV</label>&nbsp;
+                                            <label><input type="checkbox" class="format world" name="download[]" value="ro/world.json">JSON</label>
+                                            <label><input type="checkbox" class="format world" name="download[]" value="ro/world.sql">SQL</label>&nbsp;
+                                        </td>
+                                    </tr>
+                                    <tr>
+                                        <th><label><input type="checkbox" class="format all-countries">Countries</label></th>
+                                        <td>
+                                            <label><input type="checkbox" class="format countries" name="download[]" value="ro/countries.csv">CSV</label>&nbsp;
+                                            <label><input type="checkbox" class="format countries" name="download[]" value="ro/countries.json">JSON</label>
+                                            <label><input type="checkbox" class="format countries" name="download[]" value="ro/countries.sql">SQL</label>&nbsp;
+                                        </td>
+                                    </tr>
+                                </tbody>
+                            </table>
+                        </div>
+                    </div>
+                </div>
+
+
+                <div class="col-lg-4 col-md-6 col-sm-6 col-xs-12">
+                    <div class="panel panel-default">
+                        <div class="panel-heading">
+                            <label><input type="checkbox" class="format all"><strong>Romanian</strong> (ro)</label>
+                        </div>
+                        <div class="panel-body">
+                            <table>
+                                <tbody>
+                                    <tr>
+                                        <th><label><input type="checkbox" class="format all-world">World</label></th>
+                                        <td>
+                                            <label><input type="checkbox" class="format world" name="download[]" value="ro/world.csv">CSV</label>&nbsp;
+                                            <label><input type="checkbox" class="format world" name="download[]" value="ro/world.json">JSON</label>
+                                            <label><input type="checkbox" class="format world" name="download[]" value="ro/world.sql">SQL</label>&nbsp;
+                                        </td>
+                                    </tr>
+                                    <tr>
+                                        <th><label><input type="checkbox" class="format all-countries">Countries</label></th>
+                                        <td>
+                                            <label><input type="checkbox" class="format countries" name="download[]" value="ro/countries.csv">CSV</label>&nbsp;
+                                            <label><input type="checkbox" class="format countries" name="download[]" value="ro/countries.json">JSON</label>
+                                            <label><input type="checkbox" class="format countries" name="download[]" value="ro/countries.sql">SQL</label>&nbsp;
+                                        </td>
+                                    </tr>
+                                </tbody>
+                            </table>
+                        </div>
+                    </div>
+                </div>
+
+
+                <div class="col-lg-4 col-md-6 col-sm-6 col-xs-12">
+                    <div class="panel panel-default">
+                        <div class="panel-heading">
+                            <label><input type="checkbox" class="format all"><strong>Russian</strong> (ru)</label>
+                        </div>
+                        <div class="panel-body">
+                            <table>
+                                <tbody>
+                                    <tr>
+                                        <th><label><input type="checkbox" class="format all-world">World</label></th>
+                                        <td>
+                                            <label><input type="checkbox" class="format world" name="download[]" value="ro/world.csv">CSV</label>&nbsp;
+                                            <label><input type="checkbox" class="format world" name="download[]" value="ro/world.json">JSON</label>
+                                            <label><input type="checkbox" class="format world" name="download[]" value="ro/world.sql">SQL</label>&nbsp;
+                                        </td>
+                                    </tr>
+                                    <tr>
+                                        <th><label><input type="checkbox" class="format all-countries">Countries</label></th>
+                                        <td>
+                                            <label><input type="checkbox" class="format countries" name="download[]" value="ro/countries.csv">CSV</label>&nbsp;
+                                            <label><input type="checkbox" class="format countries" name="download[]" value="ro/countries.json">JSON</label>
+                                            <label><input type="checkbox" class="format countries" name="download[]" value="ro/countries.sql">SQL</label>&nbsp;
+                                        </td>
+                                    </tr>
+                                </tbody>
+                            </table>
+                        </div>
+                    </div>
+                </div>
+
+
+                <div class="col-lg-4 col-md-6 col-sm-6 col-xs-12">
+                    <div class="panel panel-default">
+                        <div class="panel-heading">
+                            <label><input type="checkbox" class="format all"><strong>Slovak</strong> (sk)</label>
+                        </div>
+                        <div class="panel-body">
+                            <table>
+                                <tbody>
+                                    <tr>
+                                        <th><label><input type="checkbox" class="format all-world">World</label></th>
+                                        <td>
+                                            <label><input type="checkbox" class="format world" name="download[]" value="ro/world.csv">CSV</label>&nbsp;
+                                            <label><input type="checkbox" class="format world" name="download[]" value="ro/world.json">JSON</label>
+                                            <label><input type="checkbox" class="format world" name="download[]" value="ro/world.sql">SQL</label>&nbsp;
+                                        </td>
+                                    </tr>
+                                    <tr>
+                                        <th><label><input type="checkbox" class="format all-countries">Countries</label></th>
+                                        <td>
+                                            <label><input type="checkbox" class="format countries" name="download[]" value="ro/countries.csv">CSV</label>&nbsp;
+                                            <label><input type="checkbox" class="format countries" name="download[]" value="ro/countries.json">JSON</label>
+                                            <label><input type="checkbox" class="format countries" name="download[]" value="ro/countries.sql">SQL</label>&nbsp;
+                                        </td>
+                                    </tr>
+                                </tbody>
+                            </table>
+                        </div>
+                    </div>
+                </div>
+
+
+                <div class="col-lg-4 col-md-6 col-sm-6 col-xs-12">
+                    <div class="panel panel-default">
+                        <div class="panel-heading">
+                            <label><input type="checkbox" class="format all"><strong>Thai</strong> (th)</label>
+                        </div>
+                        <div class="panel-body">
+                            <table>
+                                <tbody>
+                                    <tr>
+                                        <th><label><input type="checkbox" class="format all-world">World</label></th>
+                                        <td>
+                                            <label><input type="checkbox" class="format world" name="download[]" value="ro/world.csv">CSV</label>&nbsp;
+                                            <label><input type="checkbox" class="format world" name="download[]" value="ro/world.json">JSON</label>
+                                            <label><input type="checkbox" class="format world" name="download[]" value="ro/world.sql">SQL</label>&nbsp;
+                                        </td>
+                                    </tr>
+                                    <tr>
+                                        <th><label><input type="checkbox" class="format all-countries">Countries</label></th>
+                                        <td>
+                                            <label><input type="checkbox" class="format countries" name="download[]" value="ro/countries.csv">CSV</label>&nbsp;
+                                            <label><input type="checkbox" class="format countries" name="download[]" value="ro/countries.json">JSON</label>
+                                            <label><input type="checkbox" class="format countries" name="download[]" value="ro/countries.sql">SQL</label>&nbsp;
+                                        </td>
+                                    </tr>
+                                </tbody>
+                            </table>
+                        </div>
+                    </div>
+                </div>
+
+
+                <div class="col-lg-4 col-md-6 col-sm-6 col-xs-12">
+                    <div class="panel panel-default">
+                        <div class="panel-heading">
+                            <label><input type="checkbox" class="format all"><strong>Ukrainian</strong> (uk)</label>
+                        </div>
+                        <div class="panel-body">
+                            <table>
+                                <tbody>
+                                    <tr>
+                                        <th><label><input type="checkbox" class="format all-world">World</label></th>
+                                        <td>
+                                            <label><input type="checkbox" class="format world" name="download[]" value="ro/world.csv">CSV</label>&nbsp;
+                                            <label><input type="checkbox" class="format world" name="download[]" value="ro/world.json">JSON</label>
+                                            <label><input type="checkbox" class="format world" name="download[]" value="ro/world.sql">SQL</label>&nbsp;
+                                        </td>
+                                    </tr>
+                                    <tr>
+                                        <th><label><input type="checkbox" class="format all-countries">Countries</label></th>
+                                        <td>
+                                            <label><input type="checkbox" class="format countries" name="download[]" value="ro/countries.csv">CSV</label>&nbsp;
+                                            <label><input type="checkbox" class="format countries" name="download[]" value="ro/countries.json">JSON</label>
+                                            <label><input type="checkbox" class="format countries" name="download[]" value="ro/countries.sql">SQL</label>&nbsp;
+                                        </td>
+                                    </tr>
+                                </tbody>
+                            </table>
+                        </div>
+                    </div>
+                </div>
+
+
+            </div>
+
+            <h3><strong>II.</strong> Flags</h3><br>
+
+            <div class="row">
+                <div class="col-lg-4 col-md-6 col-sm-6 col-xs-12">
+                    <div class="panel panel-default">
+                        <div class="panel-heading">
+                            <label><input type="checkbox" class="format all-flags"><strong>Flags</strong></label>
+                        </div>
+                        <div class="panel-body">
+                            <label><input type="checkbox" class="format flags" name="download[]" value="flags/16x16">16x16</label>&nbsp;
+                            <label><input type="checkbox" class="format flags" name="download[]" value="flags/24x24">24x24</label>&nbsp;
+                            <label><input type="checkbox" class="format flags" name="download[]" value="flags/32x32">32x32</label>&nbsp;
+                            <label><input type="checkbox" class="format flags" name="download[]" value="flags/64x64">64x64</label>&nbsp;
+                            <label><input type="checkbox" class="format flags" name="download[]" value="flags/128x128">128x128</label>&nbsp;
+                        </div>
+                    </div>
+                </div>
+            </div>
+
+            <div class="row">
+                <div class="col-sm-12">
+                    <input type="submit" name="download" id="download" value="Download" class="btn btn-primary disabled">
+                </div>
+            </div>
+
+            <a href="#top" class="pull-right clearfix top small">To the top</a>
+
+            <hr>
+
+            <p class="text-center">this page uses <a href="https://github.com/Stuk/jszip/">jszip</a> for generating the zip files and <a href="https://github.com/eligrey/FileSaver.js/">FileSaver.js</a> for saving files on the client side</p>
+            <p class="text-center">copyright &copy; 2016 - 2019 <a href="https://github.com/stefangabos/">stefan gabos</a></p>
+
+        </div>
+
+        <script src="https://code.jquery.com/jquery-3.3.1.min.js"></script>
+        <script src="https://cdn.jsdelivr.net/npm/filesaver.js@0.1.0/FileSaver.js"></script>
+        <script src="https://cdn.jsdelivr.net/npm/jszip@3.1.5/dist/jszip.min.js"></script>
+        <script src="application.js"></script>
+
+    </body>
+
+</html>
