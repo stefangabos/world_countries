@@ -2,11 +2,11 @@
 
 # World countries &nbsp;[![Tweet](https://img.shields.io/twitter/url/http/shields.io.svg?style=social)](https://twitter.com/intent/tweet?text=Constantly%20updated%20lists%20of%20world%20countries%20and%20their%20ISO%203166%20codes,%20available%20in%20MySQL,%20JSON%20and%20CSV%20formats,%20in%20multiple%20languages%20and%20with%20national%20flags%20included&url=https://github.com/stefangabos/world_countries&via=stefangabos&hashtags=countries,flags,iso-3166)
 
-*available in multiple languages, in SQL, JSON and CSV formats, with associated codes as defined by the ISO 3166 standard, and with national flags included*
+*available in multiple languages, in CSV, JSON and SQL formats, with associated codes as defined by the ISO 3166 standard, and with national flags included*
 
 [![License](https://img.shields.io/github/license/stefangabos/world_countries.svg)](https://github.com/stefangabos/world_countries/blob/master/LICENSE.md)
 
-Constantly updated lists of world countries, territories and areas of geographical interest, with associated *alpha-2*, *alpha-3* and *numeric codes* as defined by the *ISO 3166-1* standard, published and maintained by the [International Organization for Standardization](https://www.iso.org/iso-3166-country-codes.html), available in `MySQL`, `JSON` and `CSV` formats, in multiple languages and with national flags included.
+Constantly updated lists of world countries, territories and areas of geographical interest, with associated *alpha-2*, *alpha-3* and *numeric codes* as defined by the *ISO 3166-1* standard, published and maintained by the [International Organization for Standardization](https://www.iso.org/iso-3166-country-codes.html), available in `CSV`, `JSON` and `SQL` formats, in multiple languages and with national flags included.
 
 In the language folders you will find files named in two different ways. Here's what you will find in each of them:
 
@@ -94,6 +94,8 @@ Excerpt from the `data/en/countries.json` file:
 {"id":308,"name":"Grenada","alpha2":"gd","alpha3":"grd"},
 ...
 ```
+
+You probably don't want to download the lists in all languages so go ahead and [download your customized build](http://stefangabos.github.io/world_countries/).
 
 The package also contains the national flags of each country as a 16x16, 24x24, 32x32, 48x48, 64x64 and 128x128 PNG images, courtesy of [IconDrawer](http://icondrawer.com/free.php). The image files are named using the ISO 3166-1-alpha-2 code of the country they represent, for easily pairing flags with countries.
 
