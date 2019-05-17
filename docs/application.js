@@ -117,7 +117,7 @@ $(document).ready(function() {
                     clearInterval(timeout);
 
                     zip.generateAsync({type: 'blob'}).then(function(content) {
-                        saveAs(content, 'example.zip');
+                        saveAs(content, 'world-countries.zip');
                     });
 
                 }
