@@ -1,6 +1,10 @@
 # Auto detect text files and perform LF normalization
 * text=auto
 
+# don't count these when determining main language used in repo
+data/* linguist-vendored
+flags/* linguist-vendored
+
 # Don't include these files when users download a release
 docs/ export-ignore
 .gitattributes export-ignore
