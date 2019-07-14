@@ -26,13 +26,14 @@ The files contain:
 
 <small><a name="footnote"><sup>1</sup></a> for other languages the country names are in that particular language</small>
 
-The lists are currently available in **21 languages**:
+The lists are currently available in **22 languages**:
 
 - Arabic
 - Chinese
 - Czech
 - Dutch
 - English
+- Estonian
 - French
 - German
 - Greek
