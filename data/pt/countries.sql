@@ -69,7 +69,7 @@ INSERT INTO "countries" ("id", "name", "alpha_2", "alpha_3") VALUES
 (214,"República Dominicana","do","dom"),
 (818,"Egito","eg","egy"),
 (222,"El Salvador","sv","slv"),
-(784,"Emirados Árabes","ae","are"),
+(784,"Emirados Árabes Unidos","ae","are"),
 (218,"Equador","ec","ecu"),
 (232,"Eritreia","er","eri"),
 (703,"Eslováquia","sk","svk"),
