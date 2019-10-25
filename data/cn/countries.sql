@@ -71,7 +71,7 @@ INSERT INTO "countries" ("id", "name", "alpha_2", "alpha_3") VALUES
 (231,"衣索比亞","et","eth"),
 (242,"斐济","fj","fji"),
 (246,"芬兰","fi","fin"),
-(250,"法国","fr","fra"),
+(250,"法國","fr","fra"),
 (266,"加彭","ga","gab"),
 (270,"冈比亚","gm","gmb"),
 (268,"格鲁吉亚","ge","geo"),
