@@ -77,9 +77,10 @@ $(document).ready(function() {
         var zip = new JSZip(),
             items_to_download = $('input[type="checkbox"]:checked').not('.all-flags').not('.all-countries').not('.all-world').not('.all'),
             items_processed = 0,
+            total_downloads = $(items_to_download).length - $(items_to_download).filter('.flags').length + ($(items_to_download).filter('.flags').length * flags.length),
             timeout;
 
-        if (items_to_download.length) {
+        if (total_downloads) {
 
             items_to_download.each(function() {
 
@@ -94,17 +95,17 @@ $(document).ready(function() {
                         flags.forEach(function(flag) {
                             $.get('https://cdn.jsdelivr.net/gh/stefangabos/world_countries/flags/' + path[1] + '/' + flag + '.png', function(result) {
                                 zip.folder('flags/' + path[1]).file(flag + '.png', result);
+                                items_processed++;
                             });
                         });
 
-                        items_processed++;
 
                     } else
 
                         $.get('https://cdn.jsdelivr.net/gh/stefangabos/world_countries/data/' + path[0] + '/' + path[1], function(result) {
                             zip.folder('data/' + path[0]).file(path[1], result);
                             items_processed++;
-                        });
+                        }, 'text');
 
                 }
 
@@ -112,7 +113,7 @@ $(document).ready(function() {
 
             timeout = setInterval(function() {
 
-                if (items_processed == items_to_download.length) {
+                if (items_processed == total_downloads) {
 
                     clearInterval(timeout);
 
