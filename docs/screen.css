@@ -37,6 +37,9 @@ input.format {
 }
 
 .panel th {
-    padding-right: 10px;
     font-weight: normal;
+}
+
+.panel-body {
+    padding: 15px 10px;
 }
