@@ -55,6 +55,7 @@ id,name,alpha2,alpha3
 222,"El Salvador",sv,slv
 232,Eritrea,er,eri
 233,Estland,ee,est
+748,Swasiland,sz,swz
 238,Falklandinseln,fk,flk
 234,Färöer,fo,fro
 242,Fidschi,fj,fji
@@ -213,7 +214,6 @@ id,name,alpha2,alpha3
 728,Südsudan,ss,ssd
 740,Suriname,sr,sur
 744,"Svalbard und Jan Mayen",sj,sjm
-748,Swasiland,sz,swz
 760,Syrien,sy,syr
 762,Tadschikistan,tj,tjk
 158,"Republik China",tw,twn

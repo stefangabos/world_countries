@@ -181,7 +181,7 @@ INSERT INTO "countries" ("id", "name", "alpha_2", "alpha_3") VALUES
 (752,"Suède","se","swe"),
 (756,"Suisse","ch","che"),
 (740,"Suriname","sr","sur"),
-(748,"Swaziland","sz","swz"),
+(748,"Eswatini","sz","swz"),
 (760,"Syrie","sy","syr"),
 (762,"Tadjikistan","tj","tjk"),
 (834,"Tanzanie","tz","tza"),

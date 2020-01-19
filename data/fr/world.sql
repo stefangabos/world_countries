@@ -232,7 +232,7 @@ INSERT INTO "world" ("id", "name", "alpha_2", "alpha_3") VALUES
 (756,"Suisse","ch","che"),
 (740,"Suriname","sr","sur"),
 (744,"Svalbard et ile Jan Mayen","sj","sjm"),
-(748,"Swaziland","sz","swz"),
+(748,"Eswatini","sz","swz"),
 (760,"Syrie","sy","syr"),
 (762,"Tadjikistan","tj","tjk"),
 (158,"Taïwan / (République de Chine (Taïwan))","tw","twn"),
