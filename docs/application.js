@@ -18,8 +18,8 @@ $(document).ready(function() {
 
         toggle_element = function($container) {
 
-            var all_world = $('.world:checked', $container).length === 3,
-                all_countries = $('.countries:checked', $container).length === 3,
+            var all_world = $('.world:checked', $container).length === 4,
+                all_countries = $('.countries:checked', $container).length === 4,
                 all_flags = $('.flags:checked', $container).length === 5,
                 any_world = $('.world:checked', $container).length > 0,
                 any_countries = $('.countries:checked', $container).length > 0,
