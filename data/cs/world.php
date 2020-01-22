@@ -1106,7 +1106,7 @@ $world = array(
     ),
     array(
         'id'        => 666,
-        'name'      => 'Saint-Pierre a Miquelon',
+        'name'      => 'Saint Pierre a Miquelon',
         'alpha2'    => 'pm',
         'alpha3'    => 'spm'
     ),

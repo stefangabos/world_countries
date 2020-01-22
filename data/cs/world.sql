@@ -195,7 +195,7 @@ INSERT INTO "world" ("id", "name", "alpha_2", "alpha_3") VALUES
 (643,"Rusko","ru","rus"),
 (646,"Rwanda","rw","rwa"),
 (300,"Řecko","gr","grc"),
-(666,"Saint-Pierre a Miquelon","pm","spm"),
+(666,"Saint Pierre a Miquelon","pm","spm"),
 (222,"Salvador","sv","slv"),
 (882,"Samoa","ws","wsm"),
 (674,"San Marino","sm","smr"),
