@@ -344,7 +344,7 @@ $world = array(
     ),
     array(
         'id'        => 384,
-        'name'      => 'Côte d'Ivoire',
+        'name'      => 'Côte d\'Ivoire',
         'alpha2'    => 'ci',
         'alpha3'    => 'civ'
     ),
@@ -1004,7 +1004,7 @@ $world = array(
     ),
     array(
         'id'        => 86,
-        'name'      => 'Territoire britannique de l'océan Indien',
+        'name'      => 'Territoire britannique de l\'océan Indien',
         'alpha2'    => 'io',
         'alpha3'    => 'iot'
     ),

@@ -248,7 +248,7 @@ $countries = array(
     ),
     array(
         'id'        => 384,
-        'name'      => 'Côte d'Ivoire',
+        'name'      => 'Côte d\'Ivoire',
         'alpha2'    => 'ci',
         'alpha3'    => 'civ'
     ),
@@ -536,7 +536,7 @@ $countries = array(
     ),
     array(
         'id'        => 408,
-        'name'      => 'Korea (Democratic People's Republic of)',
+        'name'      => 'Korea (Democratic People\'s Republic of)',
         'alpha2'    => 'kp',
         'alpha3'    => 'prk'
     ),
@@ -560,7 +560,7 @@ $countries = array(
     ),
     array(
         'id'        => 418,
-        'name'      => 'Lao People's Democratic Republic',
+        'name'      => 'Lao People\'s Democratic Republic',
         'alpha2'    => 'la',
         'alpha3'    => 'lao'
     ),

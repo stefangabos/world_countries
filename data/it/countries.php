@@ -254,7 +254,7 @@ $countries = array(
     ),
     array(
         'id'        => 384,
-        'name'      => 'Costa d'Avorio',
+        'name'      => 'Costa d\'Avorio',
         'alpha2'    => 'ci',
         'alpha3'    => 'civ'
     ),

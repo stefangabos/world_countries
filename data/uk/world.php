@@ -242,7 +242,7 @@ $world = array(
     ),
     array(
         'id'        => 704,
-        'name'      => 'В'єтнам',
+        'name'      => 'В\'єтнам',
         'alpha2'    => 'vn',
         'alpha3'    => 'vnm'
     ),
@@ -632,7 +632,7 @@ $world = array(
     ),
     array(
         'id'        => 384,
-        'name'      => 'Кот-д'Івуар',
+        'name'      => 'Кот-д\'Івуар',
         'alpha2'    => 'ci',
         'alpha3'    => 'civ'
     ),
@@ -824,7 +824,7 @@ $world = array(
     ),
     array(
         'id'        => 104,
-        'name'      => 'М'янма',
+        'name'      => 'М\'янма',
         'alpha2'    => 'mm',
         'alpha3'    => 'mmr'
     ),
@@ -1160,7 +1160,7 @@ $world = array(
     ),
     array(
         'id'        => 666,
-        'name'      => 'Сен-П'єр і Мікелон',
+        'name'      => 'Сен-П\'єр і Мікелон',
         'alpha2'    => 'pm',
         'alpha3'    => 'spm'
     ),

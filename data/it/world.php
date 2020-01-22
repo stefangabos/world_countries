@@ -284,7 +284,7 @@ $world = array(
     ),
     array(
         'id'        => 384,
-        'name'      => 'Costa d'Avorio',
+        'name'      => 'Costa d\'Avorio',
         'alpha2'    => 'ci',
         'alpha3'    => 'civ'
     ),
@@ -1148,7 +1148,7 @@ $world = array(
     ),
     array(
         'id'        => 654,
-        'name'      => 'Sant'Elena, Ascensione e Tristan da Cunha',
+        'name'      => 'Sant\'Elena, Ascensione e Tristan da Cunha',
         'alpha2'    => 'sh',
         'alpha3'    => 'shn'
     ),
@@ -1352,7 +1352,7 @@ $world = array(
     ),
     array(
         'id'        => 86,
-        'name'      => 'Territorio britannico dell'Oceano Indiano',
+        'name'      => 'Territorio britannico dell\'Oceano Indiano',
         'alpha2'    => 'io',
         'alpha3'    => 'iot'
     ),

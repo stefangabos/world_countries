@@ -182,7 +182,7 @@ $countries = array(
     ),
     array(
         'id'        => 704,
-        'name'      => 'В'єтнам',
+        'name'      => 'В\'єтнам',
         'alpha2'    => 'vn',
         'alpha3'    => 'vnm'
     ),
@@ -500,7 +500,7 @@ $countries = array(
     ),
     array(
         'id'        => 384,
-        'name'      => 'Кот-д'Івуар',
+        'name'      => 'Кот-д\'Івуар',
         'alpha2'    => 'ci',
         'alpha3'    => 'civ'
     ),
@@ -662,7 +662,7 @@ $countries = array(
     ),
     array(
         'id'        => 104,
-        'name'      => 'М'янма',
+        'name'      => 'М\'янма',
         'alpha2'    => 'mm',
         'alpha3'    => 'mmr'
     ),

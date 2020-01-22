@@ -98,7 +98,7 @@ $world = array(
     ),
     array(
         'id'        => 44,
-        'name'      => 'Bahama's',
+        'name'      => 'Bahama\'s',
         'alpha2'    => 'bs',
         'alpha3'    => 'bhs'
     ),

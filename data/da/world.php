@@ -1406,7 +1406,7 @@ $world = array(
     ),
     array(
         'id'        => 581,
-        'name'      => 'USA's ydre småøer',
+        'name'      => 'USA\'s ydre småøer',
         'alpha2'    => 'um',
         'alpha3'    => 'umi'
     ),
