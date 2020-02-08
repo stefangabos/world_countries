@@ -178,7 +178,7 @@ INSERT INTO "countries" ("id", "name", "alpha_2", "alpha_3") VALUES
 (760,"Síria","sy","syr"),
 (706,"Somália","so","som"),
 (144,"Sri Lanka","lk","lka"),
-(748,"Suazilândia","sz","swz"),
+(748,"Essuatíni","sz","swz"),
 (729,"Sudão","sd","sdn"),
 (728,"Sudão do Sul","ss","ssd"),
 (752,"Suécia","se","swe"),

@@ -68,7 +68,7 @@ $world = array(
     ),
     array(
         'id'        => 10,
-        'name'      => 'Антарктида',
+        'name'      => 'Антарктика',
         'alpha2'    => 'aq',
         'alpha3'    => 'ata'
     ),

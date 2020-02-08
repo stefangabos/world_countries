@@ -1280,7 +1280,7 @@ $world = array(
     ),
     array(
         'id'        => 748,
-        'name'      => 'Suazilândia',
+        'name'      => 'Essuatíni',
         'alpha2'    => 'sz',
         'alpha3'    => 'swz'
     ),
