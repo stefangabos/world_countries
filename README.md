@@ -52,6 +52,8 @@ The lists are currently available in **23 languages**:
 - Thai
 - Ukrainian
 
+### SQL
+
 Excerpt from the `data/en/countries.sql` file:
 
 ```sql
@@ -66,6 +68,8 @@ Excerpt from the `data/en/countries.sql` file:
 (308,'Grenada','gd','grd'),
 ...
 ```
+
+### CSV
 
 Excerpt from the `data/en/countries.csv` file:
 
@@ -82,6 +86,8 @@ Excerpt from the `data/en/countries.csv` file:
 ...
 ```
 
+### JSON
+
 Excerpt from the `data/en/countries.json` file:
 
 ```json
@@ -96,6 +102,48 @@ Excerpt from the `data/en/countries.json` file:
 {"id":308,"name":"Grenada","alpha2":"gd","alpha3":"grd"},
 ...
 ```
+
+Here's a little helper function for searching for a specific country's data
+
+> The helper function assumes that the JSON with the countries data is associated with a variable named `countries` which is in the same scope as the function
+
+
+```js
+//  returns an object with the sought country's data if the search yields a result
+//  returns undefined if no results could be found or if argument is incorrect
+function search_country(query) {
+
+    // if argument is not valid return false
+    if (undefined === query.id && undefined === query.alpha2 && undefined === query.alpha3) return undefined;
+
+    // iterate over the array of countries
+	return countries.filter(function(country) {
+
+        // return country's data if
+        return (
+            // we are searching by ID and we have a match
+            (undefined !== query.id && parseInt(country.id, 10) === parseInt(query.id, 10))
+            // or we are searching by alpha2 and we have a match
+            || (undefined !== query.alpha2 && country.alpha2 === query.alpha2.toLowerCase())
+            // or we are searching by alpha3 and we have a match
+            || (undefined !== query.alpha3 && country.alpha3 === query.alpha3.toLowerCase())
+        )
+
+    // since "filter" returns an array we use pop to get just the data object
+    }).pop()
+
+}
+```
+
+Usage
+
+```js
+search_county({id: 250})
+search_county({alpha2: 'fr'})
+search_county({alpha3: 'fra'})
+```
+
+### PHP
 
 Excerpt from the `data/en/countries.php` file:
 
