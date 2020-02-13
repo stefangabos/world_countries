@@ -93,12 +93,22 @@ $(document).ready(function() {
                     if (value.indexOf('flags') > -1) {
 
                         flags.forEach(function(flag) {
-                            $.get('https://cdn.jsdelivr.net/gh/stefangabos/world_countries/flags/' + path[1] + '/' + flag + '.png', function(result) {
-                                zip.folder('flags/' + path[1]).file(flag + '.png', result);
-                                items_processed++;
-                            });
-                        });
 
+                            jQuery.ajax({
+                                url:        'https://cdn.jsdelivr.net/gh/stefangabos/world_countries/flags/' + path[1] + '/' + flag + '.png',
+                                cache:      false,
+                                xhr:        function() {
+                                                var xhr = new XMLHttpRequest();
+                                                xhr.responseType= 'blob'
+                                                return xhr;
+                                            },
+                                success:    function(data){
+                                                zip.folder('flags/' + path[1]).file(flag + '.png', data, {blob: true});
+                                                items_processed++;
+                                            }
+                            });
+
+                        });
 
                     } else
 
