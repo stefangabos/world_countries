@@ -171,6 +171,52 @@ Excerpt from the `data/en/countries.php` file:
     ),
 ...
 ```
+Here's a little helper function for searching for a specific country's data
+
+```php
+//  this function assumes that you have done this:
+require 'path/to/countries.php';
+
+//  returns an array with the sought country's data if the search yields a result
+//  returns false if no results could be found or if argument is incorrect
+function search_country($query) {
+
+    // make the countries available in the function
+    global $countries;
+
+    // if argument is not valid return false
+    if (!isset($query['id']) && !isset($query['alpha2']) && !isset($query['alpha3'])) return false;
+
+    // iterate over the array of countries
+	$result = array_filter($countries, function($country) use ($query) {
+
+        // return country's data if
+        return (
+            // we are searching by ID and we have a match
+            (isset($query['id']) && $country['id'] == $query['id'])
+            // or we are searching by alpha2 and we have a match
+            || (isset($query['alpha2']) && $country['alpha2'] == strtolower($query['alpha2']))
+            // or we are searching by alpha3 and we have a match
+            || (isset($query['alpha3']) && $country['alpha3'] == strtolower($query['alpha3']))
+        );
+
+    });
+
+    // since "array_filter" returns an array we use pop to get just the data object
+    // we return false if a result was not found
+    return empty($result) ? false : array_pop($result);
+
+}
+```
+Usage
+
+```php
+search_county(array('id' => 250});
+search_county(array('alpha2' => 'fr'});
+search_county(array('alpha3' => 'fra'});
+```
+
+## Flags
 
 The package also contains the national flags of each country as a 16x16, 24x24, 32x32, 48x48, 64x64 and 128x128 PNG images, courtesy of [IconDrawer](http://icondrawer.com/free.php). The image files are named using the ISO 3166-1-alpha-2 code of the country they represent, for easily pairing flags with countries.
 
@@ -179,7 +225,7 @@ The package also contains the national flags of each country as a 16x16, 24x24, 
 You probably don't want to download the lists in all languages so go ahead and [download your customized build](http://stefangabos.github.io/world_countries/).
 
 
-## Sources
+## Data sources
 
 Country names in all languages are taken from [Wikipedia](https://en.wikipedia.org/wiki/ISO_3166-1).
 
