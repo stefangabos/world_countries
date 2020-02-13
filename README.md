@@ -52,6 +52,8 @@ The lists are currently available in **23 languages**:
 - Thai
 - Ukrainian
 
+## Data formats
+
 ### SQL
 
 Excerpt from the `data/en/countries.sql` file:
@@ -170,9 +172,12 @@ Excerpt from the `data/en/countries.php` file:
 ...
 ```
 
+The package also contains the national flags of each country as a 16x16, 24x24, 32x32, 48x48, 64x64 and 128x128 PNG images, courtesy of [IconDrawer](http://icondrawer.com/free.php). The image files are named using the ISO 3166-1-alpha-2 code of the country they represent, for easily pairing flags with countries.
+
+## Customize your build
+
 You probably don't want to download the lists in all languages so go ahead and [download your customized build](http://stefangabos.github.io/world_countries/).
 
-The package also contains the national flags of each country as a 16x16, 24x24, 32x32, 48x48, 64x64 and 128x128 PNG images, courtesy of [IconDrawer](http://icondrawer.com/free.php). The image files are named using the ISO 3166-1-alpha-2 code of the country they represent, for easily pairing flags with countries.
 
 ## Sources
 
