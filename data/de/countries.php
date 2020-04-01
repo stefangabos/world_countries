@@ -199,12 +199,6 @@ $countries = array(
         'alpha3'    => 'cri'
     ),
     array(
-        'id'        => 384,
-        'name'      => 'Elfenbeinküste',
-        'alpha2'    => 'ci',
-        'alpha3'    => 'civ'
-    ),
-    array(
         'id'        => 208,
         'name'      => 'Dänemark',
         'alpha2'    => 'dk',
@@ -239,6 +233,12 @@ $countries = array(
         'name'      => 'Ecuador',
         'alpha2'    => 'ec',
         'alpha3'    => 'ecu'
+    ),
+    array(
+        'id'        => 384,
+        'name'      => 'Elfenbeinküste',
+        'alpha2'    => 'ci',
+        'alpha3'    => 'civ'
     ),
     array(
         'id'        => 222,

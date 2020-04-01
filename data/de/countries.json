@@ -31,13 +31,13 @@
 {"id":152,"name":"Chile","alpha2":"cl","alpha3":"chl"},
 {"id":156,"name":"Volksrepublik China","alpha2":"cn","alpha3":"chn"},
 {"id":188,"name":"Costa Rica","alpha2":"cr","alpha3":"cri"},
-{"id":384,"name":"Elfenbeinküste","alpha2":"ci","alpha3":"civ"},
 {"id":208,"name":"Dänemark","alpha2":"dk","alpha3":"dnk"},
 {"id":276,"name":"Deutschland","alpha2":"de","alpha3":"deu"},
 {"id":212,"name":"Dominica","alpha2":"dm","alpha3":"dma"},
 {"id":214,"name":"Dominikanische Republik","alpha2":"do","alpha3":"dom"},
 {"id":262,"name":"Dschibuti","alpha2":"dj","alpha3":"dji"},
 {"id":218,"name":"Ecuador","alpha2":"ec","alpha3":"ecu"},
+{"id":384,"name":"Elfenbeinküste","alpha2":"ci","alpha3":"civ"},
 {"id":222,"name":"El Salvador","alpha2":"sv","alpha3":"slv"},
 {"id":232,"name":"Eritrea","alpha2":"er","alpha3":"eri"},
 {"id":233,"name":"Estland","alpha2":"ee","alpha3":"est"},
@@ -190,5 +190,4 @@
 {"id":826,"name":"Vereinigtes Königreich","alpha2":"gb","alpha3":"gbr"},
 {"id":704,"name":"Vietnam","alpha2":"vn","alpha3":"vnm"},
 {"id":140,"name":"Zentral­afrikanische Republik","alpha2":"cf","alpha3":"caf"},
-{"id":196,"name":"Zypern","alpha2":"cy","alpha3":"cyp"}
-]
+{"id":196,"name":"Zypern","alpha2":"cy","alpha3":"cyp"}]

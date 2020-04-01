@@ -271,12 +271,6 @@ $world = array(
         'alpha3'    => 'cri'
     ),
     array(
-        'id'        => 384,
-        'name'      => 'Elfenbeinküste',
-        'alpha2'    => 'ci',
-        'alpha3'    => 'civ'
-    ),
-    array(
         'id'        => 531,
         'name'      => 'Curaçao',
         'alpha2'    => 'cw',
@@ -317,6 +311,12 @@ $world = array(
         'name'      => 'Ecuador',
         'alpha2'    => 'ec',
         'alpha3'    => 'ecu'
+    ),
+    array(
+        'id'        => 384,
+        'name'      => 'Elfenbeinküste',
+        'alpha2'    => 'ci',
+        'alpha3'    => 'civ'
     ),
     array(
         'id'        => 222,
