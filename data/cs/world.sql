@@ -12,7 +12,7 @@ CREATE TABLE "world" (
 
 INSERT INTO "world" ("id", "name", "alpha_2", "alpha_3") VALUES
 (4,"Afghánistán","af","afg"),
-(248,"Ålandy","ax","ala"),
+(248,"Alandy","ax","ala"),
 (8,"Albánie","al","alb"),
 (12,"Alžírsko","dz","dza"),
 (16,"Americká Samoa","as","asm"),

@@ -170,7 +170,7 @@ $world = array(
     ),
     array(
         'id'        => 70,
-        'name'      => '波斯尼亚和黑塞哥维那',
+        'name'      => '波黑',
         'alpha2'    => 'ba',
         'alpha3'    => 'bih'
     ),
@@ -302,13 +302,13 @@ $world = array(
     ),
     array(
         'id'        => 178,
-        'name'      => '刚果（布）',
+        'name'      => '刚果共和国',
         'alpha2'    => 'cg',
         'alpha3'    => 'cog'
     ),
     array(
         'id'        => 180,
-        'name'      => '刚果（金）',
+        'name'      => '刚果民主共和国',
         'alpha2'    => 'cd',
         'alpha3'    => 'cod'
     ),
@@ -992,7 +992,7 @@ $world = array(
     ),
     array(
         'id'        => 580,
-        'name'      => '北馬里亞納群島',
+        'name'      => '北马里亚纳群岛',
         'alpha2'    => 'mp',
         'alpha3'    => 'mnp'
     ),
@@ -1088,7 +1088,7 @@ $world = array(
     ),
     array(
         'id'        => 638,
-        'name'      => '留尼汪',
+        'name'      => '留尼旺',
         'alpha2'    => 're',
         'alpha3'    => 'reu'
     ),

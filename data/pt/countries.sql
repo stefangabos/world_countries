@@ -49,7 +49,7 @@ INSERT INTO "countries" ("id", "name", "alpha_2", "alpha_3") VALUES
 (398,"Cazaquistão","kz","kaz"),
 (140,"República Centro-Africana","cf","caf"),
 (148,"Chade","td","tcd"),
-(203,"República Checa","cz","cze"),
+(203,"Chéquia","cz","cze"),
 (152,"Chile","cl","chl"),
 (156,"China","cn","chn"),
 (196,"Chipre","cy","cyp"),

@@ -111,7 +111,7 @@
 {"id":612,"name":"Islas Pitcairn","alpha2":"pn","alpha3":"pcn"},
 {"id":90,"name":"Islas Salomón","alpha2":"sb","alpha3":"slb"},
 {"id":796,"name":"Islas Turcas y Caicos","alpha2":"tc","alpha3":"tca"},
-{"id":581,"name":"Islas ultramarinas de Estados Unidos","alpha2":"um","alpha3":"umi"},
+{"id":581,"name":"Islas Ultramarinas Menores de los Estados Unidos","alpha2":"um","alpha3":"umi"},
 {"id":92,"name":"Islas Vírgenes Británicas","alpha2":"vg","alpha3":"vgb"},
 {"id":850,"name":"Islas Vírgenes de los Estados Unidos","alpha2":"vi","alpha3":"vir"},
 {"id":376,"name":"Israel","alpha2":"il","alpha3":"isr"},

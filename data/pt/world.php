@@ -278,7 +278,7 @@ $world = array(
     ),
     array(
         'id'        => 203,
-        'name'      => 'República Checa',
+        'name'      => 'Chéquia',
         'alpha2'    => 'cz',
         'alpha3'    => 'cze'
     ),

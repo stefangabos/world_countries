@@ -128,7 +128,7 @@ $countries = array(
     ),
     array(
         'id'        => 70,
-        'name'      => '波斯尼亚和黑塞哥维那',
+        'name'      => '波黑',
         'alpha2'    => 'ba',
         'alpha3'    => 'bih'
     ),
@@ -230,13 +230,13 @@ $countries = array(
     ),
     array(
         'id'        => 178,
-        'name'      => '刚果（布）',
+        'name'      => '刚果共和国',
         'alpha2'    => 'cg',
         'alpha3'    => 'cog'
     ),
     array(
         'id'        => 180,
-        'name'      => '刚果（金）',
+        'name'      => '刚果民主共和国',
         'alpha2'    => 'cd',
         'alpha3'    => 'cod'
     ),

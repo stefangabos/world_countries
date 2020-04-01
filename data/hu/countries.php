@@ -644,7 +644,7 @@ $countries = array(
     ),
     array(
         'id'        => 807,
-        'name'      => 'Macedónia',
+        'name'      => 'Észak-Macedónia',
         'alpha2'    => 'mk',
         'alpha3'    => 'mkd'
     ),

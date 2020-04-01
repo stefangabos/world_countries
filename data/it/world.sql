@@ -183,7 +183,7 @@ INSERT INTO "world" ("id", "name", "alpha_2", "alpha_3") VALUES
 (598,"Papua Nuova Guinea","pg","png"),
 (600,"Paraguay","py","pry"),
 (604,"Perù","pe","per"),
-(258,"Polinesia Francese","pf","pyf"),
+(258,"Polinesia francese","pf","pyf"),
 (616,"Polonia","pl","pol"),
 (630,"Porto Rico","pr","pri"),
 (620,"Portogallo","pt","prt"),

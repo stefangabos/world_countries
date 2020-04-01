@@ -124,7 +124,7 @@ INSERT INTO "world" ("id", "name", "alpha_2", "alpha_3") VALUES
 (612,"Islas Pitcairn","pn","pcn"),
 (90,"Islas Salomón","sb","slb"),
 (796,"Islas Turcas y Caicos","tc","tca"),
-(581,"Islas ultramarinas de Estados Unidos","um","umi"),
+(581,"Islas Ultramarinas Menores de los Estados Unidos","um","umi"),
 (92,"Islas Vírgenes Británicas","vg","vgb"),
 (850,"Islas Vírgenes de los Estados Unidos","vi","vir"),
 (376,"Israel","il","isr"),

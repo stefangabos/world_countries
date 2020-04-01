@@ -362,7 +362,7 @@ $world = array(
     ),
     array(
         'id'        => 304,
-        'name'      => 'Ґренландія',
+        'name'      => 'Гренландія',
         'alpha2'    => 'gl',
         'alpha3'    => 'grl'
     ),

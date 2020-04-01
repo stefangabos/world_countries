@@ -8,7 +8,7 @@ $world = array(
     ),
     array(
         'id'        => 248,
-        'name'      => 'Ålandy',
+        'name'      => 'Alandy',
         'alpha2'    => 'ax',
         'alpha3'    => 'ala'
     ),

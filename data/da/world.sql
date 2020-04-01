@@ -138,7 +138,7 @@ INSERT INTO "world" ("id", "name", "alpha_2", "alpha_3") VALUES
 (442,"Luxembourg","lu","lux"),
 (446,"Macao","mo","mac"),
 (450,"Madagaskar","mg","mdg"),
-(807,"Makedonien","mk","mkd"),
+(807,"Nordmakedonien","mk","mkd"),
 (454,"Malawi","mw","mwi"),
 (458,"Malaysia","my","mys"),
 (462,"Maldiverne","mv","mdv"),
