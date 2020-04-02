@@ -4,7 +4,7 @@
 
 *available in multiple languages, in SQL, CSV, JSON and PHP formats, with associated codes as defined by the ISO 3166 standard, and with national flags included*
 
-[![License](https://img.shields.io/github/license/stefangabos/world_countries.svg)](https://github.com/stefangabos/world_countries/blob/master/LICENSE.md)
+[![npm](https://img.shields.io/npm/v/world_countries_lists.svg)](https://www.npmjs.com/package/world_countries_lists) [![Total](https://img.shields.io/npm/dt/world_countries_lists.svg)](https://www.npmjs.com/package/world_countries_lists) [![Monthly](https://img.shields.io/npm/dm/world_countries_lists.svg)](https://www.npmjs.com/package/world_countries_lists) [![JSDelivr](https://data.jsdelivr.com/v1/package/npm/world_countries_lists/badge?style=rounded)](https://www.jsdelivr.com/package/npm/world_countries_lists) [![License](https://img.shields.io/github/license/stefangabos/world_countries.svg)](https://github.com/stefangabos/world_countries/blob/master/LICENSE.md)
 
 Constantly updated lists of world countries, territories and areas of geographical interest, with associated *alpha-2*, *alpha-3* and *numeric codes* as defined by the *ISO 3166-1* standard, published and maintained by the [International Organization for Standardization](https://www.iso.org/iso-3166-country-codes.html), available in `SQL`, `CSV`, `JSON` and `PHP` formats, in multiple languages and with national flags included.
 
@@ -51,6 +51,15 @@ The lists are currently available in **23 languages**:
 - Spanish
 - Thai
 - Ukrainian
+
+## Installation
+
+The lists are available as a [npm package](https://www.npmjs.com/package/world_countries_lists). To install it use:
+
+```bash
+# the "--save" argument adds the plugin as a dependency in packages.json
+npm install world_countries_lists --save
+```
 
 ## Data formats
 
