@@ -1,3 +1,4 @@
+cache/*
 node_modules/*
 docs/*
 .gitattributes
@@ -5,3 +6,5 @@ docs/*
 .npmignore
 package.json
 package-lock.json
+index.php
+todo.txt
