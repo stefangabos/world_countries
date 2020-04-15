@@ -974,7 +974,7 @@ $countries = array(
     ),
     array(
         'id'        => 748,
-        'name'      => 'Swaziland',
+        'name'      => 'Eswatini',
         'alpha2'    => 'sz',
         'alpha3'    => 'swz'
     ),

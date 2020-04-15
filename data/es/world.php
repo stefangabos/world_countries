@@ -692,7 +692,7 @@ $world = array(
     ),
     array(
         'id'        => 850,
-        'name'      => 'Islas Vírgenes Americanas',
+        'name'      => 'Islas Vírgenes de los Estados Unidos',
         'alpha2'    => 'vi',
         'alpha3'    => 'vir'
     ),
@@ -1448,7 +1448,7 @@ $world = array(
     ),
     array(
         'id'        => 336,
-        'name'      => 'Ciudad del Vaticano',
+        'name'      => 'Vaticano, Ciudad del',
         'alpha2'    => 'va',
         'alpha3'    => 'vat'
     ),
