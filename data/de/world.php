@@ -62,7 +62,7 @@ $world = array(
     ),
     array(
         'id'        => 10,
-        'name'      => 'Antarktika (Sonderstatus durch Antarktis-Vertrag)',
+        'name'      => 'Antarktis (Sonderstatus durch Antarktisvertrag)',
         'alpha2'    => 'aq',
         'alpha3'    => 'ata'
     ),
@@ -182,7 +182,7 @@ $world = array(
     ),
     array(
         'id'        => 535,
-        'name'      => 'Bonaire, Sint Eustatius und Saba (Niederlande)',
+        'name'      => 'Bonaire, Saba, Sint Eustatius',
         'alpha2'    => 'bq',
         'alpha3'    => 'bes'
     ),
@@ -1106,7 +1106,7 @@ $world = array(
     ),
     array(
         'id'        => 663,
-        'name'      => 'Saint-Martin (franz. Teil)',
+        'name'      => 'Saint-Martin (französischer Teil)',
         'alpha2'    => 'mf',
         'alpha3'    => 'maf'
     ),
@@ -1190,7 +1190,7 @@ $world = array(
     ),
     array(
         'id'        => 534,
-        'name'      => 'Sint Maarten (niederl. Teil)',
+        'name'      => 'Sint Maarten',
         'alpha2'    => 'sx',
         'alpha3'    => 'sxm'
     ),
@@ -1226,7 +1226,7 @@ $world = array(
     ),
     array(
         'id'        => 654,
-        'name'      => 'St. Helena',
+        'name'      => 'St. Helena, Ascension und Tristan da Cunha',
         'alpha2'    => 'sh',
         'alpha3'    => 'shn'
     ),
@@ -1286,7 +1286,7 @@ $world = array(
     ),
     array(
         'id'        => 744,
-        'name'      => 'Svalbard und Jan Mayen',
+        'name'      => 'Spitzbergen und Jan Mayen',
         'alpha2'    => 'sj',
         'alpha3'    => 'sjm'
     ),

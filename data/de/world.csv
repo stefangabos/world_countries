@@ -9,7 +9,7 @@ id,name,alpha2,alpha3
 20,Andorra,ad,and
 24,Angola,ao,ago
 660,Anguilla,ai,aia
-10,"Antarktika (Sonderstatus durch Antarktis-Vertrag)",aq,ata
+10,"Antarktis (Sonderstatus durch Antarktisvertrag)",aq,ata
 28,"Antigua und Barbuda",ag,atg
 226,Äquatorialguinea,gq,gnq
 32,Argentinien,ar,arg
@@ -29,7 +29,7 @@ id,name,alpha2,alpha3
 60,Bermuda,bm,bmu
 64,Bhutan,bt,btn
 68,Bolivien,bo,bol
-535,"Bonaire, Sint Eustatius und Saba (Niederlande)",bq,bes
+535,"Bonaire, Saba, Sint Eustatius",bq,bes
 70,"Bosnien und Herzegowina",ba,bih
 72,Botswana,bw,bwa
 74,Bouvetinsel,bv,bvt
@@ -183,7 +183,7 @@ id,name,alpha2,alpha3
 643,Russland,ru,rus
 90,Salomonen,sb,slb
 652,Saint-Barthélemy,bl,blm
-663,"Saint-Martin (franz. Teil)",mf,maf
+663,"Saint-Martin (französischer Teil)",mf,maf
 894,Sambia,zm,zmb
 882,Samoa,ws,wsm
 674,"San Marino",sm,smr
@@ -197,13 +197,13 @@ id,name,alpha2,alpha3
 694,"Sierra Leone",sl,sle
 716,Simbabwe,zw,zwe
 702,Singapur,sg,sgp
-534,"Sint Maarten (niederl. Teil)",sx,sxm
+534,"Sint Maarten",sx,sxm
 703,Slowakei,sk,svk
 705,Slowenien,si,svn
 706,Somalia,so,som
 724,Spanien,es,esp
 144,"Sri Lanka",lk,lka
-654,"St. Helena",sh,shn
+654,"St. Helena, Ascension und Tristan da Cunha",sh,shn
 659,"St. Kitts und Nevis",kn,kna
 662,"St. Lucia",lc,lca
 666,"Saint-Pierre und Miquelon",pm,spm
@@ -213,7 +213,7 @@ id,name,alpha2,alpha3
 239,"Südgeorgien und die Südlichen Sandwichinseln",gs,sgs
 728,Südsudan,ss,ssd
 740,Suriname,sr,sur
-744,"Svalbard und Jan Mayen",sj,sjm
+744,"Spitzbergen und Jan Mayen",sj,sjm
 760,Syrien,sy,syr
 762,Tadschikistan,tj,tjk
 158,"Republik China",tw,twn
