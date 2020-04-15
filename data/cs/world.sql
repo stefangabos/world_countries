@@ -180,7 +180,7 @@ INSERT INTO "world" ("id", "name", "alpha_2", "alpha_3") VALUES
 (585,"Palau","pw","plw"),
 (275,"Palestinská autonomie","ps","pse"),
 (591,"Panama","pa","pan"),
-(598,"Papua-Nová Guinea","pg","png"),
+(598,"Papua Nová Guinea","pg","png"),
 (600,"Paraguay","py","pry"),
 (604,"Peru","pe","per"),
 (612,"Pitcairnovy ostrovy","pn","pcn"),

@@ -141,7 +141,7 @@ INSERT INTO "countries" ("id", "name", "alpha_2", "alpha_3") VALUES
 (586,"Pákistán","pk","pak"),
 (585,"Palau","pw","plw"),
 (591,"Panama","pa","pan"),
-(598,"Papua-Nová Guinea","pg","png"),
+(598,"Papua Nová Guinea","pg","png"),
 (600,"Paraguay","py","pry"),
 (604,"Peru","pe","per"),
 (384,"Pobřeží slonoviny","ci","civ"),

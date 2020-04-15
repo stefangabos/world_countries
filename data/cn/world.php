@@ -476,7 +476,7 @@ $world = array(
     ),
     array(
         'id'        => 260,
-        'name'      => '法属南方和南极洲领地',
+        'name'      => '法属南部和南极领地',
         'alpha2'    => 'tf',
         'alpha3'    => 'atf'
     ),

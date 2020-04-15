@@ -1016,7 +1016,7 @@ $world = array(
     ),
     array(
         'id'        => 598,
-        'name'      => 'Papua-Nová Guinea',
+        'name'      => 'Papua Nová Guinea',
         'alpha2'    => 'pg',
         'alpha3'    => 'png'
     ),
