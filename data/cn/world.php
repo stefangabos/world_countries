@@ -1466,7 +1466,7 @@ $world = array(
     ),
     array(
         'id'        => 876,
-        'name'      => '瓦利斯和富圖納',
+        'name'      => '瓦利斯和富图纳',
         'alpha2'    => 'wf',
         'alpha3'    => 'wlf'
     ),
