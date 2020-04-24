@@ -61,6 +61,12 @@ The lists are available as a [npm package](https://www.npmjs.com/package/world_c
 npm install world_countries_lists --save
 ```
 
+Alternatively, you can load the lists from [JSDelivr CDN](https://www.jsdelivr.com/package/npm/world_countries_lists) like this:
+```html
+<script
+  src="https://cdn.jsdelivr.net/npm/world_countries_lists@latest/data/en/countries.json"></script>
+```
+
 ## Data formats
 
 ### SQL
