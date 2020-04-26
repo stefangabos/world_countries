@@ -29,7 +29,7 @@ The files contain:
 The lists are currently available in **23 languages**:
 
 - Arabic
-- Chinese
+- Chinese (Simplified)
 - Czech
 - Danish
 - Dutch
