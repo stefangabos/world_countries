@@ -26,7 +26,7 @@ The files contain:
 
 <small><a name="footnote"><sup>1</sup></a> for other languages the country names are in that particular language</small>
 
-The lists are currently available in **23 languages**:
+The lists are currently available in **24 languages**:
 
 - Arabic
 - Chinese (Simplified)
@@ -49,6 +49,7 @@ The lists are currently available in **23 languages**:
 - Russian
 - Slovak
 - Spanish
+- Swedish
 - Thai
 - Ukrainian
 
