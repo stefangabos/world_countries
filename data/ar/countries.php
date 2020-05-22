@@ -992,7 +992,7 @@ $countries = array(
     ),
     array(
         'id'        => 748,
-        'name'      => 'سوازيلاند',
+        'name'      => 'إسواتيني',
         'alpha2'    => 'sz',
         'alpha3'    => 'swz'
     ),
