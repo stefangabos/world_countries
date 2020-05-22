@@ -1,4 +1,4 @@
-## version 1.0.1 (May 22, 2020)
+## version 1.0.2 (May 22, 2020)
 
 - added Swedish translations
 - Chinese translations are now in simplified Chinese instead of a mix (see [#32](https://github.com/stefangabos/world_countries/pull/32)); thanks [Sun Jiao](https://github.com/sun-jiao) for the help!
