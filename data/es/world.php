@@ -644,7 +644,7 @@ $world = array(
     ),
     array(
         'id'        => 238,
-        'name'      => 'Islas Malvinas (Falkland)',
+        'name'      => 'Islas Malvinas',
         'alpha2'    => 'fk',
         'alpha3'    => 'flk'
     ),

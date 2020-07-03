@@ -118,7 +118,7 @@ INSERT INTO "world" ("id", "name", "alpha_2", "alpha_3") VALUES
 (234,"Islas Feroe","fo","fro"),
 (239,"Islas Georgias del Sur y Sandwich del Sur","gs","sgs"),
 (334,"Islas Heard y McDonald","hm","hmd"),
-(238,"Islas Malvinas (Falkland)","fk","flk"),
+(238,"Islas Malvinas","fk","flk"),
 (580,"Islas Marianas del Norte","mp","mnp"),
 (584,"Islas Marshall","mh","mhl"),
 (612,"Islas Pitcairn","pn","pcn"),

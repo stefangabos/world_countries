@@ -105,7 +105,7 @@
 {"id":234,"name":"Islas Feroe","alpha2":"fo","alpha3":"fro"},
 {"id":239,"name":"Islas Georgias del Sur y Sandwich del Sur","alpha2":"gs","alpha3":"sgs"},
 {"id":334,"name":"Islas Heard y McDonald","alpha2":"hm","alpha3":"hmd"},
-{"id":238,"name":"Islas Malvinas (Falkland)","alpha2":"fk","alpha3":"flk"},
+{"id":238,"name":"Islas Malvinas","alpha2":"fk","alpha3":"flk"},
 {"id":580,"name":"Islas Marianas del Norte","alpha2":"mp","alpha3":"mnp"},
 {"id":584,"name":"Islas Marshall","alpha2":"mh","alpha3":"mhl"},
 {"id":612,"name":"Islas Pitcairn","alpha2":"pn","alpha3":"pcn"},
