@@ -1322,7 +1322,7 @@ $world = array(
     ),
     array(
         'id'        => 626,
-        'name'      => 'Östtimor a.k.a. Timor-Leste',
+        'name'      => 'Östtimor',
         'alpha2'    => 'tl',
         'alpha3'    => 'tls'
     ),

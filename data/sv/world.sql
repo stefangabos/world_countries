@@ -231,7 +231,7 @@ INSERT INTO "world" ("id", "name", "alpha_2", "alpha_3") VALUES
 (764,"Thailand","th","tha"),
 (762,"Tadzjikistan","tj","tjk"),
 (772,"Tokelauöarna","tk","tkl"),
-(626,"Östtimor a.k.a. Timor-Leste","tl","tls"),
+(626,"Östtimor","tl","tls"),
 (795,"Turkmenistan","tm","tkm"),
 (788,"Tunisien","tn","tun"),
 (776,"Tonga","to","ton"),
