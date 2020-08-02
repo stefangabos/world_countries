@@ -1,3 +1,7 @@
+## version 1.1.1 (August 02, 2020)
+
+- fixed issues with Traditional Chinese
+
 ## version 1.1.0 (August 02, 2020)
 
 - added Trasitional Chinese translations; see [#35](https://github.com/stefangabos/world_countries/pull/35)
