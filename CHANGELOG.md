@@ -1,8 +1,14 @@
+## version 1.1.0 (TBA)
+
+- added Trasitional Chinese translations; see [#34](https://github.com/stefangabos/world_countries/pull/35)
+- added Korean translations; see [#34](https://github.com/stefangabos/world_countries/pull/34)
+- updates to some country names in Spanish, Swedish and Thai
+
 ## version 1.0.2 (May 22, 2020)
 
 - added Swedish translations
 - Chinese translations are now in simplified Chinese instead of a mix (see [#32](https://github.com/stefangabos/world_countries/pull/32)); thanks [Sun Jiao](https://github.com/sun-jiao) for the help!
-- fixed [#33](https://github.com/stefangabos/world_countries/pull/33) where the country code of Sudan, for some translations, it was saved as `string` instead of `int` in the `JSON` format - thanks (Ruben Lie King)[https://github.com/rl-king] for reporting!
+- fixed [#33](https://github.com/stefangabos/world_countries/pull/33) where the country code of Sudan, for some translations, it was saved as `string` instead of `int` in the `JSON` format - thanks [Ruben Lie King](https://github.com/rl-king) for reporting!
 - all data in files is up to date as of May 22nd, 2020
 
 ## version 1.0.0 (April 02, 2019)
