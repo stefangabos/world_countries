@@ -1,10 +1,16 @@
 <?php
-$countries = array(
+$world = array(
     array(
         'id'        => 4,
         'name'      => '阿富汗',
         'alpha2'    => 'af',
         'alpha3'    => 'afg'
+    ),
+    array(
+        'id'        => 248,
+        'name'      => '奥兰',
+        'alpha2'    => 'ax',
+        'alpha3'    => 'ala'
     ),
     array(
         'id'        => 8,
@@ -19,6 +25,12 @@ $countries = array(
         'alpha3'    => 'dza'
     ),
     array(
+        'id'        => 16,
+        'name'      => '美属萨摩亚',
+        'alpha2'    => 'as',
+        'alpha3'    => 'asm'
+    ),
+    array(
         'id'        => 20,
         'name'      => '安道尔',
         'alpha2'    => 'ad',
@@ -29,6 +41,18 @@ $countries = array(
         'name'      => '安哥拉',
         'alpha2'    => 'ao',
         'alpha3'    => 'ago'
+    ),
+    array(
+        'id'        => 660,
+        'name'      => '安圭拉',
+        'alpha2'    => 'ai',
+        'alpha3'    => 'aia'
+    ),
+    array(
+        'id'        => 10,
+        'name'      => '南极洲',
+        'alpha2'    => 'aq',
+        'alpha3'    => 'ata'
     ),
     array(
         'id'        => 28,
@@ -47,6 +71,12 @@ $countries = array(
         'name'      => '亞美尼亞',
         'alpha2'    => 'am',
         'alpha3'    => 'arm'
+    ),
+    array(
+        'id'        => 533,
+        'name'      => '阿鲁巴',
+        'alpha2'    => 'aw',
+        'alpha3'    => 'abw'
     ),
     array(
         'id'        => 36,
@@ -115,6 +145,12 @@ $countries = array(
         'alpha3'    => 'ben'
     ),
     array(
+        'id'        => 60,
+        'name'      => '百慕大',
+        'alpha2'    => 'bm',
+        'alpha3'    => 'bmu'
+    ),
+    array(
         'id'        => 64,
         'name'      => '不丹',
         'alpha2'    => 'bt',
@@ -125,6 +161,12 @@ $countries = array(
         'name'      => '玻利维亚',
         'alpha2'    => 'bo',
         'alpha3'    => 'bol'
+    ),
+    array(
+        'id'        => 535,
+        'name'      => '荷兰加勒比区',
+        'alpha2'    => 'bq',
+        'alpha3'    => 'bes'
     ),
     array(
         'id'        => 70,
@@ -139,10 +181,22 @@ $countries = array(
         'alpha3'    => 'bwa'
     ),
     array(
+        'id'        => 74,
+        'name'      => '布韦岛',
+        'alpha2'    => 'bv',
+        'alpha3'    => 'bvt'
+    ),
+    array(
         'id'        => 76,
         'name'      => '巴西',
         'alpha2'    => 'br',
         'alpha3'    => 'bra'
+    ),
+    array(
+        'id'        => 86,
+        'name'      => '英屬印度洋領地',
+        'alpha2'    => 'io',
+        'alpha3'    => 'iot'
     ),
     array(
         'id'        => 96,
@@ -193,6 +247,12 @@ $countries = array(
         'alpha3'    => 'can'
     ),
     array(
+        'id'        => 136,
+        'name'      => '开曼群岛',
+        'alpha2'    => 'ky',
+        'alpha3'    => 'cym'
+    ),
+    array(
         'id'        => 140,
         'name'      => '中非',
         'alpha2'    => 'cf',
@@ -215,6 +275,18 @@ $countries = array(
         'name'      => '中国',
         'alpha2'    => 'cn',
         'alpha3'    => 'chn'
+    ),
+    array(
+        'id'        => 162,
+        'name'      => '圣诞岛',
+        'alpha2'    => 'cx',
+        'alpha3'    => 'cxr'
+    ),
+    array(
+        'id'        => 166,
+        'name'      => '科科斯（基林）群島',
+        'alpha2'    => 'cc',
+        'alpha3'    => 'cck'
     ),
     array(
         'id'        => 170,
@@ -241,6 +313,12 @@ $countries = array(
         'alpha3'    => 'cod'
     ),
     array(
+        'id'        => 184,
+        'name'      => '庫克群島',
+        'alpha2'    => 'ck',
+        'alpha3'    => 'cok'
+    ),
+    array(
         'id'        => 188,
         'name'      => '哥斯达黎加',
         'alpha2'    => 'cr',
@@ -263,6 +341,12 @@ $countries = array(
         'name'      => '古巴',
         'alpha2'    => 'cu',
         'alpha3'    => 'cub'
+    ),
+    array(
+        'id'        => 531,
+        'name'      => '库拉索',
+        'alpha2'    => 'cw',
+        'alpha3'    => 'cuw'
     ),
     array(
         'id'        => 196,
@@ -349,6 +433,18 @@ $countries = array(
         'alpha3'    => 'eth'
     ),
     array(
+        'id'        => 238,
+        'name'      => '福克蘭群島',
+        'alpha2'    => 'fk',
+        'alpha3'    => 'flk'
+    ),
+    array(
+        'id'        => 234,
+        'name'      => '法罗群岛',
+        'alpha2'    => 'fo',
+        'alpha3'    => 'fro'
+    ),
+    array(
         'id'        => 242,
         'name'      => '斐济',
         'alpha2'    => 'fj',
@@ -365,6 +461,24 @@ $countries = array(
         'name'      => '法國',
         'alpha2'    => 'fr',
         'alpha3'    => 'fra'
+    ),
+    array(
+        'id'        => 254,
+        'name'      => '法属圭亚那',
+        'alpha2'    => 'gf',
+        'alpha3'    => 'guf'
+    ),
+    array(
+        'id'        => 258,
+        'name'      => '法屬玻里尼西亞',
+        'alpha2'    => 'pf',
+        'alpha3'    => 'pyf'
+    ),
+    array(
+        'id'        => 260,
+        'name'      => '法属南部和南极领地',
+        'alpha2'    => 'tf',
+        'alpha3'    => 'atf'
     ),
     array(
         'id'        => 266,
@@ -397,10 +511,22 @@ $countries = array(
         'alpha3'    => 'gha'
     ),
     array(
+        'id'        => 292,
+        'name'      => '直布罗陀',
+        'alpha2'    => 'gi',
+        'alpha3'    => 'gib'
+    ),
+    array(
         'id'        => 300,
         'name'      => '希臘',
         'alpha2'    => 'gr',
         'alpha3'    => 'grc'
+    ),
+    array(
+        'id'        => 304,
+        'name'      => '格陵兰',
+        'alpha2'    => 'gl',
+        'alpha3'    => 'grl'
     ),
     array(
         'id'        => 308,
@@ -409,10 +535,28 @@ $countries = array(
         'alpha3'    => 'grd'
     ),
     array(
+        'id'        => 312,
+        'name'      => '瓜德罗普',
+        'alpha2'    => 'gp',
+        'alpha3'    => 'glp'
+    ),
+    array(
+        'id'        => 316,
+        'name'      => '關島',
+        'alpha2'    => 'gu',
+        'alpha3'    => 'gum'
+    ),
+    array(
         'id'        => 320,
         'name'      => '危地马拉',
         'alpha2'    => 'gt',
         'alpha3'    => 'gtm'
+    ),
+    array(
+        'id'        => 831,
+        'name'      => '根西',
+        'alpha2'    => 'gg',
+        'alpha3'    => 'ggy'
     ),
     array(
         'id'        => 324,
@@ -439,10 +583,28 @@ $countries = array(
         'alpha3'    => 'hti'
     ),
     array(
+        'id'        => 334,
+        'name'      => '赫德岛和麦克唐纳群岛',
+        'alpha2'    => 'hm',
+        'alpha3'    => 'hmd'
+    ),
+    array(
+        'id'        => 336,
+        'name'      => '梵蒂冈',
+        'alpha2'    => 'va',
+        'alpha3'    => 'vat'
+    ),
+    array(
         'id'        => 340,
         'name'      => '洪都拉斯',
         'alpha2'    => 'hn',
         'alpha3'    => 'hnd'
+    ),
+    array(
+        'id'        => 344,
+        'name'      => '香港',
+        'alpha2'    => 'hk',
+        'alpha3'    => 'hkg'
     ),
     array(
         'id'        => 348,
@@ -487,6 +649,12 @@ $countries = array(
         'alpha3'    => 'irl'
     ),
     array(
+        'id'        => 833,
+        'name'      => '马恩岛',
+        'alpha2'    => 'im',
+        'alpha3'    => 'imn'
+    ),
+    array(
         'id'        => 376,
         'name'      => '以色列',
         'alpha2'    => 'il',
@@ -509,6 +677,12 @@ $countries = array(
         'name'      => '日本',
         'alpha2'    => 'jp',
         'alpha3'    => 'jpn'
+    ),
+    array(
+        'id'        => 832,
+        'name'      => '澤西',
+        'alpha2'    => 'je',
+        'alpha3'    => 'jey'
     ),
     array(
         'id'        => 400,
@@ -613,6 +787,12 @@ $countries = array(
         'alpha3'    => 'lux'
     ),
     array(
+        'id'        => 446,
+        'name'      => '澳門',
+        'alpha2'    => 'mo',
+        'alpha3'    => 'mac'
+    ),
+    array(
         'id'        => 450,
         'name'      => '马达加斯加',
         'alpha2'    => 'mg',
@@ -655,6 +835,12 @@ $countries = array(
         'alpha3'    => 'mhl'
     ),
     array(
+        'id'        => 474,
+        'name'      => '马提尼克',
+        'alpha2'    => 'mq',
+        'alpha3'    => 'mtq'
+    ),
+    array(
         'id'        => 478,
         'name'      => '毛里塔尼亚',
         'alpha2'    => 'mr',
@@ -665,6 +851,12 @@ $countries = array(
         'name'      => '模里西斯',
         'alpha2'    => 'mu',
         'alpha3'    => 'mus'
+    ),
+    array(
+        'id'        => 175,
+        'name'      => '马约特',
+        'alpha2'    => 'yt',
+        'alpha3'    => 'myt'
     ),
     array(
         'id'        => 484,
@@ -701,6 +893,12 @@ $countries = array(
         'name'      => '蒙特內哥羅',
         'alpha2'    => 'me',
         'alpha3'    => 'mne'
+    ),
+    array(
+        'id'        => 500,
+        'name'      => '蒙特塞拉特',
+        'alpha2'    => 'ms',
+        'alpha3'    => 'msr'
     ),
     array(
         'id'        => 504,
@@ -740,9 +938,15 @@ $countries = array(
     ),
     array(
         'id'        => 528,
-        'name'      => '尼德蘭',
+        'name'      => '荷蘭',
         'alpha2'    => 'nl',
         'alpha3'    => 'nld'
+    ),
+    array(
+        'id'        => 540,
+        'name'      => '新喀里多尼亞',
+        'alpha2'    => 'nc',
+        'alpha3'    => 'ncl'
     ),
     array(
         'id'        => 554,
@@ -769,10 +973,28 @@ $countries = array(
         'alpha3'    => 'nga'
     ),
     array(
+        'id'        => 570,
+        'name'      => '纽埃',
+        'alpha2'    => 'nu',
+        'alpha3'    => 'niu'
+    ),
+    array(
+        'id'        => 574,
+        'name'      => '诺福克岛',
+        'alpha2'    => 'nf',
+        'alpha3'    => 'nfk'
+    ),
+    array(
         'id'        => 807,
         'name'      => '北馬其頓',
         'alpha2'    => 'mk',
         'alpha3'    => 'mkd'
+    ),
+    array(
+        'id'        => 580,
+        'name'      => '北马里亚纳群岛',
+        'alpha2'    => 'mp',
+        'alpha3'    => 'mnp'
     ),
     array(
         'id'        => 578,
@@ -797,6 +1019,12 @@ $countries = array(
         'name'      => '帛琉',
         'alpha2'    => 'pw',
         'alpha3'    => 'plw'
+    ),
+    array(
+        'id'        => 275,
+        'name'      => '巴勒斯坦',
+        'alpha2'    => 'ps',
+        'alpha3'    => 'pse'
     ),
     array(
         'id'        => 591,
@@ -829,6 +1057,12 @@ $countries = array(
         'alpha3'    => 'phl'
     ),
     array(
+        'id'        => 612,
+        'name'      => '皮特凯恩群岛',
+        'alpha2'    => 'pn',
+        'alpha3'    => 'pcn'
+    ),
+    array(
         'id'        => 616,
         'name'      => '波蘭',
         'alpha2'    => 'pl',
@@ -841,10 +1075,22 @@ $countries = array(
         'alpha3'    => 'prt'
     ),
     array(
+        'id'        => 630,
+        'name'      => '波多黎各',
+        'alpha2'    => 'pr',
+        'alpha3'    => 'pri'
+    ),
+    array(
         'id'        => 634,
         'name'      => '卡塔尔',
         'alpha2'    => 'qa',
         'alpha3'    => 'qat'
+    ),
+    array(
+        'id'        => 638,
+        'name'      => '留尼旺',
+        'alpha2'    => 're',
+        'alpha3'    => 'reu'
     ),
     array(
         'id'        => 642,
@@ -865,6 +1111,18 @@ $countries = array(
         'alpha3'    => 'rwa'
     ),
     array(
+        'id'        => 652,
+        'name'      => '圣巴泰勒米',
+        'alpha2'    => 'bl',
+        'alpha3'    => 'blm'
+    ),
+    array(
+        'id'        => 654,
+        'name'      => '圣赫勒拿、阿森松和特里斯坦-达库尼亚',
+        'alpha2'    => 'sh',
+        'alpha3'    => 'shn'
+    ),
+    array(
         'id'        => 659,
         'name'      => '圣基茨和尼维斯',
         'alpha2'    => 'kn',
@@ -875,6 +1133,18 @@ $countries = array(
         'name'      => '圣卢西亚',
         'alpha2'    => 'lc',
         'alpha3'    => 'lca'
+    ),
+    array(
+        'id'        => 663,
+        'name'      => '法属圣马丁',
+        'alpha2'    => 'mf',
+        'alpha3'    => 'maf'
+    ),
+    array(
+        'id'        => 666,
+        'name'      => '圣皮埃尔和密克隆',
+        'alpha2'    => 'pm',
+        'alpha3'    => 'spm'
     ),
     array(
         'id'        => 670,
@@ -937,6 +1207,12 @@ $countries = array(
         'alpha3'    => 'sgp'
     ),
     array(
+        'id'        => 534,
+        'name'      => '荷屬聖馬丁',
+        'alpha2'    => 'sx',
+        'alpha3'    => 'sxm'
+    ),
+    array(
         'id'        => 703,
         'name'      => '斯洛伐克',
         'alpha2'    => 'sk',
@@ -965,6 +1241,12 @@ $countries = array(
         'name'      => '南非',
         'alpha2'    => 'za',
         'alpha3'    => 'zaf'
+    ),
+    array(
+        'id'        => 239,
+        'name'      => '南乔治亚和南桑威奇群岛',
+        'alpha2'    => 'gs',
+        'alpha3'    => 'sgs'
     ),
     array(
         'id'        => 728,
@@ -997,6 +1279,12 @@ $countries = array(
         'alpha3'    => 'sur'
     ),
     array(
+        'id'        => 744,
+        'name'      => '斯瓦尔巴和扬马延',
+        'alpha2'    => 'sj',
+        'alpha3'    => 'sjm'
+    ),
+    array(
         'id'        => 752,
         'name'      => '瑞典',
         'alpha2'    => 'se',
@@ -1013,6 +1301,12 @@ $countries = array(
         'name'      => '叙利亚',
         'alpha2'    => 'sy',
         'alpha3'    => 'syr'
+    ),
+    array(
+        'id'        => 158,
+        'name'      => '台灣',
+        'alpha2'    => 'tw',
+        'alpha3'    => 'twn'
     ),
     array(
         'id'        => 762,
@@ -1045,6 +1339,12 @@ $countries = array(
         'alpha3'    => 'tgo'
     ),
     array(
+        'id'        => 772,
+        'name'      => '托克勞',
+        'alpha2'    => 'tk',
+        'alpha3'    => 'tkl'
+    ),
+    array(
         'id'        => 776,
         'name'      => '汤加',
         'alpha2'    => 'to',
@@ -1073,6 +1373,12 @@ $countries = array(
         'name'      => '土库曼斯坦',
         'alpha2'    => 'tm',
         'alpha3'    => 'tkm'
+    ),
+    array(
+        'id'        => 796,
+        'name'      => '特克斯和凯科斯群岛',
+        'alpha2'    => 'tc',
+        'alpha3'    => 'tca'
     ),
     array(
         'id'        => 798,
@@ -1111,6 +1417,12 @@ $countries = array(
         'alpha3'    => 'usa'
     ),
     array(
+        'id'        => 581,
+        'name'      => '美國本土外小島嶼',
+        'alpha2'    => 'um',
+        'alpha3'    => 'umi'
+    ),
+    array(
         'id'        => 858,
         'name'      => '乌拉圭',
         'alpha2'    => 'uy',
@@ -1139,6 +1451,30 @@ $countries = array(
         'name'      => '越南',
         'alpha2'    => 'vn',
         'alpha3'    => 'vnm'
+    ),
+    array(
+        'id'        => 92,
+        'name'      => '英屬維爾京群島',
+        'alpha2'    => 'vg',
+        'alpha3'    => 'vgb'
+    ),
+    array(
+        'id'        => 850,
+        'name'      => '美屬維爾京群島',
+        'alpha2'    => 'vi',
+        'alpha3'    => 'vir'
+    ),
+    array(
+        'id'        => 876,
+        'name'      => '瓦利斯和富图纳',
+        'alpha2'    => 'wf',
+        'alpha3'    => 'wlf'
+    ),
+    array(
+        'id'        => 732,
+        'name'      => '阿拉伯撒哈拉民主共和国',
+        'alpha2'    => 'eh',
+        'alpha3'    => 'esh'
     ),
     array(
         'id'        => 887,
