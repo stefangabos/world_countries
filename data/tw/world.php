@@ -8,31 +8,31 @@ $world = array(
     ),
     array(
         'id'        => 248,
-        'name'      => '奥兰',
+        'name'      => '奧蘭',
         'alpha2'    => 'ax',
         'alpha3'    => 'ala'
     ),
     array(
         'id'        => 8,
-        'name'      => '阿尔巴尼亚',
+        'name'      => '阿爾巴尼亞',
         'alpha2'    => 'al',
         'alpha3'    => 'alb'
     ),
     array(
         'id'        => 12,
-        'name'      => '阿尔及利亚',
+        'name'      => '阿爾及利亞',
         'alpha2'    => 'dz',
         'alpha3'    => 'dza'
     ),
     array(
         'id'        => 16,
-        'name'      => '美属萨摩亚',
+        'name'      => '美屬薩摩亞',
         'alpha2'    => 'as',
         'alpha3'    => 'asm'
     ),
     array(
         'id'        => 20,
-        'name'      => '安道尔',
+        'name'      => '安道爾',
         'alpha2'    => 'ad',
         'alpha3'    => 'and'
     ),
@@ -50,7 +50,7 @@ $world = array(
     ),
     array(
         'id'        => 10,
-        'name'      => '南极洲',
+        'name'      => '南極洲',
         'alpha2'    => 'aq',
         'alpha3'    => 'ata'
     ),
@@ -74,31 +74,31 @@ $world = array(
     ),
     array(
         'id'        => 533,
-        'name'      => '阿鲁巴',
+        'name'      => '阿魯巴',
         'alpha2'    => 'aw',
         'alpha3'    => 'abw'
     ),
     array(
         'id'        => 36,
-        'name'      => '澳大利亚',
+        'name'      => '澳大利亞',
         'alpha2'    => 'au',
         'alpha3'    => 'aus'
     ),
     array(
         'id'        => 40,
-        'name'      => '奥地利',
+        'name'      => '奧地利',
         'alpha2'    => 'at',
         'alpha3'    => 'aut'
     ),
     array(
         'id'        => 31,
-        'name'      => '阿塞拜疆',
+        'name'      => '亞塞拜然',
         'alpha2'    => 'az',
         'alpha3'    => 'aze'
     ),
     array(
         'id'        => 44,
-        'name'      => '巴哈马',
+        'name'      => '巴哈馬',
         'alpha2'    => 'bs',
         'alpha3'    => 'bhs'
     ),
@@ -110,13 +110,13 @@ $world = array(
     ),
     array(
         'id'        => 50,
-        'name'      => '孟加拉国',
+        'name'      => '孟加拉國',
         'alpha2'    => 'bd',
         'alpha3'    => 'bgd'
     ),
     array(
         'id'        => 52,
-        'name'      => '巴巴多斯',
+        'name'      => '巴貝多',
         'alpha2'    => 'bb',
         'alpha3'    => 'brb'
     ),
@@ -134,19 +134,19 @@ $world = array(
     ),
     array(
         'id'        => 84,
-        'name'      => '伯利兹',
+        'name'      => '貝里斯',
         'alpha2'    => 'bz',
         'alpha3'    => 'blz'
     ),
     array(
         'id'        => 204,
-        'name'      => '贝宁',
+        'name'      => '貝南',
         'alpha2'    => 'bj',
         'alpha3'    => 'ben'
     ),
     array(
         'id'        => 60,
-        'name'      => '百慕大',
+        'name'      => '百慕達',
         'alpha2'    => 'bm',
         'alpha3'    => 'bmu'
     ),
@@ -158,31 +158,31 @@ $world = array(
     ),
     array(
         'id'        => 68,
-        'name'      => '玻利维亚',
+        'name'      => '玻利維亞',
         'alpha2'    => 'bo',
         'alpha3'    => 'bol'
     ),
     array(
         'id'        => 535,
-        'name'      => '荷兰加勒比区',
+        'name'      => '荷蘭加勒比區',
         'alpha2'    => 'bq',
         'alpha3'    => 'bes'
     ),
     array(
         'id'        => 70,
-        'name'      => '波黑',
+        'name'      => '波赫',
         'alpha2'    => 'ba',
         'alpha3'    => 'bih'
     ),
     array(
         'id'        => 72,
-        'name'      => '博茨瓦纳',
+        'name'      => '波札那',
         'alpha2'    => 'bw',
         'alpha3'    => 'bwa'
     ),
     array(
         'id'        => 74,
-        'name'      => '布韦岛',
+        'name'      => '布韋島',
         'alpha2'    => 'bv',
         'alpha3'    => 'bvt'
     ),
@@ -200,13 +200,13 @@ $world = array(
     ),
     array(
         'id'        => 96,
-        'name'      => '文莱',
+        'name'      => '汶萊',
         'alpha2'    => 'bn',
         'alpha3'    => 'brn'
     ),
     array(
         'id'        => 100,
-        'name'      => '保加利亚',
+        'name'      => '保加利亞',
         'alpha2'    => 'bg',
         'alpha3'    => 'bgr'
     ),
@@ -218,13 +218,13 @@ $world = array(
     ),
     array(
         'id'        => 108,
-        'name'      => '布隆迪',
+        'name'      => '蒲隆地',
         'alpha2'    => 'bi',
         'alpha3'    => 'bdi'
     ),
     array(
         'id'        => 132,
-        'name'      => '佛得角',
+        'name'      => '維德角',
         'alpha2'    => 'cv',
         'alpha3'    => 'cpv'
     ),
@@ -236,7 +236,7 @@ $world = array(
     ),
     array(
         'id'        => 120,
-        'name'      => '喀麦隆',
+        'name'      => '喀麥隆',
         'alpha2'    => 'cm',
         'alpha3'    => 'cmr'
     ),
@@ -248,7 +248,7 @@ $world = array(
     ),
     array(
         'id'        => 136,
-        'name'      => '开曼群岛',
+        'name'      => '開曼群島',
         'alpha2'    => 'ky',
         'alpha3'    => 'cym'
     ),
@@ -260,7 +260,7 @@ $world = array(
     ),
     array(
         'id'        => 148,
-        'name'      => '乍得',
+        'name'      => '查德',
         'alpha2'    => 'td',
         'alpha3'    => 'tcd'
     ),
@@ -272,13 +272,13 @@ $world = array(
     ),
     array(
         'id'        => 156,
-        'name'      => '中国',
+        'name'      => '中國',
         'alpha2'    => 'cn',
         'alpha3'    => 'chn'
     ),
     array(
         'id'        => 162,
-        'name'      => '圣诞岛',
+        'name'      => '聖誕島',
         'alpha2'    => 'cx',
         'alpha3'    => 'cxr'
     ),
@@ -290,25 +290,25 @@ $world = array(
     ),
     array(
         'id'        => 170,
-        'name'      => '哥伦比亚',
+        'name'      => '哥倫比亞',
         'alpha2'    => 'co',
         'alpha3'    => 'col'
     ),
     array(
         'id'        => 174,
-        'name'      => '科摩罗',
+        'name'      => '葛摩',
         'alpha2'    => 'km',
         'alpha3'    => 'com'
     ),
     array(
         'id'        => 178,
-        'name'      => '刚果共和国',
+        'name'      => '剛果共和國',
         'alpha2'    => 'cg',
         'alpha3'    => 'cog'
     ),
     array(
         'id'        => 180,
-        'name'      => '刚果民主共和国',
+        'name'      => '剛果民主共和國',
         'alpha2'    => 'cd',
         'alpha3'    => 'cod'
     ),
@@ -320,19 +320,19 @@ $world = array(
     ),
     array(
         'id'        => 188,
-        'name'      => '哥斯达黎加',
+        'name'      => '哥斯大黎加',
         'alpha2'    => 'cr',
         'alpha3'    => 'cri'
     ),
     array(
         'id'        => 384,
-        'name'      => '科特迪瓦',
+        'name'      => '象牙海岸',
         'alpha2'    => 'ci',
         'alpha3'    => 'civ'
     ),
     array(
         'id'        => 191,
-        'name'      => '克罗地亚',
+        'name'      => '克羅埃西亞',
         'alpha2'    => 'hr',
         'alpha3'    => 'hrv'
     ),
@@ -344,7 +344,7 @@ $world = array(
     ),
     array(
         'id'        => 531,
-        'name'      => '库拉索',
+        'name'      => '古拉索',
         'alpha2'    => 'cw',
         'alpha3'    => 'cuw'
     ),
@@ -368,7 +368,7 @@ $world = array(
     ),
     array(
         'id'        => 262,
-        'name'      => '吉布提',
+        'name'      => '吉布地',
         'alpha2'    => 'dj',
         'alpha3'    => 'dji'
     ),
@@ -380,13 +380,13 @@ $world = array(
     ),
     array(
         'id'        => 214,
-        'name'      => '多米尼加',
+        'name'      => '多明尼加',
         'alpha2'    => 'do',
         'alpha3'    => 'dom'
     ),
     array(
         'id'        => 218,
-        'name'      => '厄瓜多尔',
+        'name'      => '厄瓜多',
         'alpha2'    => 'ec',
         'alpha3'    => 'ecu'
     ),
@@ -404,25 +404,25 @@ $world = array(
     ),
     array(
         'id'        => 226,
-        'name'      => '赤道几内亚',
+        'name'      => '赤道幾內亞',
         'alpha2'    => 'gq',
         'alpha3'    => 'gnq'
     ),
     array(
         'id'        => 232,
-        'name'      => '厄立特里亚',
+        'name'      => '厄利垂亞',
         'alpha2'    => 'er',
         'alpha3'    => 'eri'
     ),
     array(
         'id'        => 233,
-        'name'      => '爱沙尼亚',
+        'name'      => '愛沙尼亞',
         'alpha2'    => 'ee',
         'alpha3'    => 'est'
     ),
     array(
         'id'        => 748,
-        'name'      => '斯威士兰',
+        'name'      => '史瓦帝尼',
         'alpha2'    => 'sz',
         'alpha3'    => 'swz'
     ),
@@ -440,19 +440,19 @@ $world = array(
     ),
     array(
         'id'        => 234,
-        'name'      => '法罗群岛',
+        'name'      => '法羅群島',
         'alpha2'    => 'fo',
         'alpha3'    => 'fro'
     ),
     array(
         'id'        => 242,
-        'name'      => '斐济',
+        'name'      => '斐濟',
         'alpha2'    => 'fj',
         'alpha3'    => 'fji'
     ),
     array(
         'id'        => 246,
-        'name'      => '芬兰',
+        'name'      => '芬蘭',
         'alpha2'    => 'fi',
         'alpha3'    => 'fin'
     ),
@@ -464,7 +464,7 @@ $world = array(
     ),
     array(
         'id'        => 254,
-        'name'      => '法属圭亚那',
+        'name'      => '法屬圭亞那',
         'alpha2'    => 'gf',
         'alpha3'    => 'guf'
     ),
@@ -476,7 +476,7 @@ $world = array(
     ),
     array(
         'id'        => 260,
-        'name'      => '法属南部和南极领地',
+        'name'      => '法屬南部和南極領地',
         'alpha2'    => 'tf',
         'alpha3'    => 'atf'
     ),
@@ -488,13 +488,13 @@ $world = array(
     ),
     array(
         'id'        => 270,
-        'name'      => '冈比亚',
+        'name'      => '甘比亞',
         'alpha2'    => 'gm',
         'alpha3'    => 'gmb'
     ),
     array(
         'id'        => 268,
-        'name'      => '格鲁吉亚',
+        'name'      => '喬治亞',
         'alpha2'    => 'ge',
         'alpha3'    => 'geo'
     ),
@@ -506,13 +506,13 @@ $world = array(
     ),
     array(
         'id'        => 288,
-        'name'      => '加纳',
+        'name'      => '加納',
         'alpha2'    => 'gh',
         'alpha3'    => 'gha'
     ),
     array(
         'id'        => 292,
-        'name'      => '直布罗陀',
+        'name'      => '直布羅陀',
         'alpha2'    => 'gi',
         'alpha3'    => 'gib'
     ),
@@ -524,7 +524,7 @@ $world = array(
     ),
     array(
         'id'        => 304,
-        'name'      => '格陵兰',
+        'name'      => '格陵蘭',
         'alpha2'    => 'gl',
         'alpha3'    => 'grl'
     ),
@@ -536,7 +536,7 @@ $world = array(
     ),
     array(
         'id'        => 312,
-        'name'      => '瓜德罗普',
+        'name'      => '瓜地洛普',
         'alpha2'    => 'gp',
         'alpha3'    => 'glp'
     ),
@@ -548,7 +548,7 @@ $world = array(
     ),
     array(
         'id'        => 320,
-        'name'      => '危地马拉',
+        'name'      => '瓜地馬拉',
         'alpha2'    => 'gt',
         'alpha3'    => 'gtm'
     ),
@@ -560,19 +560,19 @@ $world = array(
     ),
     array(
         'id'        => 324,
-        'name'      => '几内亚',
+        'name'      => '幾內亞',
         'alpha2'    => 'gn',
         'alpha3'    => 'gin'
     ),
     array(
         'id'        => 624,
-        'name'      => '几内亚比绍',
+        'name'      => '幾內亞比索',
         'alpha2'    => 'gw',
         'alpha3'    => 'gnb'
     ),
     array(
         'id'        => 328,
-        'name'      => '圭亚那',
+        'name'      => '蓋亞那',
         'alpha2'    => 'gy',
         'alpha3'    => 'guy'
     ),
@@ -584,19 +584,19 @@ $world = array(
     ),
     array(
         'id'        => 334,
-        'name'      => '赫德岛和麦克唐纳群岛',
+        'name'      => '赫德島和麥克唐納群島',
         'alpha2'    => 'hm',
         'alpha3'    => 'hmd'
     ),
     array(
         'id'        => 336,
-        'name'      => '梵蒂冈',
+        'name'      => '梵蒂岡',
         'alpha2'    => 'va',
         'alpha3'    => 'vat'
     ),
     array(
         'id'        => 340,
-        'name'      => '洪都拉斯',
+        'name'      => '宏都拉斯',
         'alpha2'    => 'hn',
         'alpha3'    => 'hnd'
     ),
@@ -644,13 +644,13 @@ $world = array(
     ),
     array(
         'id'        => 372,
-        'name'      => '爱尔兰',
+        'name'      => '愛爾蘭',
         'alpha2'    => 'ie',
         'alpha3'    => 'irl'
     ),
     array(
         'id'        => 833,
-        'name'      => '马恩岛',
+        'name'      => '曼島',
         'alpha2'    => 'im',
         'alpha3'    => 'imn'
     ),
@@ -668,7 +668,7 @@ $world = array(
     ),
     array(
         'id'        => 388,
-        'name'      => '牙买加',
+        'name'      => '牙買加',
         'alpha2'    => 'jm',
         'alpha3'    => 'jam'
     ),
@@ -686,37 +686,37 @@ $world = array(
     ),
     array(
         'id'        => 400,
-        'name'      => '约旦',
+        'name'      => '約旦',
         'alpha2'    => 'jo',
         'alpha3'    => 'jor'
     ),
     array(
         'id'        => 398,
-        'name'      => '哈萨克斯坦',
+        'name'      => '哈薩克',
         'alpha2'    => 'kz',
         'alpha3'    => 'kaz'
     ),
     array(
         'id'        => 404,
-        'name'      => '肯尼亚',
+        'name'      => '肯亞',
         'alpha2'    => 'ke',
         'alpha3'    => 'ken'
     ),
     array(
         'id'        => 296,
-        'name'      => '基里巴斯',
+        'name'      => '吉里巴斯',
         'alpha2'    => 'ki',
         'alpha3'    => 'kir'
     ),
     array(
         'id'        => 408,
-        'name'      => '朝鲜',
+        'name'      => '北韓',
         'alpha2'    => 'kp',
         'alpha3'    => 'prk'
     ),
     array(
         'id'        => 410,
-        'name'      => '韩国',
+        'name'      => '韓國',
         'alpha2'    => 'kr',
         'alpha3'    => 'kor'
     ),
@@ -728,13 +728,13 @@ $world = array(
     ),
     array(
         'id'        => 417,
-        'name'      => '吉尔吉斯斯坦',
+        'name'      => '吉爾吉斯',
         'alpha2'    => 'kg',
         'alpha3'    => 'kgz'
     ),
     array(
         'id'        => 418,
-        'name'      => '老挝',
+        'name'      => '寮國',
         'alpha2'    => 'la',
         'alpha3'    => 'lao'
     ),
@@ -758,7 +758,7 @@ $world = array(
     ),
     array(
         'id'        => 430,
-        'name'      => '利比里亚',
+        'name'      => '賴比瑞亞',
         'alpha2'    => 'lr',
         'alpha3'    => 'lbr'
     ),
@@ -782,7 +782,7 @@ $world = array(
     ),
     array(
         'id'        => 442,
-        'name'      => '卢森堡',
+        'name'      => '盧森堡',
         'alpha2'    => 'lu',
         'alpha3'    => 'lux'
     ),
@@ -794,19 +794,19 @@ $world = array(
     ),
     array(
         'id'        => 450,
-        'name'      => '马达加斯加',
+        'name'      => '馬達加斯加',
         'alpha2'    => 'mg',
         'alpha3'    => 'mdg'
     ),
     array(
         'id'        => 454,
-        'name'      => '马拉维',
+        'name'      => '馬拉威',
         'alpha2'    => 'mw',
         'alpha3'    => 'mwi'
     ),
     array(
         'id'        => 458,
-        'name'      => '马来西亚',
+        'name'      => '馬來西亞',
         'alpha2'    => 'my',
         'alpha3'    => 'mys'
     ),
@@ -818,7 +818,7 @@ $world = array(
     ),
     array(
         'id'        => 466,
-        'name'      => '马里',
+        'name'      => '馬利',
         'alpha2'    => 'ml',
         'alpha3'    => 'mli'
     ),
@@ -830,19 +830,19 @@ $world = array(
     ),
     array(
         'id'        => 584,
-        'name'      => '马绍尔群岛',
+        'name'      => '馬紹爾群島',
         'alpha2'    => 'mh',
         'alpha3'    => 'mhl'
     ),
     array(
         'id'        => 474,
-        'name'      => '马提尼克',
+        'name'      => '馬丁尼克',
         'alpha2'    => 'mq',
         'alpha3'    => 'mtq'
     ),
     array(
         'id'        => 478,
-        'name'      => '毛里塔尼亚',
+        'name'      => '茅利塔尼亞',
         'alpha2'    => 'mr',
         'alpha3'    => 'mrt'
     ),
@@ -854,7 +854,7 @@ $world = array(
     ),
     array(
         'id'        => 175,
-        'name'      => '马约特',
+        'name'      => '馬約特',
         'alpha2'    => 'yt',
         'alpha3'    => 'myt'
     ),
@@ -872,7 +872,7 @@ $world = array(
     ),
     array(
         'id'        => 498,
-        'name'      => '摩尔多瓦',
+        'name'      => '摩爾多瓦',
         'alpha2'    => 'md',
         'alpha3'    => 'mda'
     ),
@@ -908,7 +908,7 @@ $world = array(
     ),
     array(
         'id'        => 508,
-        'name'      => '莫桑比克',
+        'name'      => '莫三比克',
         'alpha2'    => 'mz',
         'alpha3'    => 'moz'
     ),
@@ -920,19 +920,19 @@ $world = array(
     ),
     array(
         'id'        => 516,
-        'name'      => '纳米比亚',
+        'name'      => '納米比亞',
         'alpha2'    => 'na',
         'alpha3'    => 'nam'
     ),
     array(
         'id'        => 520,
-        'name'      => '瑙鲁',
+        'name'      => '諾魯',
         'alpha2'    => 'nr',
         'alpha3'    => 'nru'
     ),
     array(
         'id'        => 524,
-        'name'      => '尼泊尔',
+        'name'      => '尼泊爾',
         'alpha2'    => 'np',
         'alpha3'    => 'npl'
     ),
@@ -950,7 +950,7 @@ $world = array(
     ),
     array(
         'id'        => 554,
-        'name'      => '新西蘭',
+        'name'      => '紐西蘭',
         'alpha2'    => 'nz',
         'alpha3'    => 'nzl'
     ),
@@ -962,7 +962,7 @@ $world = array(
     ),
     array(
         'id'        => 562,
-        'name'      => '尼日尔',
+        'name'      => '尼日',
         'alpha2'    => 'ne',
         'alpha3'    => 'ner'
     ),
@@ -974,13 +974,13 @@ $world = array(
     ),
     array(
         'id'        => 570,
-        'name'      => '纽埃',
+        'name'      => '紐埃',
         'alpha2'    => 'nu',
         'alpha3'    => 'niu'
     ),
     array(
         'id'        => 574,
-        'name'      => '诺福克岛',
+        'name'      => '諾福克島',
         'alpha2'    => 'nf',
         'alpha3'    => 'nfk'
     ),
@@ -992,7 +992,7 @@ $world = array(
     ),
     array(
         'id'        => 580,
-        'name'      => '北马里亚纳群岛',
+        'name'      => '北馬利安納群島',
         'alpha2'    => 'mp',
         'alpha3'    => 'mnp'
     ),
@@ -1028,13 +1028,13 @@ $world = array(
     ),
     array(
         'id'        => 591,
-        'name'      => '巴拿马',
+        'name'      => '巴拿馬',
         'alpha2'    => 'pa',
         'alpha3'    => 'pan'
     ),
     array(
         'id'        => 598,
-        'name'      => '巴布亚新几内亚',
+        'name'      => '巴布亞紐幾內亞',
         'alpha2'    => 'pg',
         'alpha3'    => 'png'
     ),
@@ -1058,7 +1058,7 @@ $world = array(
     ),
     array(
         'id'        => 612,
-        'name'      => '皮特凯恩群岛',
+        'name'      => '皮特肯群島',
         'alpha2'    => 'pn',
         'alpha3'    => 'pcn'
     ),
@@ -1082,7 +1082,7 @@ $world = array(
     ),
     array(
         'id'        => 634,
-        'name'      => '卡塔尔',
+        'name'      => '卡達',
         'alpha2'    => 'qa',
         'alpha3'    => 'qat'
     ),
@@ -1106,67 +1106,67 @@ $world = array(
     ),
     array(
         'id'        => 646,
-        'name'      => '卢旺达',
+        'name'      => '盧安達',
         'alpha2'    => 'rw',
         'alpha3'    => 'rwa'
     ),
     array(
         'id'        => 652,
-        'name'      => '圣巴泰勒米',
+        'name'      => '聖巴瑟米',
         'alpha2'    => 'bl',
         'alpha3'    => 'blm'
     ),
     array(
         'id'        => 654,
-        'name'      => '圣赫勒拿、阿森松和特里斯坦-达库尼亚',
+        'name'      => '聖赫倫那、阿森松和特里斯坦-達庫尼亞',
         'alpha2'    => 'sh',
         'alpha3'    => 'shn'
     ),
     array(
         'id'        => 659,
-        'name'      => '圣基茨和尼维斯',
+        'name'      => '聖克里斯多福及尼維斯',
         'alpha2'    => 'kn',
         'alpha3'    => 'kna'
     ),
     array(
         'id'        => 662,
-        'name'      => '圣卢西亚',
+        'name'      => '聖露西亞',
         'alpha2'    => 'lc',
         'alpha3'    => 'lca'
     ),
     array(
         'id'        => 663,
-        'name'      => '法属圣马丁',
+        'name'      => '法屬聖馬丁',
         'alpha2'    => 'mf',
         'alpha3'    => 'maf'
     ),
     array(
         'id'        => 666,
-        'name'      => '圣皮埃尔和密克隆',
+        'name'      => '聖皮埃與密克隆群島',
         'alpha2'    => 'pm',
         'alpha3'    => 'spm'
     ),
     array(
         'id'        => 670,
-        'name'      => '圣文森特和格林纳丁斯',
+        'name'      => '聖文森及格瑞那丁',
         'alpha2'    => 'vc',
         'alpha3'    => 'vct'
     ),
     array(
         'id'        => 882,
-        'name'      => '萨摩亚',
+        'name'      => '薩摩亞',
         'alpha2'    => 'ws',
         'alpha3'    => 'wsm'
     ),
     array(
         'id'        => 674,
-        'name'      => '圣马力诺',
+        'name'      => '聖馬利諾',
         'alpha2'    => 'sm',
         'alpha3'    => 'smr'
     ),
     array(
         'id'        => 678,
-        'name'      => '聖多美和普林西比',
+        'name'      => '聖多美普林西比',
         'alpha2'    => 'st',
         'alpha3'    => 'stp'
     ),
@@ -1178,7 +1178,7 @@ $world = array(
     ),
     array(
         'id'        => 686,
-        'name'      => '塞内加尔',
+        'name'      => '塞內加爾',
         'alpha2'    => 'sn',
         'alpha3'    => 'sen'
     ),
@@ -1190,13 +1190,13 @@ $world = array(
     ),
     array(
         'id'        => 690,
-        'name'      => '塞舌尔',
+        'name'      => '塞席爾',
         'alpha2'    => 'sc',
         'alpha3'    => 'syc'
     ),
     array(
         'id'        => 694,
-        'name'      => '塞拉利昂',
+        'name'      => '獅子山',
         'alpha2'    => 'sl',
         'alpha3'    => 'sle'
     ),
@@ -1226,7 +1226,7 @@ $world = array(
     ),
     array(
         'id'        => 90,
-        'name'      => '所罗门群岛',
+        'name'      => '索羅門群島',
         'alpha2'    => 'sb',
         'alpha3'    => 'slb'
     ),
@@ -1244,7 +1244,7 @@ $world = array(
     ),
     array(
         'id'        => 239,
-        'name'      => '南乔治亚和南桑威奇群岛',
+        'name'      => '南喬治亞和南桑威奇群島',
         'alpha2'    => 'gs',
         'alpha3'    => 'sgs'
     ),
@@ -1268,19 +1268,19 @@ $world = array(
     ),
     array(
         'id'        => 729,
-        'name'      => '苏丹',
+        'name'      => '蘇丹',
         'alpha2'    => 'sd',
         'alpha3'    => 'sdn'
     ),
     array(
         'id'        => 740,
-        'name'      => '苏里南',
+        'name'      => '蘇利南',
         'alpha2'    => 'sr',
         'alpha3'    => 'sur'
     ),
     array(
         'id'        => 744,
-        'name'      => '斯瓦尔巴和扬马延',
+        'name'      => '斯瓦爾巴和揚馬延',
         'alpha2'    => 'sj',
         'alpha3'    => 'sjm'
     ),
@@ -1298,7 +1298,7 @@ $world = array(
     ),
     array(
         'id'        => 760,
-        'name'      => '叙利亚',
+        'name'      => '敘利亞',
         'alpha2'    => 'sy',
         'alpha3'    => 'syr'
     ),
@@ -1310,13 +1310,13 @@ $world = array(
     ),
     array(
         'id'        => 762,
-        'name'      => '塔吉克斯坦',
+        'name'      => '塔吉克',
         'alpha2'    => 'tj',
         'alpha3'    => 'tjk'
     ),
     array(
         'id'        => 834,
-        'name'      => '坦桑尼亚',
+        'name'      => '坦尚尼亞',
         'alpha2'    => 'tz',
         'alpha3'    => 'tza'
     ),
@@ -1328,7 +1328,7 @@ $world = array(
     ),
     array(
         'id'        => 626,
-        'name'      => '东帝汶',
+        'name'      => '東帝汶',
         'alpha2'    => 'tl',
         'alpha3'    => 'tls'
     ),
@@ -1346,7 +1346,7 @@ $world = array(
     ),
     array(
         'id'        => 776,
-        'name'      => '汤加',
+        'name'      => '東加',
         'alpha2'    => 'to',
         'alpha3'    => 'ton'
     ),
@@ -1370,25 +1370,25 @@ $world = array(
     ),
     array(
         'id'        => 795,
-        'name'      => '土库曼斯坦',
+        'name'      => '土庫曼',
         'alpha2'    => 'tm',
         'alpha3'    => 'tkm'
     ),
     array(
         'id'        => 796,
-        'name'      => '特克斯和凯科斯群岛',
+        'name'      => '特克斯與凱科斯群島',
         'alpha2'    => 'tc',
         'alpha3'    => 'tca'
     ),
     array(
         'id'        => 798,
-        'name'      => '图瓦卢',
+        'name'      => '吐瓦魯',
         'alpha2'    => 'tv',
         'alpha3'    => 'tuv'
     ),
     array(
         'id'        => 800,
-        'name'      => '乌干达',
+        'name'      => '烏干達',
         'alpha2'    => 'ug',
         'alpha3'    => 'uga'
     ),
@@ -1400,7 +1400,7 @@ $world = array(
     ),
     array(
         'id'        => 784,
-        'name'      => '阿联酋',
+        'name'      => '阿聯',
         'alpha2'    => 'ae',
         'alpha3'    => 'are'
     ),
@@ -1424,19 +1424,19 @@ $world = array(
     ),
     array(
         'id'        => 858,
-        'name'      => '乌拉圭',
+        'name'      => '烏拉圭',
         'alpha2'    => 'uy',
         'alpha3'    => 'ury'
     ),
     array(
         'id'        => 860,
-        'name'      => '乌兹别克斯坦',
+        'name'      => '烏茲別克',
         'alpha2'    => 'uz',
         'alpha3'    => 'uzb'
     ),
     array(
         'id'        => 548,
-        'name'      => '瓦努阿圖',
+        'name'      => '萬那杜',
         'alpha2'    => 'vu',
         'alpha3'    => 'vut'
     ),
@@ -1454,25 +1454,25 @@ $world = array(
     ),
     array(
         'id'        => 92,
-        'name'      => '英屬維爾京群島',
+        'name'      => '英屬維京群島',
         'alpha2'    => 'vg',
         'alpha3'    => 'vgb'
     ),
     array(
         'id'        => 850,
-        'name'      => '美屬維爾京群島',
+        'name'      => '美屬維京群島',
         'alpha2'    => 'vi',
         'alpha3'    => 'vir'
     ),
     array(
         'id'        => 876,
-        'name'      => '瓦利斯和富图纳',
+        'name'      => '瓦利斯和富圖那',
         'alpha2'    => 'wf',
         'alpha3'    => 'wlf'
     ),
     array(
         'id'        => 732,
-        'name'      => '阿拉伯撒哈拉民主共和国',
+        'name'      => '撒拉威阿拉伯民主共和國',
         'alpha2'    => 'eh',
         'alpha3'    => 'esh'
     ),
