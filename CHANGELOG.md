@@ -1,4 +1,4 @@
-## version 1.1.0 (TBA)
+## version 1.1.0 (August 02, 2020)
 
 - added Trasitional Chinese translations; see [#34](https://github.com/stefangabos/world_countries/pull/35)
 - added Korean translations; see [#34](https://github.com/stefangabos/world_countries/pull/34)
