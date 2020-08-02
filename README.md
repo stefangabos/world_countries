@@ -1,8 +1,8 @@
 <img src="https://raw.githubusercontent.com/stefangabos/zebrajs/master/docs/images/logo.png" alt="zebrajs" align="right">
 
-# World countries &nbsp;[![Tweet](https://img.shields.io/twitter/url/http/shields.io.svg?style=social)](https://twitter.com/intent/tweet?text=Constantly%20updated%20lists%20of%20world%20countries%20and%20their%20ISO%203166%20codes,%20available%20in%20MySQL,%20JSON%20and%20CSV%20formats,%20in%20multiple%20languages%20and%20with%20national%20flags%20included&url=https://github.com/stefangabos/world_countries&via=stefangabos&hashtags=countries,flags,iso-3166)
+# World countries &nbsp;[![Tweet](https://img.shields.io/twitter/url/http/shields.io.svg?style=social)](https://twitter.com/intent/tweet?text=Constantly+updated+lists+of+world+countries+with+associated+ISO+3166-1+alpha-2%2C+alpha-3+and+numeric+codes%2C+available+in+multiple+formats+and+languages%2C+with+national+flags+included&url=https://github.com/stefangabos/world_countries&via=stefangabos)
 
-*available in multiple languages, in SQL, CSV, JSON and PHP formats, with associated codes as defined by the ISO 3166 standard, and with national flags included*
+*available in multiple languages, in CSV, JSON, PHP and SQL formats, with associated codes as defined by the ISO 3166 standard, and with national flags included*
 
 [![npm](https://img.shields.io/npm/v/world_countries_lists.svg)](https://www.npmjs.com/package/world_countries_lists) [![Total](https://img.shields.io/npm/dt/world_countries_lists.svg)](https://www.npmjs.com/package/world_countries_lists) [![Monthly](https://img.shields.io/npm/dm/world_countries_lists.svg)](https://www.npmjs.com/package/world_countries_lists) [![JSDelivr](https://data.jsdelivr.com/v1/package/npm/world_countries_lists/badge?style=rounded)](https://www.jsdelivr.com/package/npm/world_countries_lists) [![License](https://img.shields.io/github/license/stefangabos/world_countries.svg)](https://github.com/stefangabos/world_countries/blob/master/LICENSE.md)
 
