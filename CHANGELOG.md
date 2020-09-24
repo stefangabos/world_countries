@@ -1,3 +1,8 @@
+## version 1.2.0 (September 24, 2020)
+
+- added Basque translation; thanks [erral](https://github.com/erral)!
+- updates to some country names in Arabic, German, Ukrainian, Traditional Chinese
+
 ## version 1.1.1 (August 02, 2020)
 
 - fixed issues with Traditional Chinese
