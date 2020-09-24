@@ -67,7 +67,7 @@ INSERT INTO "world" ("id", "name", "alpha_2", "alpha_3") VALUES
 (222,"El Salvador","sv","slv"),
 (232,"Eritrea","er","eri"),
 (233,"Estland","ee","est"),
-(748,"Swasiland","sz","swz"),
+(748,"Eswatini","sz","swz"),
 (238,"Falklandinseln","fk","flk"),
 (234,"Färöer","fo","fro"),
 (242,"Fidschi","fj","fji"),

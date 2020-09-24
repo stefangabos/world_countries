@@ -260,7 +260,7 @@ $countries = array(
     ),
     array(
         'id'        => 748,
-        'name'      => 'Swasiland',
+        'name'      => 'Eswatini',
         'alpha2'    => 'sz',
         'alpha3'    => 'swz'
     ),

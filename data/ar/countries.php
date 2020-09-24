@@ -92,7 +92,7 @@ $countries = array(
     ),
     array(
         'id'        => 112,
-        'name'      => 'روسيا البيضاء',
+        'name'      => 'بيلاروس',
         'alpha2'    => 'by',
         'alpha3'    => 'blr'
     ),

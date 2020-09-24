@@ -54,7 +54,7 @@ INSERT INTO "countries" ("id", "name", "alpha_2", "alpha_3") VALUES
 (222,"El Salvador","sv","slv"),
 (232,"Eritrea","er","eri"),
 (233,"Estland","ee","est"),
-(748,"Swasiland","sz","swz"),
+(748,"Eswatini","sz","swz"),
 (242,"Fidschi","fj","fji"),
 (246,"Finnland","fi","fin"),
 (250,"Frankreich","fr","fra"),

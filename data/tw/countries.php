@@ -80,7 +80,7 @@ $countries = array(
     ),
     array(
         'id'        => 50,
-        'name'      => '孟加拉國',
+        'name'      => '孟加拉',
         'alpha2'    => 'bd',
         'alpha3'    => 'bgd'
     ),

@@ -584,7 +584,7 @@ $world = array(
     ),
     array(
         'id'        => 156,
-        'name'      => 'КНР',
+        'name'      => 'Китайська Народна Республіка',
         'alpha2'    => 'cn',
         'alpha3'    => 'chn'
     ),
