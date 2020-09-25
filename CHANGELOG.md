@@ -1,6 +1,9 @@
-## version 1.2.0 (September 24, 2020)
+## version 2.0.0 (September 25, 2020)
 
 - added Basque translation; thanks [erral](https://github.com/erral)!
+- changed data folder name for **Chinese (Simplified)** from `cn` to `zh` to correctly reflect ISO-639 language codes
+- changed data folder name for **Chinese (Traditional)** from `cn` to `zh-tw` to correctly reflect ISO-639 language codes
+- changed data folder name for **Estonian** from `et` to `ee` to correctly reflect ISO-639 language codes
 - updates to some country names in Arabic, German, Ukrainian, Traditional Chinese
 
 ## version 1.1.1 (August 02, 2020)
