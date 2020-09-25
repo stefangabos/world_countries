@@ -56,6 +56,8 @@ The lists are currently available in **27 languages**:
 - Thai
 - Ukrainian
 
+> The language folders are named based on the [ISO 639-1](https://en.wikipedia.org/wiki/List_of_ISO_639-1_codes) standard.
+
 ## Installation
 
 The lists are available as a [npm package](https://www.npmjs.com/package/world_countries_lists). To install it use:
