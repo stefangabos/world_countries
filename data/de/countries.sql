@@ -28,7 +28,7 @@ INSERT INTO "countries" ("id", "name", "alpha_2", "alpha_3") VALUES
 (48,"Bahrain","bh","bhr"),
 (50,"Bangladesch","bd","bgd"),
 (52,"Barbados","bb","brb"),
-(112,"Weißrussland","by","blr"),
+(112,"Belarus","by","blr"),
 (56,"Belgien","be","bel"),
 (84,"Belize","bz","blz"),
 (204,"Benin","bj","ben"),

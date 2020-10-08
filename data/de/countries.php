@@ -104,7 +104,7 @@ $countries = array(
     ),
     array(
         'id'        => 112,
-        'name'      => 'Weißrussland',
+        'name'      => 'Belarus',
         'alpha2'    => 'by',
         'alpha3'    => 'blr'
     ),
