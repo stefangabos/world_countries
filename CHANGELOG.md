@@ -1,6 +1,7 @@
 ## version 2.1.0 (October 15, 2020)
 
-- added country names in Finnish; thanks [Alex Garcia](https://github.com/alexgarciab)!
+- added country names in Finnish; see [#42](https://github.com/stefangabos/world_countries/issues/42), thanks [Alex Garcia](https://github.com/alexgarciab)!
+- use official short name for Belarus for German language; see [#40](https://github.com/stefangabos/world_countries/issues/40)
 
 ## version 2.0.0 (September 25, 2020)
 
