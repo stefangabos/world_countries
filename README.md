@@ -26,7 +26,7 @@ The files contain:
 
 <small><a name="footnote"><sup>1</sup></a> for other languages the country names are in that particular language</small>
 
-The lists are currently available in **27 languages**:
+The lists are currently available in **28 languages**:
 
 - Arabic
 - Basque
@@ -37,6 +37,7 @@ The lists are currently available in **27 languages**:
 - Dutch
 - English
 - Estonian
+- Finnish
 - French
 - German
 - Greek

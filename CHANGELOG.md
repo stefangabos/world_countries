@@ -1,3 +1,7 @@
+## version 2.1.0 (October 15, 2020)
+
+- added country names in Finnish; thanks [Alex Garcia](https://github.com/alexgarciab)!
+
 ## version 2.0.0 (September 25, 2020)
 
 - added Basque translation; thanks [erral](https://github.com/erral)!
