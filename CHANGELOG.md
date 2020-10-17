@@ -1,3 +1,7 @@
+## version 2.1.1 (October 17, 2020)
+
+- the lists are now available as a [Composer package](https://packagist.org/packages/stefangabos/world_countries); thanks to [piotrpog](https://github.com/piotrpog) for suggesting!
+
 ## version 2.1.0 (October 15, 2020)
 
 - added country names in Finnish; see [#42](https://github.com/stefangabos/world_countries/issues/42), thanks [Alex Garcia](https://github.com/alexgarciab)!
