@@ -1,0 +1,15 @@
+{
+    "name": "stefangabos/world_countries",
+    "description": "Constantly updated lists of world countries, territories and areas of geographical interest, with associated alpha-2, alpha-3 and numeric codes as defined by the ISO 3166-1 standard, available in multiple formats and languages, with national flags included",
+    "type": "library",
+    "license": "LGPL-3.0",
+    "authors": [
+        {
+            "name": "stefangabos",
+            "email": "contact@stefangabos.ro",
+            "homepage": "https://github.com/stefangabos",
+            "role": "Developer"
+        }
+    ],
+    "require": {}
+}
