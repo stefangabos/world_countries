@@ -68,6 +68,11 @@ The lists are available as a [npm package](https://www.npmjs.com/package/world_c
 npm install world_countries_lists --save
 ```
 
+You can install the lists via [Composer](https://packagist.org/packages/stefangabos/world_countries)
+```shell
+composer require stefangabos/world_countries
+```
+
 Alternatively, you can load data from [JSDelivr CDN](https://www.jsdelivr.com/package/npm/world_countries_lists) like this:
 ```html
 <script src="https://cdn.jsdelivr.net/npm/world_countries_lists@latest/data/en/countries.json"></script>
