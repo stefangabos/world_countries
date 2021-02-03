@@ -692,7 +692,7 @@ $countries = array(
     ),
     array(
         'id'        => 496,
-        'name'      => '蒙古国',
+        'name'      => '蒙古',
         'alpha2'    => 'mn',
         'alpha3'    => 'mng'
     ),

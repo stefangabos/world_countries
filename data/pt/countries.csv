@@ -14,9 +14,9 @@ id,name,alpha2,alpha3
 40,Áustria,at,aut
 31,Azerbaijão,az,aze
 44,Bahamas,bs,bhs
-48,Bahrein,bh,bhr
 50,Bangladesh,bd,bgd
 52,Barbados,bb,brb
+48,Barém,bh,bhr
 56,Bélgica,be,bel
 84,Belize,bz,blz
 204,Benim,bj,ben
@@ -34,6 +34,7 @@ id,name,alpha2,alpha3
 116,Camboja,kh,khm
 120,Camarões,cm,cmr
 124,Canadá,ca,can
+634,Catar,qa,qat
 398,Cazaquistão,kz,kaz
 140,"República Centro-Africana",cf,caf
 148,Chade,td,tcd
@@ -65,6 +66,7 @@ id,name,alpha2,alpha3
 724,Espanha,es,esp
 840,"Estados Unidos",us,usa
 233,Estónia,ee,est
+748,Essuatíni,sz,swz
 231,Etiópia,et,eth
 242,Fiji,fj,fji
 608,Filipinas,ph,phl
@@ -144,7 +146,6 @@ id,name,alpha2,alpha3
 604,Peru,pe,per
 616,Polónia,pl,pol
 620,Portugal,pt,prt
-634,Catar,qa,qat
 404,Quênia,ke,ken
 417,Quirguistão,kg,kgz
 826,"Reino Unido",gb,gbr
@@ -166,7 +167,6 @@ id,name,alpha2,alpha3
 760,Síria,sy,syr
 706,Somália,so,som
 144,"Sri Lanka",lk,lka
-748,Essuatíni,sz,swz
 729,Sudão,sd,sdn
 728,"Sudão do Sul",ss,ssd
 752,Suécia,se,swe

@@ -145,7 +145,7 @@
 {"id":583,"name":"密克罗尼西亚联邦","alpha2":"fm","alpha3":"fsm"},
 {"id":498,"name":"摩尔多瓦","alpha2":"md","alpha3":"mda"},
 {"id":492,"name":"摩纳哥","alpha2":"mc","alpha3":"mco"},
-{"id":496,"name":"蒙古国","alpha2":"mn","alpha3":"mng"},
+{"id":496,"name":"蒙古","alpha2":"mn","alpha3":"mng"},
 {"id":499,"name":"黑山","alpha2":"me","alpha3":"mne"},
 {"id":500,"name":"蒙特塞拉特","alpha2":"ms","alpha3":"msr"},
 {"id":504,"name":"摩洛哥","alpha2":"ma","alpha3":"mar"},
@@ -243,7 +243,7 @@
 {"id":92,"name":"英属维尔京群岛","alpha2":"vg","alpha3":"vgb"},
 {"id":850,"name":"美属维尔京群岛","alpha2":"vi","alpha3":"vir"},
 {"id":876,"name":"瓦利斯和富图纳","alpha2":"wf","alpha3":"wlf"},
-{"id":732,"name":"阿拉伯撒哈拉民主共和国","alpha2":"eh","alpha3":"esh"},
+{"id":732,"name":"西撒哈拉","alpha2":"eh","alpha3":"esh"},
 {"id":887,"name":"也门","alpha2":"ye","alpha3":"yem"},
 {"id":894,"name":"赞比亚","alpha2":"zm","alpha3":"zmb"},
 {"id":716,"name":"津巴布韦","alpha2":"zw","alpha3":"zwe"}]

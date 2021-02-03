@@ -542,7 +542,7 @@ $countries = array(
     ),
     array(
         'id'        => 410,
-        'name'      => '韓國',
+        'name'      => '南韓',
         'alpha2'    => 'kr',
         'alpha3'    => 'kor'
     ),
@@ -692,7 +692,7 @@ $countries = array(
     ),
     array(
         'id'        => 496,
-        'name'      => '蒙古國',
+        'name'      => '蒙古',
         'alpha2'    => 'mn',
         'alpha3'    => 'mng'
     ),

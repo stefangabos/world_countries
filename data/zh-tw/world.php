@@ -716,7 +716,7 @@ $world = array(
     ),
     array(
         'id'        => 410,
-        'name'      => '韓國',
+        'name'      => '南韓',
         'alpha2'    => 'kr',
         'alpha3'    => 'kor'
     ),
@@ -884,7 +884,7 @@ $world = array(
     ),
     array(
         'id'        => 496,
-        'name'      => '蒙古國',
+        'name'      => '蒙古',
         'alpha2'    => 'mn',
         'alpha3'    => 'mng'
     ),
@@ -1472,7 +1472,7 @@ $world = array(
     ),
     array(
         'id'        => 732,
-        'name'      => '撒拉威阿拉伯民主共和國',
+        'name'      => '西撒哈拉',
         'alpha2'    => 'eh',
         'alpha3'    => 'esh'
     ),

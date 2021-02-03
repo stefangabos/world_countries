@@ -46,7 +46,7 @@ INSERT INTO "world" ("id", "name", "alpha_2", "alpha_3") VALUES
 (64,"Bhutan","bt","btn"),
 (74,"Bouvetön","bv","bvt"),
 (72,"Botswana","bw","bwa"),
-(112,"Vitryssland","by","blr"),
+(112,"Belarus","by","blr"),
 (84,"Belize","bz","blz"),
 (124,"Kanada","ca","can"),
 (166,"Kokosöarna","cc","cck"),

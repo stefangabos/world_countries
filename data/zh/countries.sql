@@ -126,7 +126,7 @@ INSERT INTO "countries" ("id", "name", "alpha_2", "alpha_3") VALUES
 (583,"密克罗尼西亚联邦","fm","fsm"),
 (498,"摩尔多瓦","md","mda"),
 (492,"摩纳哥","mc","mco"),
-(496,"蒙古国","mn","mng"),
+(496,"蒙古","mn","mng"),
 (499,"黑山","me","mne"),
 (504,"摩洛哥","ma","mar"),
 (508,"莫桑比克","mz","moz"),

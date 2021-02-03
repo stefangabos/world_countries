@@ -37,7 +37,7 @@ INSERT INTO "countries" ("id", "name", "alpha_2", "alpha_3") VALUES
 (44,"Bahamas","bs","bhs"),
 (64,"Bhutan","bt","btn"),
 (72,"Botswana","bw","bwa"),
-(112,"Vitryssland","by","blr"),
+(112,"Belarus","by","blr"),
 (84,"Belize","bz","blz"),
 (124,"Kanada","ca","can"),
 (180,"Kongo-Kinshasa","cd","cod"),

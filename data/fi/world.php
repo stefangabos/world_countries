@@ -1100,7 +1100,7 @@ $world = array(
     ),
     array(
         'id'        => 654,
-        'name'      => 'Saint Helena',
+        'name'      => 'Saint Helena, Ascension ja Tristan da Cunha',
         'alpha2'    => 'sh',
         'alpha3'    => 'shn'
     ),
@@ -1430,7 +1430,7 @@ $world = array(
     ),
     array(
         'id'        => 336,
-        'name'      => 'Vatikaanivaltio',
+        'name'      => 'Vatikaanivaltio (Pyhä istuin)',
         'alpha2'    => 'va',
         'alpha3'    => 'vat'
     ),

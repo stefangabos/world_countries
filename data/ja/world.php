@@ -752,7 +752,7 @@ $world = array(
     ),
     array(
         'id'        => 158,
-        'name'      => '中国台湾省（中華民国）',
+        'name'      => '台湾（中華民国）',
         'alpha2'    => 'tw',
         'alpha3'    => 'twn'
     ),

@@ -278,7 +278,7 @@ $world = array(
     ),
     array(
         'id'        => 162,
-        'name'      => 'جزيرة عيد الميلاد',
+        'name'      => 'جزيرة كريسماس',
         'alpha2'    => 'cx',
         'alpha3'    => 'cxr'
     ),
@@ -1466,7 +1466,7 @@ $world = array(
     ),
     array(
         'id'        => 876,
-        'name'      => 'والس وفوتونا',
+        'name'      => 'واليس وفوتونا',
         'alpha2'    => 'wf',
         'alpha3'    => 'wlf'
     ),
