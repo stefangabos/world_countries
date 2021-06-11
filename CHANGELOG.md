@@ -1,3 +1,8 @@
+## version 2.2.0 (June 06, 2021)
+
+- added Bulgarian translations
+- updated country names for various languages
+
 ## version 2.1.1 (October 17, 2020)
 
 - the lists are now available as a [Composer package](https://packagist.org/packages/stefangabos/world_countries); thanks to [piotrpog](https://github.com/piotrpog) for suggesting!
