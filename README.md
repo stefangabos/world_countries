@@ -26,10 +26,11 @@ The files contain:
 
 <small><a name="footnote"><sup>1</sup></a> for other languages the country names are in that particular language</small>
 
-The lists are currently available in **28 languages**:
+The lists are currently available in **29 languages**:
 
 - Arabic
 - Basque
+- Bulgarian
 - Chinese (Simplified)
 - Chinese (Traditional)
 - Czech
