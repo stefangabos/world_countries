@@ -1100,7 +1100,7 @@ $countries = array(
     ),
     array(
         'id'        => 140,
-        'name'      => 'Центральноафриканська Республіка',
+        'name'      => 'ЦАР',
         'alpha2'    => 'cf',
         'alpha3'    => 'caf'
     ),

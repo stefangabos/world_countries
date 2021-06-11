@@ -224,7 +224,7 @@ INSERT INTO "world" ("id", "name", "alpha_2", "alpha_3") VALUES
 (760,"Siria","sy","syr"),
 (706,"Somalia","so","som"),
 (144,"Sri Lanka","lk","lka"),
-(748,"Swazilandia","sz","swz"),
+(748,"Eswatini","sz","swz"),
 (729,"Sudan","sd","sdn"),
 (752,"Suedia","se","swe"),
 (756,"Suitza","ch","che"),

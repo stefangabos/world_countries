@@ -1322,7 +1322,7 @@ $world = array(
     ),
     array(
         'id'        => 748,
-        'name'      => 'Swaziland',
+        'name'      => 'eSwatini',
         'alpha2'    => 'sz',
         'alpha3'    => 'swz'
     ),

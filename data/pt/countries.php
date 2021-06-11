@@ -170,7 +170,7 @@ $countries = array(
     ),
     array(
         'id'        => 854,
-        'name'      => 'Burkina Faso',
+        'name'      => 'Burquina Fasso',
         'alpha2'    => 'bf',
         'alpha3'    => 'bfa'
     ),
@@ -1076,7 +1076,7 @@ $countries = array(
     ),
     array(
         'id'        => 780,
-        'name'      => 'Trinidad e Tobago',
+        'name'      => 'Trindade e Tobago',
         'alpha2'    => 'tt',
         'alpha3'    => 'tto'
     ),

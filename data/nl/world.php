@@ -170,7 +170,7 @@ $world = array(
     ),
     array(
         'id'        => 74,
-        'name'      => 'Bouveteiland',
+        'name'      => 'Bouvet',
         'alpha2'    => 'bv',
         'alpha3'    => 'bvt'
     ),
@@ -428,7 +428,7 @@ $world = array(
     ),
     array(
         'id'        => 260,
-        'name'      => 'Franse Zuidelijke en Antarctische Gebieden',
+        'name'      => 'Franse Zuidelijke Gebieden',
         'alpha2'    => 'tf',
         'alpha3'    => 'atf'
     ),
@@ -1436,7 +1436,7 @@ $world = array(
     ),
     array(
         'id'        => 732,
-        'name'      => 'Westelijke Sahara',
+        'name'      => 'Westelijke Sahara/SADR',
         'alpha2'    => 'eh',
         'alpha3'    => 'esh'
     ),

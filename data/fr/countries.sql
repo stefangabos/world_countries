@@ -164,7 +164,7 @@ INSERT INTO "countries" ("id", "name", "alpha_2", "alpha_3") VALUES
 (674,"Saint-Marin","sm","smr"),
 (670,"Saint-Vincent-et-les-Grenadines","vc","vct"),
 (662,"Sainte-Lucie","lc","lca"),
-(90,"Salomon","sb","slb"),
+(90,"Îles Salomon","sb","slb"),
 (882,"Samoa","ws","wsm"),
 (678,"Sao Tomé-et-Principe","st","stp"),
 (686,"Sénégal","sn","sen"),

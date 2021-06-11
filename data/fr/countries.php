@@ -920,7 +920,7 @@ $countries = array(
     ),
     array(
         'id'        => 90,
-        'name'      => 'Salomon',
+        'name'      => 'Îles Salomon',
         'alpha2'    => 'sb',
         'alpha3'    => 'slb'
     ),
