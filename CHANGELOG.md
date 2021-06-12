@@ -1,3 +1,7 @@
+## version 2.3.0 (TBA)
+
+- fixed folder name for Estonian translations (see [#52](https://github.com/stefangabos/world_countries/issues/52))
+- fixed broken download links for Basque
 ## version 2.2.0 (June 06, 2021)
 
 - added Bulgarian translations
