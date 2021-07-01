@@ -944,7 +944,7 @@ $countries = array(
     ),
     array(
         'id'        => 659,
-        'name'      => 'São Cristóvão e Névis',
+        'name'      => 'São Cristóvão e Neves',
         'alpha2'    => 'kn',
         'alpha3'    => 'kna'
     ),

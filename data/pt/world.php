@@ -44,7 +44,7 @@ $world = array(
     ),
     array(
         'id'        => 660,
-        'name'      => 'Anguilla',
+        'name'      => 'Anguila',
         'alpha2'    => 'ai',
         'alpha3'    => 'aia'
     ),
@@ -260,7 +260,7 @@ $world = array(
     ),
     array(
         'id'        => 136,
-        'name'      => 'Ilhas Cayman',
+        'name'      => 'Ilhas Caimã',
         'alpha2'    => 'ky',
         'alpha3'    => 'cym'
     ),
@@ -386,7 +386,7 @@ $world = array(
     ),
     array(
         'id'        => 531,
-        'name'      => 'Curaçao',
+        'name'      => 'Curaçau',
         'alpha2'    => 'cw',
         'alpha3'    => 'cuw'
     ),
@@ -956,7 +956,7 @@ $world = array(
     ),
     array(
         'id'        => 500,
-        'name'      => 'Montserrat',
+        'name'      => 'Monserrate',
         'alpha2'    => 'ms',
         'alpha3'    => 'msr'
     ),
@@ -1208,7 +1208,7 @@ $world = array(
     ),
     array(
         'id'        => 659,
-        'name'      => 'São Cristóvão e Névis',
+        'name'      => 'São Cristóvão e Neves',
         'alpha2'    => 'kn',
         'alpha3'    => 'kna'
     ),
@@ -1394,7 +1394,7 @@ $world = array(
     ),
     array(
         'id'        => 796,
-        'name'      => 'Turks e Caicos',
+        'name'      => 'Turcas e Caicos',
         'alpha2'    => 'tc',
         'alpha3'    => 'tca'
     ),

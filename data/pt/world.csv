@@ -6,7 +6,7 @@ id,name,alpha2,alpha3
 276,Alemanha,de,deu
 20,Andorra,ad,and
 24,Angola,ao,ago
-660,Anguilla,ai,aia
+660,Anguila,ai,aia
 10,Antártida,aq,ata
 28,"Antígua e Barbuda",ag,atg
 682,"Arábia Saudita",sa,sau
@@ -42,7 +42,7 @@ id,name,alpha2,alpha3
 120,Camarões,cm,cmr
 124,Canadá,ca,can
 634,Catar,qa,qat
-136,"Ilhas Cayman",ky,cym
+136,"Ilhas Caimã",ky,cym
 398,Cazaquistão,kz,kaz
 140,"República Centro-Africana",cf,caf
 148,Chade,td,tcd
@@ -63,7 +63,7 @@ id,name,alpha2,alpha3
 188,"Costa Rica",cr,cri
 191,Croácia,hr,hrv
 192,Cuba,cu,cub
-531,Curaçao,cw,cuw
+531,Curaçau,cw,cuw
 208,Dinamarca,dk,dnk
 262,Djibouti,dj,dji
 212,Dominica,dm,dma
@@ -158,7 +158,7 @@ id,name,alpha2,alpha3
 492,Mónaco,mc,mco
 496,Mongólia,mn,mng
 499,Montenegro,me,mne
-500,Montserrat,ms,msr
+500,Monserrate,ms,msr
 516,Namíbia,na,nam
 520,Nauru,nr,nru
 524,Nepal,np,npl
@@ -200,7 +200,7 @@ id,name,alpha2,alpha3
 654,"Santa Helena, Ascensão e Tristão da Cunha",sh,shn
 662,"Santa Lúcia",lc,lca
 652,"São Bartolomeu",bl,blm
-659,"São Cristóvão e Névis",kn,kna
+659,"São Cristóvão e Neves",kn,kna
 534,"São Martinho",sx,sxm
 663,"São Martinho",mf,maf
 678,"São Tomé e Príncipe",st,stp
@@ -231,7 +231,7 @@ id,name,alpha2,alpha3
 776,Tonga,to,ton
 780,"Trindade e Tobago",tt,tto
 788,Tunísia,tn,tun
-796,"Turks e Caicos",tc,tca
+796,"Turcas e Caicos",tc,tca
 795,Turquemenistão,tm,tkm
 792,Turquia,tr,tur
 798,Tuvalu,tv,tuv
