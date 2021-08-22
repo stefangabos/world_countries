@@ -14,7 +14,7 @@ id,name,alpha2,alpha3
 40,Áustria,at,aut
 31,Azerbaijão,az,aze
 44,Bahamas,bs,bhs
-50,Bangladesh,bd,bgd
+50,Bangladexe,bd,bgd
 52,Barbados,bb,brb
 48,Barém,bh,bhr
 56,Bélgica,be,bel
@@ -23,7 +23,7 @@ id,name,alpha2,alpha3
 112,Bielorrússia,by,blr
 68,Bolívia,bo,bol
 70,"Bósnia e Herzegovina",ba,bih
-72,Botswana,bw,bwa
+72,Botsuana,bw,bwa
 76,Brasil,br,bra
 96,Brunei,bn,brn
 100,Bulgária,bg,bgr
@@ -53,7 +53,7 @@ id,name,alpha2,alpha3
 191,Croácia,hr,hrv
 192,Cuba,cu,cub
 208,Dinamarca,dk,dnk
-262,Djibouti,dj,dji
+262,Djibuti,dj,dji
 212,Dominica,dm,dma
 214,"República Dominicana",do,dom
 818,Egito,eg,egy
@@ -76,8 +76,8 @@ id,name,alpha2,alpha3
 270,Gâmbia,gm,gmb
 288,Gana,gh,gha
 268,Geórgia,ge,geo
-300,Grécia,gr,grc
 308,Granada,gd,grd
+300,Grécia,gr,grc
 320,Guatemala,gt,gtm
 328,Guiana,gy,guy
 624,Guiné-Bissau,gw,gnb
@@ -98,7 +98,6 @@ id,name,alpha2,alpha3
 388,Jamaica,jm,jam
 392,Japão,jp,jpn
 400,Jordânia,jo,jor
-296,Kiribati,ki,kir
 414,Kuwait,kw,kwt
 418,Laos,la,lao
 426,Lesoto,ls,lso
@@ -106,13 +105,13 @@ id,name,alpha2,alpha3
 422,Líbano,lb,lbn
 430,Libéria,lr,lbr
 434,Líbia,ly,lby
-438,Liechtenstein,li,lie
+438,Listenstaine,li,lie
 440,Lituânia,lt,ltu
 442,Luxemburgo,lu,lux
 807,"Macedônia do Norte",mk,mkd
 450,Madagáscar,mg,mdg
 458,Malásia,my,mys
-454,Malawi,mw,mwi
+454,Maláui,mw,mwi
 462,Maldivas,mv,mdv
 466,Mali,ml,mli
 470,Malta,mt,mlt
@@ -148,6 +147,7 @@ id,name,alpha2,alpha3
 620,Portugal,pt,prt
 404,Quênia,ke,ken
 417,Quirguistão,kg,kgz
+296,Quiribáti,ki,kir
 826,"Reino Unido",gb,gbr
 642,Roménia,ro,rou
 646,Ruanda,rw,rwa
@@ -159,14 +159,14 @@ id,name,alpha2,alpha3
 659,"São Cristóvão e Neves",kn,kna
 678,"São Tomé e Príncipe",st,stp
 670,"São Vicente e Granadinas",vc,vct
+690,Seicheles,sc,syc
 686,Senegal,sn,sen
+144,"Seri Lanca",lk,lka
 694,"Serra Leoa",sl,sle
 688,Sérvia,rs,srb
-690,Seicheles,sc,syc
 702,Singapura,sg,sgp
 760,Síria,sy,syr
 706,Somália,so,som
-144,"Sri Lanka",lk,lka
 729,Sudão,sd,sdn
 728,"Sudão do Sul",ss,ssd
 752,Suécia,se,swe
@@ -180,7 +180,7 @@ id,name,alpha2,alpha3
 776,Tonga,to,ton
 780,"Trindade e Tobago",tt,tto
 788,Tunísia,tn,tun
-795,Turquemenistão,tm,tkm
+795,Turcomenistão,tm,tkm
 792,Turquia,tr,tur
 798,Tuvalu,tv,tuv
 804,Ucrânia,ua,ukr
@@ -191,4 +191,4 @@ id,name,alpha2,alpha3
 862,Venezuela,ve,ven
 704,Vietnã,vn,vnm
 894,Zâmbia,zm,zmb
-716,Zimbabwe,zw,zwe
+716,Zimbábue,zw,zwe

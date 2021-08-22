@@ -914,7 +914,7 @@ $world = array(
     ),
     array(
         'id'        => 248,
-        'name'      => 'Оланд',
+        'name'      => 'Оландски острови',
         'alpha2'    => 'ax',
         'alpha3'    => 'ala'
     ),
@@ -926,7 +926,7 @@ $world = array(
     ),
     array(
         'id'        => 574,
-        'name'      => 'Остров Норфолк',
+        'name'      => 'Норфолк',
         'alpha2'    => 'nf',
         'alpha3'    => 'nfk'
     ),
@@ -956,7 +956,7 @@ $world = array(
     ),
     array(
         'id'        => 275,
-        'name'      => 'Палестина',
+        'name'      => 'Палестинска автономия',
         'alpha2'    => 'ps',
         'alpha3'    => 'pse'
     ),

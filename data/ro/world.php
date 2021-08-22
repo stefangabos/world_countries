@@ -421,6 +421,12 @@ $world = array(
         'alpha3'    => 'est'
     ),
     array(
+        'id'        => 748,
+        'name'      => 'Eswatini',
+        'alpha2'    => 'sz',
+        'alpha3'    => 'swz'
+    ),
+    array(
         'id'        => 231,
         'name'      => 'Etiopia',
         'alpha2'    => 'et',
@@ -1277,12 +1283,6 @@ $world = array(
         'name'      => 'Svalbard și Jan Mayen',
         'alpha2'    => 'sj',
         'alpha3'    => 'sjm'
-    ),
-    array(
-        'id'        => 748,
-        'name'      => 'Swaziland',
-        'alpha2'    => 'sz',
-        'alpha3'    => 'swz'
     ),
     array(
         'id'        => 752,

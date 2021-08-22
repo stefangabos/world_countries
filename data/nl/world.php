@@ -1220,7 +1220,7 @@ $world = array(
     ),
     array(
         'id'        => 663,
-        'name'      => 'Sint-Maarten',
+        'name'      => 'Saint-Martin',
         'alpha2'    => 'mf',
         'alpha3'    => 'maf'
     ),

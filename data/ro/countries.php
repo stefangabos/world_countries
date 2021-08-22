@@ -337,6 +337,12 @@ $countries = array(
         'alpha3'    => 'est'
     ),
     array(
+        'id'        => 748,
+        'name'      => 'Eswatini',
+        'alpha2'    => 'sz',
+        'alpha3'    => 'swz'
+    ),
+    array(
         'id'        => 231,
         'name'      => 'Etiopia',
         'alpha2'    => 'et',
@@ -989,12 +995,6 @@ $countries = array(
         'name'      => 'Surinam',
         'alpha2'    => 'sr',
         'alpha3'    => 'sur'
-    ),
-    array(
-        'id'        => 748,
-        'name'      => 'Swaziland',
-        'alpha2'    => 'sz',
-        'alpha3'    => 'swz'
     ),
     array(
         'id'        => 752,

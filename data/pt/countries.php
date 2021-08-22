@@ -92,7 +92,7 @@ $countries = array(
     ),
     array(
         'id'        => 50,
-        'name'      => 'Bangladesh',
+        'name'      => 'Bangladexe',
         'alpha2'    => 'bd',
         'alpha3'    => 'bgd'
     ),
@@ -146,7 +146,7 @@ $countries = array(
     ),
     array(
         'id'        => 72,
-        'name'      => 'Botswana',
+        'name'      => 'Botsuana',
         'alpha2'    => 'bw',
         'alpha3'    => 'bwa'
     ),
@@ -326,7 +326,7 @@ $countries = array(
     ),
     array(
         'id'        => 262,
-        'name'      => 'Djibouti',
+        'name'      => 'Djibuti',
         'alpha2'    => 'dj',
         'alpha3'    => 'dji'
     ),
@@ -463,16 +463,16 @@ $countries = array(
         'alpha3'    => 'geo'
     ),
     array(
-        'id'        => 300,
-        'name'      => 'Grécia',
-        'alpha2'    => 'gr',
-        'alpha3'    => 'grc'
-    ),
-    array(
         'id'        => 308,
         'name'      => 'Granada',
         'alpha2'    => 'gd',
         'alpha3'    => 'grd'
+    ),
+    array(
+        'id'        => 300,
+        'name'      => 'Grécia',
+        'alpha2'    => 'gr',
+        'alpha3'    => 'grc'
     ),
     array(
         'id'        => 320,
@@ -595,12 +595,6 @@ $countries = array(
         'alpha3'    => 'jor'
     ),
     array(
-        'id'        => 296,
-        'name'      => 'Kiribati',
-        'alpha2'    => 'ki',
-        'alpha3'    => 'kir'
-    ),
-    array(
         'id'        => 414,
         'name'      => 'Kuwait',
         'alpha2'    => 'kw',
@@ -644,7 +638,7 @@ $countries = array(
     ),
     array(
         'id'        => 438,
-        'name'      => 'Liechtenstein',
+        'name'      => 'Listenstaine',
         'alpha2'    => 'li',
         'alpha3'    => 'lie'
     ),
@@ -680,7 +674,7 @@ $countries = array(
     ),
     array(
         'id'        => 454,
-        'name'      => 'Malawi',
+        'name'      => 'Maláui',
         'alpha2'    => 'mw',
         'alpha3'    => 'mwi'
     ),
@@ -895,6 +889,12 @@ $countries = array(
         'alpha3'    => 'kgz'
     ),
     array(
+        'id'        => 296,
+        'name'      => 'Quiribáti',
+        'alpha2'    => 'ki',
+        'alpha3'    => 'kir'
+    ),
+    array(
         'id'        => 826,
         'name'      => 'Reino Unido',
         'alpha2'    => 'gb',
@@ -961,10 +961,22 @@ $countries = array(
         'alpha3'    => 'vct'
     ),
     array(
+        'id'        => 690,
+        'name'      => 'Seicheles',
+        'alpha2'    => 'sc',
+        'alpha3'    => 'syc'
+    ),
+    array(
         'id'        => 686,
         'name'      => 'Senegal',
         'alpha2'    => 'sn',
         'alpha3'    => 'sen'
+    ),
+    array(
+        'id'        => 144,
+        'name'      => 'Seri Lanca',
+        'alpha2'    => 'lk',
+        'alpha3'    => 'lka'
     ),
     array(
         'id'        => 694,
@@ -977,12 +989,6 @@ $countries = array(
         'name'      => 'Sérvia',
         'alpha2'    => 'rs',
         'alpha3'    => 'srb'
-    ),
-    array(
-        'id'        => 690,
-        'name'      => 'Seicheles',
-        'alpha2'    => 'sc',
-        'alpha3'    => 'syc'
     ),
     array(
         'id'        => 702,
@@ -1001,12 +1007,6 @@ $countries = array(
         'name'      => 'Somália',
         'alpha2'    => 'so',
         'alpha3'    => 'som'
-    ),
-    array(
-        'id'        => 144,
-        'name'      => 'Sri Lanka',
-        'alpha2'    => 'lk',
-        'alpha3'    => 'lka'
     ),
     array(
         'id'        => 729,
@@ -1088,7 +1088,7 @@ $countries = array(
     ),
     array(
         'id'        => 795,
-        'name'      => 'Turquemenistão',
+        'name'      => 'Turcomenistão',
         'alpha2'    => 'tm',
         'alpha3'    => 'tkm'
     ),
@@ -1154,7 +1154,7 @@ $countries = array(
     ),
     array(
         'id'        => 716,
-        'name'      => 'Zimbabwe',
+        'name'      => 'Zimbábue',
         'alpha2'    => 'zw',
         'alpha3'    => 'zwe'
     ),

@@ -116,7 +116,7 @@ $world = array(
     ),
     array(
         'id'        => 50,
-        'name'      => 'Bangladesh',
+        'name'      => 'Bangladexe',
         'alpha2'    => 'bd',
         'alpha3'    => 'bgd'
     ),
@@ -182,7 +182,7 @@ $world = array(
     ),
     array(
         'id'        => 72,
-        'name'      => 'Botswana',
+        'name'      => 'Botsuana',
         'alpha2'    => 'bw',
         'alpha3'    => 'bwa'
     ),
@@ -235,6 +235,12 @@ $world = array(
         'alpha3'    => 'cpv'
     ),
     array(
+        'id'        => 136,
+        'name'      => 'Ilhas Caimã',
+        'alpha2'    => 'ky',
+        'alpha3'    => 'cym'
+    ),
+    array(
         'id'        => 116,
         'name'      => 'Camboja',
         'alpha2'    => 'kh',
@@ -257,12 +263,6 @@ $world = array(
         'name'      => 'Catar',
         'alpha2'    => 'qa',
         'alpha3'    => 'qat'
-    ),
-    array(
-        'id'        => 136,
-        'name'      => 'Ilhas Caimã',
-        'alpha2'    => 'ky',
-        'alpha3'    => 'cym'
     ),
     array(
         'id'        => 398,
@@ -305,12 +305,6 @@ $world = array(
         'name'      => 'Chipre',
         'alpha2'    => 'cy',
         'alpha3'    => 'cyp'
-    ),
-    array(
-        'id'        => 162,
-        'name'      => 'Ilha do Natal',
-        'alpha2'    => 'cx',
-        'alpha3'    => 'cxr'
     ),
     array(
         'id'        => 166,
@@ -398,7 +392,7 @@ $world = array(
     ),
     array(
         'id'        => 262,
-        'name'      => 'Djibouti',
+        'name'      => 'Djibuti',
         'alpha2'    => 'dj',
         'alpha3'    => 'dji'
     ),
@@ -481,6 +475,12 @@ $world = array(
         'alpha3'    => 'swz'
     ),
     array(
+        'id'        => 744,
+        'name'      => 'Esvalbarde e Jan Mayen',
+        'alpha2'    => 'sj',
+        'alpha3'    => 'sjm'
+    ),
+    array(
         'id'        => 231,
         'name'      => 'Etiópia',
         'alpha2'    => 'et',
@@ -553,16 +553,16 @@ $world = array(
         'alpha3'    => 'gib'
     ),
     array(
-        'id'        => 300,
-        'name'      => 'Grécia',
-        'alpha2'    => 'gr',
-        'alpha3'    => 'grc'
-    ),
-    array(
         'id'        => 308,
         'name'      => 'Granada',
         'alpha2'    => 'gd',
         'alpha3'    => 'grd'
+    ),
+    array(
+        'id'        => 300,
+        'name'      => 'Grécia',
+        'alpha2'    => 'gr',
+        'alpha3'    => 'grc'
     ),
     array(
         'id'        => 304,
@@ -733,12 +733,6 @@ $world = array(
         'alpha3'    => 'jor'
     ),
     array(
-        'id'        => 296,
-        'name'      => 'Kiribati',
-        'alpha2'    => 'ki',
-        'alpha3'    => 'kir'
-    ),
-    array(
         'id'        => 414,
         'name'      => 'Kuwait',
         'alpha2'    => 'kw',
@@ -782,7 +776,7 @@ $world = array(
     ),
     array(
         'id'        => 438,
-        'name'      => 'Liechtenstein',
+        'name'      => 'Listenstaine',
         'alpha2'    => 'li',
         'alpha3'    => 'lie'
     ),
@@ -817,6 +811,12 @@ $world = array(
         'alpha3'    => 'mdg'
     ),
     array(
+        'id'        => 175,
+        'name'      => 'Maiote',
+        'alpha2'    => 'yt',
+        'alpha3'    => 'myt'
+    ),
+    array(
         'id'        => 458,
         'name'      => 'Malásia',
         'alpha2'    => 'my',
@@ -824,7 +824,7 @@ $world = array(
     ),
     array(
         'id'        => 454,
-        'name'      => 'Malawi',
+        'name'      => 'Maláui',
         'alpha2'    => 'mw',
         'alpha3'    => 'mwi'
     ),
@@ -895,12 +895,6 @@ $world = array(
         'alpha3'    => 'mrt'
     ),
     array(
-        'id'        => 175,
-        'name'      => 'Mayotte',
-        'alpha2'    => 'yt',
-        'alpha3'    => 'myt'
-    ),
-    array(
         'id'        => 581,
         'name'      => 'Ilhas Menores Distantes dos Estados Unidos',
         'alpha2'    => 'um',
@@ -949,22 +943,28 @@ $world = array(
         'alpha3'    => 'mng'
     ),
     array(
-        'id'        => 499,
-        'name'      => 'Montenegro',
-        'alpha2'    => 'me',
-        'alpha3'    => 'mne'
-    ),
-    array(
         'id'        => 500,
         'name'      => 'Monserrate',
         'alpha2'    => 'ms',
         'alpha3'    => 'msr'
     ),
     array(
+        'id'        => 499,
+        'name'      => 'Montenegro',
+        'alpha2'    => 'me',
+        'alpha3'    => 'mne'
+    ),
+    array(
         'id'        => 516,
         'name'      => 'Namíbia',
         'alpha2'    => 'na',
         'alpha3'    => 'nam'
+    ),
+    array(
+        'id'        => 162,
+        'name'      => 'Ilha do Natal',
+        'alpha2'    => 'cx',
+        'alpha3'    => 'cxr'
     ),
     array(
         'id'        => 520,
@@ -1123,6 +1123,12 @@ $world = array(
         'alpha3'    => 'kgz'
     ),
     array(
+        'id'        => 296,
+        'name'      => 'Quiribáti',
+        'alpha2'    => 'ki',
+        'alpha3'    => 'kir'
+    ),
+    array(
         'id'        => 826,
         'name'      => 'Reino Unido',
         'alpha2'    => 'gb',
@@ -1171,12 +1177,6 @@ $world = array(
         'alpha3'    => 'wsm'
     ),
     array(
-        'id'        => 666,
-        'name'      => 'Saint-Pierre e Miquelon',
-        'alpha2'    => 'pm',
-        'alpha3'    => 'spm'
-    ),
-    array(
         'id'        => 90,
         'name'      => 'Ilhas Salomão',
         'alpha2'    => 'sb',
@@ -1213,16 +1213,22 @@ $world = array(
         'alpha3'    => 'kna'
     ),
     array(
+        'id'        => 663,
+        'name'      => 'São Martinho',
+        'alpha2'    => 'mf',
+        'alpha3'    => 'maf'
+    ),
+    array(
         'id'        => 534,
         'name'      => 'São Martinho',
         'alpha2'    => 'sx',
         'alpha3'    => 'sxm'
     ),
     array(
-        'id'        => 663,
-        'name'      => 'São Martinho',
-        'alpha2'    => 'mf',
-        'alpha3'    => 'maf'
+        'id'        => 666,
+        'name'      => 'São Pedro e Miquelão',
+        'alpha2'    => 'pm',
+        'alpha3'    => 'spm'
     ),
     array(
         'id'        => 678,
@@ -1237,10 +1243,22 @@ $world = array(
         'alpha3'    => 'vct'
     ),
     array(
+        'id'        => 690,
+        'name'      => 'Seicheles',
+        'alpha2'    => 'sc',
+        'alpha3'    => 'syc'
+    ),
+    array(
         'id'        => 686,
         'name'      => 'Senegal',
         'alpha2'    => 'sn',
         'alpha3'    => 'sen'
+    ),
+    array(
+        'id'        => 144,
+        'name'      => 'Seri Lanca',
+        'alpha2'    => 'lk',
+        'alpha3'    => 'lka'
     ),
     array(
         'id'        => 694,
@@ -1253,12 +1271,6 @@ $world = array(
         'name'      => 'Sérvia',
         'alpha2'    => 'rs',
         'alpha3'    => 'srb'
-    ),
-    array(
-        'id'        => 690,
-        'name'      => 'Seicheles',
-        'alpha2'    => 'sc',
-        'alpha3'    => 'syc'
     ),
     array(
         'id'        => 702,
@@ -1277,12 +1289,6 @@ $world = array(
         'name'      => 'Somália',
         'alpha2'    => 'so',
         'alpha3'    => 'som'
-    ),
-    array(
-        'id'        => 144,
-        'name'      => 'Sri Lanka',
-        'alpha2'    => 'lk',
-        'alpha3'    => 'lka'
     ),
     array(
         'id'        => 729,
@@ -1313,12 +1319,6 @@ $world = array(
         'name'      => 'Suriname',
         'alpha2'    => 'sr',
         'alpha3'    => 'sur'
-    ),
-    array(
-        'id'        => 744,
-        'name'      => 'Svalbard e Jan Mayen',
-        'alpha2'    => 'sj',
-        'alpha3'    => 'sjm'
     ),
     array(
         'id'        => 764,
@@ -1369,16 +1369,16 @@ $world = array(
         'alpha3'    => 'tgo'
     ),
     array(
-        'id'        => 772,
-        'name'      => 'Toquelau',
-        'alpha2'    => 'tk',
-        'alpha3'    => 'tkl'
-    ),
-    array(
         'id'        => 776,
         'name'      => 'Tonga',
         'alpha2'    => 'to',
         'alpha3'    => 'ton'
+    ),
+    array(
+        'id'        => 772,
+        'name'      => 'Toquelau',
+        'alpha2'    => 'tk',
+        'alpha3'    => 'tkl'
     ),
     array(
         'id'        => 780,
@@ -1400,7 +1400,7 @@ $world = array(
     ),
     array(
         'id'        => 795,
-        'name'      => 'Turquemenistão',
+        'name'      => 'Turcomenistão',
         'alpha2'    => 'tm',
         'alpha3'    => 'tkm'
     ),
@@ -1490,7 +1490,7 @@ $world = array(
     ),
     array(
         'id'        => 716,
-        'name'      => 'Zimbabwe',
+        'name'      => 'Zimbábue',
         'alpha2'    => 'zw',
         'alpha3'    => 'zwe'
     ),

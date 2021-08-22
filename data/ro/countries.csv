@@ -55,6 +55,7 @@ id,name,alpha2,alpha3
 226,"Guineea Ecuatorială",gq,gnq
 232,Eritreea,er,eri
 233,Estonia,ee,est
+748,Eswatini,sz,swz
 231,Etiopia,et,eth
 242,Fiji,fj,fji
 246,Finlanda,fi,fin
@@ -164,7 +165,6 @@ id,name,alpha2,alpha3
 729,Sudan,sd,sdn
 728,"Sudanul de Sud",ss,ssd
 740,Surinam,sr,sur
-748,Swaziland,sz,swz
 752,Suedia,se,swe
 756,Elveția,ch,che
 760,Siria,sy,syr

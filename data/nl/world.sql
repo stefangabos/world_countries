@@ -214,7 +214,7 @@ INSERT INTO "world" ("id", "name", "alpha_2", "alpha_3") VALUES
 (694,"Sierra Leone","sl","sle"),
 (702,"Singapore","sg","sgp"),
 (654,"Sint-Helena, Ascension en Tristan da Cunha","sh","shn"),
-(663,"Sint-Maarten","mf","maf"),
+(663,"Saint-Martin","mf","maf"),
 (534,"Sint Maarten","sx","sxm"),
 (705,"Slovenië","si","svn"),
 (703,"Slowakije","sk","svk"),
