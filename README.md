@@ -147,7 +147,7 @@ function search_country(query) {
     // if argument is not valid return false
     if (undefined === query.id && undefined === query.alpha2 && undefined === query.alpha3) return undefined;
 
-    // iterate over the array of countries
+        // iterate over the array of countries
 	return countries.filter(function(country) {
 
         // return country's data if
@@ -216,7 +216,7 @@ function search_country($query) {
     // if argument is not valid return false
     if (!isset($query['id']) && !isset($query['alpha2']) && !isset($query['alpha3'])) return false;
 
-    // iterate over the array of countries
+        // iterate over the array of countries
 	$result = array_filter($countries, function($country) use ($query) {
 
         // return country's data if
