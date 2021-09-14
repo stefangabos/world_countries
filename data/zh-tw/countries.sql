@@ -32,7 +32,7 @@ INSERT INTO "countries" ("id", "name", "alpha_2", "alpha_3") VALUES
 (204,"貝南","bj","ben"),
 (64,"不丹","bt","btn"),
 (68,"玻利維亞","bo","bol"),
-(70,"波赫","ba","bih"),
+(70,"波士尼亞與赫塞哥維納","ba","bih"),
 (72,"波札那","bw","bwa"),
 (76,"巴西","br","bra"),
 (96,"汶萊","bn","brn"),

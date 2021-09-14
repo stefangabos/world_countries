@@ -170,7 +170,7 @@ $world = array(
     ),
     array(
         'id'        => 70,
-        'name'      => '波赫',
+        'name'      => '波士尼亞與赫塞哥維納',
         'alpha2'    => 'ba',
         'alpha3'    => 'bih'
     ),
