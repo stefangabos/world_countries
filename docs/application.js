@@ -20,7 +20,7 @@ $(document).ready(function() {
 
             var all_world = $('.world:checked', $container).length === 4,
                 all_countries = $('.countries:checked', $container).length === 4,
-                all_flags = $('.flags:checked', $container).length === 5,
+                all_flags = $('.flags:checked', $container).length === 6,
                 any_world = $('.world:checked', $container).length > 0,
                 any_countries = $('.countries:checked', $container).length > 0,
                 any_flags = $('.flags:checked', $container).length > 0,
@@ -47,6 +47,10 @@ $(document).ready(function() {
             if (all_flags) $flags.prop('checked', true).prop('indeterminate', false);
             else if (any_flags) $flags.prop('checked', true).prop('indeterminate', true);
             else $flags.prop('checked', false).prop('indeterminate', false);
+
+            if ((all_flags || any_flags) && $('input[name="flags-format"]:checked', $container).length === 0) {
+                $('#flags-format-images').prop('checked', true);
+            }
 
             if ($('input[type="checkbox"]:checked').not('.all-flags').not('.all-countries').not('.all-world').not('.all').length)
                 $('#download').removeClass('disabled');
@@ -78,6 +82,7 @@ $(document).ready(function() {
             items_to_download = $('input[type="checkbox"]:checked').not('.all-flags').not('.all-countries').not('.all-world').not('.all'),
             items_processed = 0,
             total_downloads = $(items_to_download).length - $(items_to_download).filter('.flags').length + ($(items_to_download).filter('.flags').length * flags.length),
+            flag_types = $('input[name="flags-format"]:checked').val() || 'images',
             timeout;
 
         if (total_downloads) {
@@ -92,23 +97,43 @@ $(document).ready(function() {
 
                     if (value.indexOf('flags') > -1) {
 
-                        flags.forEach(function(flag) {
+                        if (flag_types === 'images') {
+
+                            flags.forEach(function(flag) {
+
+                                jQuery.ajax({
+                                    url:        'https://cdn.jsdelivr.net/gh/stefangabos/world_countries/flags/' + path[1] + '/' + flag + '.png',
+                                    cache:      false,
+                                    xhr:        function() {
+                                                    var xhr = new XMLHttpRequest();
+                                                    xhr.responseType= 'blob'
+                                                    return xhr;
+                                                },
+                                    success:    function(data){
+                                                    zip.folder('flags/' + path[1]).file(flag + '.png', data, {blob: true});
+                                                    items_processed++;
+                                                }
+                                });
+
+                            });
+
+                        } else {
 
                             jQuery.ajax({
-                                url:        'https://cdn.jsdelivr.net/gh/stefangabos/world_countries/flags/' + path[1] + '/' + flag + '.png',
+                                url:        'https://cdn.jsdelivr.net/gh/stefangabos/world_countries/flags/' + path[1] + '/flags-' + path[1] + '.json',
                                 cache:      false,
                                 xhr:        function() {
                                                 var xhr = new XMLHttpRequest();
-                                                xhr.responseType= 'blob'
+                                                xhr.responseType = 'json'
                                                 return xhr;
                                             },
                                 success:    function(data){
-                                                zip.folder('flags/' + path[1]).file(flag + '.png', data, {blob: true});
-                                                items_processed++;
+                                                zip.folder('flags/' + path[1]).file('flags-' + path[1] + '.json', data, {});
+                                                items_processed += flags.length;
                                             }
                             });
 
-                        });
+                        }
 
                     } else
 

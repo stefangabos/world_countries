@@ -26,7 +26,7 @@ label {
 
 input.format {
     position: relative;
-    top: 2px;
+    top: 1px;
     margin-left: 10px;
     margin-right: 5px;
     cursor: pointer;
@@ -42,4 +42,12 @@ input.format {
 
 .panel-body {
     padding: 15px 10px;
+}
+
+.panel-body hr {
+    margin: 10px 0;
+}
+
+.panel.selected .panel-body hr {
+    border-top: 1px solid #337ab7;
 }
