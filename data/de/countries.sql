@@ -202,5 +202,5 @@ INSERT INTO "countries" ("id", "name", "alpha_2", "alpha_3") VALUES
 (840,"Vereinigte Staaten","us","usa"),
 (826,"Vereinigtes Königreich","gb","gbr"),
 (704,"Vietnam","vn","vnm"),
-(140,"Zentral­afrikanische Republik","cf","caf"),
+(140,"Zentralafrikanische Republik","cf","caf"),
 (196,"Zypern","cy","cyp")

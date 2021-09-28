@@ -1484,7 +1484,7 @@ $world = array(
     ),
     array(
         'id'        => 140,
-        'name'      => 'Zentral­afrikanische Republik',
+        'name'      => 'Zentralafrikanische Republik',
         'alpha2'    => 'cf',
         'alpha3'    => 'caf'
     ),

@@ -258,5 +258,5 @@ INSERT INTO "world" ("id", "name", "alpha_2", "alpha_3") VALUES
 (876,"Wallis und Futuna","wf","wlf"),
 (162,"Weihnachtsinsel","cx","cxr"),
 (732,"Westsahara","eh","esh"),
-(140,"Zentral­afrikanische Republik","cf","caf"),
+(140,"Zentralafrikanische Republik","cf","caf"),
 (196,"Zypern","cy","cyp")
