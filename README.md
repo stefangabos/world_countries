@@ -60,6 +60,14 @@ The lists are currently available in **29 languages**:
 
 > The language folders are named based on the [ISO 639-1](https://en.wikipedia.org/wiki/List_of_ISO_639-1_codes) standard.
 
+## Support the development of this library
+
+If you like this project please star it on GitHub.<br>
+If you are feeling very generous, you can also buy me a coffee through PayPal.<br>
+Thank you!
+
+[<img src="https://img.shields.io/github/stars/stefangabos/world_countries?color=green&label=star%20it%20on%20GitHub" width="132" height="20" alt="Star it on GitHub">](https://github.com/stefangabos/world_countries) [![Donate](https://img.shields.io/badge/Donate-PayPal-green.svg)](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=BPBPYP293BRLC)
+
 ## Installation
 
 The lists are available as a [npm package](https://www.npmjs.com/package/world_countries_lists). To install it use:
@@ -252,9 +260,3 @@ The package also contains the national flags of each country as a 16x16, 24x24, 
 ## Data sources
 
 Country names in all languages are taken from [Wikipedia](https://en.wikipedia.org/wiki/ISO_3166-1).
-
-## Support the development of this project
-
-Your support means a lot and keeps me motivated to keep this project alive. If you like this project please :star: it by clicking on the star button at the top of the page. Thank you!
-
-[![Donate](https://www.paypalobjects.com/en_US/i/btn/btn_donate_LG.gif)](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=BPBPYP293BRLC)
