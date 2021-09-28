@@ -258,6 +258,8 @@ search_county(array('alpha3' => 'fra'});
 
 The package also contains the national flags of each country as a 16x16, 24x24, 32x32, 48x48, 64x64 and 128x128 PNG images, courtesy of [IconDrawer](http://icondrawer.com/free.php). The image files are named using the ISO 3166-1-alpha-2 code of the country they represent, for easily pairing flags with countries.
 
+> Flag images are also available as single `JSON` files, one for each of the available sizes, containing all flag images as `data-uri` 
+
 ## Data sources
 
 Country names in all languages are taken from [Wikipedia](https://en.wikipedia.org/wiki/ISO_3166-1).
