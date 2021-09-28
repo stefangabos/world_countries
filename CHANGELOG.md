@@ -1,6 +1,7 @@
-## version 2.3.0 (TBA)
+## version 2.3.0 (September 28, 2021)
 
-- fixed folder name for Estonian translations (see [#52](https://github.com/stefangabos/world_countries/issues/52))
+- flags are now available as JSON files with data uris; see [#41](https://github.com/stefangabos/world_countries/issues/41)
+- fixed folder name for Estonian translations; see [#52](https://github.com/stefangabos/world_countries/issues/52)
 - fixed broken download links for Basque
 ## version 2.2.0 (June 06, 2021)
 
