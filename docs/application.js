@@ -124,11 +124,10 @@ $(document).ready(function() {
                                 cache:      false,
                                 xhr:        function() {
                                                 var xhr = new XMLHttpRequest();
-                                                xhr.responseType = 'json'
                                                 return xhr;
                                             },
                                 success:    function(data){
-                                                zip.folder('flags/' + path[1]).file('flags-' + path[1] + '.json', data, {});
+                                                zip.folder('flags/' + path[1]).file('flags-' + path[1] + '.json', JSON.stringify(data, null, 2), {});
                                                 items_processed += flags.length;
                                             }
                             });
