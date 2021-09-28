@@ -60,11 +60,11 @@ The lists are currently available in **29 languages**:
 
 > The language folders are named based on the [ISO 639-1](https://en.wikipedia.org/wiki/List_of_ISO_639-1_codes) standard.
 
-## Support the development of this library
+## 🎂 Support the development of this library
 
 If you like this project please star it on GitHub.<br>
-If you are feeling very generous, you can also buy me a coffee through PayPal.<br>
-Thank you!
+If you are feeling very generous, you can donate through PayPal and I will likely buy a small indie game from Steam with it.<br>
+Either way - **Thank you!** 🎉
 
 [<img src="https://img.shields.io/github/stars/stefangabos/world_countries?color=green&label=star%20it%20on%20GitHub" width="132" height="20" alt="Star it on GitHub">](https://github.com/stefangabos/world_countries) [![Donate](https://img.shields.io/badge/Donate-PayPal-green.svg)](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=BPBPYP293BRLC)
 
