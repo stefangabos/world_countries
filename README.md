@@ -87,7 +87,8 @@ Alternatively, you can load data from [JSDelivr CDN](https://www.jsdelivr.com/pa
 <script src="https://cdn.jsdelivr.net/npm/world_countries_lists@latest/data/en/countries.json"></script>
 ```
 
-Or [download a customized build](http://stefangabos.github.io/world_countries/).
+Or
+> [download a customized build](http://stefangabos.github.io/world_countries/).
 
 ## Data formats
 
