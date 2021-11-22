@@ -136,7 +136,7 @@ $(document).ready(function() {
 
                     } else
 
-                        $.get('https://cdn.jsdelivr.net/gh/stefangabos/world_countries/data/' + path[0] + '/' + path[1], function(result) {
+                        $.get('https://raw.githubusercontent.com/stefangabos/world_countries/master/data/' + path[0] + '/' + path[1], function(result) {
                             zip.folder('data/' + path[0]).file(path[1], result);
                             items_processed++;
                         }, 'text');
