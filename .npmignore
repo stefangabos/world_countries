@@ -7,5 +7,4 @@ docs/*
 package.json
 package-lock.json
 index.php
-combine.php
 todo.txt
