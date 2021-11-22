@@ -1,3 +1,8 @@
+## version 2.4.0 (TBA)
+- added combined lists; see [#29](https://github.com/stefangabos/world_countries/issues/29)
+- aded a note about the fact that alpha-2 and alpha-3 codes are lowercase instead of uppercase as defined by ISO 3166-1; see [#50](https://github.com/stefangabos/world_countries/issues/50)
+- fixed `id` of Sudan for Swedish language
+- fixed broken SQL
 ## version 2.3.0 (September 28, 2021)
 
 - flags are now available as JSON files with data uris; see [#41](https://github.com/stefangabos/world_countries/issues/41)
