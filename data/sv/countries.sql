@@ -163,7 +163,7 @@ INSERT INTO "countries" ("id", "name", "alpha_2", "alpha_3") VALUES
 (682,"Saudiarabien","sa","sau"),
 (90,"Salomonöarna","sb","slb"),
 (690,"Seychellerna","sc","syc"),
-(736,"Sudan","sd","sdn"),
+(729,"Sudan","sd","sdn"),
 (752,"Sverige","se","swe"),
 (702,"Singapore","sg","sgp"),
 (705,"Slovenien","si","svn"),
