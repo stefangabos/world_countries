@@ -63,7 +63,6 @@ The lists are currently available in **29 languages**:
 
 ## 🎂 Support the development of this library
 
-
 Your support means a lot and it keeps me motivated to keep working on open source projects.<br>
 If you like this project please ⭐ it by clicking on the star button at the top of the page.<br>
 If you are feeling generous, you can buy me a coffee by donating through PayPal or you can become a sponsor.<br>
