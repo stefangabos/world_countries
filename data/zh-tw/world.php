@@ -1058,7 +1058,7 @@ $world = array(
     ),
     array(
         'id'        => 612,
-        'name'      => '皮特肯群島',
+        'name'      => '皮特凱恩群島',
         'alpha2'    => 'pn',
         'alpha3'    => 'pcn'
     ),
