@@ -98,7 +98,6 @@ Or
 Excerpt from the `data/en/countries.sql` file:
 
 ```sql
-...
 (250,'France','fr','fra'),
 (266,'Gabon','ga','gab'),
 (270,'Gambia','gm','gmb'),
@@ -107,7 +106,6 @@ Excerpt from the `data/en/countries.sql` file:
 (288,'Ghana','gh','gha'),
 (300,'Greece','gr','grc'),
 (308,'Grenada','gd','grd'),
-...
 ```
 
 ### CSV
@@ -115,7 +113,6 @@ Excerpt from the `data/en/countries.sql` file:
 Excerpt from the `data/en/countries.csv` file:
 
 ```csv
-...
 250,France,fr,fra
 266,Gabon,ga,gab
 270,Gambia,gm,gmb
@@ -124,7 +121,6 @@ Excerpt from the `data/en/countries.csv` file:
 288,Ghana,gh,gha
 300,Greece,gr,grc
 308,Grenada,gd,grd
-...
 ```
 
 ### JSON
@@ -132,7 +128,6 @@ Excerpt from the `data/en/countries.csv` file:
 Excerpt from the `data/en/countries.json` file:
 
 ```json
-...
 {"id":250,"name":"France","alpha2":"fr","alpha3":"fra"},
 {"id":266,"name":"Gabon","alpha2":"ga","alpha3":"gab"},
 {"id":270,"name":"Gambia","alpha2":"gm","alpha3":"gmb"},
@@ -141,7 +136,6 @@ Excerpt from the `data/en/countries.json` file:
 {"id":288,"name":"Ghana","alpha2":"gh","alpha3":"gha"},
 {"id":300,"name":"Greece","alpha2":"gr","alpha3":"grc"},
 {"id":308,"name":"Grenada","alpha2":"gd","alpha3":"grd"},
-...
 ```
 
 Here's a little helper function for searching for a specific country's data
@@ -226,7 +220,7 @@ function search_country($query) {
     // if argument is not valid return false
     if (!isset($query['id']) && !isset($query['alpha2']) && !isset($query['alpha3'])) return false;
 
-        // iterate over the array of countries
+    // iterate over the array of countries
 	$result = array_filter($countries, function($country) use ($query) {
 
         // return country's data if
