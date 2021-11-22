@@ -63,11 +63,13 @@ The lists are currently available in **29 languages**:
 
 ## 🎂 Support the development of this library
 
-If you like this project please star it on GitHub.<br>
-If you are feeling very generous, you can donate through PayPal and I will likely buy a small indie game from Steam with it.<br>
+
+Your support means a lot and it keeps me motivated to keep working on open source projects.<br>
+If you like this project please ⭐ it by clicking on the star button at the top of the page.<br>
+If you are feeling generous, you can buy me a coffee by donating through PayPal or you can become a sponsor.<br>
 Either way - **Thank you!** 🎉
 
-[<img src="https://img.shields.io/github/stars/stefangabos/world_countries?color=green&label=star%20it%20on%20GitHub" width="132" height="20" alt="Star it on GitHub">](https://github.com/stefangabos/world_countries) [![Donate](https://img.shields.io/badge/Donate-PayPal-green.svg)](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=BPBPYP293BRLC)
+[<img src="https://img.shields.io/github/stars/stefangabos/world_countries?color=green&label=star%20it%20on%20GitHub" width="132" height="20" alt="Star it on GitHub">](https://github.com/stefangabos/world_countries) [![Donate](https://img.shields.io/badge/Donate-PayPal-green.svg)](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=BPBPYP293BRLC) [<img src="https://img.shields.io/badge/-Sponsor-fafbfc?logo=GitHub%20Sponsors">](https://github.com/sponsors/stefangabos)
 
 ## Installation
 
@@ -220,7 +222,7 @@ function search_country($query) {
     // if argument is not valid return false
     if (!isset($query['id']) && !isset($query['alpha2']) && !isset($query['alpha3'])) return false;
 
-    // iterate over the array of countries
+        // iterate over the array of countries
 	$result = array_filter($countries, function($country) use ($query) {
 
         // return country's data if
