@@ -1,16 +1,16 @@
 SET NAMES utf8;
 
-DROP TABLE IF EXISTS "world";
+DROP TABLE IF EXISTS `world`;
 
-CREATE TABLE "world" (
-  "id" int(11) NOT NULL,
-  "name" varchar(75) NOT NULL DEFAULT "",
-  "alpha_2" char(2) NOT NULL DEFAULT "",
-  "alpha_3" char(3) NOT NULL DEFAULT "",
-  PRIMARY KEY ("id")
+CREATE TABLE `world` (
+  `id` int(11) NOT NULL,
+  `name` varchar(75) NOT NULL DEFAULT "",
+  `alpha_2` char(2) NOT NULL DEFAULT "",
+  `alpha_3` char(3) NOT NULL DEFAULT "",
+  PRIMARY KEY (`id`)
 ) ENGINE=MyISAM DEFAULT CHARSET=utf8;
 
-INSERT INTO "world" ("id", "name", "alpha_2", "alpha_3") VALUES
+INSERT INTO `world` (`id`, `name`, `alpha_2`, `alpha_3`) VALUES
 (4,"Afeganistão","af","afg"),
 (710,"África do Sul","za","zaf"),
 (248,"Ilhas Åland","ax","ala"),
