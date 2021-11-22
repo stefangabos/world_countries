@@ -65,7 +65,7 @@ The lists are currently available in **29 languages**:
 
 Your support means a lot and it keeps me motivated to keep working on open source projects.<br>
 If you like this project please ⭐ it by clicking on the star button at the top of the page.<br>
-If you are feeling generous, you can buy me a coffee by donating through PayPal or you can become a sponsor.<br>
+If you are feeling generous, you can buy me a coffee by donating through PayPal, or you can become a sponsor.<br>
 Either way - **Thank you!** 🎉
 
 [<img src="https://img.shields.io/github/stars/stefangabos/world_countries?color=green&label=star%20it%20on%20GitHub" width="132" height="20" alt="Star it on GitHub">](https://github.com/stefangabos/world_countries) [![Donate](https://img.shields.io/badge/Donate-PayPal-green.svg)](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=BPBPYP293BRLC) [<img src="https://img.shields.io/badge/-Sponsor-fafbfc?logo=GitHub%20Sponsors">](https://github.com/sponsors/stefangabos)
