@@ -21,10 +21,11 @@ The files contain:
 
 - the **ISO 3166-1 numeric** country codes
 - the **ISO 3166** official short names in *English*<small><sup>[1](#footnote)</sup></small>
-- the **ISO 3166-1 alpha-2** two-letter country codes
-- the **ISO 3166-1 alpha-3** three-letter country codes
+- the **ISO 3166-1 alpha-2** two-letter country codes<small><sup>[2](#footnote2)</sup></small>
+- the **ISO 3166-1 alpha-3** three-letter country codes<small><sup>[2](#footnote2)</sup></small>
 
 <small><a name="footnote"><sup>1</sup></a> for other languages the country names are in that particular language</small>
+<br><small><a name="footnote2"><sup>2</sup></a> ISO 3166-1 alpha codes are uppercase but this library provides them in lowercase</small>
 
 The lists are currently available in **29 languages**:
 
@@ -258,7 +259,7 @@ search_county(array('alpha3' => 'fra'});
 
 The package also contains the national flags of each country as a 16x16, 24x24, 32x32, 48x48, 64x64 and 128x128 PNG images, courtesy of [IconDrawer](http://icondrawer.com/free.php). The image files are named using the ISO 3166-1-alpha-2 code of the country they represent, for easily pairing flags with countries.
 
-> Flag images are also available as single `JSON` files, one for each of the available sizes, containing all flag images as `data-uri` 
+> Flag images are also available as single `JSON` files, one for each of the available sizes, containing all flag images as `data-uri`
 
 ## Data sources
 
