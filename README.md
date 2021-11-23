@@ -70,7 +70,7 @@ Either way - **Thank you!** 🎉
 
 [<img src="https://img.shields.io/github/stars/stefangabos/world_countries?color=green&label=star%20it%20on%20GitHub" width="132" height="20" alt="Star it on GitHub">](https://github.com/stefangabos/world_countries) [![Donate](https://img.shields.io/badge/Donate-PayPal-green.svg)](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=BPBPYP293BRLC) [<img src="https://img.shields.io/badge/-Sponsor-fafbfc?logo=GitHub%20Sponsors">](https://github.com/sponsors/stefangabos)
 
-## 🎬 Installation
+## Installation
 
 The lists are available as a [npm package](https://www.npmjs.com/package/world_countries_lists). To install it use:
 
@@ -92,7 +92,7 @@ Alternatively, you can load data from [JSDelivr CDN](https://www.jsdelivr.com/pa
 Or
 > [download a customized build](http://stefangabos.github.io/world_countries/).
 
-## 💽 Data formats
+## Data formats
 
 ### SQL
 
@@ -250,12 +250,12 @@ search_county(array('alpha2' => 'fr'});
 search_county(array('alpha3' => 'fra'});
 ```
 
-## 🚩 Flags
+## Flags
 
 The package also contains the national flags of each country as a 16x16, 24x24, 32x32, 48x48, 64x64 and 128x128 PNG images, courtesy of [IconDrawer](http://icondrawer.com/free.php). The image files are named using the ISO 3166-1-alpha-2 code of the country they represent, for easily pairing flags with countries.
 
 > Flag images are also available as single `JSON` files, one for each of the available sizes, containing all flag images as `data-uri`
 
-## 💁 Data sources
+## Data sources
 
 Country names in all languages are taken from [Wikipedia](https://en.wikipedia.org/wiki/ISO_3166-1).
