@@ -61,7 +61,7 @@ The lists are currently available in **29 languages**:
 
 > The language folders are named based on the [ISO 639-1](https://en.wikipedia.org/wiki/List_of_ISO_639-1_codes) standard.
 
-## 🎂 Support the development of this library
+## 🎂 Support the development of this project
 
 Your support means a lot and it keeps me motivated to keep working on open source projects.<br>
 If you like this project please ⭐ it by clicking on the star button at the top of the page.<br>
