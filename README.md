@@ -70,7 +70,7 @@ Either way - **Thank you!** 🎉
 
 [<img src="https://img.shields.io/github/stars/stefangabos/world_countries?color=green&label=star%20it%20on%20GitHub" width="132" height="20" alt="Star it on GitHub">](https://github.com/stefangabos/world_countries) [![Donate](https://img.shields.io/badge/Donate-PayPal-green.svg)](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=BPBPYP293BRLC) [<img src="https://img.shields.io/badge/-Sponsor-fafbfc?logo=GitHub%20Sponsors">](https://github.com/sponsors/stefangabos)
 
-## Installation
+## 🎬 Installation
 
 The lists are available as a [npm package](https://www.npmjs.com/package/world_countries_lists). To install it use:
 
@@ -92,7 +92,7 @@ Alternatively, you can load data from [JSDelivr CDN](https://www.jsdelivr.com/pa
 Or
 > [download a customized build](http://stefangabos.github.io/world_countries/).
 
-## Data formats
+## 💽 Data formats
 
 ### SQL
 
