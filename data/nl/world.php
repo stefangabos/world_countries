@@ -782,7 +782,7 @@ $world = array(
     ),
     array(
         'id'        => 462,
-        'name'      => 'Maldiven',
+        'name'      => 'Malediven',
         'alpha2'    => 'mv',
         'alpha3'    => 'mdv'
     ),
@@ -854,7 +854,7 @@ $world = array(
     ),
     array(
         'id'        => 583,
-        'name'      => 'Micronesia',
+        'name'      => 'Micronesië',
         'alpha2'    => 'fm',
         'alpha3'    => 'fsm'
     ),

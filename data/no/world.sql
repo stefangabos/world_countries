@@ -254,7 +254,7 @@ INSERT INTO `world` (`id`, `name`, `alpha_2`, `alpha_3`) VALUES
 (862,"Venezuela","ve","ven"),
 (732,"Vest-Sahara","eh","esh"),
 (704,"Vietnam","vn","vnm"),
-(876,"Wallis og Futuna","wf","wlf"),
+(876,"Wallis- og Futunaøyene","wf","wlf"),
 (894,"Zambia","zm","zmb"),
 (716,"Zimbabwe","zw","zwe"),
 (40,"Østerrike","at","aut"),

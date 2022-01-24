@@ -1460,7 +1460,7 @@ $world = array(
     ),
     array(
         'id'        => 876,
-        'name'      => 'Wallis og Futuna',
+        'name'      => 'Wallis- og Futunaøyene',
         'alpha2'    => 'wf',
         'alpha3'    => 'wlf'
     ),

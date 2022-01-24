@@ -1382,7 +1382,7 @@ $world = array(
     ),
     array(
         'id'        => 780,
-        'name'      => 'Trindade e Tobago',
+        'name'      => 'Trinidad e Tobago',
         'alpha2'    => 'tt',
         'alpha3'    => 'tto'
     ),
