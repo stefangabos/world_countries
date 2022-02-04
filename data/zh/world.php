@@ -1,1497 +1,1497 @@
 <?php
 $world = array(
-    array(
+    4 => array(
         'id'        => 4,
-        'name'      => '阿富汗',
         'alpha2'    => 'af',
-        'alpha3'    => 'afg'
+        'alpha3'    => 'afg',
+        'name'      => '阿富汗'
     ),
-    array(
+    248 => array(
         'id'        => 248,
-        'name'      => '奥兰',
         'alpha2'    => 'ax',
-        'alpha3'    => 'ala'
+        'alpha3'    => 'ala',
+        'name'      => '奥兰'
     ),
-    array(
+    8 => array(
         'id'        => 8,
-        'name'      => '阿尔巴尼亚',
         'alpha2'    => 'al',
-        'alpha3'    => 'alb'
+        'alpha3'    => 'alb',
+        'name'      => '阿尔巴尼亚'
     ),
-    array(
+    12 => array(
         'id'        => 12,
-        'name'      => '阿尔及利亚',
         'alpha2'    => 'dz',
-        'alpha3'    => 'dza'
+        'alpha3'    => 'dza',
+        'name'      => '阿尔及利亚'
     ),
-    array(
+    16 => array(
         'id'        => 16,
-        'name'      => '美属萨摩亚',
         'alpha2'    => 'as',
-        'alpha3'    => 'asm'
+        'alpha3'    => 'asm',
+        'name'      => '美属萨摩亚'
     ),
-    array(
+    20 => array(
         'id'        => 20,
-        'name'      => '安道尔',
         'alpha2'    => 'ad',
-        'alpha3'    => 'and'
+        'alpha3'    => 'and',
+        'name'      => '安道尔'
     ),
-    array(
+    24 => array(
         'id'        => 24,
-        'name'      => '安哥拉',
         'alpha2'    => 'ao',
-        'alpha3'    => 'ago'
+        'alpha3'    => 'ago',
+        'name'      => '安哥拉'
     ),
-    array(
+    660 => array(
         'id'        => 660,
-        'name'      => '安圭拉',
         'alpha2'    => 'ai',
-        'alpha3'    => 'aia'
+        'alpha3'    => 'aia',
+        'name'      => '安圭拉'
     ),
-    array(
+    10 => array(
         'id'        => 10,
-        'name'      => '南极洲',
         'alpha2'    => 'aq',
-        'alpha3'    => 'ata'
+        'alpha3'    => 'ata',
+        'name'      => '南极洲'
     ),
-    array(
+    28 => array(
         'id'        => 28,
-        'name'      => '安提瓜和巴布达',
         'alpha2'    => 'ag',
-        'alpha3'    => 'atg'
+        'alpha3'    => 'atg',
+        'name'      => '安提瓜和巴布达'
     ),
-    array(
+    32 => array(
         'id'        => 32,
-        'name'      => '阿根廷',
         'alpha2'    => 'ar',
-        'alpha3'    => 'arg'
+        'alpha3'    => 'arg',
+        'name'      => '阿根廷'
     ),
-    array(
+    51 => array(
         'id'        => 51,
-        'name'      => '亚美尼亚',
         'alpha2'    => 'am',
-        'alpha3'    => 'arm'
+        'alpha3'    => 'arm',
+        'name'      => '亚美尼亚'
     ),
-    array(
+    533 => array(
         'id'        => 533,
-        'name'      => '阿鲁巴',
         'alpha2'    => 'aw',
-        'alpha3'    => 'abw'
+        'alpha3'    => 'abw',
+        'name'      => '阿鲁巴'
     ),
-    array(
+    36 => array(
         'id'        => 36,
-        'name'      => '澳大利亚',
         'alpha2'    => 'au',
-        'alpha3'    => 'aus'
+        'alpha3'    => 'aus',
+        'name'      => '澳大利亚'
     ),
-    array(
+    40 => array(
         'id'        => 40,
-        'name'      => '奥地利',
         'alpha2'    => 'at',
-        'alpha3'    => 'aut'
+        'alpha3'    => 'aut',
+        'name'      => '奥地利'
     ),
-    array(
+    31 => array(
         'id'        => 31,
-        'name'      => '阿塞拜疆',
         'alpha2'    => 'az',
-        'alpha3'    => 'aze'
+        'alpha3'    => 'aze',
+        'name'      => '阿塞拜疆'
     ),
-    array(
+    44 => array(
         'id'        => 44,
-        'name'      => '巴哈马',
         'alpha2'    => 'bs',
-        'alpha3'    => 'bhs'
+        'alpha3'    => 'bhs',
+        'name'      => '巴哈马'
     ),
-    array(
+    48 => array(
         'id'        => 48,
-        'name'      => '巴林',
         'alpha2'    => 'bh',
-        'alpha3'    => 'bhr'
+        'alpha3'    => 'bhr',
+        'name'      => '巴林'
     ),
-    array(
+    50 => array(
         'id'        => 50,
-        'name'      => '孟加拉国',
         'alpha2'    => 'bd',
-        'alpha3'    => 'bgd'
+        'alpha3'    => 'bgd',
+        'name'      => '孟加拉国'
     ),
-    array(
+    52 => array(
         'id'        => 52,
-        'name'      => '巴巴多斯',
         'alpha2'    => 'bb',
-        'alpha3'    => 'brb'
+        'alpha3'    => 'brb',
+        'name'      => '巴巴多斯'
     ),
-    array(
+    112 => array(
         'id'        => 112,
-        'name'      => '白俄罗斯',
         'alpha2'    => 'by',
-        'alpha3'    => 'blr'
+        'alpha3'    => 'blr',
+        'name'      => '白俄罗斯'
     ),
-    array(
+    56 => array(
         'id'        => 56,
-        'name'      => '比利时',
         'alpha2'    => 'be',
-        'alpha3'    => 'bel'
+        'alpha3'    => 'bel',
+        'name'      => '比利时'
     ),
-    array(
+    84 => array(
         'id'        => 84,
-        'name'      => '伯利兹',
         'alpha2'    => 'bz',
-        'alpha3'    => 'blz'
+        'alpha3'    => 'blz',
+        'name'      => '伯利兹'
     ),
-    array(
+    204 => array(
         'id'        => 204,
-        'name'      => '贝宁',
         'alpha2'    => 'bj',
-        'alpha3'    => 'ben'
+        'alpha3'    => 'ben',
+        'name'      => '贝宁'
     ),
-    array(
+    60 => array(
         'id'        => 60,
-        'name'      => '百慕大',
         'alpha2'    => 'bm',
-        'alpha3'    => 'bmu'
+        'alpha3'    => 'bmu',
+        'name'      => '百慕大'
     ),
-    array(
+    64 => array(
         'id'        => 64,
-        'name'      => '不丹',
         'alpha2'    => 'bt',
-        'alpha3'    => 'btn'
+        'alpha3'    => 'btn',
+        'name'      => '不丹'
     ),
-    array(
+    68 => array(
         'id'        => 68,
-        'name'      => '玻利维亚',
         'alpha2'    => 'bo',
-        'alpha3'    => 'bol'
+        'alpha3'    => 'bol',
+        'name'      => '玻利维亚'
     ),
-    array(
+    535 => array(
         'id'        => 535,
-        'name'      => '荷兰加勒比区',
         'alpha2'    => 'bq',
-        'alpha3'    => 'bes'
+        'alpha3'    => 'bes',
+        'name'      => '荷兰加勒比区'
     ),
-    array(
+    70 => array(
         'id'        => 70,
-        'name'      => '波黑',
         'alpha2'    => 'ba',
-        'alpha3'    => 'bih'
+        'alpha3'    => 'bih',
+        'name'      => '波黑'
     ),
-    array(
+    72 => array(
         'id'        => 72,
-        'name'      => '博茨瓦纳',
         'alpha2'    => 'bw',
-        'alpha3'    => 'bwa'
+        'alpha3'    => 'bwa',
+        'name'      => '博茨瓦纳'
     ),
-    array(
+    74 => array(
         'id'        => 74,
-        'name'      => '布韦岛',
         'alpha2'    => 'bv',
-        'alpha3'    => 'bvt'
+        'alpha3'    => 'bvt',
+        'name'      => '布韦岛'
     ),
-    array(
+    76 => array(
         'id'        => 76,
-        'name'      => '巴西',
         'alpha2'    => 'br',
-        'alpha3'    => 'bra'
+        'alpha3'    => 'bra',
+        'name'      => '巴西'
     ),
-    array(
+    86 => array(
         'id'        => 86,
-        'name'      => '英属印度洋领地',
         'alpha2'    => 'io',
-        'alpha3'    => 'iot'
+        'alpha3'    => 'iot',
+        'name'      => '英属印度洋领地'
     ),
-    array(
+    96 => array(
         'id'        => 96,
-        'name'      => '文莱',
         'alpha2'    => 'bn',
-        'alpha3'    => 'brn'
+        'alpha3'    => 'brn',
+        'name'      => '文莱'
     ),
-    array(
+    100 => array(
         'id'        => 100,
-        'name'      => '保加利亚',
         'alpha2'    => 'bg',
-        'alpha3'    => 'bgr'
+        'alpha3'    => 'bgr',
+        'name'      => '保加利亚'
     ),
-    array(
+    854 => array(
         'id'        => 854,
-        'name'      => '布基纳法索',
         'alpha2'    => 'bf',
-        'alpha3'    => 'bfa'
+        'alpha3'    => 'bfa',
+        'name'      => '布基纳法索'
     ),
-    array(
+    108 => array(
         'id'        => 108,
-        'name'      => '布隆迪',
         'alpha2'    => 'bi',
-        'alpha3'    => 'bdi'
+        'alpha3'    => 'bdi',
+        'name'      => '布隆迪'
     ),
-    array(
+    132 => array(
         'id'        => 132,
-        'name'      => '佛得角',
         'alpha2'    => 'cv',
-        'alpha3'    => 'cpv'
+        'alpha3'    => 'cpv',
+        'name'      => '佛得角'
     ),
-    array(
+    116 => array(
         'id'        => 116,
-        'name'      => '柬埔寨',
         'alpha2'    => 'kh',
-        'alpha3'    => 'khm'
+        'alpha3'    => 'khm',
+        'name'      => '柬埔寨'
     ),
-    array(
+    120 => array(
         'id'        => 120,
-        'name'      => '喀麦隆',
         'alpha2'    => 'cm',
-        'alpha3'    => 'cmr'
+        'alpha3'    => 'cmr',
+        'name'      => '喀麦隆'
     ),
-    array(
+    124 => array(
         'id'        => 124,
-        'name'      => '加拿大',
         'alpha2'    => 'ca',
-        'alpha3'    => 'can'
+        'alpha3'    => 'can',
+        'name'      => '加拿大'
     ),
-    array(
+    136 => array(
         'id'        => 136,
-        'name'      => '开曼群岛',
         'alpha2'    => 'ky',
-        'alpha3'    => 'cym'
+        'alpha3'    => 'cym',
+        'name'      => '开曼群岛'
     ),
-    array(
+    140 => array(
         'id'        => 140,
-        'name'      => '中非',
         'alpha2'    => 'cf',
-        'alpha3'    => 'caf'
+        'alpha3'    => 'caf',
+        'name'      => '中非'
     ),
-    array(
+    148 => array(
         'id'        => 148,
-        'name'      => '乍得',
         'alpha2'    => 'td',
-        'alpha3'    => 'tcd'
+        'alpha3'    => 'tcd',
+        'name'      => '乍得'
     ),
-    array(
+    152 => array(
         'id'        => 152,
-        'name'      => '智利',
         'alpha2'    => 'cl',
-        'alpha3'    => 'chl'
+        'alpha3'    => 'chl',
+        'name'      => '智利'
     ),
-    array(
+    156 => array(
         'id'        => 156,
-        'name'      => '中国',
         'alpha2'    => 'cn',
-        'alpha3'    => 'chn'
+        'alpha3'    => 'chn',
+        'name'      => '中国'
     ),
-    array(
+    162 => array(
         'id'        => 162,
-        'name'      => '圣诞岛',
         'alpha2'    => 'cx',
-        'alpha3'    => 'cxr'
+        'alpha3'    => 'cxr',
+        'name'      => '圣诞岛'
     ),
-    array(
+    166 => array(
         'id'        => 166,
-        'name'      => '科科斯（基林）群岛',
         'alpha2'    => 'cc',
-        'alpha3'    => 'cck'
+        'alpha3'    => 'cck',
+        'name'      => '科科斯（基林）群岛'
     ),
-    array(
+    170 => array(
         'id'        => 170,
-        'name'      => '哥伦比亚',
         'alpha2'    => 'co',
-        'alpha3'    => 'col'
+        'alpha3'    => 'col',
+        'name'      => '哥伦比亚'
     ),
-    array(
+    174 => array(
         'id'        => 174,
-        'name'      => '科摩罗',
         'alpha2'    => 'km',
-        'alpha3'    => 'com'
+        'alpha3'    => 'com',
+        'name'      => '科摩罗'
     ),
-    array(
+    178 => array(
         'id'        => 178,
-        'name'      => '刚果共和国',
         'alpha2'    => 'cg',
-        'alpha3'    => 'cog'
+        'alpha3'    => 'cog',
+        'name'      => '刚果共和国'
     ),
-    array(
+    180 => array(
         'id'        => 180,
-        'name'      => '刚果民主共和国',
         'alpha2'    => 'cd',
-        'alpha3'    => 'cod'
+        'alpha3'    => 'cod',
+        'name'      => '刚果民主共和国'
     ),
-    array(
+    184 => array(
         'id'        => 184,
-        'name'      => '库克群岛',
         'alpha2'    => 'ck',
-        'alpha3'    => 'cok'
+        'alpha3'    => 'cok',
+        'name'      => '库克群岛'
     ),
-    array(
+    188 => array(
         'id'        => 188,
-        'name'      => '哥斯达黎加',
         'alpha2'    => 'cr',
-        'alpha3'    => 'cri'
+        'alpha3'    => 'cri',
+        'name'      => '哥斯达黎加'
     ),
-    array(
+    384 => array(
         'id'        => 384,
-        'name'      => '科特迪瓦',
         'alpha2'    => 'ci',
-        'alpha3'    => 'civ'
+        'alpha3'    => 'civ',
+        'name'      => '科特迪瓦'
     ),
-    array(
+    191 => array(
         'id'        => 191,
-        'name'      => '克罗地亚',
         'alpha2'    => 'hr',
-        'alpha3'    => 'hrv'
+        'alpha3'    => 'hrv',
+        'name'      => '克罗地亚'
     ),
-    array(
+    192 => array(
         'id'        => 192,
-        'name'      => '古巴',
         'alpha2'    => 'cu',
-        'alpha3'    => 'cub'
+        'alpha3'    => 'cub',
+        'name'      => '古巴'
     ),
-    array(
+    531 => array(
         'id'        => 531,
-        'name'      => '库拉索',
         'alpha2'    => 'cw',
-        'alpha3'    => 'cuw'
+        'alpha3'    => 'cuw',
+        'name'      => '库拉索'
     ),
-    array(
+    196 => array(
         'id'        => 196,
-        'name'      => '塞浦路斯',
         'alpha2'    => 'cy',
-        'alpha3'    => 'cyp'
+        'alpha3'    => 'cyp',
+        'name'      => '塞浦路斯'
     ),
-    array(
+    203 => array(
         'id'        => 203,
-        'name'      => '捷克',
         'alpha2'    => 'cz',
-        'alpha3'    => 'cze'
+        'alpha3'    => 'cze',
+        'name'      => '捷克'
     ),
-    array(
+    208 => array(
         'id'        => 208,
-        'name'      => '丹麦',
         'alpha2'    => 'dk',
-        'alpha3'    => 'dnk'
+        'alpha3'    => 'dnk',
+        'name'      => '丹麦'
     ),
-    array(
+    262 => array(
         'id'        => 262,
-        'name'      => '吉布提',
         'alpha2'    => 'dj',
-        'alpha3'    => 'dji'
+        'alpha3'    => 'dji',
+        'name'      => '吉布提'
     ),
-    array(
+    212 => array(
         'id'        => 212,
-        'name'      => '多米尼克',
         'alpha2'    => 'dm',
-        'alpha3'    => 'dma'
+        'alpha3'    => 'dma',
+        'name'      => '多米尼克'
     ),
-    array(
+    214 => array(
         'id'        => 214,
-        'name'      => '多米尼加',
         'alpha2'    => 'do',
-        'alpha3'    => 'dom'
+        'alpha3'    => 'dom',
+        'name'      => '多米尼加'
     ),
-    array(
+    218 => array(
         'id'        => 218,
-        'name'      => '厄瓜多尔',
         'alpha2'    => 'ec',
-        'alpha3'    => 'ecu'
+        'alpha3'    => 'ecu',
+        'name'      => '厄瓜多尔'
     ),
-    array(
+    818 => array(
         'id'        => 818,
-        'name'      => '埃及',
         'alpha2'    => 'eg',
-        'alpha3'    => 'egy'
+        'alpha3'    => 'egy',
+        'name'      => '埃及'
     ),
-    array(
+    222 => array(
         'id'        => 222,
-        'name'      => '萨尔瓦多',
         'alpha2'    => 'sv',
-        'alpha3'    => 'slv'
+        'alpha3'    => 'slv',
+        'name'      => '萨尔瓦多'
     ),
-    array(
+    226 => array(
         'id'        => 226,
-        'name'      => '赤道几内亚',
         'alpha2'    => 'gq',
-        'alpha3'    => 'gnq'
+        'alpha3'    => 'gnq',
+        'name'      => '赤道几内亚'
     ),
-    array(
+    232 => array(
         'id'        => 232,
-        'name'      => '厄立特里亚',
         'alpha2'    => 'er',
-        'alpha3'    => 'eri'
+        'alpha3'    => 'eri',
+        'name'      => '厄立特里亚'
     ),
-    array(
+    233 => array(
         'id'        => 233,
-        'name'      => '爱沙尼亚',
         'alpha2'    => 'ee',
-        'alpha3'    => 'est'
+        'alpha3'    => 'est',
+        'name'      => '爱沙尼亚'
     ),
-    array(
+    748 => array(
         'id'        => 748,
-        'name'      => '斯威士兰',
         'alpha2'    => 'sz',
-        'alpha3'    => 'swz'
+        'alpha3'    => 'swz',
+        'name'      => '斯威士兰'
     ),
-    array(
+    231 => array(
         'id'        => 231,
-        'name'      => '埃塞俄比亚',
         'alpha2'    => 'et',
-        'alpha3'    => 'eth'
+        'alpha3'    => 'eth',
+        'name'      => '埃塞俄比亚'
     ),
-    array(
+    238 => array(
         'id'        => 238,
-        'name'      => '福克兰群岛',
         'alpha2'    => 'fk',
-        'alpha3'    => 'flk'
+        'alpha3'    => 'flk',
+        'name'      => '福克兰群岛'
     ),
-    array(
+    234 => array(
         'id'        => 234,
-        'name'      => '法罗群岛',
         'alpha2'    => 'fo',
-        'alpha3'    => 'fro'
+        'alpha3'    => 'fro',
+        'name'      => '法罗群岛'
     ),
-    array(
+    242 => array(
         'id'        => 242,
-        'name'      => '斐济',
         'alpha2'    => 'fj',
-        'alpha3'    => 'fji'
+        'alpha3'    => 'fji',
+        'name'      => '斐济'
     ),
-    array(
+    246 => array(
         'id'        => 246,
-        'name'      => '芬兰',
         'alpha2'    => 'fi',
-        'alpha3'    => 'fin'
+        'alpha3'    => 'fin',
+        'name'      => '芬兰'
     ),
-    array(
+    250 => array(
         'id'        => 250,
-        'name'      => '法国',
         'alpha2'    => 'fr',
-        'alpha3'    => 'fra'
+        'alpha3'    => 'fra',
+        'name'      => '法国'
     ),
-    array(
+    254 => array(
         'id'        => 254,
-        'name'      => '法属圭亚那',
         'alpha2'    => 'gf',
-        'alpha3'    => 'guf'
+        'alpha3'    => 'guf',
+        'name'      => '法属圭亚那'
     ),
-    array(
+    258 => array(
         'id'        => 258,
-        'name'      => '法属波利尼西亚',
         'alpha2'    => 'pf',
-        'alpha3'    => 'pyf'
+        'alpha3'    => 'pyf',
+        'name'      => '法属波利尼西亚'
     ),
-    array(
+    260 => array(
         'id'        => 260,
-        'name'      => '法属南部和南极领地',
         'alpha2'    => 'tf',
-        'alpha3'    => 'atf'
+        'alpha3'    => 'atf',
+        'name'      => '法属南部和南极领地'
     ),
-    array(
+    266 => array(
         'id'        => 266,
-        'name'      => '加蓬',
         'alpha2'    => 'ga',
-        'alpha3'    => 'gab'
+        'alpha3'    => 'gab',
+        'name'      => '加蓬'
     ),
-    array(
+    270 => array(
         'id'        => 270,
-        'name'      => '冈比亚',
         'alpha2'    => 'gm',
-        'alpha3'    => 'gmb'
+        'alpha3'    => 'gmb',
+        'name'      => '冈比亚'
     ),
-    array(
+    268 => array(
         'id'        => 268,
-        'name'      => '格鲁吉亚',
         'alpha2'    => 'ge',
-        'alpha3'    => 'geo'
+        'alpha3'    => 'geo',
+        'name'      => '格鲁吉亚'
     ),
-    array(
+    276 => array(
         'id'        => 276,
-        'name'      => '德国',
         'alpha2'    => 'de',
-        'alpha3'    => 'deu'
+        'alpha3'    => 'deu',
+        'name'      => '德国'
     ),
-    array(
+    288 => array(
         'id'        => 288,
-        'name'      => '加纳',
         'alpha2'    => 'gh',
-        'alpha3'    => 'gha'
+        'alpha3'    => 'gha',
+        'name'      => '加纳'
     ),
-    array(
+    292 => array(
         'id'        => 292,
-        'name'      => '直布罗陀',
         'alpha2'    => 'gi',
-        'alpha3'    => 'gib'
+        'alpha3'    => 'gib',
+        'name'      => '直布罗陀'
     ),
-    array(
+    300 => array(
         'id'        => 300,
-        'name'      => '希腊',
         'alpha2'    => 'gr',
-        'alpha3'    => 'grc'
+        'alpha3'    => 'grc',
+        'name'      => '希腊'
     ),
-    array(
+    304 => array(
         'id'        => 304,
-        'name'      => '格陵兰',
         'alpha2'    => 'gl',
-        'alpha3'    => 'grl'
+        'alpha3'    => 'grl',
+        'name'      => '格陵兰'
     ),
-    array(
+    308 => array(
         'id'        => 308,
-        'name'      => '格林纳达',
         'alpha2'    => 'gd',
-        'alpha3'    => 'grd'
+        'alpha3'    => 'grd',
+        'name'      => '格林纳达'
     ),
-    array(
+    312 => array(
         'id'        => 312,
-        'name'      => '瓜德罗普',
         'alpha2'    => 'gp',
-        'alpha3'    => 'glp'
+        'alpha3'    => 'glp',
+        'name'      => '瓜德罗普'
     ),
-    array(
+    316 => array(
         'id'        => 316,
-        'name'      => '关岛',
         'alpha2'    => 'gu',
-        'alpha3'    => 'gum'
+        'alpha3'    => 'gum',
+        'name'      => '关岛'
     ),
-    array(
+    320 => array(
         'id'        => 320,
-        'name'      => '危地马拉',
         'alpha2'    => 'gt',
-        'alpha3'    => 'gtm'
+        'alpha3'    => 'gtm',
+        'name'      => '危地马拉'
     ),
-    array(
+    831 => array(
         'id'        => 831,
-        'name'      => '根西',
         'alpha2'    => 'gg',
-        'alpha3'    => 'ggy'
+        'alpha3'    => 'ggy',
+        'name'      => '根西'
     ),
-    array(
+    324 => array(
         'id'        => 324,
-        'name'      => '几内亚',
         'alpha2'    => 'gn',
-        'alpha3'    => 'gin'
+        'alpha3'    => 'gin',
+        'name'      => '几内亚'
     ),
-    array(
+    624 => array(
         'id'        => 624,
-        'name'      => '几内亚比绍',
         'alpha2'    => 'gw',
-        'alpha3'    => 'gnb'
+        'alpha3'    => 'gnb',
+        'name'      => '几内亚比绍'
     ),
-    array(
+    328 => array(
         'id'        => 328,
-        'name'      => '圭亚那',
         'alpha2'    => 'gy',
-        'alpha3'    => 'guy'
+        'alpha3'    => 'guy',
+        'name'      => '圭亚那'
     ),
-    array(
+    332 => array(
         'id'        => 332,
-        'name'      => '海地',
         'alpha2'    => 'ht',
-        'alpha3'    => 'hti'
+        'alpha3'    => 'hti',
+        'name'      => '海地'
     ),
-    array(
+    334 => array(
         'id'        => 334,
-        'name'      => '赫德岛和麦克唐纳群岛',
         'alpha2'    => 'hm',
-        'alpha3'    => 'hmd'
+        'alpha3'    => 'hmd',
+        'name'      => '赫德岛和麦克唐纳群岛'
     ),
-    array(
+    336 => array(
         'id'        => 336,
-        'name'      => '梵蒂冈',
         'alpha2'    => 'va',
-        'alpha3'    => 'vat'
+        'alpha3'    => 'vat',
+        'name'      => '梵蒂冈'
     ),
-    array(
+    340 => array(
         'id'        => 340,
-        'name'      => '洪都拉斯',
         'alpha2'    => 'hn',
-        'alpha3'    => 'hnd'
+        'alpha3'    => 'hnd',
+        'name'      => '洪都拉斯'
     ),
-    array(
+    344 => array(
         'id'        => 344,
-        'name'      => '香港',
         'alpha2'    => 'hk',
-        'alpha3'    => 'hkg'
+        'alpha3'    => 'hkg',
+        'name'      => '香港'
     ),
-    array(
+    348 => array(
         'id'        => 348,
-        'name'      => '匈牙利',
         'alpha2'    => 'hu',
-        'alpha3'    => 'hun'
+        'alpha3'    => 'hun',
+        'name'      => '匈牙利'
     ),
-    array(
+    352 => array(
         'id'        => 352,
-        'name'      => '冰岛',
         'alpha2'    => 'is',
-        'alpha3'    => 'isl'
+        'alpha3'    => 'isl',
+        'name'      => '冰岛'
     ),
-    array(
+    356 => array(
         'id'        => 356,
-        'name'      => '印度',
         'alpha2'    => 'in',
-        'alpha3'    => 'ind'
+        'alpha3'    => 'ind',
+        'name'      => '印度'
     ),
-    array(
+    360 => array(
         'id'        => 360,
-        'name'      => '印尼',
         'alpha2'    => 'id',
-        'alpha3'    => 'idn'
+        'alpha3'    => 'idn',
+        'name'      => '印尼'
     ),
-    array(
+    364 => array(
         'id'        => 364,
-        'name'      => '伊朗',
         'alpha2'    => 'ir',
-        'alpha3'    => 'irn'
+        'alpha3'    => 'irn',
+        'name'      => '伊朗'
     ),
-    array(
+    368 => array(
         'id'        => 368,
-        'name'      => '伊拉克',
         'alpha2'    => 'iq',
-        'alpha3'    => 'irq'
+        'alpha3'    => 'irq',
+        'name'      => '伊拉克'
     ),
-    array(
+    372 => array(
         'id'        => 372,
-        'name'      => '爱尔兰',
         'alpha2'    => 'ie',
-        'alpha3'    => 'irl'
+        'alpha3'    => 'irl',
+        'name'      => '爱尔兰'
     ),
-    array(
+    833 => array(
         'id'        => 833,
-        'name'      => '马恩岛',
         'alpha2'    => 'im',
-        'alpha3'    => 'imn'
+        'alpha3'    => 'imn',
+        'name'      => '马恩岛'
     ),
-    array(
+    376 => array(
         'id'        => 376,
-        'name'      => '以色列',
         'alpha2'    => 'il',
-        'alpha3'    => 'isr'
+        'alpha3'    => 'isr',
+        'name'      => '以色列'
     ),
-    array(
+    380 => array(
         'id'        => 380,
-        'name'      => '意大利',
         'alpha2'    => 'it',
-        'alpha3'    => 'ita'
+        'alpha3'    => 'ita',
+        'name'      => '意大利'
     ),
-    array(
+    388 => array(
         'id'        => 388,
-        'name'      => '牙买加',
         'alpha2'    => 'jm',
-        'alpha3'    => 'jam'
+        'alpha3'    => 'jam',
+        'name'      => '牙买加'
     ),
-    array(
+    392 => array(
         'id'        => 392,
-        'name'      => '日本',
         'alpha2'    => 'jp',
-        'alpha3'    => 'jpn'
+        'alpha3'    => 'jpn',
+        'name'      => '日本'
     ),
-    array(
+    832 => array(
         'id'        => 832,
-        'name'      => '泽西',
         'alpha2'    => 'je',
-        'alpha3'    => 'jey'
+        'alpha3'    => 'jey',
+        'name'      => '泽西'
     ),
-    array(
+    400 => array(
         'id'        => 400,
-        'name'      => '约旦',
         'alpha2'    => 'jo',
-        'alpha3'    => 'jor'
+        'alpha3'    => 'jor',
+        'name'      => '约旦'
     ),
-    array(
+    398 => array(
         'id'        => 398,
-        'name'      => '哈萨克斯坦',
         'alpha2'    => 'kz',
-        'alpha3'    => 'kaz'
+        'alpha3'    => 'kaz',
+        'name'      => '哈萨克斯坦'
     ),
-    array(
+    404 => array(
         'id'        => 404,
-        'name'      => '肯尼亚',
         'alpha2'    => 'ke',
-        'alpha3'    => 'ken'
+        'alpha3'    => 'ken',
+        'name'      => '肯尼亚'
     ),
-    array(
+    296 => array(
         'id'        => 296,
-        'name'      => '基里巴斯',
         'alpha2'    => 'ki',
-        'alpha3'    => 'kir'
+        'alpha3'    => 'kir',
+        'name'      => '基里巴斯'
     ),
-    array(
+    408 => array(
         'id'        => 408,
-        'name'      => '朝鲜',
         'alpha2'    => 'kp',
-        'alpha3'    => 'prk'
+        'alpha3'    => 'prk',
+        'name'      => '朝鲜'
     ),
-    array(
+    410 => array(
         'id'        => 410,
-        'name'      => '韩国',
         'alpha2'    => 'kr',
-        'alpha3'    => 'kor'
+        'alpha3'    => 'kor',
+        'name'      => '韩国'
     ),
-    array(
+    414 => array(
         'id'        => 414,
-        'name'      => '科威特',
         'alpha2'    => 'kw',
-        'alpha3'    => 'kwt'
+        'alpha3'    => 'kwt',
+        'name'      => '科威特'
     ),
-    array(
+    417 => array(
         'id'        => 417,
-        'name'      => '吉尔吉斯斯坦',
         'alpha2'    => 'kg',
-        'alpha3'    => 'kgz'
+        'alpha3'    => 'kgz',
+        'name'      => '吉尔吉斯斯坦'
     ),
-    array(
+    418 => array(
         'id'        => 418,
-        'name'      => '老挝',
         'alpha2'    => 'la',
-        'alpha3'    => 'lao'
+        'alpha3'    => 'lao',
+        'name'      => '老挝'
     ),
-    array(
+    428 => array(
         'id'        => 428,
-        'name'      => '拉脱维亚',
         'alpha2'    => 'lv',
-        'alpha3'    => 'lva'
+        'alpha3'    => 'lva',
+        'name'      => '拉脱维亚'
     ),
-    array(
+    422 => array(
         'id'        => 422,
-        'name'      => '黎巴嫩',
         'alpha2'    => 'lb',
-        'alpha3'    => 'lbn'
+        'alpha3'    => 'lbn',
+        'name'      => '黎巴嫩'
     ),
-    array(
+    426 => array(
         'id'        => 426,
-        'name'      => '莱索托',
         'alpha2'    => 'ls',
-        'alpha3'    => 'lso'
+        'alpha3'    => 'lso',
+        'name'      => '莱索托'
     ),
-    array(
+    430 => array(
         'id'        => 430,
-        'name'      => '利比里亚',
         'alpha2'    => 'lr',
-        'alpha3'    => 'lbr'
+        'alpha3'    => 'lbr',
+        'name'      => '利比里亚'
     ),
-    array(
+    434 => array(
         'id'        => 434,
-        'name'      => '利比亚',
         'alpha2'    => 'ly',
-        'alpha3'    => 'lby'
+        'alpha3'    => 'lby',
+        'name'      => '利比亚'
     ),
-    array(
+    438 => array(
         'id'        => 438,
-        'name'      => '列支敦士登',
         'alpha2'    => 'li',
-        'alpha3'    => 'lie'
+        'alpha3'    => 'lie',
+        'name'      => '列支敦士登'
     ),
-    array(
+    440 => array(
         'id'        => 440,
-        'name'      => '立陶宛',
         'alpha2'    => 'lt',
-        'alpha3'    => 'ltu'
+        'alpha3'    => 'ltu',
+        'name'      => '立陶宛'
     ),
-    array(
+    442 => array(
         'id'        => 442,
-        'name'      => '卢森堡',
         'alpha2'    => 'lu',
-        'alpha3'    => 'lux'
+        'alpha3'    => 'lux',
+        'name'      => '卢森堡'
     ),
-    array(
+    446 => array(
         'id'        => 446,
-        'name'      => '澳门',
         'alpha2'    => 'mo',
-        'alpha3'    => 'mac'
+        'alpha3'    => 'mac',
+        'name'      => '澳门'
     ),
-    array(
+    450 => array(
         'id'        => 450,
-        'name'      => '马达加斯加',
         'alpha2'    => 'mg',
-        'alpha3'    => 'mdg'
+        'alpha3'    => 'mdg',
+        'name'      => '马达加斯加'
     ),
-    array(
+    454 => array(
         'id'        => 454,
-        'name'      => '马拉维',
         'alpha2'    => 'mw',
-        'alpha3'    => 'mwi'
+        'alpha3'    => 'mwi',
+        'name'      => '马拉维'
     ),
-    array(
+    458 => array(
         'id'        => 458,
-        'name'      => '马来西亚',
         'alpha2'    => 'my',
-        'alpha3'    => 'mys'
+        'alpha3'    => 'mys',
+        'name'      => '马来西亚'
     ),
-    array(
+    462 => array(
         'id'        => 462,
-        'name'      => '马尔代夫',
         'alpha2'    => 'mv',
-        'alpha3'    => 'mdv'
+        'alpha3'    => 'mdv',
+        'name'      => '马尔代夫'
     ),
-    array(
+    466 => array(
         'id'        => 466,
-        'name'      => '马里',
         'alpha2'    => 'ml',
-        'alpha3'    => 'mli'
+        'alpha3'    => 'mli',
+        'name'      => '马里'
     ),
-    array(
+    470 => array(
         'id'        => 470,
-        'name'      => '马耳他',
         'alpha2'    => 'mt',
-        'alpha3'    => 'mlt'
+        'alpha3'    => 'mlt',
+        'name'      => '马耳他'
     ),
-    array(
+    584 => array(
         'id'        => 584,
-        'name'      => '马绍尔群岛',
         'alpha2'    => 'mh',
-        'alpha3'    => 'mhl'
+        'alpha3'    => 'mhl',
+        'name'      => '马绍尔群岛'
     ),
-    array(
+    474 => array(
         'id'        => 474,
-        'name'      => '马提尼克',
         'alpha2'    => 'mq',
-        'alpha3'    => 'mtq'
+        'alpha3'    => 'mtq',
+        'name'      => '马提尼克'
     ),
-    array(
+    478 => array(
         'id'        => 478,
-        'name'      => '毛里塔尼亚',
         'alpha2'    => 'mr',
-        'alpha3'    => 'mrt'
+        'alpha3'    => 'mrt',
+        'name'      => '毛里塔尼亚'
     ),
-    array(
+    480 => array(
         'id'        => 480,
-        'name'      => '毛里求斯',
         'alpha2'    => 'mu',
-        'alpha3'    => 'mus'
+        'alpha3'    => 'mus',
+        'name'      => '毛里求斯'
     ),
-    array(
+    175 => array(
         'id'        => 175,
-        'name'      => '马约特',
         'alpha2'    => 'yt',
-        'alpha3'    => 'myt'
+        'alpha3'    => 'myt',
+        'name'      => '马约特'
     ),
-    array(
+    484 => array(
         'id'        => 484,
-        'name'      => '墨西哥',
         'alpha2'    => 'mx',
-        'alpha3'    => 'mex'
+        'alpha3'    => 'mex',
+        'name'      => '墨西哥'
     ),
-    array(
+    583 => array(
         'id'        => 583,
-        'name'      => '密克罗尼西亚联邦',
         'alpha2'    => 'fm',
-        'alpha3'    => 'fsm'
+        'alpha3'    => 'fsm',
+        'name'      => '密克罗尼西亚联邦'
     ),
-    array(
+    498 => array(
         'id'        => 498,
-        'name'      => '摩尔多瓦',
         'alpha2'    => 'md',
-        'alpha3'    => 'mda'
+        'alpha3'    => 'mda',
+        'name'      => '摩尔多瓦'
     ),
-    array(
+    492 => array(
         'id'        => 492,
-        'name'      => '摩纳哥',
         'alpha2'    => 'mc',
-        'alpha3'    => 'mco'
+        'alpha3'    => 'mco',
+        'name'      => '摩纳哥'
     ),
-    array(
+    496 => array(
         'id'        => 496,
-        'name'      => '蒙古',
         'alpha2'    => 'mn',
-        'alpha3'    => 'mng'
+        'alpha3'    => 'mng',
+        'name'      => '蒙古'
     ),
-    array(
+    499 => array(
         'id'        => 499,
-        'name'      => '黑山',
         'alpha2'    => 'me',
-        'alpha3'    => 'mne'
+        'alpha3'    => 'mne',
+        'name'      => '黑山'
     ),
-    array(
+    500 => array(
         'id'        => 500,
-        'name'      => '蒙特塞拉特',
         'alpha2'    => 'ms',
-        'alpha3'    => 'msr'
+        'alpha3'    => 'msr',
+        'name'      => '蒙特塞拉特'
     ),
-    array(
+    504 => array(
         'id'        => 504,
-        'name'      => '摩洛哥',
         'alpha2'    => 'ma',
-        'alpha3'    => 'mar'
+        'alpha3'    => 'mar',
+        'name'      => '摩洛哥'
     ),
-    array(
+    508 => array(
         'id'        => 508,
-        'name'      => '莫桑比克',
         'alpha2'    => 'mz',
-        'alpha3'    => 'moz'
+        'alpha3'    => 'moz',
+        'name'      => '莫桑比克'
     ),
-    array(
+    104 => array(
         'id'        => 104,
-        'name'      => '缅甸',
         'alpha2'    => 'mm',
-        'alpha3'    => 'mmr'
+        'alpha3'    => 'mmr',
+        'name'      => '缅甸'
     ),
-    array(
+    516 => array(
         'id'        => 516,
-        'name'      => '纳米比亚',
         'alpha2'    => 'na',
-        'alpha3'    => 'nam'
+        'alpha3'    => 'nam',
+        'name'      => '纳米比亚'
     ),
-    array(
+    520 => array(
         'id'        => 520,
-        'name'      => '瑙鲁',
         'alpha2'    => 'nr',
-        'alpha3'    => 'nru'
+        'alpha3'    => 'nru',
+        'name'      => '瑙鲁'
     ),
-    array(
+    524 => array(
         'id'        => 524,
-        'name'      => '尼泊尔',
         'alpha2'    => 'np',
-        'alpha3'    => 'npl'
+        'alpha3'    => 'npl',
+        'name'      => '尼泊尔'
     ),
-    array(
+    528 => array(
         'id'        => 528,
-        'name'      => '荷兰',
         'alpha2'    => 'nl',
-        'alpha3'    => 'nld'
+        'alpha3'    => 'nld',
+        'name'      => '荷兰'
     ),
-    array(
+    540 => array(
         'id'        => 540,
-        'name'      => '新喀里多尼亚',
         'alpha2'    => 'nc',
-        'alpha3'    => 'ncl'
+        'alpha3'    => 'ncl',
+        'name'      => '新喀里多尼亚'
     ),
-    array(
+    554 => array(
         'id'        => 554,
-        'name'      => '新西兰',
         'alpha2'    => 'nz',
-        'alpha3'    => 'nzl'
+        'alpha3'    => 'nzl',
+        'name'      => '新西兰'
     ),
-    array(
+    558 => array(
         'id'        => 558,
-        'name'      => '尼加拉瓜',
         'alpha2'    => 'ni',
-        'alpha3'    => 'nic'
+        'alpha3'    => 'nic',
+        'name'      => '尼加拉瓜'
     ),
-    array(
+    562 => array(
         'id'        => 562,
-        'name'      => '尼日尔',
         'alpha2'    => 'ne',
-        'alpha3'    => 'ner'
+        'alpha3'    => 'ner',
+        'name'      => '尼日尔'
     ),
-    array(
+    566 => array(
         'id'        => 566,
-        'name'      => '尼日利亚',
         'alpha2'    => 'ng',
-        'alpha3'    => 'nga'
+        'alpha3'    => 'nga',
+        'name'      => '尼日利亚'
     ),
-    array(
+    570 => array(
         'id'        => 570,
-        'name'      => '纽埃',
         'alpha2'    => 'nu',
-        'alpha3'    => 'niu'
+        'alpha3'    => 'niu',
+        'name'      => '纽埃'
     ),
-    array(
+    574 => array(
         'id'        => 574,
-        'name'      => '诺福克岛',
         'alpha2'    => 'nf',
-        'alpha3'    => 'nfk'
+        'alpha3'    => 'nfk',
+        'name'      => '诺福克岛'
     ),
-    array(
+    807 => array(
         'id'        => 807,
-        'name'      => '北马其顿',
         'alpha2'    => 'mk',
-        'alpha3'    => 'mkd'
+        'alpha3'    => 'mkd',
+        'name'      => '北马其顿'
     ),
-    array(
+    580 => array(
         'id'        => 580,
-        'name'      => '北马里亚纳群岛',
         'alpha2'    => 'mp',
-        'alpha3'    => 'mnp'
+        'alpha3'    => 'mnp',
+        'name'      => '北马里亚纳群岛'
     ),
-    array(
+    578 => array(
         'id'        => 578,
-        'name'      => '挪威',
         'alpha2'    => 'no',
-        'alpha3'    => 'nor'
+        'alpha3'    => 'nor',
+        'name'      => '挪威'
     ),
-    array(
+    512 => array(
         'id'        => 512,
-        'name'      => '阿曼',
         'alpha2'    => 'om',
-        'alpha3'    => 'omn'
+        'alpha3'    => 'omn',
+        'name'      => '阿曼'
     ),
-    array(
+    586 => array(
         'id'        => 586,
-        'name'      => '巴基斯坦',
         'alpha2'    => 'pk',
-        'alpha3'    => 'pak'
+        'alpha3'    => 'pak',
+        'name'      => '巴基斯坦'
     ),
-    array(
+    585 => array(
         'id'        => 585,
-        'name'      => '帕劳',
         'alpha2'    => 'pw',
-        'alpha3'    => 'plw'
+        'alpha3'    => 'plw',
+        'name'      => '帕劳'
     ),
-    array(
+    275 => array(
         'id'        => 275,
-        'name'      => '巴勒斯坦',
         'alpha2'    => 'ps',
-        'alpha3'    => 'pse'
+        'alpha3'    => 'pse',
+        'name'      => '巴勒斯坦'
     ),
-    array(
+    591 => array(
         'id'        => 591,
-        'name'      => '巴拿马',
         'alpha2'    => 'pa',
-        'alpha3'    => 'pan'
+        'alpha3'    => 'pan',
+        'name'      => '巴拿马'
     ),
-    array(
+    598 => array(
         'id'        => 598,
-        'name'      => '巴布亚新几内亚',
         'alpha2'    => 'pg',
-        'alpha3'    => 'png'
+        'alpha3'    => 'png',
+        'name'      => '巴布亚新几内亚'
     ),
-    array(
+    600 => array(
         'id'        => 600,
-        'name'      => '巴拉圭',
         'alpha2'    => 'py',
-        'alpha3'    => 'pry'
+        'alpha3'    => 'pry',
+        'name'      => '巴拉圭'
     ),
-    array(
+    604 => array(
         'id'        => 604,
-        'name'      => '秘鲁',
         'alpha2'    => 'pe',
-        'alpha3'    => 'per'
+        'alpha3'    => 'per',
+        'name'      => '秘鲁'
     ),
-    array(
+    608 => array(
         'id'        => 608,
-        'name'      => '菲律宾',
         'alpha2'    => 'ph',
-        'alpha3'    => 'phl'
+        'alpha3'    => 'phl',
+        'name'      => '菲律宾'
     ),
-    array(
+    612 => array(
         'id'        => 612,
-        'name'      => '皮特凯恩群岛',
         'alpha2'    => 'pn',
-        'alpha3'    => 'pcn'
+        'alpha3'    => 'pcn',
+        'name'      => '皮特凯恩群岛'
     ),
-    array(
+    616 => array(
         'id'        => 616,
-        'name'      => '波兰',
         'alpha2'    => 'pl',
-        'alpha3'    => 'pol'
+        'alpha3'    => 'pol',
+        'name'      => '波兰'
     ),
-    array(
+    620 => array(
         'id'        => 620,
-        'name'      => '葡萄牙',
         'alpha2'    => 'pt',
-        'alpha3'    => 'prt'
+        'alpha3'    => 'prt',
+        'name'      => '葡萄牙'
     ),
-    array(
+    630 => array(
         'id'        => 630,
-        'name'      => '波多黎各',
         'alpha2'    => 'pr',
-        'alpha3'    => 'pri'
+        'alpha3'    => 'pri',
+        'name'      => '波多黎各'
     ),
-    array(
+    634 => array(
         'id'        => 634,
-        'name'      => '卡塔尔',
         'alpha2'    => 'qa',
-        'alpha3'    => 'qat'
+        'alpha3'    => 'qat',
+        'name'      => '卡塔尔'
     ),
-    array(
+    638 => array(
         'id'        => 638,
-        'name'      => '留尼汪',
         'alpha2'    => 're',
-        'alpha3'    => 'reu'
+        'alpha3'    => 'reu',
+        'name'      => '留尼汪'
     ),
-    array(
+    642 => array(
         'id'        => 642,
-        'name'      => '罗马尼亚',
         'alpha2'    => 'ro',
-        'alpha3'    => 'rou'
+        'alpha3'    => 'rou',
+        'name'      => '罗马尼亚'
     ),
-    array(
+    643 => array(
         'id'        => 643,
-        'name'      => '俄罗斯',
         'alpha2'    => 'ru',
-        'alpha3'    => 'rus'
+        'alpha3'    => 'rus',
+        'name'      => '俄罗斯'
     ),
-    array(
+    646 => array(
         'id'        => 646,
-        'name'      => '卢旺达',
         'alpha2'    => 'rw',
-        'alpha3'    => 'rwa'
+        'alpha3'    => 'rwa',
+        'name'      => '卢旺达'
     ),
-    array(
+    652 => array(
         'id'        => 652,
-        'name'      => '圣巴泰勒米',
         'alpha2'    => 'bl',
-        'alpha3'    => 'blm'
+        'alpha3'    => 'blm',
+        'name'      => '圣巴泰勒米'
     ),
-    array(
+    654 => array(
         'id'        => 654,
-        'name'      => '圣赫勒拿、阿森松和特里斯坦-达库尼亚',
         'alpha2'    => 'sh',
-        'alpha3'    => 'shn'
+        'alpha3'    => 'shn',
+        'name'      => '圣赫勒拿、阿森松和特里斯坦-达库尼亚'
     ),
-    array(
+    659 => array(
         'id'        => 659,
-        'name'      => '圣基茨和尼维斯',
         'alpha2'    => 'kn',
-        'alpha3'    => 'kna'
+        'alpha3'    => 'kna',
+        'name'      => '圣基茨和尼维斯'
     ),
-    array(
+    662 => array(
         'id'        => 662,
-        'name'      => '圣卢西亚',
         'alpha2'    => 'lc',
-        'alpha3'    => 'lca'
+        'alpha3'    => 'lca',
+        'name'      => '圣卢西亚'
     ),
-    array(
+    663 => array(
         'id'        => 663,
-        'name'      => '法属圣马丁',
         'alpha2'    => 'mf',
-        'alpha3'    => 'maf'
+        'alpha3'    => 'maf',
+        'name'      => '法属圣马丁'
     ),
-    array(
+    666 => array(
         'id'        => 666,
-        'name'      => '圣皮埃尔和密克隆',
         'alpha2'    => 'pm',
-        'alpha3'    => 'spm'
+        'alpha3'    => 'spm',
+        'name'      => '圣皮埃尔和密克隆'
     ),
-    array(
+    670 => array(
         'id'        => 670,
-        'name'      => '圣文森特和格林纳丁斯',
         'alpha2'    => 'vc',
-        'alpha3'    => 'vct'
+        'alpha3'    => 'vct',
+        'name'      => '圣文森特和格林纳丁斯'
     ),
-    array(
+    882 => array(
         'id'        => 882,
-        'name'      => '萨摩亚',
         'alpha2'    => 'ws',
-        'alpha3'    => 'wsm'
+        'alpha3'    => 'wsm',
+        'name'      => '萨摩亚'
     ),
-    array(
+    674 => array(
         'id'        => 674,
-        'name'      => '圣马力诺',
         'alpha2'    => 'sm',
-        'alpha3'    => 'smr'
+        'alpha3'    => 'smr',
+        'name'      => '圣马力诺'
     ),
-    array(
+    678 => array(
         'id'        => 678,
-        'name'      => '圣多美和普林西比',
         'alpha2'    => 'st',
-        'alpha3'    => 'stp'
+        'alpha3'    => 'stp',
+        'name'      => '圣多美和普林西比'
     ),
-    array(
+    682 => array(
         'id'        => 682,
-        'name'      => '沙特阿拉伯',
         'alpha2'    => 'sa',
-        'alpha3'    => 'sau'
+        'alpha3'    => 'sau',
+        'name'      => '沙特阿拉伯'
     ),
-    array(
+    686 => array(
         'id'        => 686,
-        'name'      => '塞内加尔',
         'alpha2'    => 'sn',
-        'alpha3'    => 'sen'
+        'alpha3'    => 'sen',
+        'name'      => '塞内加尔'
     ),
-    array(
+    688 => array(
         'id'        => 688,
-        'name'      => '塞尔维亚',
         'alpha2'    => 'rs',
-        'alpha3'    => 'srb'
+        'alpha3'    => 'srb',
+        'name'      => '塞尔维亚'
     ),
-    array(
+    690 => array(
         'id'        => 690,
-        'name'      => '塞舌尔',
         'alpha2'    => 'sc',
-        'alpha3'    => 'syc'
+        'alpha3'    => 'syc',
+        'name'      => '塞舌尔'
     ),
-    array(
+    694 => array(
         'id'        => 694,
-        'name'      => '塞拉利昂',
         'alpha2'    => 'sl',
-        'alpha3'    => 'sle'
+        'alpha3'    => 'sle',
+        'name'      => '塞拉利昂'
     ),
-    array(
+    702 => array(
         'id'        => 702,
-        'name'      => '新加坡',
         'alpha2'    => 'sg',
-        'alpha3'    => 'sgp'
+        'alpha3'    => 'sgp',
+        'name'      => '新加坡'
     ),
-    array(
+    534 => array(
         'id'        => 534,
-        'name'      => '荷属圣马丁',
         'alpha2'    => 'sx',
-        'alpha3'    => 'sxm'
+        'alpha3'    => 'sxm',
+        'name'      => '荷属圣马丁'
     ),
-    array(
+    703 => array(
         'id'        => 703,
-        'name'      => '斯洛伐克',
         'alpha2'    => 'sk',
-        'alpha3'    => 'svk'
+        'alpha3'    => 'svk',
+        'name'      => '斯洛伐克'
     ),
-    array(
+    705 => array(
         'id'        => 705,
-        'name'      => '斯洛文尼亚',
         'alpha2'    => 'si',
-        'alpha3'    => 'svn'
+        'alpha3'    => 'svn',
+        'name'      => '斯洛文尼亚'
     ),
-    array(
+    90 => array(
         'id'        => 90,
-        'name'      => '所罗门群岛',
         'alpha2'    => 'sb',
-        'alpha3'    => 'slb'
+        'alpha3'    => 'slb',
+        'name'      => '所罗门群岛'
     ),
-    array(
+    706 => array(
         'id'        => 706,
-        'name'      => '索马里',
         'alpha2'    => 'so',
-        'alpha3'    => 'som'
+        'alpha3'    => 'som',
+        'name'      => '索马里'
     ),
-    array(
+    710 => array(
         'id'        => 710,
-        'name'      => '南非',
         'alpha2'    => 'za',
-        'alpha3'    => 'zaf'
+        'alpha3'    => 'zaf',
+        'name'      => '南非'
     ),
-    array(
+    239 => array(
         'id'        => 239,
-        'name'      => '南乔治亚和南桑威奇群岛',
         'alpha2'    => 'gs',
-        'alpha3'    => 'sgs'
+        'alpha3'    => 'sgs',
+        'name'      => '南乔治亚和南桑威奇群岛'
     ),
-    array(
+    728 => array(
         'id'        => 728,
-        'name'      => '南苏丹',
         'alpha2'    => 'ss',
-        'alpha3'    => 'ssd'
+        'alpha3'    => 'ssd',
+        'name'      => '南苏丹'
     ),
-    array(
+    724 => array(
         'id'        => 724,
-        'name'      => '西班牙',
         'alpha2'    => 'es',
-        'alpha3'    => 'esp'
+        'alpha3'    => 'esp',
+        'name'      => '西班牙'
     ),
-    array(
+    144 => array(
         'id'        => 144,
-        'name'      => '斯里兰卡',
         'alpha2'    => 'lk',
-        'alpha3'    => 'lka'
+        'alpha3'    => 'lka',
+        'name'      => '斯里兰卡'
     ),
-    array(
+    729 => array(
         'id'        => 729,
-        'name'      => '苏丹',
         'alpha2'    => 'sd',
-        'alpha3'    => 'sdn'
+        'alpha3'    => 'sdn',
+        'name'      => '苏丹'
     ),
-    array(
+    740 => array(
         'id'        => 740,
-        'name'      => '苏里南',
         'alpha2'    => 'sr',
-        'alpha3'    => 'sur'
+        'alpha3'    => 'sur',
+        'name'      => '苏里南'
     ),
-    array(
+    744 => array(
         'id'        => 744,
-        'name'      => '斯瓦尔巴和扬马延',
         'alpha2'    => 'sj',
-        'alpha3'    => 'sjm'
+        'alpha3'    => 'sjm',
+        'name'      => '斯瓦尔巴和扬马延'
     ),
-    array(
+    752 => array(
         'id'        => 752,
-        'name'      => '瑞典',
         'alpha2'    => 'se',
-        'alpha3'    => 'swe'
+        'alpha3'    => 'swe',
+        'name'      => '瑞典'
     ),
-    array(
+    756 => array(
         'id'        => 756,
-        'name'      => '瑞士',
         'alpha2'    => 'ch',
-        'alpha3'    => 'che'
+        'alpha3'    => 'che',
+        'name'      => '瑞士'
     ),
-    array(
+    760 => array(
         'id'        => 760,
-        'name'      => '叙利亚',
         'alpha2'    => 'sy',
-        'alpha3'    => 'syr'
+        'alpha3'    => 'syr',
+        'name'      => '叙利亚'
     ),
-    array(
+    158 => array(
         'id'        => 158,
-        'name'      => '中国台湾省',
         'alpha2'    => 'tw',
-        'alpha3'    => 'twn'
+        'alpha3'    => 'twn',
+        'name'      => '中国台湾省'
     ),
-    array(
+    762 => array(
         'id'        => 762,
-        'name'      => '塔吉克斯坦',
         'alpha2'    => 'tj',
-        'alpha3'    => 'tjk'
+        'alpha3'    => 'tjk',
+        'name'      => '塔吉克斯坦'
     ),
-    array(
+    834 => array(
         'id'        => 834,
-        'name'      => '坦桑尼亚',
         'alpha2'    => 'tz',
-        'alpha3'    => 'tza'
+        'alpha3'    => 'tza',
+        'name'      => '坦桑尼亚'
     ),
-    array(
+    764 => array(
         'id'        => 764,
-        'name'      => '泰国',
         'alpha2'    => 'th',
-        'alpha3'    => 'tha'
+        'alpha3'    => 'tha',
+        'name'      => '泰国'
     ),
-    array(
+    626 => array(
         'id'        => 626,
-        'name'      => '东帝汶',
         'alpha2'    => 'tl',
-        'alpha3'    => 'tls'
+        'alpha3'    => 'tls',
+        'name'      => '东帝汶'
     ),
-    array(
+    768 => array(
         'id'        => 768,
-        'name'      => '多哥',
         'alpha2'    => 'tg',
-        'alpha3'    => 'tgo'
+        'alpha3'    => 'tgo',
+        'name'      => '多哥'
     ),
-    array(
+    772 => array(
         'id'        => 772,
-        'name'      => '托克劳',
         'alpha2'    => 'tk',
-        'alpha3'    => 'tkl'
+        'alpha3'    => 'tkl',
+        'name'      => '托克劳'
     ),
-    array(
+    776 => array(
         'id'        => 776,
-        'name'      => '汤加',
         'alpha2'    => 'to',
-        'alpha3'    => 'ton'
+        'alpha3'    => 'ton',
+        'name'      => '汤加'
     ),
-    array(
+    780 => array(
         'id'        => 780,
-        'name'      => '特立尼达和多巴哥',
         'alpha2'    => 'tt',
-        'alpha3'    => 'tto'
+        'alpha3'    => 'tto',
+        'name'      => '特立尼达和多巴哥'
     ),
-    array(
+    788 => array(
         'id'        => 788,
-        'name'      => '突尼斯',
         'alpha2'    => 'tn',
-        'alpha3'    => 'tun'
+        'alpha3'    => 'tun',
+        'name'      => '突尼斯'
     ),
-    array(
+    792 => array(
         'id'        => 792,
-        'name'      => '土耳其',
         'alpha2'    => 'tr',
-        'alpha3'    => 'tur'
+        'alpha3'    => 'tur',
+        'name'      => '土耳其'
     ),
-    array(
+    795 => array(
         'id'        => 795,
-        'name'      => '土库曼斯坦',
         'alpha2'    => 'tm',
-        'alpha3'    => 'tkm'
+        'alpha3'    => 'tkm',
+        'name'      => '土库曼斯坦'
     ),
-    array(
+    796 => array(
         'id'        => 796,
-        'name'      => '特克斯和凯科斯群岛',
         'alpha2'    => 'tc',
-        'alpha3'    => 'tca'
+        'alpha3'    => 'tca',
+        'name'      => '特克斯和凯科斯群岛'
     ),
-    array(
+    798 => array(
         'id'        => 798,
-        'name'      => '图瓦卢',
         'alpha2'    => 'tv',
-        'alpha3'    => 'tuv'
+        'alpha3'    => 'tuv',
+        'name'      => '图瓦卢'
     ),
-    array(
+    800 => array(
         'id'        => 800,
-        'name'      => '乌干达',
         'alpha2'    => 'ug',
-        'alpha3'    => 'uga'
+        'alpha3'    => 'uga',
+        'name'      => '乌干达'
     ),
-    array(
+    804 => array(
         'id'        => 804,
-        'name'      => '乌克兰',
         'alpha2'    => 'ua',
-        'alpha3'    => 'ukr'
+        'alpha3'    => 'ukr',
+        'name'      => '乌克兰'
     ),
-    array(
+    784 => array(
         'id'        => 784,
-        'name'      => '阿联酋',
         'alpha2'    => 'ae',
-        'alpha3'    => 'are'
+        'alpha3'    => 'are',
+        'name'      => '阿联酋'
     ),
-    array(
+    826 => array(
         'id'        => 826,
-        'name'      => '英国',
         'alpha2'    => 'gb',
-        'alpha3'    => 'gbr'
+        'alpha3'    => 'gbr',
+        'name'      => '英国'
     ),
-    array(
+    840 => array(
         'id'        => 840,
-        'name'      => '美国',
         'alpha2'    => 'us',
-        'alpha3'    => 'usa'
+        'alpha3'    => 'usa',
+        'name'      => '美国'
     ),
-    array(
+    581 => array(
         'id'        => 581,
-        'name'      => '美国本土外小岛屿',
         'alpha2'    => 'um',
-        'alpha3'    => 'umi'
+        'alpha3'    => 'umi',
+        'name'      => '美国本土外小岛屿'
     ),
-    array(
+    858 => array(
         'id'        => 858,
-        'name'      => '乌拉圭',
         'alpha2'    => 'uy',
-        'alpha3'    => 'ury'
+        'alpha3'    => 'ury',
+        'name'      => '乌拉圭'
     ),
-    array(
+    860 => array(
         'id'        => 860,
-        'name'      => '乌兹别克斯坦',
         'alpha2'    => 'uz',
-        'alpha3'    => 'uzb'
+        'alpha3'    => 'uzb',
+        'name'      => '乌兹别克斯坦'
     ),
-    array(
+    548 => array(
         'id'        => 548,
-        'name'      => '瓦努阿图',
         'alpha2'    => 'vu',
-        'alpha3'    => 'vut'
+        'alpha3'    => 'vut',
+        'name'      => '瓦努阿图'
     ),
-    array(
+    862 => array(
         'id'        => 862,
-        'name'      => '委内瑞拉',
         'alpha2'    => 've',
-        'alpha3'    => 'ven'
+        'alpha3'    => 'ven',
+        'name'      => '委内瑞拉'
     ),
-    array(
+    704 => array(
         'id'        => 704,
-        'name'      => '越南',
         'alpha2'    => 'vn',
-        'alpha3'    => 'vnm'
+        'alpha3'    => 'vnm',
+        'name'      => '越南'
     ),
-    array(
+    92 => array(
         'id'        => 92,
-        'name'      => '英属维尔京群岛',
         'alpha2'    => 'vg',
-        'alpha3'    => 'vgb'
+        'alpha3'    => 'vgb',
+        'name'      => '英属维尔京群岛'
     ),
-    array(
+    850 => array(
         'id'        => 850,
-        'name'      => '美属维尔京群岛',
         'alpha2'    => 'vi',
-        'alpha3'    => 'vir'
+        'alpha3'    => 'vir',
+        'name'      => '美属维尔京群岛'
     ),
-    array(
+    876 => array(
         'id'        => 876,
-        'name'      => '瓦利斯和富图纳',
         'alpha2'    => 'wf',
-        'alpha3'    => 'wlf'
+        'alpha3'    => 'wlf',
+        'name'      => '瓦利斯和富图纳'
     ),
-    array(
+    732 => array(
         'id'        => 732,
-        'name'      => '西撒哈拉',
         'alpha2'    => 'eh',
-        'alpha3'    => 'esh'
+        'alpha3'    => 'esh',
+        'name'      => '西撒哈拉'
     ),
-    array(
+    887 => array(
         'id'        => 887,
-        'name'      => '也门',
         'alpha2'    => 'ye',
-        'alpha3'    => 'yem'
+        'alpha3'    => 'yem',
+        'name'      => '也门'
     ),
-    array(
+    894 => array(
         'id'        => 894,
-        'name'      => '赞比亚',
         'alpha2'    => 'zm',
-        'alpha3'    => 'zmb'
+        'alpha3'    => 'zmb',
+        'name'      => '赞比亚'
     ),
-    array(
+    716 => array(
         'id'        => 716,
-        'name'      => '津巴布韦',
         'alpha2'    => 'zw',
-        'alpha3'    => 'zwe'
+        'alpha3'    => 'zwe',
+        'name'      => '津巴布韦'
     ),
 );

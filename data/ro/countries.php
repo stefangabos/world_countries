@@ -1,1161 +1,1161 @@
 <?php
 $countries = array(
-    array(
+    4 => array(
         'id'        => 4,
-        'name'      => 'Afganistan',
         'alpha2'    => 'af',
-        'alpha3'    => 'afg'
+        'alpha3'    => 'afg',
+        'name'      => 'Afganistan'
     ),
-    array(
+    8 => array(
         'id'        => 8,
-        'name'      => 'Albania',
         'alpha2'    => 'al',
-        'alpha3'    => 'alb'
+        'alpha3'    => 'alb',
+        'name'      => 'Albania'
     ),
-    array(
+    12 => array(
         'id'        => 12,
-        'name'      => 'Algeria',
         'alpha2'    => 'dz',
-        'alpha3'    => 'dza'
+        'alpha3'    => 'dza',
+        'name'      => 'Algeria'
     ),
-    array(
+    20 => array(
         'id'        => 20,
-        'name'      => 'Andorra',
         'alpha2'    => 'ad',
-        'alpha3'    => 'and'
+        'alpha3'    => 'and',
+        'name'      => 'Andorra'
     ),
-    array(
+    24 => array(
         'id'        => 24,
-        'name'      => 'Angola',
         'alpha2'    => 'ao',
-        'alpha3'    => 'ago'
+        'alpha3'    => 'ago',
+        'name'      => 'Angola'
     ),
-    array(
+    28 => array(
         'id'        => 28,
-        'name'      => 'Antigua și Barbuda',
         'alpha2'    => 'ag',
-        'alpha3'    => 'atg'
+        'alpha3'    => 'atg',
+        'name'      => 'Antigua și Barbuda'
     ),
-    array(
+    32 => array(
         'id'        => 32,
-        'name'      => 'Argentina',
         'alpha2'    => 'ar',
-        'alpha3'    => 'arg'
+        'alpha3'    => 'arg',
+        'name'      => 'Argentina'
     ),
-    array(
+    51 => array(
         'id'        => 51,
-        'name'      => 'Armenia',
         'alpha2'    => 'am',
-        'alpha3'    => 'arm'
+        'alpha3'    => 'arm',
+        'name'      => 'Armenia'
     ),
-    array(
+    36 => array(
         'id'        => 36,
-        'name'      => 'Australia',
         'alpha2'    => 'au',
-        'alpha3'    => 'aus'
+        'alpha3'    => 'aus',
+        'name'      => 'Australia'
     ),
-    array(
+    40 => array(
         'id'        => 40,
-        'name'      => 'Austria',
         'alpha2'    => 'at',
-        'alpha3'    => 'aut'
+        'alpha3'    => 'aut',
+        'name'      => 'Austria'
     ),
-    array(
+    31 => array(
         'id'        => 31,
-        'name'      => 'Azerbaidjan',
         'alpha2'    => 'az',
-        'alpha3'    => 'aze'
+        'alpha3'    => 'aze',
+        'name'      => 'Azerbaidjan'
     ),
-    array(
+    44 => array(
         'id'        => 44,
-        'name'      => 'Bahamas',
         'alpha2'    => 'bs',
-        'alpha3'    => 'bhs'
+        'alpha3'    => 'bhs',
+        'name'      => 'Bahamas'
     ),
-    array(
+    48 => array(
         'id'        => 48,
-        'name'      => 'Bahrain',
         'alpha2'    => 'bh',
-        'alpha3'    => 'bhr'
+        'alpha3'    => 'bhr',
+        'name'      => 'Bahrain'
     ),
-    array(
+    50 => array(
         'id'        => 50,
-        'name'      => 'Bangladesh',
         'alpha2'    => 'bd',
-        'alpha3'    => 'bgd'
+        'alpha3'    => 'bgd',
+        'name'      => 'Bangladesh'
     ),
-    array(
+    52 => array(
         'id'        => 52,
-        'name'      => 'Barbados',
         'alpha2'    => 'bb',
-        'alpha3'    => 'brb'
+        'alpha3'    => 'brb',
+        'name'      => 'Barbados'
     ),
-    array(
+    112 => array(
         'id'        => 112,
-        'name'      => 'Belarus',
         'alpha2'    => 'by',
-        'alpha3'    => 'blr'
+        'alpha3'    => 'blr',
+        'name'      => 'Belarus'
     ),
-    array(
+    56 => array(
         'id'        => 56,
-        'name'      => 'Belgia',
         'alpha2'    => 'be',
-        'alpha3'    => 'bel'
+        'alpha3'    => 'bel',
+        'name'      => 'Belgia'
     ),
-    array(
+    84 => array(
         'id'        => 84,
-        'name'      => 'Belize',
         'alpha2'    => 'bz',
-        'alpha3'    => 'blz'
+        'alpha3'    => 'blz',
+        'name'      => 'Belize'
     ),
-    array(
+    204 => array(
         'id'        => 204,
-        'name'      => 'Benin',
         'alpha2'    => 'bj',
-        'alpha3'    => 'ben'
+        'alpha3'    => 'ben',
+        'name'      => 'Benin'
     ),
-    array(
+    64 => array(
         'id'        => 64,
-        'name'      => 'Bhutan',
         'alpha2'    => 'bt',
-        'alpha3'    => 'btn'
+        'alpha3'    => 'btn',
+        'name'      => 'Bhutan'
     ),
-    array(
+    68 => array(
         'id'        => 68,
-        'name'      => 'Bolivia',
         'alpha2'    => 'bo',
-        'alpha3'    => 'bol'
+        'alpha3'    => 'bol',
+        'name'      => 'Bolivia'
     ),
-    array(
+    70 => array(
         'id'        => 70,
-        'name'      => 'Bosnia și Herțegovina',
         'alpha2'    => 'ba',
-        'alpha3'    => 'bih'
+        'alpha3'    => 'bih',
+        'name'      => 'Bosnia și Herțegovina'
     ),
-    array(
+    72 => array(
         'id'        => 72,
-        'name'      => 'Botswana',
         'alpha2'    => 'bw',
-        'alpha3'    => 'bwa'
+        'alpha3'    => 'bwa',
+        'name'      => 'Botswana'
     ),
-    array(
+    76 => array(
         'id'        => 76,
-        'name'      => 'Brazilia',
         'alpha2'    => 'br',
-        'alpha3'    => 'bra'
+        'alpha3'    => 'bra',
+        'name'      => 'Brazilia'
     ),
-    array(
+    96 => array(
         'id'        => 96,
-        'name'      => 'Brunei',
         'alpha2'    => 'bn',
-        'alpha3'    => 'brn'
+        'alpha3'    => 'brn',
+        'name'      => 'Brunei'
     ),
-    array(
+    100 => array(
         'id'        => 100,
-        'name'      => 'Bulgaria',
         'alpha2'    => 'bg',
-        'alpha3'    => 'bgr'
+        'alpha3'    => 'bgr',
+        'name'      => 'Bulgaria'
     ),
-    array(
+    854 => array(
         'id'        => 854,
-        'name'      => 'Burkina Faso',
         'alpha2'    => 'bf',
-        'alpha3'    => 'bfa'
+        'alpha3'    => 'bfa',
+        'name'      => 'Burkina Faso'
     ),
-    array(
+    108 => array(
         'id'        => 108,
-        'name'      => 'Burundi',
         'alpha2'    => 'bi',
-        'alpha3'    => 'bdi'
+        'alpha3'    => 'bdi',
+        'name'      => 'Burundi'
     ),
-    array(
+    116 => array(
         'id'        => 116,
-        'name'      => 'Cambodgia',
         'alpha2'    => 'kh',
-        'alpha3'    => 'khm'
+        'alpha3'    => 'khm',
+        'name'      => 'Cambodgia'
     ),
-    array(
+    120 => array(
         'id'        => 120,
-        'name'      => 'Camerun',
         'alpha2'    => 'cm',
-        'alpha3'    => 'cmr'
+        'alpha3'    => 'cmr',
+        'name'      => 'Camerun'
     ),
-    array(
+    124 => array(
         'id'        => 124,
-        'name'      => 'Canada',
         'alpha2'    => 'ca',
-        'alpha3'    => 'can'
+        'alpha3'    => 'can',
+        'name'      => 'Canada'
     ),
-    array(
+    132 => array(
         'id'        => 132,
-        'name'      => 'Republica Capului Verde',
         'alpha2'    => 'cv',
-        'alpha3'    => 'cpv'
+        'alpha3'    => 'cpv',
+        'name'      => 'Republica Capului Verde'
     ),
-    array(
+    140 => array(
         'id'        => 140,
-        'name'      => 'Republica Centrafricană',
         'alpha2'    => 'cf',
-        'alpha3'    => 'caf'
+        'alpha3'    => 'caf',
+        'name'      => 'Republica Centrafricană'
     ),
-    array(
+    148 => array(
         'id'        => 148,
-        'name'      => 'Ciad',
         'alpha2'    => 'td',
-        'alpha3'    => 'tcd'
+        'alpha3'    => 'tcd',
+        'name'      => 'Ciad'
     ),
-    array(
+    152 => array(
         'id'        => 152,
-        'name'      => 'Chile',
         'alpha2'    => 'cl',
-        'alpha3'    => 'chl'
+        'alpha3'    => 'chl',
+        'name'      => 'Chile'
     ),
-    array(
+    156 => array(
         'id'        => 156,
-        'name'      => 'Republica Populară Chineză',
         'alpha2'    => 'cn',
-        'alpha3'    => 'chn'
+        'alpha3'    => 'chn',
+        'name'      => 'Republica Populară Chineză'
     ),
-    array(
+    170 => array(
         'id'        => 170,
-        'name'      => 'Columbia',
         'alpha2'    => 'co',
-        'alpha3'    => 'col'
+        'alpha3'    => 'col',
+        'name'      => 'Columbia'
     ),
-    array(
+    174 => array(
         'id'        => 174,
-        'name'      => 'Comore',
         'alpha2'    => 'km',
-        'alpha3'    => 'com'
+        'alpha3'    => 'com',
+        'name'      => 'Comore'
     ),
-    array(
+    178 => array(
         'id'        => 178,
-        'name'      => 'Congo',
         'alpha2'    => 'cg',
-        'alpha3'    => 'cog'
+        'alpha3'    => 'cog',
+        'name'      => 'Congo'
     ),
-    array(
+    180 => array(
         'id'        => 180,
-        'name'      => 'Republica Democrată Congo',
         'alpha2'    => 'cd',
-        'alpha3'    => 'cod'
+        'alpha3'    => 'cod',
+        'name'      => 'Republica Democrată Congo'
     ),
-    array(
+    188 => array(
         'id'        => 188,
-        'name'      => 'Costa Rica',
         'alpha2'    => 'cr',
-        'alpha3'    => 'cri'
+        'alpha3'    => 'cri',
+        'name'      => 'Costa Rica'
     ),
-    array(
+    384 => array(
         'id'        => 384,
-        'name'      => 'Coasta de Fildeș',
         'alpha2'    => 'ci',
-        'alpha3'    => 'civ'
+        'alpha3'    => 'civ',
+        'name'      => 'Coasta de Fildeș'
     ),
-    array(
+    191 => array(
         'id'        => 191,
-        'name'      => 'Croația',
         'alpha2'    => 'hr',
-        'alpha3'    => 'hrv'
+        'alpha3'    => 'hrv',
+        'name'      => 'Croația'
     ),
-    array(
+    192 => array(
         'id'        => 192,
-        'name'      => 'Cuba',
         'alpha2'    => 'cu',
-        'alpha3'    => 'cub'
+        'alpha3'    => 'cub',
+        'name'      => 'Cuba'
     ),
-    array(
+    196 => array(
         'id'        => 196,
-        'name'      => 'Cipru',
         'alpha2'    => 'cy',
-        'alpha3'    => 'cyp'
+        'alpha3'    => 'cyp',
+        'name'      => 'Cipru'
     ),
-    array(
+    203 => array(
         'id'        => 203,
-        'name'      => 'Cehia',
         'alpha2'    => 'cz',
-        'alpha3'    => 'cze'
+        'alpha3'    => 'cze',
+        'name'      => 'Cehia'
     ),
-    array(
+    208 => array(
         'id'        => 208,
-        'name'      => 'Danemarca',
         'alpha2'    => 'dk',
-        'alpha3'    => 'dnk'
+        'alpha3'    => 'dnk',
+        'name'      => 'Danemarca'
     ),
-    array(
+    262 => array(
         'id'        => 262,
-        'name'      => 'Djibouti',
         'alpha2'    => 'dj',
-        'alpha3'    => 'dji'
+        'alpha3'    => 'dji',
+        'name'      => 'Djibouti'
     ),
-    array(
+    212 => array(
         'id'        => 212,
-        'name'      => 'Dominica',
         'alpha2'    => 'dm',
-        'alpha3'    => 'dma'
+        'alpha3'    => 'dma',
+        'name'      => 'Dominica'
     ),
-    array(
+    214 => array(
         'id'        => 214,
-        'name'      => 'Republica Dominicană',
         'alpha2'    => 'do',
-        'alpha3'    => 'dom'
+        'alpha3'    => 'dom',
+        'name'      => 'Republica Dominicană'
     ),
-    array(
+    218 => array(
         'id'        => 218,
-        'name'      => 'Ecuador',
         'alpha2'    => 'ec',
-        'alpha3'    => 'ecu'
+        'alpha3'    => 'ecu',
+        'name'      => 'Ecuador'
     ),
-    array(
+    818 => array(
         'id'        => 818,
-        'name'      => 'Egipt',
         'alpha2'    => 'eg',
-        'alpha3'    => 'egy'
+        'alpha3'    => 'egy',
+        'name'      => 'Egipt'
     ),
-    array(
+    222 => array(
         'id'        => 222,
-        'name'      => 'El Salvador',
         'alpha2'    => 'sv',
-        'alpha3'    => 'slv'
+        'alpha3'    => 'slv',
+        'name'      => 'El Salvador'
     ),
-    array(
+    226 => array(
         'id'        => 226,
-        'name'      => 'Guineea Ecuatorială',
         'alpha2'    => 'gq',
-        'alpha3'    => 'gnq'
+        'alpha3'    => 'gnq',
+        'name'      => 'Guineea Ecuatorială'
     ),
-    array(
+    232 => array(
         'id'        => 232,
-        'name'      => 'Eritreea',
         'alpha2'    => 'er',
-        'alpha3'    => 'eri'
+        'alpha3'    => 'eri',
+        'name'      => 'Eritreea'
     ),
-    array(
+    233 => array(
         'id'        => 233,
-        'name'      => 'Estonia',
         'alpha2'    => 'ee',
-        'alpha3'    => 'est'
+        'alpha3'    => 'est',
+        'name'      => 'Estonia'
     ),
-    array(
+    748 => array(
         'id'        => 748,
-        'name'      => 'Eswatini',
         'alpha2'    => 'sz',
-        'alpha3'    => 'swz'
+        'alpha3'    => 'swz',
+        'name'      => 'Eswatini'
     ),
-    array(
+    231 => array(
         'id'        => 231,
-        'name'      => 'Etiopia',
         'alpha2'    => 'et',
-        'alpha3'    => 'eth'
+        'alpha3'    => 'eth',
+        'name'      => 'Etiopia'
     ),
-    array(
+    242 => array(
         'id'        => 242,
-        'name'      => 'Fiji',
         'alpha2'    => 'fj',
-        'alpha3'    => 'fji'
+        'alpha3'    => 'fji',
+        'name'      => 'Fiji'
     ),
-    array(
+    246 => array(
         'id'        => 246,
-        'name'      => 'Finlanda',
         'alpha2'    => 'fi',
-        'alpha3'    => 'fin'
+        'alpha3'    => 'fin',
+        'name'      => 'Finlanda'
     ),
-    array(
+    250 => array(
         'id'        => 250,
-        'name'      => 'Franța',
         'alpha2'    => 'fr',
-        'alpha3'    => 'fra'
+        'alpha3'    => 'fra',
+        'name'      => 'Franța'
     ),
-    array(
+    266 => array(
         'id'        => 266,
-        'name'      => 'Gabon',
         'alpha2'    => 'ga',
-        'alpha3'    => 'gab'
+        'alpha3'    => 'gab',
+        'name'      => 'Gabon'
     ),
-    array(
+    270 => array(
         'id'        => 270,
-        'name'      => 'Gambia',
         'alpha2'    => 'gm',
-        'alpha3'    => 'gmb'
+        'alpha3'    => 'gmb',
+        'name'      => 'Gambia'
     ),
-    array(
+    268 => array(
         'id'        => 268,
-        'name'      => 'Georgia',
         'alpha2'    => 'ge',
-        'alpha3'    => 'geo'
+        'alpha3'    => 'geo',
+        'name'      => 'Georgia'
     ),
-    array(
+    276 => array(
         'id'        => 276,
-        'name'      => 'Germania',
         'alpha2'    => 'de',
-        'alpha3'    => 'deu'
+        'alpha3'    => 'deu',
+        'name'      => 'Germania'
     ),
-    array(
+    288 => array(
         'id'        => 288,
-        'name'      => 'Ghana',
         'alpha2'    => 'gh',
-        'alpha3'    => 'gha'
+        'alpha3'    => 'gha',
+        'name'      => 'Ghana'
     ),
-    array(
+    300 => array(
         'id'        => 300,
-        'name'      => 'Grecia',
         'alpha2'    => 'gr',
-        'alpha3'    => 'grc'
+        'alpha3'    => 'grc',
+        'name'      => 'Grecia'
     ),
-    array(
+    308 => array(
         'id'        => 308,
-        'name'      => 'Grenada',
         'alpha2'    => 'gd',
-        'alpha3'    => 'grd'
+        'alpha3'    => 'grd',
+        'name'      => 'Grenada'
     ),
-    array(
+    320 => array(
         'id'        => 320,
-        'name'      => 'Guatemala',
         'alpha2'    => 'gt',
-        'alpha3'    => 'gtm'
+        'alpha3'    => 'gtm',
+        'name'      => 'Guatemala'
     ),
-    array(
+    324 => array(
         'id'        => 324,
-        'name'      => 'Guineea',
         'alpha2'    => 'gn',
-        'alpha3'    => 'gin'
+        'alpha3'    => 'gin',
+        'name'      => 'Guineea'
     ),
-    array(
+    624 => array(
         'id'        => 624,
-        'name'      => 'Guineea-Bissau',
         'alpha2'    => 'gw',
-        'alpha3'    => 'gnb'
+        'alpha3'    => 'gnb',
+        'name'      => 'Guineea-Bissau'
     ),
-    array(
+    328 => array(
         'id'        => 328,
-        'name'      => 'Guyana',
         'alpha2'    => 'gy',
-        'alpha3'    => 'guy'
+        'alpha3'    => 'guy',
+        'name'      => 'Guyana'
     ),
-    array(
+    332 => array(
         'id'        => 332,
-        'name'      => 'Haiti',
         'alpha2'    => 'ht',
-        'alpha3'    => 'hti'
+        'alpha3'    => 'hti',
+        'name'      => 'Haiti'
     ),
-    array(
+    340 => array(
         'id'        => 340,
-        'name'      => 'Honduras',
         'alpha2'    => 'hn',
-        'alpha3'    => 'hnd'
+        'alpha3'    => 'hnd',
+        'name'      => 'Honduras'
     ),
-    array(
+    348 => array(
         'id'        => 348,
-        'name'      => 'Ungaria',
         'alpha2'    => 'hu',
-        'alpha3'    => 'hun'
+        'alpha3'    => 'hun',
+        'name'      => 'Ungaria'
     ),
-    array(
+    352 => array(
         'id'        => 352,
-        'name'      => 'Islanda',
         'alpha2'    => 'is',
-        'alpha3'    => 'isl'
+        'alpha3'    => 'isl',
+        'name'      => 'Islanda'
     ),
-    array(
+    356 => array(
         'id'        => 356,
-        'name'      => 'India',
         'alpha2'    => 'in',
-        'alpha3'    => 'ind'
+        'alpha3'    => 'ind',
+        'name'      => 'India'
     ),
-    array(
+    360 => array(
         'id'        => 360,
-        'name'      => 'Indonezia',
         'alpha2'    => 'id',
-        'alpha3'    => 'idn'
+        'alpha3'    => 'idn',
+        'name'      => 'Indonezia'
     ),
-    array(
+    364 => array(
         'id'        => 364,
-        'name'      => 'Iran',
         'alpha2'    => 'ir',
-        'alpha3'    => 'irn'
+        'alpha3'    => 'irn',
+        'name'      => 'Iran'
     ),
-    array(
+    368 => array(
         'id'        => 368,
-        'name'      => 'Irak',
         'alpha2'    => 'iq',
-        'alpha3'    => 'irq'
+        'alpha3'    => 'irq',
+        'name'      => 'Irak'
     ),
-    array(
+    372 => array(
         'id'        => 372,
-        'name'      => 'Republica Irlanda',
         'alpha2'    => 'ie',
-        'alpha3'    => 'irl'
+        'alpha3'    => 'irl',
+        'name'      => 'Republica Irlanda'
     ),
-    array(
+    376 => array(
         'id'        => 376,
-        'name'      => 'Israel',
         'alpha2'    => 'il',
-        'alpha3'    => 'isr'
+        'alpha3'    => 'isr',
+        'name'      => 'Israel'
     ),
-    array(
+    380 => array(
         'id'        => 380,
-        'name'      => 'Italia',
         'alpha2'    => 'it',
-        'alpha3'    => 'ita'
+        'alpha3'    => 'ita',
+        'name'      => 'Italia'
     ),
-    array(
+    388 => array(
         'id'        => 388,
-        'name'      => 'Jamaica',
         'alpha2'    => 'jm',
-        'alpha3'    => 'jam'
+        'alpha3'    => 'jam',
+        'name'      => 'Jamaica'
     ),
-    array(
+    392 => array(
         'id'        => 392,
-        'name'      => 'Japonia',
         'alpha2'    => 'jp',
-        'alpha3'    => 'jpn'
+        'alpha3'    => 'jpn',
+        'name'      => 'Japonia'
     ),
-    array(
+    400 => array(
         'id'        => 400,
-        'name'      => 'Iordania',
         'alpha2'    => 'jo',
-        'alpha3'    => 'jor'
+        'alpha3'    => 'jor',
+        'name'      => 'Iordania'
     ),
-    array(
+    398 => array(
         'id'        => 398,
-        'name'      => 'Kazahstan',
         'alpha2'    => 'kz',
-        'alpha3'    => 'kaz'
+        'alpha3'    => 'kaz',
+        'name'      => 'Kazahstan'
     ),
-    array(
+    404 => array(
         'id'        => 404,
-        'name'      => 'Kenya',
         'alpha2'    => 'ke',
-        'alpha3'    => 'ken'
+        'alpha3'    => 'ken',
+        'name'      => 'Kenya'
     ),
-    array(
+    296 => array(
         'id'        => 296,
-        'name'      => 'Kiribati',
         'alpha2'    => 'ki',
-        'alpha3'    => 'kir'
+        'alpha3'    => 'kir',
+        'name'      => 'Kiribati'
     ),
-    array(
+    408 => array(
         'id'        => 408,
-        'name'      => 'Coreea de Nord',
         'alpha2'    => 'kp',
-        'alpha3'    => 'prk'
+        'alpha3'    => 'prk',
+        'name'      => 'Coreea de Nord'
     ),
-    array(
+    410 => array(
         'id'        => 410,
-        'name'      => 'Coreea de Sud',
         'alpha2'    => 'kr',
-        'alpha3'    => 'kor'
+        'alpha3'    => 'kor',
+        'name'      => 'Coreea de Sud'
     ),
-    array(
+    414 => array(
         'id'        => 414,
-        'name'      => 'Kuweit',
         'alpha2'    => 'kw',
-        'alpha3'    => 'kwt'
+        'alpha3'    => 'kwt',
+        'name'      => 'Kuweit'
     ),
-    array(
+    417 => array(
         'id'        => 417,
-        'name'      => 'Kârgâzstan',
         'alpha2'    => 'kg',
-        'alpha3'    => 'kgz'
+        'alpha3'    => 'kgz',
+        'name'      => 'Kârgâzstan'
     ),
-    array(
+    418 => array(
         'id'        => 418,
-        'name'      => 'Laos',
         'alpha2'    => 'la',
-        'alpha3'    => 'lao'
+        'alpha3'    => 'lao',
+        'name'      => 'Laos'
     ),
-    array(
+    428 => array(
         'id'        => 428,
-        'name'      => 'Letonia',
         'alpha2'    => 'lv',
-        'alpha3'    => 'lva'
+        'alpha3'    => 'lva',
+        'name'      => 'Letonia'
     ),
-    array(
+    422 => array(
         'id'        => 422,
-        'name'      => 'Liban',
         'alpha2'    => 'lb',
-        'alpha3'    => 'lbn'
+        'alpha3'    => 'lbn',
+        'name'      => 'Liban'
     ),
-    array(
+    426 => array(
         'id'        => 426,
-        'name'      => 'Lesotho',
         'alpha2'    => 'ls',
-        'alpha3'    => 'lso'
+        'alpha3'    => 'lso',
+        'name'      => 'Lesotho'
     ),
-    array(
+    430 => array(
         'id'        => 430,
-        'name'      => 'Liberia',
         'alpha2'    => 'lr',
-        'alpha3'    => 'lbr'
+        'alpha3'    => 'lbr',
+        'name'      => 'Liberia'
     ),
-    array(
+    434 => array(
         'id'        => 434,
-        'name'      => 'Libia',
         'alpha2'    => 'ly',
-        'alpha3'    => 'lby'
+        'alpha3'    => 'lby',
+        'name'      => 'Libia'
     ),
-    array(
+    438 => array(
         'id'        => 438,
-        'name'      => 'Liechtenstein',
         'alpha2'    => 'li',
-        'alpha3'    => 'lie'
+        'alpha3'    => 'lie',
+        'name'      => 'Liechtenstein'
     ),
-    array(
+    440 => array(
         'id'        => 440,
-        'name'      => 'Lituania',
         'alpha2'    => 'lt',
-        'alpha3'    => 'ltu'
+        'alpha3'    => 'ltu',
+        'name'      => 'Lituania'
     ),
-    array(
+    442 => array(
         'id'        => 442,
-        'name'      => 'Luxemburg',
         'alpha2'    => 'lu',
-        'alpha3'    => 'lux'
+        'alpha3'    => 'lux',
+        'name'      => 'Luxemburg'
     ),
-    array(
+    807 => array(
         'id'        => 807,
-        'name'      => 'Republica Macedonia',
         'alpha2'    => 'mk',
-        'alpha3'    => 'mkd'
+        'alpha3'    => 'mkd',
+        'name'      => 'Republica Macedonia'
     ),
-    array(
+    450 => array(
         'id'        => 450,
-        'name'      => 'Madagascar',
         'alpha2'    => 'mg',
-        'alpha3'    => 'mdg'
+        'alpha3'    => 'mdg',
+        'name'      => 'Madagascar'
     ),
-    array(
+    454 => array(
         'id'        => 454,
-        'name'      => 'Malawi',
         'alpha2'    => 'mw',
-        'alpha3'    => 'mwi'
+        'alpha3'    => 'mwi',
+        'name'      => 'Malawi'
     ),
-    array(
+    458 => array(
         'id'        => 458,
-        'name'      => 'Malaezia',
         'alpha2'    => 'my',
-        'alpha3'    => 'mys'
+        'alpha3'    => 'mys',
+        'name'      => 'Malaezia'
     ),
-    array(
+    462 => array(
         'id'        => 462,
-        'name'      => 'Maldive',
         'alpha2'    => 'mv',
-        'alpha3'    => 'mdv'
+        'alpha3'    => 'mdv',
+        'name'      => 'Maldive'
     ),
-    array(
+    466 => array(
         'id'        => 466,
-        'name'      => 'Mali',
         'alpha2'    => 'ml',
-        'alpha3'    => 'mli'
+        'alpha3'    => 'mli',
+        'name'      => 'Mali'
     ),
-    array(
+    470 => array(
         'id'        => 470,
-        'name'      => 'Malta',
         'alpha2'    => 'mt',
-        'alpha3'    => 'mlt'
+        'alpha3'    => 'mlt',
+        'name'      => 'Malta'
     ),
-    array(
+    584 => array(
         'id'        => 584,
-        'name'      => 'Insulele Marshall',
         'alpha2'    => 'mh',
-        'alpha3'    => 'mhl'
+        'alpha3'    => 'mhl',
+        'name'      => 'Insulele Marshall'
     ),
-    array(
+    478 => array(
         'id'        => 478,
-        'name'      => 'Mauritania',
         'alpha2'    => 'mr',
-        'alpha3'    => 'mrt'
+        'alpha3'    => 'mrt',
+        'name'      => 'Mauritania'
     ),
-    array(
+    480 => array(
         'id'        => 480,
-        'name'      => 'Mauritius',
         'alpha2'    => 'mu',
-        'alpha3'    => 'mus'
+        'alpha3'    => 'mus',
+        'name'      => 'Mauritius'
     ),
-    array(
+    484 => array(
         'id'        => 484,
-        'name'      => 'Mexic',
         'alpha2'    => 'mx',
-        'alpha3'    => 'mex'
+        'alpha3'    => 'mex',
+        'name'      => 'Mexic'
     ),
-    array(
+    583 => array(
         'id'        => 583,
-        'name'      => 'Micronezia',
         'alpha2'    => 'fm',
-        'alpha3'    => 'fsm'
+        'alpha3'    => 'fsm',
+        'name'      => 'Micronezia'
     ),
-    array(
+    498 => array(
         'id'        => 498,
-        'name'      => 'Republica Moldova',
         'alpha2'    => 'md',
-        'alpha3'    => 'mda'
+        'alpha3'    => 'mda',
+        'name'      => 'Republica Moldova'
     ),
-    array(
+    492 => array(
         'id'        => 492,
-        'name'      => 'Monaco',
         'alpha2'    => 'mc',
-        'alpha3'    => 'mco'
+        'alpha3'    => 'mco',
+        'name'      => 'Monaco'
     ),
-    array(
+    496 => array(
         'id'        => 496,
-        'name'      => 'Mongolia',
         'alpha2'    => 'mn',
-        'alpha3'    => 'mng'
+        'alpha3'    => 'mng',
+        'name'      => 'Mongolia'
     ),
-    array(
+    499 => array(
         'id'        => 499,
-        'name'      => 'Muntenegru',
         'alpha2'    => 'me',
-        'alpha3'    => 'mne'
+        'alpha3'    => 'mne',
+        'name'      => 'Muntenegru'
     ),
-    array(
+    504 => array(
         'id'        => 504,
-        'name'      => 'Maroc',
         'alpha2'    => 'ma',
-        'alpha3'    => 'mar'
+        'alpha3'    => 'mar',
+        'name'      => 'Maroc'
     ),
-    array(
+    508 => array(
         'id'        => 508,
-        'name'      => 'Mozambic',
         'alpha2'    => 'mz',
-        'alpha3'    => 'moz'
+        'alpha3'    => 'moz',
+        'name'      => 'Mozambic'
     ),
-    array(
+    104 => array(
         'id'        => 104,
-        'name'      => 'Myanmar',
         'alpha2'    => 'mm',
-        'alpha3'    => 'mmr'
+        'alpha3'    => 'mmr',
+        'name'      => 'Myanmar'
     ),
-    array(
+    516 => array(
         'id'        => 516,
-        'name'      => 'Namibia',
         'alpha2'    => 'na',
-        'alpha3'    => 'nam'
+        'alpha3'    => 'nam',
+        'name'      => 'Namibia'
     ),
-    array(
+    520 => array(
         'id'        => 520,
-        'name'      => 'Nauru',
         'alpha2'    => 'nr',
-        'alpha3'    => 'nru'
+        'alpha3'    => 'nru',
+        'name'      => 'Nauru'
     ),
-    array(
+    524 => array(
         'id'        => 524,
-        'name'      => 'Nepal',
         'alpha2'    => 'np',
-        'alpha3'    => 'npl'
+        'alpha3'    => 'npl',
+        'name'      => 'Nepal'
     ),
-    array(
+    528 => array(
         'id'        => 528,
-        'name'      => 'Țările de Jos',
         'alpha2'    => 'nl',
-        'alpha3'    => 'nld'
+        'alpha3'    => 'nld',
+        'name'      => 'Țările de Jos'
     ),
-    array(
+    554 => array(
         'id'        => 554,
-        'name'      => 'Noua Zeelandă',
         'alpha2'    => 'nz',
-        'alpha3'    => 'nzl'
+        'alpha3'    => 'nzl',
+        'name'      => 'Noua Zeelandă'
     ),
-    array(
+    558 => array(
         'id'        => 558,
-        'name'      => 'Nicaragua',
         'alpha2'    => 'ni',
-        'alpha3'    => 'nic'
+        'alpha3'    => 'nic',
+        'name'      => 'Nicaragua'
     ),
-    array(
+    562 => array(
         'id'        => 562,
-        'name'      => 'Niger',
         'alpha2'    => 'ne',
-        'alpha3'    => 'ner'
+        'alpha3'    => 'ner',
+        'name'      => 'Niger'
     ),
-    array(
+    566 => array(
         'id'        => 566,
-        'name'      => 'Nigeria',
         'alpha2'    => 'ng',
-        'alpha3'    => 'nga'
+        'alpha3'    => 'nga',
+        'name'      => 'Nigeria'
     ),
-    array(
+    578 => array(
         'id'        => 578,
-        'name'      => 'Norvegia',
         'alpha2'    => 'no',
-        'alpha3'    => 'nor'
+        'alpha3'    => 'nor',
+        'name'      => 'Norvegia'
     ),
-    array(
+    512 => array(
         'id'        => 512,
-        'name'      => 'Oman',
         'alpha2'    => 'om',
-        'alpha3'    => 'omn'
+        'alpha3'    => 'omn',
+        'name'      => 'Oman'
     ),
-    array(
+    586 => array(
         'id'        => 586,
-        'name'      => 'Pakistan',
         'alpha2'    => 'pk',
-        'alpha3'    => 'pak'
+        'alpha3'    => 'pak',
+        'name'      => 'Pakistan'
     ),
-    array(
+    585 => array(
         'id'        => 585,
-        'name'      => 'Palau',
         'alpha2'    => 'pw',
-        'alpha3'    => 'plw'
+        'alpha3'    => 'plw',
+        'name'      => 'Palau'
     ),
-    array(
+    591 => array(
         'id'        => 591,
-        'name'      => 'Panama',
         'alpha2'    => 'pa',
-        'alpha3'    => 'pan'
+        'alpha3'    => 'pan',
+        'name'      => 'Panama'
     ),
-    array(
+    598 => array(
         'id'        => 598,
-        'name'      => 'Papua Noua Guinee',
         'alpha2'    => 'pg',
-        'alpha3'    => 'png'
+        'alpha3'    => 'png',
+        'name'      => 'Papua Noua Guinee'
     ),
-    array(
+    600 => array(
         'id'        => 600,
-        'name'      => 'Paraguay',
         'alpha2'    => 'py',
-        'alpha3'    => 'pry'
+        'alpha3'    => 'pry',
+        'name'      => 'Paraguay'
     ),
-    array(
+    604 => array(
         'id'        => 604,
-        'name'      => 'Peru',
         'alpha2'    => 'pe',
-        'alpha3'    => 'per'
+        'alpha3'    => 'per',
+        'name'      => 'Peru'
     ),
-    array(
+    608 => array(
         'id'        => 608,
-        'name'      => 'Filipine',
         'alpha2'    => 'ph',
-        'alpha3'    => 'phl'
+        'alpha3'    => 'phl',
+        'name'      => 'Filipine'
     ),
-    array(
+    616 => array(
         'id'        => 616,
-        'name'      => 'Polonia',
         'alpha2'    => 'pl',
-        'alpha3'    => 'pol'
+        'alpha3'    => 'pol',
+        'name'      => 'Polonia'
     ),
-    array(
+    620 => array(
         'id'        => 620,
-        'name'      => 'Portugalia',
         'alpha2'    => 'pt',
-        'alpha3'    => 'prt'
+        'alpha3'    => 'prt',
+        'name'      => 'Portugalia'
     ),
-    array(
+    634 => array(
         'id'        => 634,
-        'name'      => 'Qatar',
         'alpha2'    => 'qa',
-        'alpha3'    => 'qat'
+        'alpha3'    => 'qat',
+        'name'      => 'Qatar'
     ),
-    array(
+    642 => array(
         'id'        => 642,
-        'name'      => 'România',
         'alpha2'    => 'ro',
-        'alpha3'    => 'rou'
+        'alpha3'    => 'rou',
+        'name'      => 'România'
     ),
-    array(
+    643 => array(
         'id'        => 643,
-        'name'      => 'Rusia',
         'alpha2'    => 'ru',
-        'alpha3'    => 'rus'
+        'alpha3'    => 'rus',
+        'name'      => 'Rusia'
     ),
-    array(
+    646 => array(
         'id'        => 646,
-        'name'      => 'Rwanda',
         'alpha2'    => 'rw',
-        'alpha3'    => 'rwa'
+        'alpha3'    => 'rwa',
+        'name'      => 'Rwanda'
     ),
-    array(
+    659 => array(
         'id'        => 659,
-        'name'      => 'Sfântul Kitts și Nevis',
         'alpha2'    => 'kn',
-        'alpha3'    => 'kna'
+        'alpha3'    => 'kna',
+        'name'      => 'Sfântul Kitts și Nevis'
     ),
-    array(
+    662 => array(
         'id'        => 662,
-        'name'      => 'Sfânta Lucia',
         'alpha2'    => 'lc',
-        'alpha3'    => 'lca'
+        'alpha3'    => 'lca',
+        'name'      => 'Sfânta Lucia'
     ),
-    array(
+    670 => array(
         'id'        => 670,
-        'name'      => 'Sfântul Vincent și Grenadine',
         'alpha2'    => 'vc',
-        'alpha3'    => 'vct'
+        'alpha3'    => 'vct',
+        'name'      => 'Sfântul Vincent și Grenadine'
     ),
-    array(
+    882 => array(
         'id'        => 882,
-        'name'      => 'Samoa',
         'alpha2'    => 'ws',
-        'alpha3'    => 'wsm'
+        'alpha3'    => 'wsm',
+        'name'      => 'Samoa'
     ),
-    array(
+    674 => array(
         'id'        => 674,
-        'name'      => 'San Marino',
         'alpha2'    => 'sm',
-        'alpha3'    => 'smr'
+        'alpha3'    => 'smr',
+        'name'      => 'San Marino'
     ),
-    array(
+    678 => array(
         'id'        => 678,
-        'name'      => 'Sao Tome și Principe',
         'alpha2'    => 'st',
-        'alpha3'    => 'stp'
+        'alpha3'    => 'stp',
+        'name'      => 'Sao Tome și Principe'
     ),
-    array(
+    682 => array(
         'id'        => 682,
-        'name'      => 'Arabia Saudită',
         'alpha2'    => 'sa',
-        'alpha3'    => 'sau'
+        'alpha3'    => 'sau',
+        'name'      => 'Arabia Saudită'
     ),
-    array(
+    686 => array(
         'id'        => 686,
-        'name'      => 'Senegal',
         'alpha2'    => 'sn',
-        'alpha3'    => 'sen'
+        'alpha3'    => 'sen',
+        'name'      => 'Senegal'
     ),
-    array(
+    688 => array(
         'id'        => 688,
-        'name'      => 'Serbia',
         'alpha2'    => 'rs',
-        'alpha3'    => 'srb'
+        'alpha3'    => 'srb',
+        'name'      => 'Serbia'
     ),
-    array(
+    690 => array(
         'id'        => 690,
-        'name'      => 'Seychelles',
         'alpha2'    => 'sc',
-        'alpha3'    => 'syc'
+        'alpha3'    => 'syc',
+        'name'      => 'Seychelles'
     ),
-    array(
+    694 => array(
         'id'        => 694,
-        'name'      => 'Sierra Leone',
         'alpha2'    => 'sl',
-        'alpha3'    => 'sle'
+        'alpha3'    => 'sle',
+        'name'      => 'Sierra Leone'
     ),
-    array(
+    702 => array(
         'id'        => 702,
-        'name'      => 'Singapore',
         'alpha2'    => 'sg',
-        'alpha3'    => 'sgp'
+        'alpha3'    => 'sgp',
+        'name'      => 'Singapore'
     ),
-    array(
+    703 => array(
         'id'        => 703,
-        'name'      => 'Slovacia',
         'alpha2'    => 'sk',
-        'alpha3'    => 'svk'
+        'alpha3'    => 'svk',
+        'name'      => 'Slovacia'
     ),
-    array(
+    705 => array(
         'id'        => 705,
-        'name'      => 'Slovenia',
         'alpha2'    => 'si',
-        'alpha3'    => 'svn'
+        'alpha3'    => 'svn',
+        'name'      => 'Slovenia'
     ),
-    array(
+    90 => array(
         'id'        => 90,
-        'name'      => 'Insulele Solomon',
         'alpha2'    => 'sb',
-        'alpha3'    => 'slb'
+        'alpha3'    => 'slb',
+        'name'      => 'Insulele Solomon'
     ),
-    array(
+    706 => array(
         'id'        => 706,
-        'name'      => 'Somalia',
         'alpha2'    => 'so',
-        'alpha3'    => 'som'
+        'alpha3'    => 'som',
+        'name'      => 'Somalia'
     ),
-    array(
+    710 => array(
         'id'        => 710,
-        'name'      => 'Africa de Sud',
         'alpha2'    => 'za',
-        'alpha3'    => 'zaf'
+        'alpha3'    => 'zaf',
+        'name'      => 'Africa de Sud'
     ),
-    array(
+    724 => array(
         'id'        => 724,
-        'name'      => 'Spania',
         'alpha2'    => 'es',
-        'alpha3'    => 'esp'
+        'alpha3'    => 'esp',
+        'name'      => 'Spania'
     ),
-    array(
+    144 => array(
         'id'        => 144,
-        'name'      => 'Sri Lanka',
         'alpha2'    => 'lk',
-        'alpha3'    => 'lka'
+        'alpha3'    => 'lka',
+        'name'      => 'Sri Lanka'
     ),
-    array(
+    729 => array(
         'id'        => 729,
-        'name'      => 'Sudan',
         'alpha2'    => 'sd',
-        'alpha3'    => 'sdn'
+        'alpha3'    => 'sdn',
+        'name'      => 'Sudan'
     ),
-    array(
+    728 => array(
         'id'        => 728,
-        'name'      => 'Sudanul de Sud',
         'alpha2'    => 'ss',
-        'alpha3'    => 'ssd'
+        'alpha3'    => 'ssd',
+        'name'      => 'Sudanul de Sud'
     ),
-    array(
+    740 => array(
         'id'        => 740,
-        'name'      => 'Surinam',
         'alpha2'    => 'sr',
-        'alpha3'    => 'sur'
+        'alpha3'    => 'sur',
+        'name'      => 'Surinam'
     ),
-    array(
+    752 => array(
         'id'        => 752,
-        'name'      => 'Suedia',
         'alpha2'    => 'se',
-        'alpha3'    => 'swe'
+        'alpha3'    => 'swe',
+        'name'      => 'Suedia'
     ),
-    array(
+    756 => array(
         'id'        => 756,
-        'name'      => 'Elveția',
         'alpha2'    => 'ch',
-        'alpha3'    => 'che'
+        'alpha3'    => 'che',
+        'name'      => 'Elveția'
     ),
-    array(
+    760 => array(
         'id'        => 760,
-        'name'      => 'Siria',
         'alpha2'    => 'sy',
-        'alpha3'    => 'syr'
+        'alpha3'    => 'syr',
+        'name'      => 'Siria'
     ),
-    array(
+    762 => array(
         'id'        => 762,
-        'name'      => 'Tadjikistan',
         'alpha2'    => 'tj',
-        'alpha3'    => 'tjk'
+        'alpha3'    => 'tjk',
+        'name'      => 'Tadjikistan'
     ),
-    array(
+    834 => array(
         'id'        => 834,
-        'name'      => 'Tanzania',
         'alpha2'    => 'tz',
-        'alpha3'    => 'tza'
+        'alpha3'    => 'tza',
+        'name'      => 'Tanzania'
     ),
-    array(
+    764 => array(
         'id'        => 764,
-        'name'      => 'Thailanda',
         'alpha2'    => 'th',
-        'alpha3'    => 'tha'
+        'alpha3'    => 'tha',
+        'name'      => 'Thailanda'
     ),
-    array(
+    626 => array(
         'id'        => 626,
-        'name'      => 'Timorul de Est',
         'alpha2'    => 'tl',
-        'alpha3'    => 'tls'
+        'alpha3'    => 'tls',
+        'name'      => 'Timorul de Est'
     ),
-    array(
+    768 => array(
         'id'        => 768,
-        'name'      => 'Togo',
         'alpha2'    => 'tg',
-        'alpha3'    => 'tgo'
+        'alpha3'    => 'tgo',
+        'name'      => 'Togo'
     ),
-    array(
+    776 => array(
         'id'        => 776,
-        'name'      => 'Tonga',
         'alpha2'    => 'to',
-        'alpha3'    => 'ton'
+        'alpha3'    => 'ton',
+        'name'      => 'Tonga'
     ),
-    array(
+    780 => array(
         'id'        => 780,
-        'name'      => 'Trinidad și Tobago',
         'alpha2'    => 'tt',
-        'alpha3'    => 'tto'
+        'alpha3'    => 'tto',
+        'name'      => 'Trinidad și Tobago'
     ),
-    array(
+    788 => array(
         'id'        => 788,
-        'name'      => 'Tunisia',
         'alpha2'    => 'tn',
-        'alpha3'    => 'tun'
+        'alpha3'    => 'tun',
+        'name'      => 'Tunisia'
     ),
-    array(
+    792 => array(
         'id'        => 792,
-        'name'      => 'Turcia',
         'alpha2'    => 'tr',
-        'alpha3'    => 'tur'
+        'alpha3'    => 'tur',
+        'name'      => 'Turcia'
     ),
-    array(
+    795 => array(
         'id'        => 795,
-        'name'      => 'Turkmenistan',
         'alpha2'    => 'tm',
-        'alpha3'    => 'tkm'
+        'alpha3'    => 'tkm',
+        'name'      => 'Turkmenistan'
     ),
-    array(
+    798 => array(
         'id'        => 798,
-        'name'      => 'Tuvalu',
         'alpha2'    => 'tv',
-        'alpha3'    => 'tuv'
+        'alpha3'    => 'tuv',
+        'name'      => 'Tuvalu'
     ),
-    array(
+    800 => array(
         'id'        => 800,
-        'name'      => 'Uganda',
         'alpha2'    => 'ug',
-        'alpha3'    => 'uga'
+        'alpha3'    => 'uga',
+        'name'      => 'Uganda'
     ),
-    array(
+    804 => array(
         'id'        => 804,
-        'name'      => 'Ucraina',
         'alpha2'    => 'ua',
-        'alpha3'    => 'ukr'
+        'alpha3'    => 'ukr',
+        'name'      => 'Ucraina'
     ),
-    array(
+    784 => array(
         'id'        => 784,
-        'name'      => 'Emiratele Arabe Unite',
         'alpha2'    => 'ae',
-        'alpha3'    => 'are'
+        'alpha3'    => 'are',
+        'name'      => 'Emiratele Arabe Unite'
     ),
-    array(
+    826 => array(
         'id'        => 826,
-        'name'      => 'Regatul Unit',
         'alpha2'    => 'gb',
-        'alpha3'    => 'gbr'
+        'alpha3'    => 'gbr',
+        'name'      => 'Regatul Unit'
     ),
-    array(
+    840 => array(
         'id'        => 840,
-        'name'      => 'Statele Unite ale Americii',
         'alpha2'    => 'us',
-        'alpha3'    => 'usa'
+        'alpha3'    => 'usa',
+        'name'      => 'Statele Unite ale Americii'
     ),
-    array(
+    858 => array(
         'id'        => 858,
-        'name'      => 'Uruguay',
         'alpha2'    => 'uy',
-        'alpha3'    => 'ury'
+        'alpha3'    => 'ury',
+        'name'      => 'Uruguay'
     ),
-    array(
+    860 => array(
         'id'        => 860,
-        'name'      => 'Uzbekistan',
         'alpha2'    => 'uz',
-        'alpha3'    => 'uzb'
+        'alpha3'    => 'uzb',
+        'name'      => 'Uzbekistan'
     ),
-    array(
+    548 => array(
         'id'        => 548,
-        'name'      => 'Vanuatu',
         'alpha2'    => 'vu',
-        'alpha3'    => 'vut'
+        'alpha3'    => 'vut',
+        'name'      => 'Vanuatu'
     ),
-    array(
+    862 => array(
         'id'        => 862,
-        'name'      => 'Venezuela',
         'alpha2'    => 've',
-        'alpha3'    => 'ven'
+        'alpha3'    => 'ven',
+        'name'      => 'Venezuela'
     ),
-    array(
+    704 => array(
         'id'        => 704,
-        'name'      => 'Vietnam',
         'alpha2'    => 'vn',
-        'alpha3'    => 'vnm'
+        'alpha3'    => 'vnm',
+        'name'      => 'Vietnam'
     ),
-    array(
+    887 => array(
         'id'        => 887,
-        'name'      => 'Yemen',
         'alpha2'    => 'ye',
-        'alpha3'    => 'yem'
+        'alpha3'    => 'yem',
+        'name'      => 'Yemen'
     ),
-    array(
+    894 => array(
         'id'        => 894,
-        'name'      => 'Zambia',
         'alpha2'    => 'zm',
-        'alpha3'    => 'zmb'
+        'alpha3'    => 'zmb',
+        'name'      => 'Zambia'
     ),
-    array(
+    716 => array(
         'id'        => 716,
-        'name'      => 'Zimbabwe',
         'alpha2'    => 'zw',
-        'alpha3'    => 'zwe'
+        'alpha3'    => 'zwe',
+        'name'      => 'Zimbabwe'
     ),
 );

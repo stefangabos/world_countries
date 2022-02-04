@@ -1,7 +1,9 @@
 <?php
 $countries = array(
-    array(
+    4 => array(
         'id'     => 4,
+        'alpha2' => 'af',
+        'alpha3' => 'afg',
         'ar'     => 'أفغانستان',
         'bg'     => 'Афганистан',
         'cs'     => 'Afghánistán',
@@ -31,11 +33,11 @@ $countries = array(
         'uk'     => 'Афганістан',
         'zh'     => '阿富汗',
         'zh-tw'  => '阿富汗',
-        'alpha2' => 'af',
-        'alpha3' => 'afg'
     ),
-    array(
+    248 => array(
         'id'     => 248,
+        'alpha2' => 'ax',
+        'alpha3' => 'ala',
         'ar'     => 'جزر أولاند',
         'bg'     => 'Оландски острови',
         'cs'     => 'Alandy',
@@ -65,11 +67,11 @@ $countries = array(
         'uk'     => 'Аландські острови',
         'zh'     => '奥兰',
         'zh-tw'  => '奧蘭',
-        'alpha2' => 'ax',
-        'alpha3' => 'ala'
     ),
-    array(
+    8 => array(
         'id'     => 8,
+        'alpha2' => 'al',
+        'alpha3' => 'alb',
         'ar'     => 'ألبانيا',
         'bg'     => 'Албания',
         'cs'     => 'Albánie',
@@ -99,11 +101,11 @@ $countries = array(
         'uk'     => 'Албанія',
         'zh'     => '阿尔巴尼亚',
         'zh-tw'  => '阿爾巴尼亞',
-        'alpha2' => 'al',
-        'alpha3' => 'alb'
     ),
-    array(
+    12 => array(
         'id'     => 12,
+        'alpha2' => 'dz',
+        'alpha3' => 'dza',
         'ar'     => 'الجزائر',
         'bg'     => 'Алжир',
         'cs'     => 'Alžírsko',
@@ -133,11 +135,11 @@ $countries = array(
         'uk'     => 'Алжир',
         'zh'     => '阿尔及利亚',
         'zh-tw'  => '阿爾及利亞',
-        'alpha2' => 'dz',
-        'alpha3' => 'dza'
     ),
-    array(
+    16 => array(
         'id'     => 16,
+        'alpha2' => 'as',
+        'alpha3' => 'asm',
         'ar'     => 'ساموا الأمريكية',
         'bg'     => 'Американска Самоа',
         'cs'     => 'Americká Samoa',
@@ -167,11 +169,11 @@ $countries = array(
         'uk'     => 'Американське Самоа',
         'zh'     => '美属萨摩亚',
         'zh-tw'  => '美屬薩摩亞',
-        'alpha2' => 'as',
-        'alpha3' => 'asm'
     ),
-    array(
+    20 => array(
         'id'     => 20,
+        'alpha2' => 'ad',
+        'alpha3' => 'and',
         'ar'     => 'أندورا',
         'bg'     => 'Андора',
         'cs'     => 'Andorra',
@@ -201,11 +203,11 @@ $countries = array(
         'uk'     => 'Андорра',
         'zh'     => '安道尔',
         'zh-tw'  => '安道爾',
-        'alpha2' => 'ad',
-        'alpha3' => 'and'
     ),
-    array(
+    24 => array(
         'id'     => 24,
+        'alpha2' => 'ao',
+        'alpha3' => 'ago',
         'ar'     => 'أنغولا',
         'bg'     => 'Ангола',
         'cs'     => 'Angola',
@@ -235,11 +237,11 @@ $countries = array(
         'uk'     => 'Ангола',
         'zh'     => '安哥拉',
         'zh-tw'  => '安哥拉',
-        'alpha2' => 'ao',
-        'alpha3' => 'ago'
     ),
-    array(
+    660 => array(
         'id'     => 660,
+        'alpha2' => 'ai',
+        'alpha3' => 'aia',
         'ar'     => 'أنغويلا',
         'bg'     => 'Ангила',
         'cs'     => 'Anguilla',
@@ -269,11 +271,11 @@ $countries = array(
         'uk'     => 'Ангілья',
         'zh'     => '安圭拉',
         'zh-tw'  => '安圭拉',
-        'alpha2' => 'ai',
-        'alpha3' => 'aia'
     ),
-    array(
+    10 => array(
         'id'     => 10,
+        'alpha2' => 'aq',
+        'alpha3' => 'ata',
         'ar'     => 'القارة القطبية الجنوبية',
         'bg'     => 'Антарктида',
         'cs'     => 'Antarktida',
@@ -303,11 +305,11 @@ $countries = array(
         'uk'     => 'Антарктида',
         'zh'     => '南极洲',
         'zh-tw'  => '南極洲',
-        'alpha2' => 'aq',
-        'alpha3' => 'ata'
     ),
-    array(
+    28 => array(
         'id'     => 28,
+        'alpha2' => 'ag',
+        'alpha3' => 'atg',
         'ar'     => 'أنتيغوا وباربودا',
         'bg'     => 'Антигуа и Барбуда',
         'cs'     => 'Antigua a Barbuda',
@@ -337,11 +339,11 @@ $countries = array(
         'uk'     => 'Антигуа і Барбуда',
         'zh'     => '安提瓜和巴布达',
         'zh-tw'  => '安地卡及巴布達',
-        'alpha2' => 'ag',
-        'alpha3' => 'atg'
     ),
-    array(
+    32 => array(
         'id'     => 32,
+        'alpha2' => 'ar',
+        'alpha3' => 'arg',
         'ar'     => 'الأرجنتين',
         'bg'     => 'Аржентина',
         'cs'     => 'Argentina',
@@ -371,11 +373,11 @@ $countries = array(
         'uk'     => 'Аргентина',
         'zh'     => '阿根廷',
         'zh-tw'  => '阿根廷',
-        'alpha2' => 'ar',
-        'alpha3' => 'arg'
     ),
-    array(
+    51 => array(
         'id'     => 51,
+        'alpha2' => 'am',
+        'alpha3' => 'arm',
         'ar'     => 'أرمينيا',
         'bg'     => 'Армения',
         'cs'     => 'Arménie',
@@ -405,11 +407,11 @@ $countries = array(
         'uk'     => 'Вірменія',
         'zh'     => '亚美尼亚',
         'zh-tw'  => '亞美尼亞',
-        'alpha2' => 'am',
-        'alpha3' => 'arm'
     ),
-    array(
+    533 => array(
         'id'     => 533,
+        'alpha2' => 'aw',
+        'alpha3' => 'abw',
         'ar'     => 'أروبا',
         'bg'     => 'Аруба',
         'cs'     => 'Aruba',
@@ -439,11 +441,11 @@ $countries = array(
         'uk'     => 'Аруба',
         'zh'     => '阿鲁巴',
         'zh-tw'  => '阿魯巴',
-        'alpha2' => 'aw',
-        'alpha3' => 'abw'
     ),
-    array(
+    36 => array(
         'id'     => 36,
+        'alpha2' => 'au',
+        'alpha3' => 'aus',
         'ar'     => 'أستراليا',
         'bg'     => 'Австралия',
         'cs'     => 'Austrálie',
@@ -473,11 +475,11 @@ $countries = array(
         'uk'     => 'Австралія',
         'zh'     => '澳大利亚',
         'zh-tw'  => '澳大利亞',
-        'alpha2' => 'au',
-        'alpha3' => 'aus'
     ),
-    array(
+    40 => array(
         'id'     => 40,
+        'alpha2' => 'at',
+        'alpha3' => 'aut',
         'ar'     => 'النمسا',
         'bg'     => 'Австрия',
         'cs'     => 'Rakousko',
@@ -507,11 +509,11 @@ $countries = array(
         'uk'     => 'Австрія',
         'zh'     => '奥地利',
         'zh-tw'  => '奧地利',
-        'alpha2' => 'at',
-        'alpha3' => 'aut'
     ),
-    array(
+    31 => array(
         'id'     => 31,
+        'alpha2' => 'az',
+        'alpha3' => 'aze',
         'ar'     => 'أذربيجان',
         'bg'     => 'Азербайджан',
         'cs'     => 'Ázerbájdžán',
@@ -541,11 +543,11 @@ $countries = array(
         'uk'     => 'Азербайджан',
         'zh'     => '阿塞拜疆',
         'zh-tw'  => '亞塞拜然',
-        'alpha2' => 'az',
-        'alpha3' => 'aze'
     ),
-    array(
+    44 => array(
         'id'     => 44,
+        'alpha2' => 'bs',
+        'alpha3' => 'bhs',
         'ar'     => 'باهاماس',
         'bg'     => 'Бахамски острови',
         'cs'     => 'Bahamy',
@@ -575,11 +577,11 @@ $countries = array(
         'uk'     => 'Багамські Острови',
         'zh'     => '巴哈马',
         'zh-tw'  => '巴哈馬',
-        'alpha2' => 'bs',
-        'alpha3' => 'bhs'
     ),
-    array(
+    48 => array(
         'id'     => 48,
+        'alpha2' => 'bh',
+        'alpha3' => 'bhr',
         'ar'     => 'البحرين',
         'bg'     => 'Бахрейн',
         'cs'     => 'Bahrajn',
@@ -609,11 +611,11 @@ $countries = array(
         'uk'     => 'Бахрейн',
         'zh'     => '巴林',
         'zh-tw'  => '巴林',
-        'alpha2' => 'bh',
-        'alpha3' => 'bhr'
     ),
-    array(
+    50 => array(
         'id'     => 50,
+        'alpha2' => 'bd',
+        'alpha3' => 'bgd',
         'ar'     => 'بنغلاديش',
         'bg'     => 'Бангладеш',
         'cs'     => 'Bangladéš',
@@ -643,11 +645,11 @@ $countries = array(
         'uk'     => 'Бангладеш',
         'zh'     => '孟加拉国',
         'zh-tw'  => '孟加拉',
-        'alpha2' => 'bd',
-        'alpha3' => 'bgd'
     ),
-    array(
+    52 => array(
         'id'     => 52,
+        'alpha2' => 'bb',
+        'alpha3' => 'brb',
         'ar'     => 'باربادوس',
         'bg'     => 'Барбадос',
         'cs'     => 'Barbados',
@@ -677,11 +679,11 @@ $countries = array(
         'uk'     => 'Барбадос',
         'zh'     => '巴巴多斯',
         'zh-tw'  => '巴貝多',
-        'alpha2' => 'bb',
-        'alpha3' => 'brb'
     ),
-    array(
+    112 => array(
         'id'     => 112,
+        'alpha2' => 'by',
+        'alpha3' => 'blr',
         'ar'     => 'بيلاروس',
         'bg'     => 'Беларус',
         'cs'     => 'Bělorusko',
@@ -711,11 +713,11 @@ $countries = array(
         'uk'     => 'Білорусь',
         'zh'     => '白俄罗斯',
         'zh-tw'  => '白俄羅斯',
-        'alpha2' => 'by',
-        'alpha3' => 'blr'
     ),
-    array(
+    56 => array(
         'id'     => 56,
+        'alpha2' => 'be',
+        'alpha3' => 'bel',
         'ar'     => 'بلجيكا',
         'bg'     => 'Белгия',
         'cs'     => 'Belgie',
@@ -745,11 +747,11 @@ $countries = array(
         'uk'     => 'Бельгія',
         'zh'     => '比利时',
         'zh-tw'  => '比利時',
-        'alpha2' => 'be',
-        'alpha3' => 'bel'
     ),
-    array(
+    84 => array(
         'id'     => 84,
+        'alpha2' => 'bz',
+        'alpha3' => 'blz',
         'ar'     => 'بليز',
         'bg'     => 'Белиз',
         'cs'     => 'Belize',
@@ -779,11 +781,11 @@ $countries = array(
         'uk'     => 'Беліз',
         'zh'     => '伯利兹',
         'zh-tw'  => '貝里斯',
-        'alpha2' => 'bz',
-        'alpha3' => 'blz'
     ),
-    array(
+    204 => array(
         'id'     => 204,
+        'alpha2' => 'bj',
+        'alpha3' => 'ben',
         'ar'     => 'بنين',
         'bg'     => 'Бенин',
         'cs'     => 'Benin',
@@ -813,11 +815,11 @@ $countries = array(
         'uk'     => 'Бенін',
         'zh'     => '贝宁',
         'zh-tw'  => '貝南',
-        'alpha2' => 'bj',
-        'alpha3' => 'ben'
     ),
-    array(
+    60 => array(
         'id'     => 60,
+        'alpha2' => 'bm',
+        'alpha3' => 'bmu',
         'ar'     => 'برمودا',
         'bg'     => 'Бермудски острови',
         'cs'     => 'Bermudy',
@@ -847,11 +849,11 @@ $countries = array(
         'uk'     => 'Бермудські Острови',
         'zh'     => '百慕大',
         'zh-tw'  => '百慕達',
-        'alpha2' => 'bm',
-        'alpha3' => 'bmu'
     ),
-    array(
+    64 => array(
         'id'     => 64,
+        'alpha2' => 'bt',
+        'alpha3' => 'btn',
         'ar'     => 'بوتان',
         'bg'     => 'Бутан',
         'cs'     => 'Bhútán',
@@ -881,11 +883,11 @@ $countries = array(
         'uk'     => 'Бутан',
         'zh'     => '不丹',
         'zh-tw'  => '不丹',
-        'alpha2' => 'bt',
-        'alpha3' => 'btn'
     ),
-    array(
+    68 => array(
         'id'     => 68,
+        'alpha2' => 'bo',
+        'alpha3' => 'bol',
         'ar'     => 'بوليفيا',
         'bg'     => 'Боливия',
         'cs'     => 'Bolívie',
@@ -915,11 +917,11 @@ $countries = array(
         'uk'     => 'Болівія',
         'zh'     => '玻利维亚',
         'zh-tw'  => '玻利維亞',
-        'alpha2' => 'bo',
-        'alpha3' => 'bol'
     ),
-    array(
+    535 => array(
         'id'     => 535,
+        'alpha2' => 'bq',
+        'alpha3' => 'bes',
         'ar'     => 'الجزر الكاريبية الهولندية',
         'bg'     => 'Карибска Нидерландия',
         'cs'     => 'Bonaire, Svatý Eustach a Saba',
@@ -949,11 +951,11 @@ $countries = array(
         'uk'     => 'Карибські Нідерланди',
         'zh'     => '荷兰加勒比区',
         'zh-tw'  => '荷蘭加勒比區',
-        'alpha2' => 'bq',
-        'alpha3' => 'bes'
     ),
-    array(
+    70 => array(
         'id'     => 70,
+        'alpha2' => 'ba',
+        'alpha3' => 'bih',
         'ar'     => 'البوسنة والهرسك',
         'bg'     => 'Босна и Херцеговина',
         'cs'     => 'Bosna a Hercegovina',
@@ -983,11 +985,11 @@ $countries = array(
         'uk'     => 'Боснія і Герцеговина',
         'zh'     => '波黑',
         'zh-tw'  => '波士尼亞與赫塞哥維納',
-        'alpha2' => 'ba',
-        'alpha3' => 'bih'
     ),
-    array(
+    72 => array(
         'id'     => 72,
+        'alpha2' => 'bw',
+        'alpha3' => 'bwa',
         'ar'     => 'بوتسوانا',
         'bg'     => 'Ботсвана',
         'cs'     => 'Botswana',
@@ -1017,11 +1019,11 @@ $countries = array(
         'uk'     => 'Ботсвана',
         'zh'     => '博茨瓦纳',
         'zh-tw'  => '波札那',
-        'alpha2' => 'bw',
-        'alpha3' => 'bwa'
     ),
-    array(
+    74 => array(
         'id'     => 74,
+        'alpha2' => 'bv',
+        'alpha3' => 'bvt',
         'ar'     => 'جزيرة بوفيه',
         'bg'     => 'Буве',
         'cs'     => 'Bouvetův ostrov',
@@ -1051,11 +1053,11 @@ $countries = array(
         'uk'     => 'Острів Буве',
         'zh'     => '布韦岛',
         'zh-tw'  => '布韋島',
-        'alpha2' => 'bv',
-        'alpha3' => 'bvt'
     ),
-    array(
+    76 => array(
         'id'     => 76,
+        'alpha2' => 'br',
+        'alpha3' => 'bra',
         'ar'     => 'البرازيل',
         'bg'     => 'Бразилия',
         'cs'     => 'Brazílie',
@@ -1085,11 +1087,11 @@ $countries = array(
         'uk'     => 'Бразилія',
         'zh'     => '巴西',
         'zh-tw'  => '巴西',
-        'alpha2' => 'br',
-        'alpha3' => 'bra'
     ),
-    array(
+    86 => array(
         'id'     => 86,
+        'alpha2' => 'io',
+        'alpha3' => 'iot',
         'ar'     => 'إقليم المحيط الهندي البريطاني',
         'bg'     => 'Британска индоокеанска територия',
         'cs'     => 'Britské indickooceánské území',
@@ -1119,11 +1121,11 @@ $countries = array(
         'uk'     => 'Британська Територія в Індійському Океані',
         'zh'     => '英属印度洋领地',
         'zh-tw'  => '英屬印度洋領地',
-        'alpha2' => 'io',
-        'alpha3' => 'iot'
     ),
-    array(
+    96 => array(
         'id'     => 96,
+        'alpha2' => 'bn',
+        'alpha3' => 'brn',
         'ar'     => 'بروناي',
         'bg'     => 'Бруней',
         'cs'     => 'Brunej',
@@ -1153,11 +1155,11 @@ $countries = array(
         'uk'     => 'Бруней',
         'zh'     => '文莱',
         'zh-tw'  => '汶萊',
-        'alpha2' => 'bn',
-        'alpha3' => 'brn'
     ),
-    array(
+    100 => array(
         'id'     => 100,
+        'alpha2' => 'bg',
+        'alpha3' => 'bgr',
         'ar'     => 'بلغاريا',
         'bg'     => 'България',
         'cs'     => 'Bulharsko',
@@ -1187,11 +1189,11 @@ $countries = array(
         'uk'     => 'Болгарія',
         'zh'     => '保加利亚',
         'zh-tw'  => '保加利亞',
-        'alpha2' => 'bg',
-        'alpha3' => 'bgr'
     ),
-    array(
+    854 => array(
         'id'     => 854,
+        'alpha2' => 'bf',
+        'alpha3' => 'bfa',
         'ar'     => 'بوركينا فاسو',
         'bg'     => 'Буркина Фасо',
         'cs'     => 'Burkina Faso',
@@ -1221,11 +1223,11 @@ $countries = array(
         'uk'     => 'Буркіна-Фасо',
         'zh'     => '布基纳法索',
         'zh-tw'  => '布吉納法索',
-        'alpha2' => 'bf',
-        'alpha3' => 'bfa'
     ),
-    array(
+    108 => array(
         'id'     => 108,
+        'alpha2' => 'bi',
+        'alpha3' => 'bdi',
         'ar'     => 'بوروندي',
         'bg'     => 'Бурунди',
         'cs'     => 'Burundi',
@@ -1255,11 +1257,11 @@ $countries = array(
         'uk'     => 'Бурунді',
         'zh'     => '布隆迪',
         'zh-tw'  => '蒲隆地',
-        'alpha2' => 'bi',
-        'alpha3' => 'bdi'
     ),
-    array(
+    116 => array(
         'id'     => 116,
+        'alpha2' => 'kh',
+        'alpha3' => 'khm',
         'ar'     => 'كمبوديا',
         'bg'     => 'Камбоджа',
         'cs'     => 'Kambodža',
@@ -1289,11 +1291,11 @@ $countries = array(
         'uk'     => 'Камбоджа',
         'zh'     => '柬埔寨',
         'zh-tw'  => '柬埔寨',
-        'alpha2' => 'kh',
-        'alpha3' => 'khm'
     ),
-    array(
+    120 => array(
         'id'     => 120,
+        'alpha2' => 'cm',
+        'alpha3' => 'cmr',
         'ar'     => 'الكاميرون',
         'bg'     => 'Камерун',
         'cs'     => 'Kamerun',
@@ -1323,11 +1325,11 @@ $countries = array(
         'uk'     => 'Камерун',
         'zh'     => '喀麦隆',
         'zh-tw'  => '喀麥隆',
-        'alpha2' => 'cm',
-        'alpha3' => 'cmr'
     ),
-    array(
+    124 => array(
         'id'     => 124,
+        'alpha2' => 'ca',
+        'alpha3' => 'can',
         'ar'     => 'كندا',
         'bg'     => 'Канада',
         'cs'     => 'Kanada',
@@ -1357,11 +1359,11 @@ $countries = array(
         'uk'     => 'Канада',
         'zh'     => '加拿大',
         'zh-tw'  => '加拿大',
-        'alpha2' => 'ca',
-        'alpha3' => 'can'
     ),
-    array(
+    132 => array(
         'id'     => 132,
+        'alpha2' => 'cv',
+        'alpha3' => 'cpv',
         'ar'     => 'الرأس الأخضر',
         'bg'     => 'Кабо Верде',
         'cs'     => 'Kapverdy',
@@ -1391,11 +1393,11 @@ $countries = array(
         'uk'     => 'Кабо-Верде',
         'zh'     => '佛得角',
         'zh-tw'  => '維德角',
-        'alpha2' => 'cv',
-        'alpha3' => 'cpv'
     ),
-    array(
+    136 => array(
         'id'     => 136,
+        'alpha2' => 'ky',
+        'alpha3' => 'cym',
         'ar'     => 'جزر كايمان',
         'bg'     => 'Кайманови острови',
         'cs'     => 'Kajmanské ostrovy',
@@ -1425,11 +1427,11 @@ $countries = array(
         'uk'     => 'Кайманові Острови',
         'zh'     => '开曼群岛',
         'zh-tw'  => '開曼群島',
-        'alpha2' => 'ky',
-        'alpha3' => 'cym'
     ),
-    array(
+    140 => array(
         'id'     => 140,
+        'alpha2' => 'cf',
+        'alpha3' => 'caf',
         'ar'     => 'جمهورية أفريقيا الوسطى',
         'bg'     => 'Централноафриканска република',
         'cs'     => 'Středoafrická republika',
@@ -1459,11 +1461,11 @@ $countries = array(
         'uk'     => 'ЦАР',
         'zh'     => '中非',
         'zh-tw'  => '中非',
-        'alpha2' => 'cf',
-        'alpha3' => 'caf'
     ),
-    array(
+    148 => array(
         'id'     => 148,
+        'alpha2' => 'td',
+        'alpha3' => 'tcd',
         'ar'     => 'تشاد',
         'bg'     => 'Чад',
         'cs'     => 'Čad',
@@ -1493,11 +1495,11 @@ $countries = array(
         'uk'     => 'Чад',
         'zh'     => '乍得',
         'zh-tw'  => '查德',
-        'alpha2' => 'td',
-        'alpha3' => 'tcd'
     ),
-    array(
+    152 => array(
         'id'     => 152,
+        'alpha2' => 'cl',
+        'alpha3' => 'chl',
         'ar'     => 'تشيلي',
         'bg'     => 'Чили',
         'cs'     => 'Chile',
@@ -1527,11 +1529,11 @@ $countries = array(
         'uk'     => 'Чилі',
         'zh'     => '智利',
         'zh-tw'  => '智利',
-        'alpha2' => 'cl',
-        'alpha3' => 'chl'
     ),
-    array(
+    156 => array(
         'id'     => 156,
+        'alpha2' => 'cn',
+        'alpha3' => 'chn',
         'ar'     => 'الصين',
         'bg'     => 'Китай',
         'cs'     => 'Čína',
@@ -1561,11 +1563,11 @@ $countries = array(
         'uk'     => 'Китайська Народна Республіка',
         'zh'     => '中国',
         'zh-tw'  => '中國',
-        'alpha2' => 'cn',
-        'alpha3' => 'chn'
     ),
-    array(
+    162 => array(
         'id'     => 162,
+        'alpha2' => 'cx',
+        'alpha3' => 'cxr',
         'ar'     => 'جزيرة كريسماس',
         'bg'     => 'Коледен остров',
         'cs'     => 'Vánoční ostrov',
@@ -1595,11 +1597,11 @@ $countries = array(
         'uk'     => 'Острів Різдва',
         'zh'     => '圣诞岛',
         'zh-tw'  => '聖誕島',
-        'alpha2' => 'cx',
-        'alpha3' => 'cxr'
     ),
-    array(
+    166 => array(
         'id'     => 166,
+        'alpha2' => 'cc',
+        'alpha3' => 'cck',
         'ar'     => 'جزر كوكوس',
         'bg'     => 'Кокосови острови',
         'cs'     => 'Kokosové ostrovy',
@@ -1629,11 +1631,11 @@ $countries = array(
         'uk'     => 'Кокосові острови',
         'zh'     => '科科斯（基林）群岛',
         'zh-tw'  => '科科斯（基林）群島',
-        'alpha2' => 'cc',
-        'alpha3' => 'cck'
     ),
-    array(
+    170 => array(
         'id'     => 170,
+        'alpha2' => 'co',
+        'alpha3' => 'col',
         'ar'     => 'كولومبيا',
         'bg'     => 'Колумбия',
         'cs'     => 'Kolumbie',
@@ -1663,11 +1665,11 @@ $countries = array(
         'uk'     => 'Колумбія',
         'zh'     => '哥伦比亚',
         'zh-tw'  => '哥倫比亞',
-        'alpha2' => 'co',
-        'alpha3' => 'col'
     ),
-    array(
+    174 => array(
         'id'     => 174,
+        'alpha2' => 'km',
+        'alpha3' => 'com',
         'ar'     => 'جزر القمر',
         'bg'     => 'Коморски острови',
         'cs'     => 'Komory',
@@ -1697,11 +1699,11 @@ $countries = array(
         'uk'     => 'Коморські Острови',
         'zh'     => '科摩罗',
         'zh-tw'  => '葛摩',
-        'alpha2' => 'km',
-        'alpha3' => 'com'
     ),
-    array(
+    178 => array(
         'id'     => 178,
+        'alpha2' => 'cg',
+        'alpha3' => 'cog',
         'ar'     => 'جمهورية الكونغو',
         'bg'     => 'Република Конго',
         'cs'     => 'Kongo',
@@ -1731,11 +1733,11 @@ $countries = array(
         'uk'     => 'Республіка Конго',
         'zh'     => '刚果共和国',
         'zh-tw'  => '剛果共和國',
-        'alpha2' => 'cg',
-        'alpha3' => 'cog'
     ),
-    array(
+    180 => array(
         'id'     => 180,
+        'alpha2' => 'cd',
+        'alpha3' => 'cod',
         'ar'     => 'جمهورية الكونغو الديمقراطية',
         'bg'     => 'Демократична република Конго',
         'cs'     => 'Demokratická republika Kongo',
@@ -1765,11 +1767,11 @@ $countries = array(
         'uk'     => 'ДР Конго',
         'zh'     => '刚果民主共和国',
         'zh-tw'  => '剛果民主共和國',
-        'alpha2' => 'cd',
-        'alpha3' => 'cod'
     ),
-    array(
+    184 => array(
         'id'     => 184,
+        'alpha2' => 'ck',
+        'alpha3' => 'cok',
         'ar'     => 'جزر كوك',
         'bg'     => 'Острови Кук',
         'cs'     => 'Cookovy ostrovy',
@@ -1799,11 +1801,11 @@ $countries = array(
         'uk'     => 'Острови Кука',
         'zh'     => '库克群岛',
         'zh-tw'  => '庫克群島',
-        'alpha2' => 'ck',
-        'alpha3' => 'cok'
     ),
-    array(
+    188 => array(
         'id'     => 188,
+        'alpha2' => 'cr',
+        'alpha3' => 'cri',
         'ar'     => 'كوستاريكا',
         'bg'     => 'Коста Рика',
         'cs'     => 'Kostarika',
@@ -1833,11 +1835,11 @@ $countries = array(
         'uk'     => 'Коста-Рика',
         'zh'     => '哥斯达黎加',
         'zh-tw'  => '哥斯大黎加',
-        'alpha2' => 'cr',
-        'alpha3' => 'cri'
     ),
-    array(
+    384 => array(
         'id'     => 384,
+        'alpha2' => 'ci',
+        'alpha3' => 'civ',
         'ar'     => 'ساحل العاج',
         'bg'     => 'Кот д\'Ивоар',
         'cs'     => 'Pobřeží slonoviny',
@@ -1867,11 +1869,11 @@ $countries = array(
         'uk'     => 'Кот-д\'Івуар',
         'zh'     => '科特迪瓦',
         'zh-tw'  => '象牙海岸',
-        'alpha2' => 'ci',
-        'alpha3' => 'civ'
     ),
-    array(
+    191 => array(
         'id'     => 191,
+        'alpha2' => 'hr',
+        'alpha3' => 'hrv',
         'ar'     => 'كرواتيا',
         'bg'     => 'Хърватия',
         'cs'     => 'Chorvatsko',
@@ -1901,11 +1903,11 @@ $countries = array(
         'uk'     => 'Хорватія',
         'zh'     => '克罗地亚',
         'zh-tw'  => '克羅埃西亞',
-        'alpha2' => 'hr',
-        'alpha3' => 'hrv'
     ),
-    array(
+    192 => array(
         'id'     => 192,
+        'alpha2' => 'cu',
+        'alpha3' => 'cub',
         'ar'     => 'كوبا',
         'bg'     => 'Куба',
         'cs'     => 'Kuba',
@@ -1935,11 +1937,11 @@ $countries = array(
         'uk'     => 'Куба',
         'zh'     => '古巴',
         'zh-tw'  => '古巴',
-        'alpha2' => 'cu',
-        'alpha3' => 'cub'
     ),
-    array(
+    531 => array(
         'id'     => 531,
+        'alpha2' => 'cw',
+        'alpha3' => 'cuw',
         'ar'     => 'كوراساو',
         'bg'     => 'Кюрасао',
         'cs'     => 'Curaçao',
@@ -1969,11 +1971,11 @@ $countries = array(
         'uk'     => 'Кюрасао',
         'zh'     => '库拉索',
         'zh-tw'  => '古拉索',
-        'alpha2' => 'cw',
-        'alpha3' => 'cuw'
     ),
-    array(
+    196 => array(
         'id'     => 196,
+        'alpha2' => 'cy',
+        'alpha3' => 'cyp',
         'ar'     => 'قبرص',
         'bg'     => 'Кипър',
         'cs'     => 'Kypr',
@@ -2003,11 +2005,11 @@ $countries = array(
         'uk'     => 'Кіпр',
         'zh'     => '塞浦路斯',
         'zh-tw'  => '賽普勒斯',
-        'alpha2' => 'cy',
-        'alpha3' => 'cyp'
     ),
-    array(
+    203 => array(
         'id'     => 203,
+        'alpha2' => 'cz',
+        'alpha3' => 'cze',
         'ar'     => 'جمهورية التشيك',
         'bg'     => 'Чехия',
         'cs'     => 'Česko',
@@ -2037,11 +2039,11 @@ $countries = array(
         'uk'     => 'Чехія',
         'zh'     => '捷克',
         'zh-tw'  => '捷克',
-        'alpha2' => 'cz',
-        'alpha3' => 'cze'
     ),
-    array(
+    208 => array(
         'id'     => 208,
+        'alpha2' => 'dk',
+        'alpha3' => 'dnk',
         'ar'     => 'الدنمارك',
         'bg'     => 'Дания',
         'cs'     => 'Dánsko',
@@ -2071,11 +2073,11 @@ $countries = array(
         'uk'     => 'Данія',
         'zh'     => '丹麦',
         'zh-tw'  => '丹麥',
-        'alpha2' => 'dk',
-        'alpha3' => 'dnk'
     ),
-    array(
+    262 => array(
         'id'     => 262,
+        'alpha2' => 'dj',
+        'alpha3' => 'dji',
         'ar'     => 'جيبوتي',
         'bg'     => 'Джибути',
         'cs'     => 'Džibutsko',
@@ -2105,11 +2107,11 @@ $countries = array(
         'uk'     => 'Джибуті',
         'zh'     => '吉布提',
         'zh-tw'  => '吉布地',
-        'alpha2' => 'dj',
-        'alpha3' => 'dji'
     ),
-    array(
+    212 => array(
         'id'     => 212,
+        'alpha2' => 'dm',
+        'alpha3' => 'dma',
         'ar'     => 'دومينيكا',
         'bg'     => 'Доминика',
         'cs'     => 'Dominika',
@@ -2139,11 +2141,11 @@ $countries = array(
         'uk'     => 'Домініка',
         'zh'     => '多米尼克',
         'zh-tw'  => '多米尼克',
-        'alpha2' => 'dm',
-        'alpha3' => 'dma'
     ),
-    array(
+    214 => array(
         'id'     => 214,
+        'alpha2' => 'do',
+        'alpha3' => 'dom',
         'ar'     => 'جمهورية الدومينيكان',
         'bg'     => 'Доминиканска република',
         'cs'     => 'Dominikánská republika',
@@ -2173,11 +2175,11 @@ $countries = array(
         'uk'     => 'Домініканська Республіка',
         'zh'     => '多米尼加',
         'zh-tw'  => '多明尼加',
-        'alpha2' => 'do',
-        'alpha3' => 'dom'
     ),
-    array(
+    218 => array(
         'id'     => 218,
+        'alpha2' => 'ec',
+        'alpha3' => 'ecu',
         'ar'     => 'الإكوادور',
         'bg'     => 'Еквадор',
         'cs'     => 'Ekvádor',
@@ -2207,11 +2209,11 @@ $countries = array(
         'uk'     => 'Еквадор',
         'zh'     => '厄瓜多尔',
         'zh-tw'  => '厄瓜多',
-        'alpha2' => 'ec',
-        'alpha3' => 'ecu'
     ),
-    array(
+    818 => array(
         'id'     => 818,
+        'alpha2' => 'eg',
+        'alpha3' => 'egy',
         'ar'     => 'مصر',
         'bg'     => 'Египет',
         'cs'     => 'Egypt',
@@ -2241,11 +2243,11 @@ $countries = array(
         'uk'     => 'Єгипет',
         'zh'     => '埃及',
         'zh-tw'  => '埃及',
-        'alpha2' => 'eg',
-        'alpha3' => 'egy'
     ),
-    array(
+    222 => array(
         'id'     => 222,
+        'alpha2' => 'sv',
+        'alpha3' => 'slv',
         'ar'     => 'السلفادور',
         'bg'     => 'Салвадор',
         'cs'     => 'Salvador',
@@ -2275,11 +2277,11 @@ $countries = array(
         'uk'     => 'Сальвадор',
         'zh'     => '萨尔瓦多',
         'zh-tw'  => '薩爾瓦多',
-        'alpha2' => 'sv',
-        'alpha3' => 'slv'
     ),
-    array(
+    226 => array(
         'id'     => 226,
+        'alpha2' => 'gq',
+        'alpha3' => 'gnq',
         'ar'     => 'غينيا الاستوائية',
         'bg'     => 'Екваториална Гвинея',
         'cs'     => 'Rovníková Guinea',
@@ -2309,11 +2311,11 @@ $countries = array(
         'uk'     => 'Екваторіальна Гвінея',
         'zh'     => '赤道几内亚',
         'zh-tw'  => '赤道幾內亞',
-        'alpha2' => 'gq',
-        'alpha3' => 'gnq'
     ),
-    array(
+    232 => array(
         'id'     => 232,
+        'alpha2' => 'er',
+        'alpha3' => 'eri',
         'ar'     => 'إريتريا',
         'bg'     => 'Еритрея',
         'cs'     => 'Eritrea',
@@ -2343,11 +2345,11 @@ $countries = array(
         'uk'     => 'Еритрея',
         'zh'     => '厄立特里亚',
         'zh-tw'  => '厄利垂亞',
-        'alpha2' => 'er',
-        'alpha3' => 'eri'
     ),
-    array(
+    233 => array(
         'id'     => 233,
+        'alpha2' => 'ee',
+        'alpha3' => 'est',
         'ar'     => 'إستونيا',
         'bg'     => 'Естония',
         'cs'     => 'Estonsko',
@@ -2377,11 +2379,11 @@ $countries = array(
         'uk'     => 'Естонія',
         'zh'     => '爱沙尼亚',
         'zh-tw'  => '愛沙尼亞',
-        'alpha2' => 'ee',
-        'alpha3' => 'est'
     ),
-    array(
+    231 => array(
         'id'     => 231,
+        'alpha2' => 'et',
+        'alpha3' => 'eth',
         'ar'     => 'إثيوبيا',
         'bg'     => 'Етиопия',
         'cs'     => 'Etiopie',
@@ -2411,11 +2413,11 @@ $countries = array(
         'uk'     => 'Ефіопія',
         'zh'     => '埃塞俄比亚',
         'zh-tw'  => '衣索比亞',
-        'alpha2' => 'et',
-        'alpha3' => 'eth'
     ),
-    array(
+    238 => array(
         'id'     => 238,
+        'alpha2' => 'fk',
+        'alpha3' => 'flk',
         'ar'     => 'جزر فوكلاند',
         'bg'     => 'Фолкландски острови',
         'cs'     => 'Falklandy (Malvíny)',
@@ -2445,11 +2447,11 @@ $countries = array(
         'uk'     => 'Фолклендські Острови',
         'zh'     => '福克兰群岛',
         'zh-tw'  => '福克蘭群島',
-        'alpha2' => 'fk',
-        'alpha3' => 'flk'
     ),
-    array(
+    234 => array(
         'id'     => 234,
+        'alpha2' => 'fo',
+        'alpha3' => 'fro',
         'ar'     => 'جزر فارو',
         'bg'     => 'Фарьорски острови',
         'cs'     => 'Faerské ostrovy',
@@ -2479,11 +2481,11 @@ $countries = array(
         'uk'     => 'Фарерські острови',
         'zh'     => '法罗群岛',
         'zh-tw'  => '法羅群島',
-        'alpha2' => 'fo',
-        'alpha3' => 'fro'
     ),
-    array(
+    242 => array(
         'id'     => 242,
+        'alpha2' => 'fj',
+        'alpha3' => 'fji',
         'ar'     => 'فيجي',
         'bg'     => 'Фиджи',
         'cs'     => 'Fidži',
@@ -2513,11 +2515,11 @@ $countries = array(
         'uk'     => 'Фіджі',
         'zh'     => '斐济',
         'zh-tw'  => '斐濟',
-        'alpha2' => 'fj',
-        'alpha3' => 'fji'
     ),
-    array(
+    246 => array(
         'id'     => 246,
+        'alpha2' => 'fi',
+        'alpha3' => 'fin',
         'ar'     => 'فنلندا',
         'bg'     => 'Финландия',
         'cs'     => 'Finsko',
@@ -2547,11 +2549,11 @@ $countries = array(
         'uk'     => 'Фінляндія',
         'zh'     => '芬兰',
         'zh-tw'  => '芬蘭',
-        'alpha2' => 'fi',
-        'alpha3' => 'fin'
     ),
-    array(
+    250 => array(
         'id'     => 250,
+        'alpha2' => 'fr',
+        'alpha3' => 'fra',
         'ar'     => 'فرنسا',
         'bg'     => 'Франция',
         'cs'     => 'Francie',
@@ -2581,11 +2583,11 @@ $countries = array(
         'uk'     => 'Франція',
         'zh'     => '法国',
         'zh-tw'  => '法國',
-        'alpha2' => 'fr',
-        'alpha3' => 'fra'
     ),
-    array(
+    254 => array(
         'id'     => 254,
+        'alpha2' => 'gf',
+        'alpha3' => 'guf',
         'ar'     => 'غويانا الفرنسية',
         'bg'     => 'Френска Гвиана',
         'cs'     => 'Francouzská Guyana',
@@ -2615,11 +2617,11 @@ $countries = array(
         'uk'     => 'Французька Гвіана',
         'zh'     => '法属圭亚那',
         'zh-tw'  => '法屬圭亞那',
-        'alpha2' => 'gf',
-        'alpha3' => 'guf'
     ),
-    array(
+    258 => array(
         'id'     => 258,
+        'alpha2' => 'pf',
+        'alpha3' => 'pyf',
         'ar'     => 'بولينزيا الفرنسية',
         'bg'     => 'Френска Полинезия',
         'cs'     => 'Francouzská Polynésie',
@@ -2649,11 +2651,11 @@ $countries = array(
         'uk'     => 'Французька Полінезія',
         'zh'     => '法属波利尼西亚',
         'zh-tw'  => '法屬玻里尼西亞',
-        'alpha2' => 'pf',
-        'alpha3' => 'pyf'
     ),
-    array(
+    260 => array(
         'id'     => 260,
+        'alpha2' => 'tf',
+        'alpha3' => 'atf',
         'ar'     => 'أراض فرنسية جنوبية وأنتارتيكية',
         'bg'     => 'Френски южни и антарктически територии',
         'cs'     => 'Francouzská jižní a antarktická území',
@@ -2683,11 +2685,11 @@ $countries = array(
         'uk'     => 'Французькі Південні і Антарктичні Території',
         'zh'     => '法属南部和南极领地',
         'zh-tw'  => '法屬南部和南極領地',
-        'alpha2' => 'tf',
-        'alpha3' => 'atf'
     ),
-    array(
+    266 => array(
         'id'     => 266,
+        'alpha2' => 'ga',
+        'alpha3' => 'gab',
         'ar'     => 'الغابون',
         'bg'     => 'Габон',
         'cs'     => 'Gabon',
@@ -2717,11 +2719,11 @@ $countries = array(
         'uk'     => 'Габон',
         'zh'     => '加蓬',
         'zh-tw'  => '加彭',
-        'alpha2' => 'ga',
-        'alpha3' => 'gab'
     ),
-    array(
+    270 => array(
         'id'     => 270,
+        'alpha2' => 'gm',
+        'alpha3' => 'gmb',
         'ar'     => 'غامبيا',
         'bg'     => 'Гамбия',
         'cs'     => 'Gambie',
@@ -2751,11 +2753,11 @@ $countries = array(
         'uk'     => 'Гамбія',
         'zh'     => '冈比亚',
         'zh-tw'  => '甘比亞',
-        'alpha2' => 'gm',
-        'alpha3' => 'gmb'
     ),
-    array(
+    268 => array(
         'id'     => 268,
+        'alpha2' => 'ge',
+        'alpha3' => 'geo',
         'ar'     => 'جورجيا',
         'bg'     => 'Грузия',
         'cs'     => 'Gruzie',
@@ -2785,11 +2787,11 @@ $countries = array(
         'uk'     => 'Грузія',
         'zh'     => '格鲁吉亚',
         'zh-tw'  => '喬治亞',
-        'alpha2' => 'ge',
-        'alpha3' => 'geo'
     ),
-    array(
+    276 => array(
         'id'     => 276,
+        'alpha2' => 'de',
+        'alpha3' => 'deu',
         'ar'     => 'ألمانيا',
         'bg'     => 'Германия',
         'cs'     => 'Německo',
@@ -2819,11 +2821,11 @@ $countries = array(
         'uk'     => 'Німеччина',
         'zh'     => '德国',
         'zh-tw'  => '德國',
-        'alpha2' => 'de',
-        'alpha3' => 'deu'
     ),
-    array(
+    288 => array(
         'id'     => 288,
+        'alpha2' => 'gh',
+        'alpha3' => 'gha',
         'ar'     => 'غانا',
         'bg'     => 'Гана',
         'cs'     => 'Ghana',
@@ -2853,11 +2855,11 @@ $countries = array(
         'uk'     => 'Гана',
         'zh'     => '加纳',
         'zh-tw'  => '加納',
-        'alpha2' => 'gh',
-        'alpha3' => 'gha'
     ),
-    array(
+    292 => array(
         'id'     => 292,
+        'alpha2' => 'gi',
+        'alpha3' => 'gib',
         'ar'     => 'جبل طارق',
         'bg'     => 'Гибралтар',
         'cs'     => 'Gibraltar',
@@ -2887,11 +2889,11 @@ $countries = array(
         'uk'     => 'Гібралтар',
         'zh'     => '直布罗陀',
         'zh-tw'  => '直布羅陀',
-        'alpha2' => 'gi',
-        'alpha3' => 'gib'
     ),
-    array(
+    300 => array(
         'id'     => 300,
+        'alpha2' => 'gr',
+        'alpha3' => 'grc',
         'ar'     => 'اليونان',
         'bg'     => 'Гърция',
         'cs'     => 'Řecko',
@@ -2921,11 +2923,11 @@ $countries = array(
         'uk'     => 'Греція',
         'zh'     => '希腊',
         'zh-tw'  => '希臘',
-        'alpha2' => 'gr',
-        'alpha3' => 'grc'
     ),
-    array(
+    304 => array(
         'id'     => 304,
+        'alpha2' => 'gl',
+        'alpha3' => 'grl',
         'ar'     => 'جرينلاند',
         'bg'     => 'Гренландия',
         'cs'     => 'Grónsko',
@@ -2955,11 +2957,11 @@ $countries = array(
         'uk'     => 'Гренландія',
         'zh'     => '格陵兰',
         'zh-tw'  => '格陵蘭',
-        'alpha2' => 'gl',
-        'alpha3' => 'grl'
     ),
-    array(
+    308 => array(
         'id'     => 308,
+        'alpha2' => 'gd',
+        'alpha3' => 'grd',
         'ar'     => 'غرينادا',
         'bg'     => 'Гренада',
         'cs'     => 'Grenada',
@@ -2989,11 +2991,11 @@ $countries = array(
         'uk'     => 'Гренада',
         'zh'     => '格林纳达',
         'zh-tw'  => '格瑞那達',
-        'alpha2' => 'gd',
-        'alpha3' => 'grd'
     ),
-    array(
+    312 => array(
         'id'     => 312,
+        'alpha2' => 'gp',
+        'alpha3' => 'glp',
         'ar'     => 'غوادلوب',
         'bg'     => 'Гваделупа',
         'cs'     => 'Guadeloupe',
@@ -3023,11 +3025,11 @@ $countries = array(
         'uk'     => 'Гваделупа',
         'zh'     => '瓜德罗普',
         'zh-tw'  => '瓜地洛普',
-        'alpha2' => 'gp',
-        'alpha3' => 'glp'
     ),
-    array(
+    316 => array(
         'id'     => 316,
+        'alpha2' => 'gu',
+        'alpha3' => 'gum',
         'ar'     => 'غوام',
         'bg'     => 'Гуам',
         'cs'     => 'Guam',
@@ -3057,11 +3059,11 @@ $countries = array(
         'uk'     => 'Гуам',
         'zh'     => '关岛',
         'zh-tw'  => '關島',
-        'alpha2' => 'gu',
-        'alpha3' => 'gum'
     ),
-    array(
+    320 => array(
         'id'     => 320,
+        'alpha2' => 'gt',
+        'alpha3' => 'gtm',
         'ar'     => 'غواتيمالا',
         'bg'     => 'Гватемала',
         'cs'     => 'Guatemala',
@@ -3091,11 +3093,11 @@ $countries = array(
         'uk'     => 'Гватемала',
         'zh'     => '危地马拉',
         'zh-tw'  => '瓜地馬拉',
-        'alpha2' => 'gt',
-        'alpha3' => 'gtm'
     ),
-    array(
+    831 => array(
         'id'     => 831,
+        'alpha2' => 'gg',
+        'alpha3' => 'ggy',
         'ar'     => 'غيرنزي',
         'bg'     => 'Гърнси',
         'cs'     => 'Guernsey',
@@ -3125,11 +3127,11 @@ $countries = array(
         'uk'     => 'Гернсі',
         'zh'     => '根西',
         'zh-tw'  => '根西',
-        'alpha2' => 'gg',
-        'alpha3' => 'ggy'
     ),
-    array(
+    324 => array(
         'id'     => 324,
+        'alpha2' => 'gn',
+        'alpha3' => 'gin',
         'ar'     => 'غينيا',
         'bg'     => 'Гвинея',
         'cs'     => 'Guinea',
@@ -3159,11 +3161,11 @@ $countries = array(
         'uk'     => 'Гвінея',
         'zh'     => '几内亚',
         'zh-tw'  => '幾內亞',
-        'alpha2' => 'gn',
-        'alpha3' => 'gin'
     ),
-    array(
+    624 => array(
         'id'     => 624,
+        'alpha2' => 'gw',
+        'alpha3' => 'gnb',
         'ar'     => 'غينيا بيساو',
         'bg'     => 'Гвинея-Бисау',
         'cs'     => 'Guinea-Bissau',
@@ -3193,11 +3195,11 @@ $countries = array(
         'uk'     => 'Гвінея-Бісау',
         'zh'     => '几内亚比绍',
         'zh-tw'  => '幾內亞比索',
-        'alpha2' => 'gw',
-        'alpha3' => 'gnb'
     ),
-    array(
+    328 => array(
         'id'     => 328,
+        'alpha2' => 'gy',
+        'alpha3' => 'guy',
         'ar'     => 'غيانا',
         'bg'     => 'Гвиана',
         'cs'     => 'Guyana',
@@ -3227,11 +3229,11 @@ $countries = array(
         'uk'     => 'Гаяна',
         'zh'     => '圭亚那',
         'zh-tw'  => '蓋亞那',
-        'alpha2' => 'gy',
-        'alpha3' => 'guy'
     ),
-    array(
+    332 => array(
         'id'     => 332,
+        'alpha2' => 'ht',
+        'alpha3' => 'hti',
         'ar'     => 'هايتي',
         'bg'     => 'Хаити',
         'cs'     => 'Haiti',
@@ -3261,11 +3263,11 @@ $countries = array(
         'uk'     => 'Гаїті',
         'zh'     => '海地',
         'zh-tw'  => '海地',
-        'alpha2' => 'ht',
-        'alpha3' => 'hti'
     ),
-    array(
+    334 => array(
         'id'     => 334,
+        'alpha2' => 'hm',
+        'alpha3' => 'hmd',
         'ar'     => 'جزيرة هيرد وجزر ماكدونالد',
         'bg'     => 'Острови Хърд и Макдоналд',
         'cs'     => 'Heardův ostrov a McDonaldovy ostrovy',
@@ -3295,11 +3297,11 @@ $countries = array(
         'uk'     => 'Острів Херд і острови Макдональд',
         'zh'     => '赫德岛和麦克唐纳群岛',
         'zh-tw'  => '赫德島和麥克唐納群島',
-        'alpha2' => 'hm',
-        'alpha3' => 'hmd'
     ),
-    array(
+    336 => array(
         'id'     => 336,
+        'alpha2' => 'va',
+        'alpha3' => 'vat',
         'ar'     => 'الفاتيكان',
         'bg'     => 'Ватикан',
         'cs'     => 'Vatikán',
@@ -3329,11 +3331,11 @@ $countries = array(
         'uk'     => 'Ватикан',
         'zh'     => '梵蒂冈',
         'zh-tw'  => '梵蒂岡',
-        'alpha2' => 'va',
-        'alpha3' => 'vat'
     ),
-    array(
+    340 => array(
         'id'     => 340,
+        'alpha2' => 'hn',
+        'alpha3' => 'hnd',
         'ar'     => 'هندوراس',
         'bg'     => 'Хондурас',
         'cs'     => 'Honduras',
@@ -3363,11 +3365,11 @@ $countries = array(
         'uk'     => 'Гондурас',
         'zh'     => '洪都拉斯',
         'zh-tw'  => '宏都拉斯',
-        'alpha2' => 'hn',
-        'alpha3' => 'hnd'
     ),
-    array(
+    344 => array(
         'id'     => 344,
+        'alpha2' => 'hk',
+        'alpha3' => 'hkg',
         'ar'     => 'هونغ كونغ',
         'bg'     => 'Хонконг',
         'cs'     => 'Hongkong',
@@ -3397,11 +3399,11 @@ $countries = array(
         'uk'     => 'Гонконг',
         'zh'     => '香港',
         'zh-tw'  => '香港',
-        'alpha2' => 'hk',
-        'alpha3' => 'hkg'
     ),
-    array(
+    348 => array(
         'id'     => 348,
+        'alpha2' => 'hu',
+        'alpha3' => 'hun',
         'ar'     => 'المجر',
         'bg'     => 'Унгария',
         'cs'     => 'Maďarsko',
@@ -3431,11 +3433,11 @@ $countries = array(
         'uk'     => 'Угорщина',
         'zh'     => '匈牙利',
         'zh-tw'  => '匈牙利',
-        'alpha2' => 'hu',
-        'alpha3' => 'hun'
     ),
-    array(
+    352 => array(
         'id'     => 352,
+        'alpha2' => 'is',
+        'alpha3' => 'isl',
         'ar'     => 'آيسلندا',
         'bg'     => 'Исландия',
         'cs'     => 'Island',
@@ -3465,11 +3467,11 @@ $countries = array(
         'uk'     => 'Ісландія',
         'zh'     => '冰岛',
         'zh-tw'  => '冰島',
-        'alpha2' => 'is',
-        'alpha3' => 'isl'
     ),
-    array(
+    356 => array(
         'id'     => 356,
+        'alpha2' => 'in',
+        'alpha3' => 'ind',
         'ar'     => 'الهند',
         'bg'     => 'Индия',
         'cs'     => 'Indie',
@@ -3499,11 +3501,11 @@ $countries = array(
         'uk'     => 'Індія',
         'zh'     => '印度',
         'zh-tw'  => '印度',
-        'alpha2' => 'in',
-        'alpha3' => 'ind'
     ),
-    array(
+    360 => array(
         'id'     => 360,
+        'alpha2' => 'id',
+        'alpha3' => 'idn',
         'ar'     => 'إندونيسيا',
         'bg'     => 'Индонезия',
         'cs'     => 'Indonésie',
@@ -3533,11 +3535,11 @@ $countries = array(
         'uk'     => 'Індонезія',
         'zh'     => '印尼',
         'zh-tw'  => '印尼',
-        'alpha2' => 'id',
-        'alpha3' => 'idn'
     ),
-    array(
+    364 => array(
         'id'     => 364,
+        'alpha2' => 'ir',
+        'alpha3' => 'irn',
         'ar'     => 'إيران',
         'bg'     => 'Иран',
         'cs'     => 'Írán',
@@ -3567,11 +3569,11 @@ $countries = array(
         'uk'     => 'Іран',
         'zh'     => '伊朗',
         'zh-tw'  => '伊朗',
-        'alpha2' => 'ir',
-        'alpha3' => 'irn'
     ),
-    array(
+    368 => array(
         'id'     => 368,
+        'alpha2' => 'iq',
+        'alpha3' => 'irq',
         'ar'     => 'العراق',
         'bg'     => 'Ирак',
         'cs'     => 'Irák',
@@ -3601,11 +3603,11 @@ $countries = array(
         'uk'     => 'Ірак',
         'zh'     => '伊拉克',
         'zh-tw'  => '伊拉克',
-        'alpha2' => 'iq',
-        'alpha3' => 'irq'
     ),
-    array(
+    372 => array(
         'id'     => 372,
+        'alpha2' => 'ie',
+        'alpha3' => 'irl',
         'ar'     => 'أيرلندا',
         'bg'     => 'Ирландия',
         'cs'     => 'Irsko',
@@ -3635,11 +3637,11 @@ $countries = array(
         'uk'     => 'Ірландія',
         'zh'     => '爱尔兰',
         'zh-tw'  => '愛爾蘭',
-        'alpha2' => 'ie',
-        'alpha3' => 'irl'
     ),
-    array(
+    833 => array(
         'id'     => 833,
+        'alpha2' => 'im',
+        'alpha3' => 'imn',
         'ar'     => 'جزيرة مان',
         'bg'     => 'Ман',
         'cs'     => 'Ostrov Man',
@@ -3669,11 +3671,11 @@ $countries = array(
         'uk'     => 'Острів Мен',
         'zh'     => '马恩岛',
         'zh-tw'  => '曼島',
-        'alpha2' => 'im',
-        'alpha3' => 'imn'
     ),
-    array(
+    376 => array(
         'id'     => 376,
+        'alpha2' => 'il',
+        'alpha3' => 'isr',
         'ar'     => 'إسرائيل',
         'bg'     => 'Израел',
         'cs'     => 'Izrael',
@@ -3703,11 +3705,11 @@ $countries = array(
         'uk'     => 'Ізраїль',
         'zh'     => '以色列',
         'zh-tw'  => '以色列',
-        'alpha2' => 'il',
-        'alpha3' => 'isr'
     ),
-    array(
+    380 => array(
         'id'     => 380,
+        'alpha2' => 'it',
+        'alpha3' => 'ita',
         'ar'     => 'إيطاليا',
         'bg'     => 'Италия',
         'cs'     => 'Itálie',
@@ -3737,11 +3739,11 @@ $countries = array(
         'uk'     => 'Італія',
         'zh'     => '意大利',
         'zh-tw'  => '義大利',
-        'alpha2' => 'it',
-        'alpha3' => 'ita'
     ),
-    array(
+    388 => array(
         'id'     => 388,
+        'alpha2' => 'jm',
+        'alpha3' => 'jam',
         'ar'     => 'جامايكا',
         'bg'     => 'Ямайка',
         'cs'     => 'Jamajka',
@@ -3771,11 +3773,11 @@ $countries = array(
         'uk'     => 'Ямайка',
         'zh'     => '牙买加',
         'zh-tw'  => '牙買加',
-        'alpha2' => 'jm',
-        'alpha3' => 'jam'
     ),
-    array(
+    392 => array(
         'id'     => 392,
+        'alpha2' => 'jp',
+        'alpha3' => 'jpn',
         'ar'     => 'اليابان',
         'bg'     => 'Япония',
         'cs'     => 'Japonsko',
@@ -3805,11 +3807,11 @@ $countries = array(
         'uk'     => 'Японія',
         'zh'     => '日本',
         'zh-tw'  => '日本',
-        'alpha2' => 'jp',
-        'alpha3' => 'jpn'
     ),
-    array(
+    832 => array(
         'id'     => 832,
+        'alpha2' => 'je',
+        'alpha3' => 'jey',
         'ar'     => 'جيرزي',
         'bg'     => 'Джърси',
         'cs'     => 'Jersey',
@@ -3839,11 +3841,11 @@ $countries = array(
         'uk'     => 'Джерсі',
         'zh'     => '泽西',
         'zh-tw'  => '澤西',
-        'alpha2' => 'je',
-        'alpha3' => 'jey'
     ),
-    array(
+    400 => array(
         'id'     => 400,
+        'alpha2' => 'jo',
+        'alpha3' => 'jor',
         'ar'     => 'الأردن',
         'bg'     => 'Йордания',
         'cs'     => 'Jordánsko',
@@ -3873,11 +3875,11 @@ $countries = array(
         'uk'     => 'Йорданія',
         'zh'     => '约旦',
         'zh-tw'  => '約旦',
-        'alpha2' => 'jo',
-        'alpha3' => 'jor'
     ),
-    array(
+    398 => array(
         'id'     => 398,
+        'alpha2' => 'kz',
+        'alpha3' => 'kaz',
         'ar'     => 'كازاخستان',
         'bg'     => 'Казахстан',
         'cs'     => 'Kazachstán',
@@ -3907,11 +3909,11 @@ $countries = array(
         'uk'     => 'Казахстан',
         'zh'     => '哈萨克斯坦',
         'zh-tw'  => '哈薩克',
-        'alpha2' => 'kz',
-        'alpha3' => 'kaz'
     ),
-    array(
+    404 => array(
         'id'     => 404,
+        'alpha2' => 'ke',
+        'alpha3' => 'ken',
         'ar'     => 'كينيا',
         'bg'     => 'Кения',
         'cs'     => 'Keňa',
@@ -3941,11 +3943,11 @@ $countries = array(
         'uk'     => 'Кенія',
         'zh'     => '肯尼亚',
         'zh-tw'  => '肯亞',
-        'alpha2' => 'ke',
-        'alpha3' => 'ken'
     ),
-    array(
+    296 => array(
         'id'     => 296,
+        'alpha2' => 'ki',
+        'alpha3' => 'kir',
         'ar'     => 'كيريباتي',
         'bg'     => 'Кирибати',
         'cs'     => 'Kiribati',
@@ -3975,11 +3977,11 @@ $countries = array(
         'uk'     => 'Кірибаті',
         'zh'     => '基里巴斯',
         'zh-tw'  => '吉里巴斯',
-        'alpha2' => 'ki',
-        'alpha3' => 'kir'
     ),
-    array(
+    408 => array(
         'id'     => 408,
+        'alpha2' => 'kp',
+        'alpha3' => 'prk',
         'ar'     => 'كوريا الشمالية',
         'bg'     => 'Северна Корея',
         'cs'     => 'Severní Korea',
@@ -4009,11 +4011,11 @@ $countries = array(
         'uk'     => 'Північна Корея',
         'zh'     => '朝鲜',
         'zh-tw'  => '北韓',
-        'alpha2' => 'kp',
-        'alpha3' => 'prk'
     ),
-    array(
+    410 => array(
         'id'     => 410,
+        'alpha2' => 'kr',
+        'alpha3' => 'kor',
         'ar'     => 'كوريا الجنوبية',
         'bg'     => 'Южна Корея',
         'cs'     => 'Jižní Korea',
@@ -4043,11 +4045,11 @@ $countries = array(
         'uk'     => 'Південна Корея',
         'zh'     => '韩国',
         'zh-tw'  => '南韓',
-        'alpha2' => 'kr',
-        'alpha3' => 'kor'
     ),
-    array(
+    414 => array(
         'id'     => 414,
+        'alpha2' => 'kw',
+        'alpha3' => 'kwt',
         'ar'     => 'الكويت',
         'bg'     => 'Кувейт',
         'cs'     => 'Kuvajt',
@@ -4077,11 +4079,11 @@ $countries = array(
         'uk'     => 'Кувейт',
         'zh'     => '科威特',
         'zh-tw'  => '科威特',
-        'alpha2' => 'kw',
-        'alpha3' => 'kwt'
     ),
-    array(
+    417 => array(
         'id'     => 417,
+        'alpha2' => 'kg',
+        'alpha3' => 'kgz',
         'ar'     => 'قيرغيزستان',
         'bg'     => 'Киргизстан',
         'cs'     => 'Kyrgyzstán',
@@ -4111,11 +4113,11 @@ $countries = array(
         'uk'     => 'Киргизстан',
         'zh'     => '吉尔吉斯斯坦',
         'zh-tw'  => '吉爾吉斯',
-        'alpha2' => 'kg',
-        'alpha3' => 'kgz'
     ),
-    array(
+    418 => array(
         'id'     => 418,
+        'alpha2' => 'la',
+        'alpha3' => 'lao',
         'ar'     => 'لاوس',
         'bg'     => 'Лаос',
         'cs'     => 'Laos',
@@ -4145,11 +4147,11 @@ $countries = array(
         'uk'     => 'Лаос',
         'zh'     => '老挝',
         'zh-tw'  => '寮國',
-        'alpha2' => 'la',
-        'alpha3' => 'lao'
     ),
-    array(
+    428 => array(
         'id'     => 428,
+        'alpha2' => 'lv',
+        'alpha3' => 'lva',
         'ar'     => 'لاتفيا',
         'bg'     => 'Латвия',
         'cs'     => 'Lotyšsko',
@@ -4179,11 +4181,11 @@ $countries = array(
         'uk'     => 'Латвія',
         'zh'     => '拉脱维亚',
         'zh-tw'  => '拉脫維亞',
-        'alpha2' => 'lv',
-        'alpha3' => 'lva'
     ),
-    array(
+    422 => array(
         'id'     => 422,
+        'alpha2' => 'lb',
+        'alpha3' => 'lbn',
         'ar'     => 'لبنان',
         'bg'     => 'Ливан',
         'cs'     => 'Libanon',
@@ -4213,11 +4215,11 @@ $countries = array(
         'uk'     => 'Ліван',
         'zh'     => '黎巴嫩',
         'zh-tw'  => '黎巴嫩',
-        'alpha2' => 'lb',
-        'alpha3' => 'lbn'
     ),
-    array(
+    426 => array(
         'id'     => 426,
+        'alpha2' => 'ls',
+        'alpha3' => 'lso',
         'ar'     => 'ليسوتو',
         'bg'     => 'Лесото',
         'cs'     => 'Lesotho',
@@ -4247,11 +4249,11 @@ $countries = array(
         'uk'     => 'Лесото',
         'zh'     => '莱索托',
         'zh-tw'  => '賴索托',
-        'alpha2' => 'ls',
-        'alpha3' => 'lso'
     ),
-    array(
+    430 => array(
         'id'     => 430,
+        'alpha2' => 'lr',
+        'alpha3' => 'lbr',
         'ar'     => 'ليبيريا',
         'bg'     => 'Либерия',
         'cs'     => 'Libérie',
@@ -4281,11 +4283,11 @@ $countries = array(
         'uk'     => 'Ліберія',
         'zh'     => '利比里亚',
         'zh-tw'  => '賴比瑞亞',
-        'alpha2' => 'lr',
-        'alpha3' => 'lbr'
     ),
-    array(
+    434 => array(
         'id'     => 434,
+        'alpha2' => 'ly',
+        'alpha3' => 'lby',
         'ar'     => 'ليبيا',
         'bg'     => 'Либия',
         'cs'     => 'Libye',
@@ -4315,11 +4317,11 @@ $countries = array(
         'uk'     => 'Лівія',
         'zh'     => '利比亚',
         'zh-tw'  => '利比亞',
-        'alpha2' => 'ly',
-        'alpha3' => 'lby'
     ),
-    array(
+    438 => array(
         'id'     => 438,
+        'alpha2' => 'li',
+        'alpha3' => 'lie',
         'ar'     => 'ليختنشتاين',
         'bg'     => 'Лихтенщайн',
         'cs'     => 'Lichtenštejnsko',
@@ -4349,11 +4351,11 @@ $countries = array(
         'uk'     => 'Ліхтенштейн',
         'zh'     => '列支敦士登',
         'zh-tw'  => '列支敦斯登',
-        'alpha2' => 'li',
-        'alpha3' => 'lie'
     ),
-    array(
+    440 => array(
         'id'     => 440,
+        'alpha2' => 'lt',
+        'alpha3' => 'ltu',
         'ar'     => 'ليتوانيا',
         'bg'     => 'Литва',
         'cs'     => 'Litva',
@@ -4383,11 +4385,11 @@ $countries = array(
         'uk'     => 'Литва',
         'zh'     => '立陶宛',
         'zh-tw'  => '立陶宛',
-        'alpha2' => 'lt',
-        'alpha3' => 'ltu'
     ),
-    array(
+    442 => array(
         'id'     => 442,
+        'alpha2' => 'lu',
+        'alpha3' => 'lux',
         'ar'     => 'لوكسمبورغ',
         'bg'     => 'Люксембург',
         'cs'     => 'Lucembursko',
@@ -4417,11 +4419,11 @@ $countries = array(
         'uk'     => 'Люксембург',
         'zh'     => '卢森堡',
         'zh-tw'  => '盧森堡',
-        'alpha2' => 'lu',
-        'alpha3' => 'lux'
     ),
-    array(
+    446 => array(
         'id'     => 446,
+        'alpha2' => 'mo',
+        'alpha3' => 'mac',
         'ar'     => 'ماكاو',
         'bg'     => 'Макао',
         'cs'     => 'Macao',
@@ -4451,11 +4453,11 @@ $countries = array(
         'uk'     => 'Макао',
         'zh'     => '澳门',
         'zh-tw'  => '澳門',
-        'alpha2' => 'mo',
-        'alpha3' => 'mac'
     ),
-    array(
+    807 => array(
         'id'     => 807,
+        'alpha2' => 'mk',
+        'alpha3' => 'mkd',
         'ar'     => 'مقدونيا',
         'bg'     => 'Северна Македония',
         'cs'     => 'Severní Makedonie',
@@ -4485,11 +4487,11 @@ $countries = array(
         'uk'     => 'Північна Македонія',
         'zh'     => '北马其顿',
         'zh-tw'  => '北馬其頓',
-        'alpha2' => 'mk',
-        'alpha3' => 'mkd'
     ),
-    array(
+    450 => array(
         'id'     => 450,
+        'alpha2' => 'mg',
+        'alpha3' => 'mdg',
         'ar'     => 'مدغشقر',
         'bg'     => 'Мадагаскар',
         'cs'     => 'Madagaskar',
@@ -4519,11 +4521,11 @@ $countries = array(
         'uk'     => 'Мадагаскар',
         'zh'     => '马达加斯加',
         'zh-tw'  => '馬達加斯加',
-        'alpha2' => 'mg',
-        'alpha3' => 'mdg'
     ),
-    array(
+    454 => array(
         'id'     => 454,
+        'alpha2' => 'mw',
+        'alpha3' => 'mwi',
         'ar'     => 'مالاوي',
         'bg'     => 'Малави',
         'cs'     => 'Malawi',
@@ -4553,11 +4555,11 @@ $countries = array(
         'uk'     => 'Малаві',
         'zh'     => '马拉维',
         'zh-tw'  => '馬拉威',
-        'alpha2' => 'mw',
-        'alpha3' => 'mwi'
     ),
-    array(
+    458 => array(
         'id'     => 458,
+        'alpha2' => 'my',
+        'alpha3' => 'mys',
         'ar'     => 'ماليزيا',
         'bg'     => 'Малайзия',
         'cs'     => 'Malajsie',
@@ -4587,11 +4589,11 @@ $countries = array(
         'uk'     => 'Малайзія',
         'zh'     => '马来西亚',
         'zh-tw'  => '馬來西亞',
-        'alpha2' => 'my',
-        'alpha3' => 'mys'
     ),
-    array(
+    462 => array(
         'id'     => 462,
+        'alpha2' => 'mv',
+        'alpha3' => 'mdv',
         'ar'     => 'جزر المالديف',
         'bg'     => 'Малдиви',
         'cs'     => 'Maledivy',
@@ -4621,11 +4623,11 @@ $countries = array(
         'uk'     => 'Мальдіви',
         'zh'     => '马尔代夫',
         'zh-tw'  => '馬爾地夫',
-        'alpha2' => 'mv',
-        'alpha3' => 'mdv'
     ),
-    array(
+    466 => array(
         'id'     => 466,
+        'alpha2' => 'ml',
+        'alpha3' => 'mli',
         'ar'     => 'مالي',
         'bg'     => 'Мали',
         'cs'     => 'Mali',
@@ -4655,11 +4657,11 @@ $countries = array(
         'uk'     => 'Малі',
         'zh'     => '马里',
         'zh-tw'  => '馬利',
-        'alpha2' => 'ml',
-        'alpha3' => 'mli'
     ),
-    array(
+    470 => array(
         'id'     => 470,
+        'alpha2' => 'mt',
+        'alpha3' => 'mlt',
         'ar'     => 'مالطا',
         'bg'     => 'Малта',
         'cs'     => 'Malta',
@@ -4689,11 +4691,11 @@ $countries = array(
         'uk'     => 'Мальта',
         'zh'     => '马耳他',
         'zh-tw'  => '馬爾他',
-        'alpha2' => 'mt',
-        'alpha3' => 'mlt'
     ),
-    array(
+    584 => array(
         'id'     => 584,
+        'alpha2' => 'mh',
+        'alpha3' => 'mhl',
         'ar'     => 'جزر مارشال',
         'bg'     => 'Маршалови острови',
         'cs'     => 'Marshallovy ostrovy',
@@ -4723,11 +4725,11 @@ $countries = array(
         'uk'     => 'Маршаллові Острови',
         'zh'     => '马绍尔群岛',
         'zh-tw'  => '馬紹爾群島',
-        'alpha2' => 'mh',
-        'alpha3' => 'mhl'
     ),
-    array(
+    474 => array(
         'id'     => 474,
+        'alpha2' => 'mq',
+        'alpha3' => 'mtq',
         'ar'     => 'مارتينيك',
         'bg'     => 'Мартиника',
         'cs'     => 'Martinik',
@@ -4757,11 +4759,11 @@ $countries = array(
         'uk'     => 'Мартиніка',
         'zh'     => '马提尼克',
         'zh-tw'  => '馬丁尼克',
-        'alpha2' => 'mq',
-        'alpha3' => 'mtq'
     ),
-    array(
+    478 => array(
         'id'     => 478,
+        'alpha2' => 'mr',
+        'alpha3' => 'mrt',
         'ar'     => 'موريتانيا',
         'bg'     => 'Мавритания',
         'cs'     => 'Mauritánie',
@@ -4791,11 +4793,11 @@ $countries = array(
         'uk'     => 'Мавританія',
         'zh'     => '毛里塔尼亚',
         'zh-tw'  => '茅利塔尼亞',
-        'alpha2' => 'mr',
-        'alpha3' => 'mrt'
     ),
-    array(
+    480 => array(
         'id'     => 480,
+        'alpha2' => 'mu',
+        'alpha3' => 'mus',
         'ar'     => 'موريشيوس',
         'bg'     => 'Мавриций',
         'cs'     => 'Mauricius',
@@ -4825,11 +4827,11 @@ $countries = array(
         'uk'     => 'Маврикій',
         'zh'     => '毛里求斯',
         'zh-tw'  => '模里西斯',
-        'alpha2' => 'mu',
-        'alpha3' => 'mus'
     ),
-    array(
+    175 => array(
         'id'     => 175,
+        'alpha2' => 'yt',
+        'alpha3' => 'myt',
         'ar'     => 'مايوت',
         'bg'     => 'Майот',
         'cs'     => 'Mayotte',
@@ -4859,11 +4861,11 @@ $countries = array(
         'uk'     => 'Майотта',
         'zh'     => '马约特',
         'zh-tw'  => '馬約特',
-        'alpha2' => 'yt',
-        'alpha3' => 'myt'
     ),
-    array(
+    484 => array(
         'id'     => 484,
+        'alpha2' => 'mx',
+        'alpha3' => 'mex',
         'ar'     => 'المكسيك',
         'bg'     => 'Мексико',
         'cs'     => 'Mexiko',
@@ -4893,11 +4895,11 @@ $countries = array(
         'uk'     => 'Мексика',
         'zh'     => '墨西哥',
         'zh-tw'  => '墨西哥',
-        'alpha2' => 'mx',
-        'alpha3' => 'mex'
     ),
-    array(
+    583 => array(
         'id'     => 583,
+        'alpha2' => 'fm',
+        'alpha3' => 'fsm',
         'ar'     => 'ولايات ميكرونيسيا المتحدة',
         'bg'     => 'Микронезия',
         'cs'     => 'Mikronésie',
@@ -4927,11 +4929,11 @@ $countries = array(
         'uk'     => 'Федеративні Штати Мікронезії',
         'zh'     => '密克罗尼西亚联邦',
         'zh-tw'  => '密克羅尼西亞聯邦',
-        'alpha2' => 'fm',
-        'alpha3' => 'fsm'
     ),
-    array(
+    504 => array(
         'id'     => 504,
+        'alpha2' => 'ma',
+        'alpha3' => 'mar',
         'ar'     => 'المغرب',
         'bg'     => 'Мароко',
         'cs'     => 'Maroko',
@@ -4961,11 +4963,11 @@ $countries = array(
         'uk'     => 'Марокко',
         'zh'     => '摩洛哥',
         'zh-tw'  => '摩洛哥',
-        'alpha2' => 'ma',
-        'alpha3' => 'mar'
     ),
-    array(
+    498 => array(
         'id'     => 498,
+        'alpha2' => 'md',
+        'alpha3' => 'mda',
         'ar'     => 'مولدوفا',
         'bg'     => 'Молдова',
         'cs'     => 'Moldavsko',
@@ -4995,11 +4997,11 @@ $countries = array(
         'uk'     => 'Молдова',
         'zh'     => '摩尔多瓦',
         'zh-tw'  => '摩爾多瓦',
-        'alpha2' => 'md',
-        'alpha3' => 'mda'
     ),
-    array(
+    492 => array(
         'id'     => 492,
+        'alpha2' => 'mc',
+        'alpha3' => 'mco',
         'ar'     => 'موناكو',
         'bg'     => 'Монако',
         'cs'     => 'Monako',
@@ -5029,11 +5031,11 @@ $countries = array(
         'uk'     => 'Монако',
         'zh'     => '摩纳哥',
         'zh-tw'  => '摩納哥',
-        'alpha2' => 'mc',
-        'alpha3' => 'mco'
     ),
-    array(
+    496 => array(
         'id'     => 496,
+        'alpha2' => 'mn',
+        'alpha3' => 'mng',
         'ar'     => 'منغوليا',
         'bg'     => 'Монголия',
         'cs'     => 'Mongolsko',
@@ -5063,11 +5065,11 @@ $countries = array(
         'uk'     => 'Монголія',
         'zh'     => '蒙古',
         'zh-tw'  => '蒙古',
-        'alpha2' => 'mn',
-        'alpha3' => 'mng'
     ),
-    array(
+    499 => array(
         'id'     => 499,
+        'alpha2' => 'me',
+        'alpha3' => 'mne',
         'ar'     => 'الجبل الأسود',
         'bg'     => 'Черна гора',
         'cs'     => 'Černá Hora',
@@ -5097,11 +5099,11 @@ $countries = array(
         'uk'     => 'Чорногорія',
         'zh'     => '黑山',
         'zh-tw'  => '蒙特內哥羅',
-        'alpha2' => 'me',
-        'alpha3' => 'mne'
     ),
-    array(
+    500 => array(
         'id'     => 500,
+        'alpha2' => 'ms',
+        'alpha3' => 'msr',
         'ar'     => 'مونتسرات',
         'bg'     => 'Монсерат',
         'cs'     => 'Montserrat',
@@ -5131,11 +5133,11 @@ $countries = array(
         'uk'     => 'Монтсеррат',
         'zh'     => '蒙特塞拉特',
         'zh-tw'  => '蒙特塞拉特',
-        'alpha2' => 'ms',
-        'alpha3' => 'msr'
     ),
-    array(
+    508 => array(
         'id'     => 508,
+        'alpha2' => 'mz',
+        'alpha3' => 'moz',
         'ar'     => 'موزمبيق',
         'bg'     => 'Мозамбик',
         'cs'     => 'Mosambik',
@@ -5165,11 +5167,11 @@ $countries = array(
         'uk'     => 'Мозамбік',
         'zh'     => '莫桑比克',
         'zh-tw'  => '莫三比克',
-        'alpha2' => 'mz',
-        'alpha3' => 'moz'
     ),
-    array(
+    104 => array(
         'id'     => 104,
+        'alpha2' => 'mm',
+        'alpha3' => 'mmr',
         'ar'     => 'ميانمار',
         'bg'     => 'Мианмар',
         'cs'     => 'Myanmar',
@@ -5199,11 +5201,11 @@ $countries = array(
         'uk'     => 'М\'янма',
         'zh'     => '缅甸',
         'zh-tw'  => '緬甸',
-        'alpha2' => 'mm',
-        'alpha3' => 'mmr'
     ),
-    array(
+    516 => array(
         'id'     => 516,
+        'alpha2' => 'na',
+        'alpha3' => 'nam',
         'ar'     => 'ناميبيا',
         'bg'     => 'Намибия',
         'cs'     => 'Namibie',
@@ -5233,11 +5235,11 @@ $countries = array(
         'uk'     => 'Намібія',
         'zh'     => '纳米比亚',
         'zh-tw'  => '納米比亞',
-        'alpha2' => 'na',
-        'alpha3' => 'nam'
     ),
-    array(
+    520 => array(
         'id'     => 520,
+        'alpha2' => 'nr',
+        'alpha3' => 'nru',
         'ar'     => 'ناورو',
         'bg'     => 'Науру',
         'cs'     => 'Nauru',
@@ -5267,11 +5269,11 @@ $countries = array(
         'uk'     => 'Науру',
         'zh'     => '瑙鲁',
         'zh-tw'  => '諾魯',
-        'alpha2' => 'nr',
-        'alpha3' => 'nru'
     ),
-    array(
+    524 => array(
         'id'     => 524,
+        'alpha2' => 'np',
+        'alpha3' => 'npl',
         'ar'     => 'نيبال',
         'bg'     => 'Непал',
         'cs'     => 'Nepál',
@@ -5301,11 +5303,11 @@ $countries = array(
         'uk'     => 'Непал',
         'zh'     => '尼泊尔',
         'zh-tw'  => '尼泊爾',
-        'alpha2' => 'np',
-        'alpha3' => 'npl'
     ),
-    array(
+    528 => array(
         'id'     => 528,
+        'alpha2' => 'nl',
+        'alpha3' => 'nld',
         'ar'     => 'هولندا',
         'bg'     => 'Нидерландия',
         'cs'     => 'Nizozemsko',
@@ -5335,11 +5337,11 @@ $countries = array(
         'uk'     => 'Нідерланди',
         'zh'     => '荷兰',
         'zh-tw'  => '荷蘭',
-        'alpha2' => 'nl',
-        'alpha3' => 'nld'
     ),
-    array(
+    540 => array(
         'id'     => 540,
+        'alpha2' => 'nc',
+        'alpha3' => 'ncl',
         'ar'     => 'كاليدونيا الجديدة',
         'bg'     => 'Нова Каледония',
         'cs'     => 'Nová Kaledonie',
@@ -5369,11 +5371,11 @@ $countries = array(
         'uk'     => 'Нова Каледонія',
         'zh'     => '新喀里多尼亚',
         'zh-tw'  => '新喀里多尼亞',
-        'alpha2' => 'nc',
-        'alpha3' => 'ncl'
     ),
-    array(
+    554 => array(
         'id'     => 554,
+        'alpha2' => 'nz',
+        'alpha3' => 'nzl',
         'ar'     => 'نيوزيلندا',
         'bg'     => 'Нова Зеландия',
         'cs'     => 'Nový Zéland',
@@ -5403,11 +5405,11 @@ $countries = array(
         'uk'     => 'Нова Зеландія',
         'zh'     => '新西兰',
         'zh-tw'  => '紐西蘭',
-        'alpha2' => 'nz',
-        'alpha3' => 'nzl'
     ),
-    array(
+    558 => array(
         'id'     => 558,
+        'alpha2' => 'ni',
+        'alpha3' => 'nic',
         'ar'     => 'نيكاراغوا',
         'bg'     => 'Никарагуа',
         'cs'     => 'Nikaragua',
@@ -5437,11 +5439,11 @@ $countries = array(
         'uk'     => 'Нікарагуа',
         'zh'     => '尼加拉瓜',
         'zh-tw'  => '尼加拉瓜',
-        'alpha2' => 'ni',
-        'alpha3' => 'nic'
     ),
-    array(
+    562 => array(
         'id'     => 562,
+        'alpha2' => 'ne',
+        'alpha3' => 'ner',
         'ar'     => 'النيجر',
         'bg'     => 'Нигер',
         'cs'     => 'Niger',
@@ -5471,11 +5473,11 @@ $countries = array(
         'uk'     => 'Нігер',
         'zh'     => '尼日尔',
         'zh-tw'  => '尼日',
-        'alpha2' => 'ne',
-        'alpha3' => 'ner'
     ),
-    array(
+    566 => array(
         'id'     => 566,
+        'alpha2' => 'ng',
+        'alpha3' => 'nga',
         'ar'     => 'نيجيريا',
         'bg'     => 'Нигерия',
         'cs'     => 'Nigérie',
@@ -5505,11 +5507,11 @@ $countries = array(
         'uk'     => 'Нігерія',
         'zh'     => '尼日利亚',
         'zh-tw'  => '奈及利亞',
-        'alpha2' => 'ng',
-        'alpha3' => 'nga'
     ),
-    array(
+    570 => array(
         'id'     => 570,
+        'alpha2' => 'nu',
+        'alpha3' => 'niu',
         'ar'     => 'نييوي',
         'bg'     => 'Ниуе',
         'cs'     => 'Niue',
@@ -5539,11 +5541,11 @@ $countries = array(
         'uk'     => 'Ніуе',
         'zh'     => '纽埃',
         'zh-tw'  => '紐埃',
-        'alpha2' => 'nu',
-        'alpha3' => 'niu'
     ),
-    array(
+    574 => array(
         'id'     => 574,
+        'alpha2' => 'nf',
+        'alpha3' => 'nfk',
         'ar'     => 'جزيرة نورفولك',
         'bg'     => 'Норфолк',
         'cs'     => 'Norfolk',
@@ -5573,11 +5575,11 @@ $countries = array(
         'uk'     => 'Острів Норфолк',
         'zh'     => '诺福克岛',
         'zh-tw'  => '諾福克島',
-        'alpha2' => 'nf',
-        'alpha3' => 'nfk'
     ),
-    array(
+    580 => array(
         'id'     => 580,
+        'alpha2' => 'mp',
+        'alpha3' => 'mnp',
         'ar'     => 'جزر ماريانا الشمالية',
         'bg'     => 'Северни Мариански острови',
         'cs'     => 'Severní Mariany',
@@ -5607,11 +5609,11 @@ $countries = array(
         'uk'     => 'Північні Маріанські Острови',
         'zh'     => '北马里亚纳群岛',
         'zh-tw'  => '北馬利安納群島',
-        'alpha2' => 'mp',
-        'alpha3' => 'mnp'
     ),
-    array(
+    578 => array(
         'id'     => 578,
+        'alpha2' => 'no',
+        'alpha3' => 'nor',
         'ar'     => 'النرويج',
         'bg'     => 'Норвегия',
         'cs'     => 'Norsko',
@@ -5641,11 +5643,11 @@ $countries = array(
         'uk'     => 'Норвегія',
         'zh'     => '挪威',
         'zh-tw'  => '挪威',
-        'alpha2' => 'no',
-        'alpha3' => 'nor'
     ),
-    array(
+    512 => array(
         'id'     => 512,
+        'alpha2' => 'om',
+        'alpha3' => 'omn',
         'ar'     => 'عمان',
         'bg'     => 'Оман',
         'cs'     => 'Omán',
@@ -5675,11 +5677,11 @@ $countries = array(
         'uk'     => 'Оман',
         'zh'     => '阿曼',
         'zh-tw'  => '阿曼',
-        'alpha2' => 'om',
-        'alpha3' => 'omn'
     ),
-    array(
+    586 => array(
         'id'     => 586,
+        'alpha2' => 'pk',
+        'alpha3' => 'pak',
         'ar'     => 'باكستان',
         'bg'     => 'Пакистан',
         'cs'     => 'Pákistán',
@@ -5709,11 +5711,11 @@ $countries = array(
         'uk'     => 'Пакистан',
         'zh'     => '巴基斯坦',
         'zh-tw'  => '巴基斯坦',
-        'alpha2' => 'pk',
-        'alpha3' => 'pak'
     ),
-    array(
+    585 => array(
         'id'     => 585,
+        'alpha2' => 'pw',
+        'alpha3' => 'plw',
         'ar'     => 'بالاو',
         'bg'     => 'Палау',
         'cs'     => 'Palau',
@@ -5743,11 +5745,11 @@ $countries = array(
         'uk'     => 'Палау',
         'zh'     => '帕劳',
         'zh-tw'  => '帛琉',
-        'alpha2' => 'pw',
-        'alpha3' => 'plw'
     ),
-    array(
+    275 => array(
         'id'     => 275,
+        'alpha2' => 'ps',
+        'alpha3' => 'pse',
         'ar'     => 'فلسطين',
         'bg'     => 'Палестинска автономия',
         'cs'     => 'Palestinská autonomie',
@@ -5777,11 +5779,11 @@ $countries = array(
         'uk'     => 'Палестина',
         'zh'     => '巴勒斯坦',
         'zh-tw'  => '巴勒斯坦',
-        'alpha2' => 'ps',
-        'alpha3' => 'pse'
     ),
-    array(
+    591 => array(
         'id'     => 591,
+        'alpha2' => 'pa',
+        'alpha3' => 'pan',
         'ar'     => 'بنما',
         'bg'     => 'Панама',
         'cs'     => 'Panama',
@@ -5811,11 +5813,11 @@ $countries = array(
         'uk'     => 'Панама',
         'zh'     => '巴拿马',
         'zh-tw'  => '巴拿馬',
-        'alpha2' => 'pa',
-        'alpha3' => 'pan'
     ),
-    array(
+    598 => array(
         'id'     => 598,
+        'alpha2' => 'pg',
+        'alpha3' => 'png',
         'ar'     => 'بابوا غينيا الجديدة',
         'bg'     => 'Папуа Нова Гвинея',
         'cs'     => 'Papua Nová Guinea',
@@ -5845,11 +5847,11 @@ $countries = array(
         'uk'     => 'Папуа Нова Гвінея',
         'zh'     => '巴布亚新几内亚',
         'zh-tw'  => '巴布亞紐幾內亞',
-        'alpha2' => 'pg',
-        'alpha3' => 'png'
     ),
-    array(
+    600 => array(
         'id'     => 600,
+        'alpha2' => 'py',
+        'alpha3' => 'pry',
         'ar'     => 'باراغواي',
         'bg'     => 'Парагвай',
         'cs'     => 'Paraguay',
@@ -5879,11 +5881,11 @@ $countries = array(
         'uk'     => 'Парагвай',
         'zh'     => '巴拉圭',
         'zh-tw'  => '巴拉圭',
-        'alpha2' => 'py',
-        'alpha3' => 'pry'
     ),
-    array(
+    604 => array(
         'id'     => 604,
+        'alpha2' => 'pe',
+        'alpha3' => 'per',
         'ar'     => 'بيرو',
         'bg'     => 'Перу',
         'cs'     => 'Peru',
@@ -5913,11 +5915,11 @@ $countries = array(
         'uk'     => 'Перу',
         'zh'     => '秘鲁',
         'zh-tw'  => '秘魯',
-        'alpha2' => 'pe',
-        'alpha3' => 'per'
     ),
-    array(
+    608 => array(
         'id'     => 608,
+        'alpha2' => 'ph',
+        'alpha3' => 'phl',
         'ar'     => 'الفلبين',
         'bg'     => 'Филипини',
         'cs'     => 'Filipíny',
@@ -5947,11 +5949,11 @@ $countries = array(
         'uk'     => 'Філіппіни',
         'zh'     => '菲律宾',
         'zh-tw'  => '菲律賓',
-        'alpha2' => 'ph',
-        'alpha3' => 'phl'
     ),
-    array(
+    612 => array(
         'id'     => 612,
+        'alpha2' => 'pn',
+        'alpha3' => 'pcn',
         'ar'     => 'جزر بيتكيرن',
         'bg'     => 'Питкерн',
         'cs'     => 'Pitcairnovy ostrovy',
@@ -5981,11 +5983,11 @@ $countries = array(
         'uk'     => 'Піткерн',
         'zh'     => '皮特凯恩群岛',
         'zh-tw'  => '皮特凱恩群島',
-        'alpha2' => 'pn',
-        'alpha3' => 'pcn'
     ),
-    array(
+    616 => array(
         'id'     => 616,
+        'alpha2' => 'pl',
+        'alpha3' => 'pol',
         'ar'     => 'بولندا',
         'bg'     => 'Полша',
         'cs'     => 'Polsko',
@@ -6015,11 +6017,11 @@ $countries = array(
         'uk'     => 'Польща',
         'zh'     => '波兰',
         'zh-tw'  => '波蘭',
-        'alpha2' => 'pl',
-        'alpha3' => 'pol'
     ),
-    array(
+    620 => array(
         'id'     => 620,
+        'alpha2' => 'pt',
+        'alpha3' => 'prt',
         'ar'     => 'البرتغال',
         'bg'     => 'Португалия',
         'cs'     => 'Portugalsko',
@@ -6049,11 +6051,11 @@ $countries = array(
         'uk'     => 'Португалія',
         'zh'     => '葡萄牙',
         'zh-tw'  => '葡萄牙',
-        'alpha2' => 'pt',
-        'alpha3' => 'prt'
     ),
-    array(
+    630 => array(
         'id'     => 630,
+        'alpha2' => 'pr',
+        'alpha3' => 'pri',
         'ar'     => 'بورتوريكو',
         'bg'     => 'Пуерто Рико',
         'cs'     => 'Portoriko',
@@ -6083,11 +6085,11 @@ $countries = array(
         'uk'     => 'Пуерто-Рико',
         'zh'     => '波多黎各',
         'zh-tw'  => '波多黎各',
-        'alpha2' => 'pr',
-        'alpha3' => 'pri'
     ),
-    array(
+    634 => array(
         'id'     => 634,
+        'alpha2' => 'qa',
+        'alpha3' => 'qat',
         'ar'     => 'قطر',
         'bg'     => 'Катар',
         'cs'     => 'Katar',
@@ -6117,11 +6119,11 @@ $countries = array(
         'uk'     => 'Катар',
         'zh'     => '卡塔尔',
         'zh-tw'  => '卡達',
-        'alpha2' => 'qa',
-        'alpha3' => 'qat'
     ),
-    array(
+    638 => array(
         'id'     => 638,
+        'alpha2' => 're',
+        'alpha3' => 'reu',
         'ar'     => 'لا ريونيون',
         'bg'     => 'Реюнион',
         'cs'     => 'Réunion',
@@ -6151,11 +6153,11 @@ $countries = array(
         'uk'     => 'Реюньйон',
         'zh'     => '留尼汪',
         'zh-tw'  => '留尼旺',
-        'alpha2' => 're',
-        'alpha3' => 'reu'
     ),
-    array(
+    642 => array(
         'id'     => 642,
+        'alpha2' => 'ro',
+        'alpha3' => 'rou',
         'ar'     => 'رومانيا',
         'bg'     => 'Румъния',
         'cs'     => 'Rumunsko',
@@ -6185,11 +6187,11 @@ $countries = array(
         'uk'     => 'Румунія',
         'zh'     => '罗马尼亚',
         'zh-tw'  => '羅馬尼亞',
-        'alpha2' => 'ro',
-        'alpha3' => 'rou'
     ),
-    array(
+    643 => array(
         'id'     => 643,
+        'alpha2' => 'ru',
+        'alpha3' => 'rus',
         'ar'     => 'روسيا',
         'bg'     => 'Русия',
         'cs'     => 'Rusko',
@@ -6219,11 +6221,11 @@ $countries = array(
         'uk'     => 'Росія',
         'zh'     => '俄罗斯',
         'zh-tw'  => '俄羅斯',
-        'alpha2' => 'ru',
-        'alpha3' => 'rus'
     ),
-    array(
+    646 => array(
         'id'     => 646,
+        'alpha2' => 'rw',
+        'alpha3' => 'rwa',
         'ar'     => 'رواندا',
         'bg'     => 'Руанда',
         'cs'     => 'Rwanda',
@@ -6253,11 +6255,11 @@ $countries = array(
         'uk'     => 'Руанда',
         'zh'     => '卢旺达',
         'zh-tw'  => '盧安達',
-        'alpha2' => 'rw',
-        'alpha3' => 'rwa'
     ),
-    array(
+    652 => array(
         'id'     => 652,
+        'alpha2' => 'bl',
+        'alpha3' => 'blm',
         'ar'     => 'سان بارتيلمي',
         'bg'     => 'Сен Бартелми',
         'cs'     => 'Svatý Bartoloměj',
@@ -6287,11 +6289,11 @@ $countries = array(
         'uk'     => 'Сен-Бартельмі',
         'zh'     => '圣巴泰勒米',
         'zh-tw'  => '聖巴瑟米',
-        'alpha2' => 'bl',
-        'alpha3' => 'blm'
     ),
-    array(
+    654 => array(
         'id'     => 654,
+        'alpha2' => 'sh',
+        'alpha3' => 'shn',
         'ar'     => 'سانت هيلانة وأسينشين وتريستان دا كونا',
         'bg'     => 'Света Елена, Възнесение и Тристан да Куня',
         'cs'     => 'Svatá Helena, Ascension a Tristan da Cunha',
@@ -6321,11 +6323,11 @@ $countries = array(
         'uk'     => 'Острови Святої Єлени, Вознесіння і Тристан-да-Кунья',
         'zh'     => '圣赫勒拿、阿森松和特里斯坦-达库尼亚',
         'zh-tw'  => '聖赫倫那、阿森松和特里斯坦-達庫尼亞',
-        'alpha2' => 'sh',
-        'alpha3' => 'shn'
     ),
-    array(
+    659 => array(
         'id'     => 659,
+        'alpha2' => 'kn',
+        'alpha3' => 'kna',
         'ar'     => 'سانت كيتس ونيفيس',
         'bg'     => 'Сейнт Китс и Невис',
         'cs'     => 'Svatý Kryštof a Nevis',
@@ -6355,11 +6357,11 @@ $countries = array(
         'uk'     => 'Сент-Кіттс і Невіс',
         'zh'     => '圣基茨和尼维斯',
         'zh-tw'  => '聖克里斯多福及尼維斯',
-        'alpha2' => 'kn',
-        'alpha3' => 'kna'
     ),
-    array(
+    662 => array(
         'id'     => 662,
+        'alpha2' => 'lc',
+        'alpha3' => 'lca',
         'ar'     => 'سانت لوسيا',
         'bg'     => 'Сейнт Лусия',
         'cs'     => 'Svatá Lucie',
@@ -6389,11 +6391,11 @@ $countries = array(
         'uk'     => 'Сент-Люсія',
         'zh'     => '圣卢西亚',
         'zh-tw'  => '聖露西亞',
-        'alpha2' => 'lc',
-        'alpha3' => 'lca'
     ),
-    array(
+    663 => array(
         'id'     => 663,
+        'alpha2' => 'mf',
+        'alpha3' => 'maf',
         'ar'     => 'تجمع سان مارتين',
         'bg'     => 'Сен Мартен',
         'cs'     => 'Svatý Martin (francouzská část)',
@@ -6423,11 +6425,11 @@ $countries = array(
         'uk'     => 'Сен-Мартен',
         'zh'     => '法属圣马丁',
         'zh-tw'  => '法屬聖馬丁',
-        'alpha2' => 'mf',
-        'alpha3' => 'maf'
     ),
-    array(
+    666 => array(
         'id'     => 666,
+        'alpha2' => 'pm',
+        'alpha3' => 'spm',
         'ar'     => 'سان بيير وميكلون',
         'bg'     => 'Сен Пиер и Микелон',
         'cs'     => 'Saint Pierre a Miquelon',
@@ -6457,11 +6459,11 @@ $countries = array(
         'uk'     => 'Сен-П\'єр і Мікелон',
         'zh'     => '圣皮埃尔和密克隆',
         'zh-tw'  => '聖皮埃與密克隆群島',
-        'alpha2' => 'pm',
-        'alpha3' => 'spm'
     ),
-    array(
+    670 => array(
         'id'     => 670,
+        'alpha2' => 'vc',
+        'alpha3' => 'vct',
         'ar'     => 'سانت فينسنت والغرينادين',
         'bg'     => 'Сейнт Винсент и Гренадини',
         'cs'     => 'Svatý Vincenc a Grenadiny',
@@ -6491,11 +6493,11 @@ $countries = array(
         'uk'     => 'Сент-Вінсент і Гренадини',
         'zh'     => '圣文森特和格林纳丁斯',
         'zh-tw'  => '聖文森及格瑞那丁',
-        'alpha2' => 'vc',
-        'alpha3' => 'vct'
     ),
-    array(
+    882 => array(
         'id'     => 882,
+        'alpha2' => 'ws',
+        'alpha3' => 'wsm',
         'ar'     => 'ساموا',
         'bg'     => 'Самоа',
         'cs'     => 'Samoa',
@@ -6525,11 +6527,11 @@ $countries = array(
         'uk'     => 'Самоа',
         'zh'     => '萨摩亚',
         'zh-tw'  => '薩摩亞',
-        'alpha2' => 'ws',
-        'alpha3' => 'wsm'
     ),
-    array(
+    674 => array(
         'id'     => 674,
+        'alpha2' => 'sm',
+        'alpha3' => 'smr',
         'ar'     => 'سان مارينو',
         'bg'     => 'Сан Марино',
         'cs'     => 'San Marino',
@@ -6559,11 +6561,11 @@ $countries = array(
         'uk'     => 'Сан-Марино',
         'zh'     => '圣马力诺',
         'zh-tw'  => '聖馬利諾',
-        'alpha2' => 'sm',
-        'alpha3' => 'smr'
     ),
-    array(
+    678 => array(
         'id'     => 678,
+        'alpha2' => 'st',
+        'alpha3' => 'stp',
         'ar'     => 'ساو تومي وبرينسيب',
         'bg'     => 'Сао Томе и Принсипи',
         'cs'     => 'Svatý Tomáš a Princův ostrov',
@@ -6593,11 +6595,11 @@ $countries = array(
         'uk'     => 'Сан-Томе і Принсіпі',
         'zh'     => '圣多美和普林西比',
         'zh-tw'  => '聖多美普林西比',
-        'alpha2' => 'st',
-        'alpha3' => 'stp'
     ),
-    array(
+    682 => array(
         'id'     => 682,
+        'alpha2' => 'sa',
+        'alpha3' => 'sau',
         'ar'     => 'السعودية',
         'bg'     => 'Саудитска Арабия',
         'cs'     => 'Saúdská Arábie',
@@ -6627,11 +6629,11 @@ $countries = array(
         'uk'     => 'Саудівська Аравія',
         'zh'     => '沙特阿拉伯',
         'zh-tw'  => '沙烏地阿拉伯',
-        'alpha2' => 'sa',
-        'alpha3' => 'sau'
     ),
-    array(
+    686 => array(
         'id'     => 686,
+        'alpha2' => 'sn',
+        'alpha3' => 'sen',
         'ar'     => 'السنغال',
         'bg'     => 'Сенегал',
         'cs'     => 'Senegal',
@@ -6661,11 +6663,11 @@ $countries = array(
         'uk'     => 'Сенегал',
         'zh'     => '塞内加尔',
         'zh-tw'  => '塞內加爾',
-        'alpha2' => 'sn',
-        'alpha3' => 'sen'
     ),
-    array(
+    688 => array(
         'id'     => 688,
+        'alpha2' => 'rs',
+        'alpha3' => 'srb',
         'ar'     => 'صربيا',
         'bg'     => 'Сърбия',
         'cs'     => 'Srbsko',
@@ -6695,11 +6697,11 @@ $countries = array(
         'uk'     => 'Сербія',
         'zh'     => '塞尔维亚',
         'zh-tw'  => '塞爾維亞',
-        'alpha2' => 'rs',
-        'alpha3' => 'srb'
     ),
-    array(
+    690 => array(
         'id'     => 690,
+        'alpha2' => 'sc',
+        'alpha3' => 'syc',
         'ar'     => 'سيشل',
         'bg'     => 'Сейшелски острови',
         'cs'     => 'Seychely',
@@ -6729,11 +6731,11 @@ $countries = array(
         'uk'     => 'Сейшельські Острови',
         'zh'     => '塞舌尔',
         'zh-tw'  => '塞席爾',
-        'alpha2' => 'sc',
-        'alpha3' => 'syc'
     ),
-    array(
+    694 => array(
         'id'     => 694,
+        'alpha2' => 'sl',
+        'alpha3' => 'sle',
         'ar'     => 'سيراليون',
         'bg'     => 'Сиера Леоне',
         'cs'     => 'Sierra Leone',
@@ -6763,11 +6765,11 @@ $countries = array(
         'uk'     => 'Сьєрра-Леоне',
         'zh'     => '塞拉利昂',
         'zh-tw'  => '獅子山',
-        'alpha2' => 'sl',
-        'alpha3' => 'sle'
     ),
-    array(
+    702 => array(
         'id'     => 702,
+        'alpha2' => 'sg',
+        'alpha3' => 'sgp',
         'ar'     => 'سنغافورة',
         'bg'     => 'Сингапур',
         'cs'     => 'Singapur',
@@ -6797,11 +6799,11 @@ $countries = array(
         'uk'     => 'Сінгапур',
         'zh'     => '新加坡',
         'zh-tw'  => '新加坡',
-        'alpha2' => 'sg',
-        'alpha3' => 'sgp'
     ),
-    array(
+    534 => array(
         'id'     => 534,
+        'alpha2' => 'sx',
+        'alpha3' => 'sxm',
         'ar'     => 'سينت مارتن',
         'bg'     => 'Синт Мартен',
         'cs'     => 'Svatý Martin (nizozemská část)',
@@ -6831,11 +6833,11 @@ $countries = array(
         'uk'     => 'Сінт-Мартен',
         'zh'     => '荷属圣马丁',
         'zh-tw'  => '荷屬聖馬丁',
-        'alpha2' => 'sx',
-        'alpha3' => 'sxm'
     ),
-    array(
+    703 => array(
         'id'     => 703,
+        'alpha2' => 'sk',
+        'alpha3' => 'svk',
         'ar'     => 'سلوفاكيا',
         'bg'     => 'Словакия',
         'cs'     => 'Slovensko',
@@ -6865,11 +6867,11 @@ $countries = array(
         'uk'     => 'Словаччина',
         'zh'     => '斯洛伐克',
         'zh-tw'  => '斯洛伐克',
-        'alpha2' => 'sk',
-        'alpha3' => 'svk'
     ),
-    array(
+    705 => array(
         'id'     => 705,
+        'alpha2' => 'si',
+        'alpha3' => 'svn',
         'ar'     => 'سلوفينيا',
         'bg'     => 'Словения',
         'cs'     => 'Slovinsko',
@@ -6899,11 +6901,11 @@ $countries = array(
         'uk'     => 'Словенія',
         'zh'     => '斯洛文尼亚',
         'zh-tw'  => '斯洛維尼亞',
-        'alpha2' => 'si',
-        'alpha3' => 'svn'
     ),
-    array(
+    90 => array(
         'id'     => 90,
+        'alpha2' => 'sb',
+        'alpha3' => 'slb',
         'ar'     => 'جزر سليمان',
         'bg'     => 'Соломонови острови',
         'cs'     => 'Šalomounovy ostrovy',
@@ -6933,11 +6935,11 @@ $countries = array(
         'uk'     => 'Соломонові Острови',
         'zh'     => '所罗门群岛',
         'zh-tw'  => '索羅門群島',
-        'alpha2' => 'sb',
-        'alpha3' => 'slb'
     ),
-    array(
+    706 => array(
         'id'     => 706,
+        'alpha2' => 'so',
+        'alpha3' => 'som',
         'ar'     => 'الصومال',
         'bg'     => 'Сомалия',
         'cs'     => 'Somálsko',
@@ -6967,11 +6969,11 @@ $countries = array(
         'uk'     => 'Сомалі',
         'zh'     => '索马里',
         'zh-tw'  => '索馬利亞',
-        'alpha2' => 'so',
-        'alpha3' => 'som'
     ),
-    array(
+    710 => array(
         'id'     => 710,
+        'alpha2' => 'za',
+        'alpha3' => 'zaf',
         'ar'     => 'جنوب أفريقيا',
         'bg'     => 'ЮАР',
         'cs'     => 'Jihoafrická republika',
@@ -7001,11 +7003,11 @@ $countries = array(
         'uk'     => 'ПАР',
         'zh'     => '南非',
         'zh-tw'  => '南非',
-        'alpha2' => 'za',
-        'alpha3' => 'zaf'
     ),
-    array(
+    239 => array(
         'id'     => 239,
+        'alpha2' => 'gs',
+        'alpha3' => 'sgs',
         'ar'     => 'جورجيا الجنوبية وجزر ساندويتش الجنوبية',
         'bg'     => 'Южна Джорджия и Южни Сандвичеви острови',
         'cs'     => 'Jižní Georgie a Jižní Sandwichovy ostrovy',
@@ -7035,11 +7037,11 @@ $countries = array(
         'uk'     => 'Південна Джорджія та Південні Сандвічеві Острови',
         'zh'     => '南乔治亚和南桑威奇群岛',
         'zh-tw'  => '南喬治亞和南桑威奇群島',
-        'alpha2' => 'gs',
-        'alpha3' => 'sgs'
     ),
-    array(
+    728 => array(
         'id'     => 728,
+        'alpha2' => 'ss',
+        'alpha3' => 'ssd',
         'ar'     => 'جنوب السودان',
         'bg'     => 'Южен Судан',
         'cs'     => 'Jižní Súdán',
@@ -7069,11 +7071,11 @@ $countries = array(
         'uk'     => 'Південний Судан',
         'zh'     => '南苏丹',
         'zh-tw'  => '南蘇丹',
-        'alpha2' => 'ss',
-        'alpha3' => 'ssd'
     ),
-    array(
+    724 => array(
         'id'     => 724,
+        'alpha2' => 'es',
+        'alpha3' => 'esp',
         'ar'     => 'إسبانيا',
         'bg'     => 'Испания',
         'cs'     => 'Španělsko',
@@ -7103,11 +7105,11 @@ $countries = array(
         'uk'     => 'Іспанія',
         'zh'     => '西班牙',
         'zh-tw'  => '西班牙',
-        'alpha2' => 'es',
-        'alpha3' => 'esp'
     ),
-    array(
+    144 => array(
         'id'     => 144,
+        'alpha2' => 'lk',
+        'alpha3' => 'lka',
         'ar'     => 'سريلانكا',
         'bg'     => 'Шри Ланка',
         'cs'     => 'Srí Lanka',
@@ -7137,11 +7139,11 @@ $countries = array(
         'uk'     => 'Шрі-Ланка',
         'zh'     => '斯里兰卡',
         'zh-tw'  => '斯里蘭卡',
-        'alpha2' => 'lk',
-        'alpha3' => 'lka'
     ),
-    array(
+    729 => array(
         'id'     => 729,
+        'alpha2' => 'sd',
+        'alpha3' => 'sdn',
         'ar'     => 'السودان',
         'bg'     => 'Судан',
         'cs'     => 'Súdán',
@@ -7171,11 +7173,11 @@ $countries = array(
         'uk'     => 'Судан',
         'zh'     => '苏丹',
         'zh-tw'  => '蘇丹',
-        'alpha2' => 'sd',
-        'alpha3' => 'sdn'
     ),
-    array(
+    740 => array(
         'id'     => 740,
+        'alpha2' => 'sr',
+        'alpha3' => 'sur',
         'ar'     => 'سورينام',
         'bg'     => 'Суринам',
         'cs'     => 'Surinam',
@@ -7205,11 +7207,11 @@ $countries = array(
         'uk'     => 'Суринам',
         'zh'     => '苏里南',
         'zh-tw'  => '蘇利南',
-        'alpha2' => 'sr',
-        'alpha3' => 'sur'
     ),
-    array(
+    744 => array(
         'id'     => 744,
+        'alpha2' => 'sj',
+        'alpha3' => 'sjm',
         'ar'     => 'سفالبارد ويان ماين',
         'bg'     => 'Свалбард и Ян Майен',
         'cs'     => 'Špicberky a Jan Mayen',
@@ -7239,11 +7241,11 @@ $countries = array(
         'uk'     => 'Свальбард і Ян-Маєн',
         'zh'     => '斯瓦尔巴和扬马延',
         'zh-tw'  => '斯瓦爾巴和揚馬延',
-        'alpha2' => 'sj',
-        'alpha3' => 'sjm'
     ),
-    array(
+    748 => array(
         'id'     => 748,
+        'alpha2' => 'sz',
+        'alpha3' => 'swz',
         'ar'     => 'إسواتيني',
         'bg'     => 'Есватини',
         'cs'     => 'Svazijsko',
@@ -7273,11 +7275,11 @@ $countries = array(
         'uk'     => 'Есватіні',
         'zh'     => '斯威士兰',
         'zh-tw'  => '史瓦帝尼',
-        'alpha2' => 'sz',
-        'alpha3' => 'swz'
     ),
-    array(
+    752 => array(
         'id'     => 752,
+        'alpha2' => 'se',
+        'alpha3' => 'swe',
         'ar'     => 'السويد',
         'bg'     => 'Швеция',
         'cs'     => 'Švédsko',
@@ -7307,11 +7309,11 @@ $countries = array(
         'uk'     => 'Швеція',
         'zh'     => '瑞典',
         'zh-tw'  => '瑞典',
-        'alpha2' => 'se',
-        'alpha3' => 'swe'
     ),
-    array(
+    756 => array(
         'id'     => 756,
+        'alpha2' => 'ch',
+        'alpha3' => 'che',
         'ar'     => 'سويسرا',
         'bg'     => 'Швейцария',
         'cs'     => 'Švýcarsko',
@@ -7341,11 +7343,11 @@ $countries = array(
         'uk'     => 'Швейцарія',
         'zh'     => '瑞士',
         'zh-tw'  => '瑞士',
-        'alpha2' => 'ch',
-        'alpha3' => 'che'
     ),
-    array(
+    760 => array(
         'id'     => 760,
+        'alpha2' => 'sy',
+        'alpha3' => 'syr',
         'ar'     => 'سوريا',
         'bg'     => 'Сирия',
         'cs'     => 'Sýrie',
@@ -7375,11 +7377,11 @@ $countries = array(
         'uk'     => 'Сирія',
         'zh'     => '叙利亚',
         'zh-tw'  => '敘利亞',
-        'alpha2' => 'sy',
-        'alpha3' => 'syr'
     ),
-    array(
+    158 => array(
         'id'     => 158,
+        'alpha2' => 'tw',
+        'alpha3' => 'twn',
         'ar'     => 'تايوان',
         'bg'     => 'Тайван',
         'cs'     => 'Tchaj-wan',
@@ -7409,11 +7411,11 @@ $countries = array(
         'uk'     => 'Тайвань',
         'zh'     => '中国台湾省',
         'zh-tw'  => '台灣',
-        'alpha2' => 'tw',
-        'alpha3' => 'twn'
     ),
-    array(
+    762 => array(
         'id'     => 762,
+        'alpha2' => 'tj',
+        'alpha3' => 'tjk',
         'ar'     => 'طاجيكستان',
         'bg'     => 'Таджикистан',
         'cs'     => 'Tádžikistán',
@@ -7443,11 +7445,11 @@ $countries = array(
         'uk'     => 'Таджикистан',
         'zh'     => '塔吉克斯坦',
         'zh-tw'  => '塔吉克',
-        'alpha2' => 'tj',
-        'alpha3' => 'tjk'
     ),
-    array(
+    834 => array(
         'id'     => 834,
+        'alpha2' => 'tz',
+        'alpha3' => 'tza',
         'ar'     => 'تنزانيا',
         'bg'     => 'Танзания',
         'cs'     => 'Tanzanie',
@@ -7477,11 +7479,11 @@ $countries = array(
         'uk'     => 'Танзанія',
         'zh'     => '坦桑尼亚',
         'zh-tw'  => '坦尚尼亞',
-        'alpha2' => 'tz',
-        'alpha3' => 'tza'
     ),
-    array(
+    764 => array(
         'id'     => 764,
+        'alpha2' => 'th',
+        'alpha3' => 'tha',
         'ar'     => 'تايلاند',
         'bg'     => 'Тайланд',
         'cs'     => 'Thajsko',
@@ -7511,11 +7513,11 @@ $countries = array(
         'uk'     => 'Таїланд',
         'zh'     => '泰国',
         'zh-tw'  => '泰國',
-        'alpha2' => 'th',
-        'alpha3' => 'tha'
     ),
-    array(
+    626 => array(
         'id'     => 626,
+        'alpha2' => 'tl',
+        'alpha3' => 'tls',
         'ar'     => 'تيمور الشرقية',
         'bg'     => 'Източен Тимор',
         'cs'     => 'Východní Timor',
@@ -7545,11 +7547,11 @@ $countries = array(
         'uk'     => 'Східний Тимор',
         'zh'     => '东帝汶',
         'zh-tw'  => '東帝汶',
-        'alpha2' => 'tl',
-        'alpha3' => 'tls'
     ),
-    array(
+    768 => array(
         'id'     => 768,
+        'alpha2' => 'tg',
+        'alpha3' => 'tgo',
         'ar'     => 'توغو',
         'bg'     => 'Того',
         'cs'     => 'Togo',
@@ -7579,11 +7581,11 @@ $countries = array(
         'uk'     => 'Того',
         'zh'     => '多哥',
         'zh-tw'  => '多哥',
-        'alpha2' => 'tg',
-        'alpha3' => 'tgo'
     ),
-    array(
+    772 => array(
         'id'     => 772,
+        'alpha2' => 'tk',
+        'alpha3' => 'tkl',
         'ar'     => 'توكيلاو',
         'bg'     => 'Токелау',
         'cs'     => 'Tokelau',
@@ -7613,11 +7615,11 @@ $countries = array(
         'uk'     => 'Токелау',
         'zh'     => '托克劳',
         'zh-tw'  => '托克勞',
-        'alpha2' => 'tk',
-        'alpha3' => 'tkl'
     ),
-    array(
+    776 => array(
         'id'     => 776,
+        'alpha2' => 'to',
+        'alpha3' => 'ton',
         'ar'     => 'تونغا',
         'bg'     => 'Тонга',
         'cs'     => 'Tonga',
@@ -7647,11 +7649,11 @@ $countries = array(
         'uk'     => 'Тонга',
         'zh'     => '汤加',
         'zh-tw'  => '東加',
-        'alpha2' => 'to',
-        'alpha3' => 'ton'
     ),
-    array(
+    780 => array(
         'id'     => 780,
+        'alpha2' => 'tt',
+        'alpha3' => 'tto',
         'ar'     => 'ترينيداد وتوباغو',
         'bg'     => 'Тринидад и Тобаго',
         'cs'     => 'Trinidad a Tobago',
@@ -7681,11 +7683,11 @@ $countries = array(
         'uk'     => 'Тринідад і Тобаго',
         'zh'     => '特立尼达和多巴哥',
         'zh-tw'  => '千里達及托巴哥',
-        'alpha2' => 'tt',
-        'alpha3' => 'tto'
     ),
-    array(
+    788 => array(
         'id'     => 788,
+        'alpha2' => 'tn',
+        'alpha3' => 'tun',
         'ar'     => 'تونس',
         'bg'     => 'Тунис',
         'cs'     => 'Tunisko',
@@ -7715,11 +7717,11 @@ $countries = array(
         'uk'     => 'Туніс',
         'zh'     => '突尼斯',
         'zh-tw'  => '突尼西亞',
-        'alpha2' => 'tn',
-        'alpha3' => 'tun'
     ),
-    array(
+    792 => array(
         'id'     => 792,
+        'alpha2' => 'tr',
+        'alpha3' => 'tur',
         'ar'     => 'تركيا',
         'bg'     => 'Турция',
         'cs'     => 'Turecko',
@@ -7749,11 +7751,11 @@ $countries = array(
         'uk'     => 'Туреччина',
         'zh'     => '土耳其',
         'zh-tw'  => '土耳其',
-        'alpha2' => 'tr',
-        'alpha3' => 'tur'
     ),
-    array(
+    795 => array(
         'id'     => 795,
+        'alpha2' => 'tm',
+        'alpha3' => 'tkm',
         'ar'     => 'تركمانستان',
         'bg'     => 'Туркменистан',
         'cs'     => 'Turkmenistán',
@@ -7783,11 +7785,11 @@ $countries = array(
         'uk'     => 'Туркменістан',
         'zh'     => '土库曼斯坦',
         'zh-tw'  => '土庫曼',
-        'alpha2' => 'tm',
-        'alpha3' => 'tkm'
     ),
-    array(
+    796 => array(
         'id'     => 796,
+        'alpha2' => 'tc',
+        'alpha3' => 'tca',
         'ar'     => 'جزر توركس وكايكوس',
         'bg'     => 'Търкс и Кайкос',
         'cs'     => 'Turks a Caicos',
@@ -7817,11 +7819,11 @@ $countries = array(
         'uk'     => 'Острови Теркс і Кайкос',
         'zh'     => '特克斯和凯科斯群岛',
         'zh-tw'  => '特克斯與凱科斯群島',
-        'alpha2' => 'tc',
-        'alpha3' => 'tca'
     ),
-    array(
+    798 => array(
         'id'     => 798,
+        'alpha2' => 'tv',
+        'alpha3' => 'tuv',
         'ar'     => 'توفالو',
         'bg'     => 'Тувалу',
         'cs'     => 'Tuvalu',
@@ -7851,11 +7853,11 @@ $countries = array(
         'uk'     => 'Тувалу',
         'zh'     => '图瓦卢',
         'zh-tw'  => '吐瓦魯',
-        'alpha2' => 'tv',
-        'alpha3' => 'tuv'
     ),
-    array(
+    800 => array(
         'id'     => 800,
+        'alpha2' => 'ug',
+        'alpha3' => 'uga',
         'ar'     => 'أوغندا',
         'bg'     => 'Уганда',
         'cs'     => 'Uganda',
@@ -7885,11 +7887,11 @@ $countries = array(
         'uk'     => 'Уганда',
         'zh'     => '乌干达',
         'zh-tw'  => '烏干達',
-        'alpha2' => 'ug',
-        'alpha3' => 'uga'
     ),
-    array(
+    804 => array(
         'id'     => 804,
+        'alpha2' => 'ua',
+        'alpha3' => 'ukr',
         'ar'     => 'أوكرانيا',
         'bg'     => 'Украйна',
         'cs'     => 'Ukrajina',
@@ -7919,11 +7921,11 @@ $countries = array(
         'uk'     => 'Україна',
         'zh'     => '乌克兰',
         'zh-tw'  => '烏克蘭',
-        'alpha2' => 'ua',
-        'alpha3' => 'ukr'
     ),
-    array(
+    784 => array(
         'id'     => 784,
+        'alpha2' => 'ae',
+        'alpha3' => 'are',
         'ar'     => 'الإمارات العربية المتحدة',
         'bg'     => 'ОАЕ',
         'cs'     => 'Spojené arabské emiráty',
@@ -7953,11 +7955,11 @@ $countries = array(
         'uk'     => 'ОАЕ',
         'zh'     => '阿联酋',
         'zh-tw'  => '阿聯',
-        'alpha2' => 'ae',
-        'alpha3' => 'are'
     ),
-    array(
+    826 => array(
         'id'     => 826,
+        'alpha2' => 'gb',
+        'alpha3' => 'gbr',
         'ar'     => 'المملكة المتحدة',
         'bg'     => 'Великобритания',
         'cs'     => 'Spojené království Velké Británie a Severního Irska',
@@ -7987,11 +7989,11 @@ $countries = array(
         'uk'     => 'Велика Британія',
         'zh'     => '英国',
         'zh-tw'  => '英國',
-        'alpha2' => 'gb',
-        'alpha3' => 'gbr'
     ),
-    array(
+    840 => array(
         'id'     => 840,
+        'alpha2' => 'us',
+        'alpha3' => 'usa',
         'ar'     => 'الولايات المتحدة',
         'bg'     => 'САЩ',
         'cs'     => 'Spojené státy americké',
@@ -8021,11 +8023,11 @@ $countries = array(
         'uk'     => 'США',
         'zh'     => '美国',
         'zh-tw'  => '美國',
-        'alpha2' => 'us',
-        'alpha3' => 'usa'
     ),
-    array(
+    581 => array(
         'id'     => 581,
+        'alpha2' => 'um',
+        'alpha3' => 'umi',
         'ar'     => 'جزر الولايات المتحدة الصغيرة النائية',
         'bg'     => 'Малки далечни острови на САЩ',
         'cs'     => 'Menší odlehlé ostrovy USA',
@@ -8055,11 +8057,11 @@ $countries = array(
         'uk'     => 'Зовнішні малі острови США',
         'zh'     => '美国本土外小岛屿',
         'zh-tw'  => '美國本土外小島嶼',
-        'alpha2' => 'um',
-        'alpha3' => 'umi'
     ),
-    array(
+    858 => array(
         'id'     => 858,
+        'alpha2' => 'uy',
+        'alpha3' => 'ury',
         'ar'     => 'الأوروغواي',
         'bg'     => 'Уругвай',
         'cs'     => 'Uruguay',
@@ -8089,11 +8091,11 @@ $countries = array(
         'uk'     => 'Уругвай',
         'zh'     => '乌拉圭',
         'zh-tw'  => '烏拉圭',
-        'alpha2' => 'uy',
-        'alpha3' => 'ury'
     ),
-    array(
+    860 => array(
         'id'     => 860,
+        'alpha2' => 'uz',
+        'alpha3' => 'uzb',
         'ar'     => 'أوزبكستان',
         'bg'     => 'Узбекистан',
         'cs'     => 'Uzbekistán',
@@ -8123,11 +8125,11 @@ $countries = array(
         'uk'     => 'Узбекистан',
         'zh'     => '乌兹别克斯坦',
         'zh-tw'  => '烏茲別克',
-        'alpha2' => 'uz',
-        'alpha3' => 'uzb'
     ),
-    array(
+    548 => array(
         'id'     => 548,
+        'alpha2' => 'vu',
+        'alpha3' => 'vut',
         'ar'     => 'فانواتو',
         'bg'     => 'Вануату',
         'cs'     => 'Vanuatu',
@@ -8157,11 +8159,11 @@ $countries = array(
         'uk'     => 'Вануату',
         'zh'     => '瓦努阿图',
         'zh-tw'  => '萬那杜',
-        'alpha2' => 'vu',
-        'alpha3' => 'vut'
     ),
-    array(
+    862 => array(
         'id'     => 862,
+        'alpha2' => 've',
+        'alpha3' => 'ven',
         'ar'     => 'فنزويلا',
         'bg'     => 'Венецуела',
         'cs'     => 'Venezuela',
@@ -8191,11 +8193,11 @@ $countries = array(
         'uk'     => 'Венесуела',
         'zh'     => '委内瑞拉',
         'zh-tw'  => '委內瑞拉',
-        'alpha2' => 've',
-        'alpha3' => 'ven'
     ),
-    array(
+    704 => array(
         'id'     => 704,
+        'alpha2' => 'vn',
+        'alpha3' => 'vnm',
         'ar'     => 'فيتنام',
         'bg'     => 'Виетнам',
         'cs'     => 'Vietnam',
@@ -8225,11 +8227,11 @@ $countries = array(
         'uk'     => 'В\'єтнам',
         'zh'     => '越南',
         'zh-tw'  => '越南',
-        'alpha2' => 'vn',
-        'alpha3' => 'vnm'
     ),
-    array(
+    92 => array(
         'id'     => 92,
+        'alpha2' => 'vg',
+        'alpha3' => 'vgb',
         'ar'     => 'جزر العذراء البريطانية',
         'bg'     => 'Британски Вирджински острови',
         'cs'     => 'Britské Panenské ostrovy',
@@ -8259,11 +8261,11 @@ $countries = array(
         'uk'     => 'Британські Віргінські Острови',
         'zh'     => '英属维尔京群岛',
         'zh-tw'  => '英屬維京群島',
-        'alpha2' => 'vg',
-        'alpha3' => 'vgb'
     ),
-    array(
+    850 => array(
         'id'     => 850,
+        'alpha2' => 'vi',
+        'alpha3' => 'vir',
         'ar'     => 'جزر العذراء الأمريكية',
         'bg'     => 'Американски Вирджински острови',
         'cs'     => 'Americké Panenské ostrovy',
@@ -8293,11 +8295,11 @@ $countries = array(
         'uk'     => 'Американські Віргінські Острови',
         'zh'     => '美属维尔京群岛',
         'zh-tw'  => '美屬維京群島',
-        'alpha2' => 'vi',
-        'alpha3' => 'vir'
     ),
-    array(
+    876 => array(
         'id'     => 876,
+        'alpha2' => 'wf',
+        'alpha3' => 'wlf',
         'ar'     => 'واليس وفوتونا',
         'bg'     => 'Уолис и Футуна',
         'cs'     => 'Wallis a Futuna',
@@ -8327,11 +8329,11 @@ $countries = array(
         'uk'     => 'Волліс і Футуна',
         'zh'     => '瓦利斯和富图纳',
         'zh-tw'  => '瓦利斯和富圖那',
-        'alpha2' => 'wf',
-        'alpha3' => 'wlf'
     ),
-    array(
+    732 => array(
         'id'     => 732,
+        'alpha2' => 'eh',
+        'alpha3' => 'esh',
         'ar'     => 'الصحراء الغربية',
         'bg'     => 'Западна Сахара',
         'cs'     => 'Západní Sahara',
@@ -8361,11 +8363,11 @@ $countries = array(
         'uk'     => 'Західна Сахара',
         'zh'     => '西撒哈拉',
         'zh-tw'  => '西撒哈拉',
-        'alpha2' => 'eh',
-        'alpha3' => 'esh'
     ),
-    array(
+    887 => array(
         'id'     => 887,
+        'alpha2' => 'ye',
+        'alpha3' => 'yem',
         'ar'     => 'اليمن',
         'bg'     => 'Йемен',
         'cs'     => 'Jemen',
@@ -8395,11 +8397,11 @@ $countries = array(
         'uk'     => 'Ємен',
         'zh'     => '也门',
         'zh-tw'  => '葉門',
-        'alpha2' => 'ye',
-        'alpha3' => 'yem'
     ),
-    array(
+    894 => array(
         'id'     => 894,
+        'alpha2' => 'zm',
+        'alpha3' => 'zmb',
         'ar'     => 'زامبيا',
         'bg'     => 'Замбия',
         'cs'     => 'Zambie',
@@ -8429,11 +8431,11 @@ $countries = array(
         'uk'     => 'Замбія',
         'zh'     => '赞比亚',
         'zh-tw'  => '尚比亞',
-        'alpha2' => 'zm',
-        'alpha3' => 'zmb'
     ),
-    array(
+    716 => array(
         'id'     => 716,
+        'alpha2' => 'zw',
+        'alpha3' => 'zwe',
         'ar'     => 'زيمبابوي',
         'bg'     => 'Зимбабве',
         'cs'     => 'Zimbabwe',
@@ -8463,7 +8465,5 @@ $countries = array(
         'uk'     => 'Зімбабве',
         'zh'     => '津巴布韦',
         'zh-tw'  => '辛巴威',
-        'alpha2' => 'zw',
-        'alpha3' => 'zwe'
     ),
 );

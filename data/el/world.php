@@ -1,1497 +1,1497 @@
 <?php
 $world = array(
-    array(
+    662 => array(
         'id'        => 662,
-        'name'      => 'Αγία Λουκία',
         'alpha2'    => 'lc',
-        'alpha3'    => 'lca'
+        'alpha3'    => 'lca',
+        'name'      => 'Αγία Λουκία'
     ),
-    array(
+    652 => array(
         'id'        => 652,
-        'name'      => 'Άγιος Βαρθολομαίος',
         'alpha2'    => 'bl',
-        'alpha3'    => 'blm'
+        'alpha3'    => 'blm',
+        'name'      => 'Άγιος Βαρθολομαίος'
     ),
-    array(
+    663 => array(
         'id'        => 663,
-        'name'      => 'Άγιος Μαρτίνος (Γαλλία)',
         'alpha2'    => 'mf',
-        'alpha3'    => 'maf'
+        'alpha3'    => 'maf',
+        'name'      => 'Άγιος Μαρτίνος (Γαλλία)'
     ),
-    array(
+    534 => array(
         'id'        => 534,
-        'name'      => 'Άγιος Μαρτίνος (Ολλανδία)',
         'alpha2'    => 'sx',
-        'alpha3'    => 'sxm'
+        'alpha3'    => 'sxm',
+        'name'      => 'Άγιος Μαρτίνος (Ολλανδία)'
     ),
-    array(
+    670 => array(
         'id'        => 670,
-        'name'      => 'Άγιος Βικέντιος και Γρεναδίνες',
         'alpha2'    => 'vc',
-        'alpha3'    => 'vct'
+        'alpha3'    => 'vct',
+        'name'      => 'Άγιος Βικέντιος και Γρεναδίνες'
     ),
-    array(
+    674 => array(
         'id'        => 674,
-        'name'      => 'Άγιος Μαρίνος',
         'alpha2'    => 'sm',
-        'alpha3'    => 'smr'
+        'alpha3'    => 'smr',
+        'name'      => 'Άγιος Μαρίνος'
     ),
-    array(
+    666 => array(
         'id'        => 666,
-        'name'      => 'Σαιν Πιερ και Μικελόν',
         'alpha2'    => 'pm',
-        'alpha3'    => 'spm'
+        'alpha3'    => 'spm',
+        'name'      => 'Σαιν Πιερ και Μικελόν'
     ),
-    array(
+    659 => array(
         'id'        => 659,
-        'name'      => 'Άγιος Χριστόφορος και Νέβις',
         'alpha2'    => 'kn',
-        'alpha3'    => 'kna'
+        'alpha3'    => 'kna',
+        'name'      => 'Άγιος Χριστόφορος και Νέβις'
     ),
-    array(
+    31 => array(
         'id'        => 31,
-        'name'      => 'Αζερμπαϊτζάν',
         'alpha2'    => 'az',
-        'alpha3'    => 'aze'
+        'alpha3'    => 'aze',
+        'name'      => 'Αζερμπαϊτζάν'
     ),
-    array(
+    818 => array(
         'id'        => 818,
-        'name'      => 'Αίγυπτος',
         'alpha2'    => 'eg',
-        'alpha3'    => 'egy'
+        'alpha3'    => 'egy',
+        'name'      => 'Αίγυπτος'
     ),
-    array(
+    231 => array(
         'id'        => 231,
-        'name'      => 'Αιθιοπία',
         'alpha2'    => 'et',
-        'alpha3'    => 'eth'
+        'alpha3'    => 'eth',
+        'name'      => 'Αιθιοπία'
     ),
-    array(
+    332 => array(
         'id'        => 332,
-        'name'      => 'Αϊτή',
         'alpha2'    => 'ht',
-        'alpha3'    => 'hti'
+        'alpha3'    => 'hti',
+        'name'      => 'Αϊτή'
     ),
-    array(
+    384 => array(
         'id'        => 384,
-        'name'      => 'Ακτή Ελεφαντοστού',
         'alpha2'    => 'ci',
-        'alpha3'    => 'civ'
+        'alpha3'    => 'civ',
+        'name'      => 'Ακτή Ελεφαντοστού'
     ),
-    array(
+    8 => array(
         'id'        => 8,
-        'name'      => 'Αλβανία',
         'alpha2'    => 'al',
-        'alpha3'    => 'alb'
+        'alpha3'    => 'alb',
+        'name'      => 'Αλβανία'
     ),
-    array(
+    12 => array(
         'id'        => 12,
-        'name'      => 'Αλγερία',
         'alpha2'    => 'dz',
-        'alpha3'    => 'dza'
+        'alpha3'    => 'dza',
+        'name'      => 'Αλγερία'
     ),
-    array(
+    16 => array(
         'id'        => 16,
-        'name'      => 'Αμερικανική Σαμόα',
         'alpha2'    => 'as',
-        'alpha3'    => 'asm'
+        'alpha3'    => 'asm',
+        'name'      => 'Αμερικανική Σαμόα'
     ),
-    array(
+    626 => array(
         'id'        => 626,
-        'name'      => 'Ανατολικό Τιμόρ',
         'alpha2'    => 'tl',
-        'alpha3'    => 'tls'
+        'alpha3'    => 'tls',
+        'name'      => 'Ανατολικό Τιμόρ'
     ),
-    array(
+    24 => array(
         'id'        => 24,
-        'name'      => 'Ανγκόλα',
         'alpha2'    => 'ao',
-        'alpha3'    => 'ago'
+        'alpha3'    => 'ago',
+        'name'      => 'Ανγκόλα'
     ),
-    array(
+    660 => array(
         'id'        => 660,
-        'name'      => 'Ανγκουίλα',
         'alpha2'    => 'ai',
-        'alpha3'    => 'aia'
+        'alpha3'    => 'aia',
+        'name'      => 'Ανγκουίλα'
     ),
-    array(
+    20 => array(
         'id'        => 20,
-        'name'      => 'Ανδόρρα',
         'alpha2'    => 'ad',
-        'alpha3'    => 'and'
+        'alpha3'    => 'and',
+        'name'      => 'Ανδόρρα'
     ),
-    array(
+    10 => array(
         'id'        => 10,
-        'name'      => 'Ανταρκτική',
         'alpha2'    => 'aq',
-        'alpha3'    => 'ata'
+        'alpha3'    => 'ata',
+        'name'      => 'Ανταρκτική'
     ),
-    array(
+    28 => array(
         'id'        => 28,
-        'name'      => 'Αντίγκουα και Μπαρμπούντα',
         'alpha2'    => 'ag',
-        'alpha3'    => 'atg'
+        'alpha3'    => 'atg',
+        'name'      => 'Αντίγκουα και Μπαρμπούντα'
     ),
-    array(
+    32 => array(
         'id'        => 32,
-        'name'      => 'Αργεντινή',
         'alpha2'    => 'ar',
-        'alpha3'    => 'arg'
+        'alpha3'    => 'arg',
+        'name'      => 'Αργεντινή'
     ),
-    array(
+    51 => array(
         'id'        => 51,
-        'name'      => 'Αρμενία',
         'alpha2'    => 'am',
-        'alpha3'    => 'arm'
+        'alpha3'    => 'arm',
+        'name'      => 'Αρμενία'
     ),
-    array(
+    533 => array(
         'id'        => 533,
-        'name'      => 'Αρούμπα',
         'alpha2'    => 'aw',
-        'alpha3'    => 'abw'
+        'alpha3'    => 'abw',
+        'name'      => 'Αρούμπα'
     ),
-    array(
+    36 => array(
         'id'        => 36,
-        'name'      => 'Αυστραλία',
         'alpha2'    => 'au',
-        'alpha3'    => 'aus'
+        'alpha3'    => 'aus',
+        'name'      => 'Αυστραλία'
     ),
-    array(
+    40 => array(
         'id'        => 40,
-        'name'      => 'Αυστρία',
         'alpha2'    => 'at',
-        'alpha3'    => 'aut'
+        'alpha3'    => 'aut',
+        'name'      => 'Αυστρία'
     ),
-    array(
+    4 => array(
         'id'        => 4,
-        'name'      => 'Αφγανιστάν',
         'alpha2'    => 'af',
-        'alpha3'    => 'afg'
+        'alpha3'    => 'afg',
+        'name'      => 'Αφγανιστάν'
     ),
-    array(
+    548 => array(
         'id'        => 548,
-        'name'      => 'Βανουάτου',
         'alpha2'    => 'vu',
-        'alpha3'    => 'vut'
+        'alpha3'    => 'vut',
+        'name'      => 'Βανουάτου'
     ),
-    array(
+    336 => array(
         'id'        => 336,
-        'name'      => 'Βατικανό',
         'alpha2'    => 'va',
-        'alpha3'    => 'vat'
+        'alpha3'    => 'vat',
+        'name'      => 'Βατικανό'
     ),
-    array(
+    56 => array(
         'id'        => 56,
-        'name'      => 'Βέλγιο',
         'alpha2'    => 'be',
-        'alpha3'    => 'bel'
+        'alpha3'    => 'bel',
+        'name'      => 'Βέλγιο'
     ),
-    array(
+    862 => array(
         'id'        => 862,
-        'name'      => 'Βενεζουέλα',
         'alpha2'    => 've',
-        'alpha3'    => 'ven'
+        'alpha3'    => 'ven',
+        'name'      => 'Βενεζουέλα'
     ),
-    array(
+    60 => array(
         'id'        => 60,
-        'name'      => 'Βερμούδες',
         'alpha2'    => 'bm',
-        'alpha3'    => 'bmu'
+        'alpha3'    => 'bmu',
+        'name'      => 'Βερμούδες'
     ),
-    array(
+    704 => array(
         'id'        => 704,
-        'name'      => 'Βιετνάμ',
         'alpha2'    => 'vn',
-        'alpha3'    => 'vnm'
+        'alpha3'    => 'vnm',
+        'name'      => 'Βιετνάμ'
     ),
-    array(
+    68 => array(
         'id'        => 68,
-        'name'      => 'Βολιβία',
         'alpha2'    => 'bo',
-        'alpha3'    => 'bol'
+        'alpha3'    => 'bol',
+        'name'      => 'Βολιβία'
     ),
-    array(
+    408 => array(
         'id'        => 408,
-        'name'      => 'Βόρεια Κορέα',
         'alpha2'    => 'kp',
-        'alpha3'    => 'prk'
+        'alpha3'    => 'prk',
+        'name'      => 'Βόρεια Κορέα'
     ),
-    array(
+    70 => array(
         'id'        => 70,
-        'name'      => 'Βοσνία-Ερζεγοβίνη',
         'alpha2'    => 'ba',
-        'alpha3'    => 'bih'
+        'alpha3'    => 'bih',
+        'name'      => 'Βοσνία-Ερζεγοβίνη'
     ),
-    array(
+    100 => array(
         'id'        => 100,
-        'name'      => 'Βουλγαρία',
         'alpha2'    => 'bg',
-        'alpha3'    => 'bgr'
+        'alpha3'    => 'bgr',
+        'name'      => 'Βουλγαρία'
     ),
-    array(
+    76 => array(
         'id'        => 76,
-        'name'      => 'Βραζιλία',
         'alpha2'    => 'br',
-        'alpha3'    => 'bra'
+        'alpha3'    => 'bra',
+        'name'      => 'Βραζιλία'
     ),
-    array(
+    86 => array(
         'id'        => 86,
-        'name'      => 'Βρετανικό Έδαφος Ινδικού Ωκεανού',
         'alpha2'    => 'io',
-        'alpha3'    => 'iot'
+        'alpha3'    => 'iot',
+        'name'      => 'Βρετανικό Έδαφος Ινδικού Ωκεανού'
     ),
-    array(
+    92 => array(
         'id'        => 92,
-        'name'      => 'Βρετανικές Παρθένοι Νήσοι',
         'alpha2'    => 'vg',
-        'alpha3'    => 'vgb'
+        'alpha3'    => 'vgb',
+        'name'      => 'Βρετανικές Παρθένοι Νήσοι'
     ),
-    array(
+    250 => array(
         'id'        => 250,
-        'name'      => 'Γαλλία',
         'alpha2'    => 'fr',
-        'alpha3'    => 'fra'
+        'alpha3'    => 'fra',
+        'name'      => 'Γαλλία'
     ),
-    array(
+    260 => array(
         'id'        => 260,
-        'name'      => 'Γαλλικά Νότια και Ανταρκτικά Εδάφη',
         'alpha2'    => 'tf',
-        'alpha3'    => 'atf'
+        'alpha3'    => 'atf',
+        'name'      => 'Γαλλικά Νότια και Ανταρκτικά Εδάφη'
     ),
-    array(
+    254 => array(
         'id'        => 254,
-        'name'      => 'Γαλλική Γουιάνα',
         'alpha2'    => 'gf',
-        'alpha3'    => 'guf'
+        'alpha3'    => 'guf',
+        'name'      => 'Γαλλική Γουιάνα'
     ),
-    array(
+    258 => array(
         'id'        => 258,
-        'name'      => 'Γαλλική Πολυνησία',
         'alpha2'    => 'pf',
-        'alpha3'    => 'pyf'
+        'alpha3'    => 'pyf',
+        'name'      => 'Γαλλική Πολυνησία'
     ),
-    array(
+    276 => array(
         'id'        => 276,
-        'name'      => 'Γερμανία',
         'alpha2'    => 'de',
-        'alpha3'    => 'deu'
+        'alpha3'    => 'deu',
+        'name'      => 'Γερμανία'
     ),
-    array(
+    268 => array(
         'id'        => 268,
-        'name'      => 'Γεωργία',
         'alpha2'    => 'ge',
-        'alpha3'    => 'geo'
+        'alpha3'    => 'geo',
+        'name'      => 'Γεωργία'
     ),
-    array(
+    292 => array(
         'id'        => 292,
-        'name'      => 'Γιβραλτάρ',
         'alpha2'    => 'gi',
-        'alpha3'    => 'gib'
+        'alpha3'    => 'gib',
+        'name'      => 'Γιβραλτάρ'
     ),
-    array(
+    270 => array(
         'id'        => 270,
-        'name'      => 'Γκάμπια',
         'alpha2'    => 'gm',
-        'alpha3'    => 'gmb'
+        'alpha3'    => 'gmb',
+        'name'      => 'Γκάμπια'
     ),
-    array(
+    266 => array(
         'id'        => 266,
-        'name'      => 'Γκαμπόν',
         'alpha2'    => 'ga',
-        'alpha3'    => 'gab'
+        'alpha3'    => 'gab',
+        'name'      => 'Γκαμπόν'
     ),
-    array(
+    288 => array(
         'id'        => 288,
-        'name'      => 'Γκάνα',
         'alpha2'    => 'gh',
-        'alpha3'    => 'gha'
+        'alpha3'    => 'gha',
+        'name'      => 'Γκάνα'
     ),
-    array(
+    831 => array(
         'id'        => 831,
-        'name'      => 'Γκέρνσεϊ',
         'alpha2'    => 'gg',
-        'alpha3'    => 'ggy'
+        'alpha3'    => 'ggy',
+        'name'      => 'Γκέρνσεϊ'
     ),
-    array(
+    316 => array(
         'id'        => 316,
-        'name'      => 'Γκουάμ',
         'alpha2'    => 'gu',
-        'alpha3'    => 'gum'
+        'alpha3'    => 'gum',
+        'name'      => 'Γκουάμ'
     ),
-    array(
+    312 => array(
         'id'        => 312,
-        'name'      => 'Γουαδελούπη',
         'alpha2'    => 'gp',
-        'alpha3'    => 'glp'
+        'alpha3'    => 'glp',
+        'name'      => 'Γουαδελούπη'
     ),
-    array(
+    320 => array(
         'id'        => 320,
-        'name'      => 'Γουατεμάλα',
         'alpha2'    => 'gt',
-        'alpha3'    => 'gtm'
+        'alpha3'    => 'gtm',
+        'name'      => 'Γουατεμάλα'
     ),
-    array(
+    328 => array(
         'id'        => 328,
-        'name'      => 'Γουιάνα',
         'alpha2'    => 'gy',
-        'alpha3'    => 'guy'
+        'alpha3'    => 'guy',
+        'name'      => 'Γουιάνα'
     ),
-    array(
+    324 => array(
         'id'        => 324,
-        'name'      => 'Γουινέα',
         'alpha2'    => 'gn',
-        'alpha3'    => 'gin'
+        'alpha3'    => 'gin',
+        'name'      => 'Γουινέα'
     ),
-    array(
+    624 => array(
         'id'        => 624,
-        'name'      => 'Γουινέα-Μπισσάου',
         'alpha2'    => 'gw',
-        'alpha3'    => 'gnb'
+        'alpha3'    => 'gnb',
+        'name'      => 'Γουινέα-Μπισσάου'
     ),
-    array(
+    308 => array(
         'id'        => 308,
-        'name'      => 'Γρενάδα',
         'alpha2'    => 'gd',
-        'alpha3'    => 'grd'
+        'alpha3'    => 'grd',
+        'name'      => 'Γρενάδα'
     ),
-    array(
+    304 => array(
         'id'        => 304,
-        'name'      => 'Γροιλανδία',
         'alpha2'    => 'gl',
-        'alpha3'    => 'grl'
+        'alpha3'    => 'grl',
+        'name'      => 'Γροιλανδία'
     ),
-    array(
+    208 => array(
         'id'        => 208,
-        'name'      => 'Δανία',
         'alpha2'    => 'dk',
-        'alpha3'    => 'dnk'
+        'alpha3'    => 'dnk',
+        'name'      => 'Δανία'
     ),
-    array(
+    214 => array(
         'id'        => 214,
-        'name'      => 'Δομινικανή Δημοκρατία',
         'alpha2'    => 'do',
-        'alpha3'    => 'dom'
+        'alpha3'    => 'dom',
+        'name'      => 'Δομινικανή Δημοκρατία'
     ),
-    array(
+    275 => array(
         'id'        => 275,
-        'name'      => 'Δυτική Όχθη',
         'alpha2'    => 'ps',
-        'alpha3'    => 'pse'
+        'alpha3'    => 'pse',
+        'name'      => 'Δυτική Όχθη'
     ),
-    array(
+    732 => array(
         'id'        => 732,
-        'name'      => 'Δυτική Σαχάρα',
         'alpha2'    => 'eh',
-        'alpha3'    => 'esh'
+        'alpha3'    => 'esh',
+        'name'      => 'Δυτική Σαχάρα'
     ),
-    array(
+    222 => array(
         'id'        => 222,
-        'name'      => 'Ελ Σαλβαδόρ',
         'alpha2'    => 'sv',
-        'alpha3'    => 'slv'
+        'alpha3'    => 'slv',
+        'name'      => 'Ελ Σαλβαδόρ'
     ),
-    array(
+    756 => array(
         'id'        => 756,
-        'name'      => 'Ελβετία',
         'alpha2'    => 'ch',
-        'alpha3'    => 'che'
+        'alpha3'    => 'che',
+        'name'      => 'Ελβετία'
     ),
-    array(
+    300 => array(
         'id'        => 300,
-        'name'      => 'Ελλάδα',
         'alpha2'    => 'gr',
-        'alpha3'    => 'grc'
+        'alpha3'    => 'grc',
+        'name'      => 'Ελλάδα'
     ),
-    array(
+    232 => array(
         'id'        => 232,
-        'name'      => 'Ερυθραία',
         'alpha2'    => 'er',
-        'alpha3'    => 'eri'
+        'alpha3'    => 'eri',
+        'name'      => 'Ερυθραία'
     ),
-    array(
+    233 => array(
         'id'        => 233,
-        'name'      => 'Εσθονία',
         'alpha2'    => 'ee',
-        'alpha3'    => 'est'
+        'alpha3'    => 'est',
+        'name'      => 'Εσθονία'
     ),
-    array(
+    894 => array(
         'id'        => 894,
-        'name'      => 'Ζάμπια',
         'alpha2'    => 'zm',
-        'alpha3'    => 'zmb'
+        'alpha3'    => 'zmb',
+        'name'      => 'Ζάμπια'
     ),
-    array(
+    716 => array(
         'id'        => 716,
-        'name'      => 'Ζιμπάμπουε',
         'alpha2'    => 'zw',
-        'alpha3'    => 'zwe'
+        'alpha3'    => 'zwe',
+        'name'      => 'Ζιμπάμπουε'
     ),
-    array(
+    784 => array(
         'id'        => 784,
-        'name'      => 'Ηνωμένα Αραβικά Εμιράτα',
         'alpha2'    => 'ae',
-        'alpha3'    => 'are'
+        'alpha3'    => 'are',
+        'name'      => 'Ηνωμένα Αραβικά Εμιράτα'
     ),
-    array(
+    840 => array(
         'id'        => 840,
-        'name'      => 'Ηνωμένες Πολιτείες Αμερικής',
         'alpha2'    => 'us',
-        'alpha3'    => 'usa'
+        'alpha3'    => 'usa',
+        'name'      => 'Ηνωμένες Πολιτείες Αμερικής'
     ),
-    array(
+    581 => array(
         'id'        => 581,
-        'name'      => 'Απομακρυσμένες Νησίδες των Ηνωμένων Πολιτειών',
         'alpha2'    => 'um',
-        'alpha3'    => 'umi'
+        'alpha3'    => 'umi',
+        'name'      => 'Απομακρυσμένες Νησίδες των Ηνωμένων Πολιτειών'
     ),
-    array(
+    826 => array(
         'id'        => 826,
-        'name'      => 'Ηνωμένο Βασίλειο',
         'alpha2'    => 'gb',
-        'alpha3'    => 'gbr'
+        'alpha3'    => 'gbr',
+        'name'      => 'Ηνωμένο Βασίλειο'
     ),
-    array(
+    392 => array(
         'id'        => 392,
-        'name'      => 'Ιαπωνία',
         'alpha2'    => 'jp',
-        'alpha3'    => 'jpn'
+        'alpha3'    => 'jpn',
+        'name'      => 'Ιαπωνία'
     ),
-    array(
+    356 => array(
         'id'        => 356,
-        'name'      => 'Ινδία',
         'alpha2'    => 'in',
-        'alpha3'    => 'ind'
+        'alpha3'    => 'ind',
+        'name'      => 'Ινδία'
     ),
-    array(
+    360 => array(
         'id'        => 360,
-        'name'      => 'Ινδονησία',
         'alpha2'    => 'id',
-        'alpha3'    => 'idn'
+        'alpha3'    => 'idn',
+        'name'      => 'Ινδονησία'
     ),
-    array(
+    400 => array(
         'id'        => 400,
-        'name'      => 'Ιορδανία',
         'alpha2'    => 'jo',
-        'alpha3'    => 'jor'
+        'alpha3'    => 'jor',
+        'name'      => 'Ιορδανία'
     ),
-    array(
+    368 => array(
         'id'        => 368,
-        'name'      => 'Ιράκ',
         'alpha2'    => 'iq',
-        'alpha3'    => 'irq'
+        'alpha3'    => 'irq',
+        'name'      => 'Ιράκ'
     ),
-    array(
+    364 => array(
         'id'        => 364,
-        'name'      => 'Ιράν',
         'alpha2'    => 'ir',
-        'alpha3'    => 'irn'
+        'alpha3'    => 'irn',
+        'name'      => 'Ιράν'
     ),
-    array(
+    372 => array(
         'id'        => 372,
-        'name'      => 'Ιρλανδία',
         'alpha2'    => 'ie',
-        'alpha3'    => 'irl'
+        'alpha3'    => 'irl',
+        'name'      => 'Ιρλανδία'
     ),
-    array(
+    226 => array(
         'id'        => 226,
-        'name'      => 'Ισημερινή Γουινέα',
         'alpha2'    => 'gq',
-        'alpha3'    => 'gnq'
+        'alpha3'    => 'gnq',
+        'name'      => 'Ισημερινή Γουινέα'
     ),
-    array(
+    218 => array(
         'id'        => 218,
-        'name'      => 'Ισημερινός',
         'alpha2'    => 'ec',
-        'alpha3'    => 'ecu'
+        'alpha3'    => 'ecu',
+        'name'      => 'Ισημερινός'
     ),
-    array(
+    352 => array(
         'id'        => 352,
-        'name'      => 'Ισλανδία',
         'alpha2'    => 'is',
-        'alpha3'    => 'isl'
+        'alpha3'    => 'isl',
+        'name'      => 'Ισλανδία'
     ),
-    array(
+    724 => array(
         'id'        => 724,
-        'name'      => 'Ισπανία',
         'alpha2'    => 'es',
-        'alpha3'    => 'esp'
+        'alpha3'    => 'esp',
+        'name'      => 'Ισπανία'
     ),
-    array(
+    376 => array(
         'id'        => 376,
-        'name'      => 'Ισραήλ',
         'alpha2'    => 'il',
-        'alpha3'    => 'isr'
+        'alpha3'    => 'isr',
+        'name'      => 'Ισραήλ'
     ),
-    array(
+    380 => array(
         'id'        => 380,
-        'name'      => 'Ιταλία',
         'alpha2'    => 'it',
-        'alpha3'    => 'ita'
+        'alpha3'    => 'ita',
+        'name'      => 'Ιταλία'
     ),
-    array(
+    398 => array(
         'id'        => 398,
-        'name'      => 'Καζακστάν',
         'alpha2'    => 'kz',
-        'alpha3'    => 'kaz'
+        'alpha3'    => 'kaz',
+        'name'      => 'Καζακστάν'
     ),
-    array(
+    120 => array(
         'id'        => 120,
-        'name'      => 'Καμερούν',
         'alpha2'    => 'cm',
-        'alpha3'    => 'cmr'
+        'alpha3'    => 'cmr',
+        'name'      => 'Καμερούν'
     ),
-    array(
+    116 => array(
         'id'        => 116,
-        'name'      => 'Καμπότζη',
         'alpha2'    => 'kh',
-        'alpha3'    => 'khm'
+        'alpha3'    => 'khm',
+        'name'      => 'Καμπότζη'
     ),
-    array(
+    124 => array(
         'id'        => 124,
-        'name'      => 'Καναδάς',
         'alpha2'    => 'ca',
-        'alpha3'    => 'can'
+        'alpha3'    => 'can',
+        'name'      => 'Καναδάς'
     ),
-    array(
+    634 => array(
         'id'        => 634,
-        'name'      => 'Κατάρ',
         'alpha2'    => 'qa',
-        'alpha3'    => 'qat'
+        'alpha3'    => 'qat',
+        'name'      => 'Κατάρ'
     ),
-    array(
+    140 => array(
         'id'        => 140,
-        'name'      => 'Κεντροαφρικανική Δημοκρατία',
         'alpha2'    => 'cf',
-        'alpha3'    => 'caf'
+        'alpha3'    => 'caf',
+        'name'      => 'Κεντροαφρικανική Δημοκρατία'
     ),
-    array(
+    404 => array(
         'id'        => 404,
-        'name'      => 'Κένυα',
         'alpha2'    => 'ke',
-        'alpha3'    => 'ken'
+        'alpha3'    => 'ken',
+        'name'      => 'Κένυα'
     ),
-    array(
+    156 => array(
         'id'        => 156,
-        'name'      => 'Κίνα',
         'alpha2'    => 'cn',
-        'alpha3'    => 'chn'
+        'alpha3'    => 'chn',
+        'name'      => 'Κίνα'
     ),
-    array(
+    417 => array(
         'id'        => 417,
-        'name'      => 'Κιργιζία',
         'alpha2'    => 'kg',
-        'alpha3'    => 'kgz'
+        'alpha3'    => 'kgz',
+        'name'      => 'Κιργιζία'
     ),
-    array(
+    296 => array(
         'id'        => 296,
-        'name'      => 'Κιριμπάτι',
         'alpha2'    => 'ki',
-        'alpha3'    => 'kir'
+        'alpha3'    => 'kir',
+        'name'      => 'Κιριμπάτι'
     ),
-    array(
+    178 => array(
         'id'        => 178,
-        'name'      => 'Κογκό',
         'alpha2'    => 'cg',
-        'alpha3'    => 'cog'
+        'alpha3'    => 'cog',
+        'name'      => 'Κογκό'
     ),
-    array(
+    170 => array(
         'id'        => 170,
-        'name'      => 'Κολομβία',
         'alpha2'    => 'co',
-        'alpha3'    => 'col'
+        'alpha3'    => 'col',
+        'name'      => 'Κολομβία'
     ),
-    array(
+    174 => array(
         'id'        => 174,
-        'name'      => 'Κομόρες',
         'alpha2'    => 'km',
-        'alpha3'    => 'com'
+        'alpha3'    => 'com',
+        'name'      => 'Κομόρες'
     ),
-    array(
+    188 => array(
         'id'        => 188,
-        'name'      => 'Κόστα Ρίκα',
         'alpha2'    => 'cr',
-        'alpha3'    => 'cri'
+        'alpha3'    => 'cri',
+        'name'      => 'Κόστα Ρίκα'
     ),
-    array(
+    192 => array(
         'id'        => 192,
-        'name'      => 'Κούβα',
         'alpha2'    => 'cu',
-        'alpha3'    => 'cub'
+        'alpha3'    => 'cub',
+        'name'      => 'Κούβα'
     ),
-    array(
+    414 => array(
         'id'        => 414,
-        'name'      => 'Κουβέιτ',
         'alpha2'    => 'kw',
-        'alpha3'    => 'kwt'
+        'alpha3'    => 'kwt',
+        'name'      => 'Κουβέιτ'
     ),
-    array(
+    531 => array(
         'id'        => 531,
-        'name'      => 'Κουρασάο',
         'alpha2'    => 'cw',
-        'alpha3'    => 'cuw'
+        'alpha3'    => 'cuw',
+        'name'      => 'Κουρασάο'
     ),
-    array(
+    191 => array(
         'id'        => 191,
-        'name'      => 'Κροατία',
         'alpha2'    => 'hr',
-        'alpha3'    => 'hrv'
+        'alpha3'    => 'hrv',
+        'name'      => 'Κροατία'
     ),
-    array(
+    196 => array(
         'id'        => 196,
-        'name'      => 'Κύπρος',
         'alpha2'    => 'cy',
-        'alpha3'    => 'cyp'
+        'alpha3'    => 'cyp',
+        'name'      => 'Κύπρος'
     ),
-    array(
+    180 => array(
         'id'        => 180,
-        'name'      => 'Λαϊκή Δημοκρατία του Κογκό',
         'alpha2'    => 'cd',
-        'alpha3'    => 'cod'
+        'alpha3'    => 'cod',
+        'name'      => 'Λαϊκή Δημοκρατία του Κογκό'
     ),
-    array(
+    418 => array(
         'id'        => 418,
-        'name'      => 'Λάος',
         'alpha2'    => 'la',
-        'alpha3'    => 'lao'
+        'alpha3'    => 'lao',
+        'name'      => 'Λάος'
     ),
-    array(
+    426 => array(
         'id'        => 426,
-        'name'      => 'Λεσότο',
         'alpha2'    => 'ls',
-        'alpha3'    => 'lso'
+        'alpha3'    => 'lso',
+        'name'      => 'Λεσότο'
     ),
-    array(
+    428 => array(
         'id'        => 428,
-        'name'      => 'Λεττονία',
         'alpha2'    => 'lv',
-        'alpha3'    => 'lva'
+        'alpha3'    => 'lva',
+        'name'      => 'Λεττονία'
     ),
-    array(
+    112 => array(
         'id'        => 112,
-        'name'      => 'Λευκορωσία',
         'alpha2'    => 'by',
-        'alpha3'    => 'blr'
+        'alpha3'    => 'blr',
+        'name'      => 'Λευκορωσία'
     ),
-    array(
+    422 => array(
         'id'        => 422,
-        'name'      => 'Λίβανος',
         'alpha2'    => 'lb',
-        'alpha3'    => 'lbn'
+        'alpha3'    => 'lbn',
+        'name'      => 'Λίβανος'
     ),
-    array(
+    430 => array(
         'id'        => 430,
-        'name'      => 'Λιβερία',
         'alpha2'    => 'lr',
-        'alpha3'    => 'lbr'
+        'alpha3'    => 'lbr',
+        'name'      => 'Λιβερία'
     ),
-    array(
+    434 => array(
         'id'        => 434,
-        'name'      => 'Λιβύη',
         'alpha2'    => 'ly',
-        'alpha3'    => 'lby'
+        'alpha3'    => 'lby',
+        'name'      => 'Λιβύη'
     ),
-    array(
+    440 => array(
         'id'        => 440,
-        'name'      => 'Λιθουανία',
         'alpha2'    => 'lt',
-        'alpha3'    => 'ltu'
+        'alpha3'    => 'ltu',
+        'name'      => 'Λιθουανία'
     ),
-    array(
+    438 => array(
         'id'        => 438,
-        'name'      => 'Λίχτενσταϊν',
         'alpha2'    => 'li',
-        'alpha3'    => 'lie'
+        'alpha3'    => 'lie',
+        'name'      => 'Λίχτενσταϊν'
     ),
-    array(
+    442 => array(
         'id'        => 442,
-        'name'      => 'Λουξεμβούργο',
         'alpha2'    => 'lu',
-        'alpha3'    => 'lux'
+        'alpha3'    => 'lux',
+        'name'      => 'Λουξεμβούργο'
     ),
-    array(
+    175 => array(
         'id'        => 175,
-        'name'      => 'Μαγιότ',
         'alpha2'    => 'yt',
-        'alpha3'    => 'myt'
+        'alpha3'    => 'myt',
+        'name'      => 'Μαγιότ'
     ),
-    array(
+    450 => array(
         'id'        => 450,
-        'name'      => 'Μαδαγασκάρη',
         'alpha2'    => 'mg',
-        'alpha3'    => 'mdg'
+        'alpha3'    => 'mdg',
+        'name'      => 'Μαδαγασκάρη'
     ),
-    array(
+    446 => array(
         'id'        => 446,
-        'name'      => 'Μακάο',
         'alpha2'    => 'mo',
-        'alpha3'    => 'mac'
+        'alpha3'    => 'mac',
+        'name'      => 'Μακάο'
     ),
-    array(
+    458 => array(
         'id'        => 458,
-        'name'      => 'Μαλαισία',
         'alpha2'    => 'my',
-        'alpha3'    => 'mys'
+        'alpha3'    => 'mys',
+        'name'      => 'Μαλαισία'
     ),
-    array(
+    454 => array(
         'id'        => 454,
-        'name'      => 'Μαλάουι',
         'alpha2'    => 'mw',
-        'alpha3'    => 'mwi'
+        'alpha3'    => 'mwi',
+        'name'      => 'Μαλάουι'
     ),
-    array(
+    462 => array(
         'id'        => 462,
-        'name'      => 'Μαλδίβες',
         'alpha2'    => 'mv',
-        'alpha3'    => 'mdv'
+        'alpha3'    => 'mdv',
+        'name'      => 'Μαλδίβες'
     ),
-    array(
+    466 => array(
         'id'        => 466,
-        'name'      => 'Μάλι',
         'alpha2'    => 'ml',
-        'alpha3'    => 'mli'
+        'alpha3'    => 'mli',
+        'name'      => 'Μάλι'
     ),
-    array(
+    470 => array(
         'id'        => 470,
-        'name'      => 'Μάλτα',
         'alpha2'    => 'mt',
-        'alpha3'    => 'mlt'
+        'alpha3'    => 'mlt',
+        'name'      => 'Μάλτα'
     ),
-    array(
+    504 => array(
         'id'        => 504,
-        'name'      => 'Μαρόκο',
         'alpha2'    => 'ma',
-        'alpha3'    => 'mar'
+        'alpha3'    => 'mar',
+        'name'      => 'Μαρόκο'
     ),
-    array(
+    474 => array(
         'id'        => 474,
-        'name'      => 'Μαρτινίκα',
         'alpha2'    => 'mq',
-        'alpha3'    => 'mtq'
+        'alpha3'    => 'mtq',
+        'name'      => 'Μαρτινίκα'
     ),
-    array(
+    480 => array(
         'id'        => 480,
-        'name'      => 'Μαυρίκιος',
         'alpha2'    => 'mu',
-        'alpha3'    => 'mus'
+        'alpha3'    => 'mus',
+        'name'      => 'Μαυρίκιος'
     ),
-    array(
+    478 => array(
         'id'        => 478,
-        'name'      => 'Μαυριτανία',
         'alpha2'    => 'mr',
-        'alpha3'    => 'mrt'
+        'alpha3'    => 'mrt',
+        'name'      => 'Μαυριτανία'
     ),
-    array(
+    499 => array(
         'id'        => 499,
-        'name'      => 'Μαυροβούνιο',
         'alpha2'    => 'me',
-        'alpha3'    => 'mne'
+        'alpha3'    => 'mne',
+        'name'      => 'Μαυροβούνιο'
     ),
-    array(
+    484 => array(
         'id'        => 484,
-        'name'      => 'Μεξικό',
         'alpha2'    => 'mx',
-        'alpha3'    => 'mex'
+        'alpha3'    => 'mex',
+        'name'      => 'Μεξικό'
     ),
-    array(
+    104 => array(
         'id'        => 104,
-        'name'      => 'Μιανμάρ',
         'alpha2'    => 'mm',
-        'alpha3'    => 'mmr'
+        'alpha3'    => 'mmr',
+        'name'      => 'Μιανμάρ'
     ),
-    array(
+    496 => array(
         'id'        => 496,
-        'name'      => 'Μογγολία',
         'alpha2'    => 'mn',
-        'alpha3'    => 'mng'
+        'alpha3'    => 'mng',
+        'name'      => 'Μογγολία'
     ),
-    array(
+    508 => array(
         'id'        => 508,
-        'name'      => 'Μοζαμβίκη',
         'alpha2'    => 'mz',
-        'alpha3'    => 'moz'
+        'alpha3'    => 'moz',
+        'name'      => 'Μοζαμβίκη'
     ),
-    array(
+    498 => array(
         'id'        => 498,
-        'name'      => 'Μολδαβία',
         'alpha2'    => 'md',
-        'alpha3'    => 'mda'
+        'alpha3'    => 'mda',
+        'name'      => 'Μολδαβία'
     ),
-    array(
+    492 => array(
         'id'        => 492,
-        'name'      => 'Μονακό',
         'alpha2'    => 'mc',
-        'alpha3'    => 'mco'
+        'alpha3'    => 'mco',
+        'name'      => 'Μονακό'
     ),
-    array(
+    500 => array(
         'id'        => 500,
-        'name'      => 'Μοντσερράτ',
         'alpha2'    => 'ms',
-        'alpha3'    => 'msr'
+        'alpha3'    => 'msr',
+        'name'      => 'Μοντσερράτ'
     ),
-    array(
+    50 => array(
         'id'        => 50,
-        'name'      => 'Μπανγκλαντές',
         'alpha2'    => 'bd',
-        'alpha3'    => 'bgd'
+        'alpha3'    => 'bgd',
+        'name'      => 'Μπανγκλαντές'
     ),
-    array(
+    52 => array(
         'id'        => 52,
-        'name'      => 'Μπαρμπάντος',
         'alpha2'    => 'bb',
-        'alpha3'    => 'brb'
+        'alpha3'    => 'brb',
+        'name'      => 'Μπαρμπάντος'
     ),
-    array(
+    44 => array(
         'id'        => 44,
-        'name'      => 'Μπαχάμες',
         'alpha2'    => 'bs',
-        'alpha3'    => 'bhs'
+        'alpha3'    => 'bhs',
+        'name'      => 'Μπαχάμες'
     ),
-    array(
+    48 => array(
         'id'        => 48,
-        'name'      => 'Μπαχρέιν',
         'alpha2'    => 'bh',
-        'alpha3'    => 'bhr'
+        'alpha3'    => 'bhr',
+        'name'      => 'Μπαχρέιν'
     ),
-    array(
+    84 => array(
         'id'        => 84,
-        'name'      => 'Μπελίζ',
         'alpha2'    => 'bz',
-        'alpha3'    => 'blz'
+        'alpha3'    => 'blz',
+        'name'      => 'Μπελίζ'
     ),
-    array(
+    204 => array(
         'id'        => 204,
-        'name'      => 'Μπενίν',
         'alpha2'    => 'bj',
-        'alpha3'    => 'ben'
+        'alpha3'    => 'ben',
+        'name'      => 'Μπενίν'
     ),
-    array(
+    535 => array(
         'id'        => 535,
-        'name'      => 'Μποναίρ, Άγιος Ευστάθιος και Σάμπα',
         'alpha2'    => 'bq',
-        'alpha3'    => 'bes'
+        'alpha3'    => 'bes',
+        'name'      => 'Μποναίρ, Άγιος Ευστάθιος και Σάμπα'
     ),
-    array(
+    72 => array(
         'id'        => 72,
-        'name'      => 'Μποτσουάνα',
         'alpha2'    => 'bw',
-        'alpha3'    => 'bwa'
+        'alpha3'    => 'bwa',
+        'name'      => 'Μποτσουάνα'
     ),
-    array(
+    854 => array(
         'id'        => 854,
-        'name'      => 'Μπουρκίνα Φάσο',
         'alpha2'    => 'bf',
-        'alpha3'    => 'bfa'
+        'alpha3'    => 'bfa',
+        'name'      => 'Μπουρκίνα Φάσο'
     ),
-    array(
+    108 => array(
         'id'        => 108,
-        'name'      => 'Μπουρούντι',
         'alpha2'    => 'bi',
-        'alpha3'    => 'bdi'
+        'alpha3'    => 'bdi',
+        'name'      => 'Μπουρούντι'
     ),
-    array(
+    64 => array(
         'id'        => 64,
-        'name'      => 'Μπουτάν',
         'alpha2'    => 'bt',
-        'alpha3'    => 'btn'
+        'alpha3'    => 'btn',
+        'name'      => 'Μπουτάν'
     ),
-    array(
+    96 => array(
         'id'        => 96,
-        'name'      => 'Μπρουνέι',
         'alpha2'    => 'bn',
-        'alpha3'    => 'brn'
+        'alpha3'    => 'brn',
+        'name'      => 'Μπρουνέι'
     ),
-    array(
+    516 => array(
         'id'        => 516,
-        'name'      => 'Ναμίμπια',
         'alpha2'    => 'na',
-        'alpha3'    => 'nam'
+        'alpha3'    => 'nam',
+        'name'      => 'Ναμίμπια'
     ),
-    array(
+    520 => array(
         'id'        => 520,
-        'name'      => 'Ναουρού',
         'alpha2'    => 'nr',
-        'alpha3'    => 'nru'
+        'alpha3'    => 'nru',
+        'name'      => 'Ναουρού'
     ),
-    array(
+    554 => array(
         'id'        => 554,
-        'name'      => 'Νέα Ζηλανδία',
         'alpha2'    => 'nz',
-        'alpha3'    => 'nzl'
+        'alpha3'    => 'nzl',
+        'name'      => 'Νέα Ζηλανδία'
     ),
-    array(
+    540 => array(
         'id'        => 540,
-        'name'      => 'Νέα Καληδονία',
         'alpha2'    => 'nc',
-        'alpha3'    => 'ncl'
+        'alpha3'    => 'ncl',
+        'name'      => 'Νέα Καληδονία'
     ),
-    array(
+    524 => array(
         'id'        => 524,
-        'name'      => 'Νεπάλ',
         'alpha2'    => 'np',
-        'alpha3'    => 'npl'
+        'alpha3'    => 'npl',
+        'name'      => 'Νεπάλ'
     ),
-    array(
+    74 => array(
         'id'        => 74,
-        'name'      => 'Μπουβέ',
         'alpha2'    => 'bv',
-        'alpha3'    => 'bvt'
+        'alpha3'    => 'bvt',
+        'name'      => 'Μπουβέ'
     ),
-    array(
+    574 => array(
         'id'        => 574,
-        'name'      => 'Νησί Νόρφολκ',
         'alpha2'    => 'nf',
-        'alpha3'    => 'nfk'
+        'alpha3'    => 'nfk',
+        'name'      => 'Νησί Νόρφολκ'
     ),
-    array(
+    162 => array(
         'id'        => 162,
-        'name'      => 'Νήσος των Χριστουγέννων',
         'alpha2'    => 'cx',
-        'alpha3'    => 'cxr'
+        'alpha3'    => 'cxr',
+        'name'      => 'Νήσος των Χριστουγέννων'
     ),
-    array(
+    166 => array(
         'id'        => 166,
-        'name'      => 'Νησιά Κόκος (Keeling)',
         'alpha2'    => 'cc',
-        'alpha3'    => 'cck'
+        'alpha3'    => 'cck',
+        'name'      => 'Νησιά Κόκος (Keeling)'
     ),
-    array(
+    248 => array(
         'id'        => 248,
-        'name'      => 'Ώλαντ',
         'alpha2'    => 'ax',
-        'alpha3'    => 'ala'
+        'alpha3'    => 'ala',
+        'name'      => 'Ώλαντ'
     ),
-    array(
+    580 => array(
         'id'        => 580,
-        'name'      => 'Βόρειες Μαριάνες Νήσοι',
         'alpha2'    => 'mp',
-        'alpha3'    => 'mnp'
+        'alpha3'    => 'mnp',
+        'name'      => 'Βόρειες Μαριάνες Νήσοι'
     ),
-    array(
+    584 => array(
         'id'        => 584,
-        'name'      => 'Νήσοι Μάρσαλ',
         'alpha2'    => 'mh',
-        'alpha3'    => 'mhl'
+        'alpha3'    => 'mhl',
+        'name'      => 'Νήσοι Μάρσαλ'
     ),
-    array(
+    612 => array(
         'id'        => 612,
-        'name'      => 'Νησιά Πίτκερν',
         'alpha2'    => 'pn',
-        'alpha3'    => 'pcn'
+        'alpha3'    => 'pcn',
+        'name'      => 'Νησιά Πίτκερν'
     ),
-    array(
+    136 => array(
         'id'        => 136,
-        'name'      => 'Κέιμαν Νήσοι',
         'alpha2'    => 'ky',
-        'alpha3'    => 'cym'
+        'alpha3'    => 'cym',
+        'name'      => 'Κέιμαν Νήσοι'
     ),
-    array(
+    184 => array(
         'id'        => 184,
-        'name'      => 'Νήσοι Κουκ',
         'alpha2'    => 'ck',
-        'alpha3'    => 'cok'
+        'alpha3'    => 'cok',
+        'name'      => 'Νήσοι Κουκ'
     ),
-    array(
+    90 => array(
         'id'        => 90,
-        'name'      => 'Νήσοι Σολομώντα',
         'alpha2'    => 'sb',
-        'alpha3'    => 'slb'
+        'alpha3'    => 'slb',
+        'name'      => 'Νήσοι Σολομώντα'
     ),
-    array(
+    234 => array(
         'id'        => 234,
-        'name'      => 'Νήσοι Φερόες',
         'alpha2'    => 'fo',
-        'alpha3'    => 'fro'
+        'alpha3'    => 'fro',
+        'name'      => 'Νήσοι Φερόες'
     ),
-    array(
+    238 => array(
         'id'        => 238,
-        'name'      => 'Νήσοι Φώκλαντ',
         'alpha2'    => 'fk',
-        'alpha3'    => 'flk'
+        'alpha3'    => 'flk',
+        'name'      => 'Νήσοι Φώκλαντ'
     ),
-    array(
+    833 => array(
         'id'        => 833,
-        'name'      => 'Νήσος Μαν',
         'alpha2'    => 'im',
-        'alpha3'    => 'imn'
+        'alpha3'    => 'imn',
+        'name'      => 'Νήσος Μαν'
     ),
-    array(
+    334 => array(
         'id'        => 334,
-        'name'      => 'Νήσοι Χερντ και Μακντόναλντ',
         'alpha2'    => 'hm',
-        'alpha3'    => 'hmd'
+        'alpha3'    => 'hmd',
+        'name'      => 'Νήσοι Χερντ και Μακντόναλντ'
     ),
-    array(
+    562 => array(
         'id'        => 562,
-        'name'      => 'Νίγηρας',
         'alpha2'    => 'ne',
-        'alpha3'    => 'ner'
+        'alpha3'    => 'ner',
+        'name'      => 'Νίγηρας'
     ),
-    array(
+    566 => array(
         'id'        => 566,
-        'name'      => 'Νιγηρία',
         'alpha2'    => 'ng',
-        'alpha3'    => 'nga'
+        'alpha3'    => 'nga',
+        'name'      => 'Νιγηρία'
     ),
-    array(
+    558 => array(
         'id'        => 558,
-        'name'      => 'Νικαράγουα',
         'alpha2'    => 'ni',
-        'alpha3'    => 'nic'
+        'alpha3'    => 'nic',
+        'name'      => 'Νικαράγουα'
     ),
-    array(
+    570 => array(
         'id'        => 570,
-        'name'      => 'Νιούε',
         'alpha2'    => 'nu',
-        'alpha3'    => 'niu'
+        'alpha3'    => 'niu',
+        'name'      => 'Νιούε'
     ),
-    array(
+    578 => array(
         'id'        => 578,
-        'name'      => 'Νορβηγία',
         'alpha2'    => 'no',
-        'alpha3'    => 'nor'
+        'alpha3'    => 'nor',
+        'name'      => 'Νορβηγία'
     ),
-    array(
+    710 => array(
         'id'        => 710,
-        'name'      => 'Νότια Αφρική',
         'alpha2'    => 'za',
-        'alpha3'    => 'zaf'
+        'alpha3'    => 'zaf',
+        'name'      => 'Νότια Αφρική'
     ),
-    array(
+    239 => array(
         'id'        => 239,
-        'name'      => 'Νήσοι Νότια Γεωργία και Νότιες Σάντουιτς',
         'alpha2'    => 'gs',
-        'alpha3'    => 'sgs'
+        'alpha3'    => 'sgs',
+        'name'      => 'Νήσοι Νότια Γεωργία και Νότιες Σάντουιτς'
     ),
-    array(
+    410 => array(
         'id'        => 410,
-        'name'      => 'Νότια Κορέα',
         'alpha2'    => 'kr',
-        'alpha3'    => 'kor'
+        'alpha3'    => 'kor',
+        'name'      => 'Νότια Κορέα'
     ),
-    array(
+    728 => array(
         'id'        => 728,
-        'name'      => 'Νότιο Σουδάν',
         'alpha2'    => 'ss',
-        'alpha3'    => 'ssd'
+        'alpha3'    => 'ssd',
+        'name'      => 'Νότιο Σουδάν'
     ),
-    array(
+    212 => array(
         'id'        => 212,
-        'name'      => 'Δομινίκα',
         'alpha2'    => 'dm',
-        'alpha3'    => 'dma'
+        'alpha3'    => 'dma',
+        'name'      => 'Δομινίκα'
     ),
-    array(
+    528 => array(
         'id'        => 528,
-        'name'      => 'Ολλανδία (Κάτω Χώρες)',
         'alpha2'    => 'nl',
-        'alpha3'    => 'nld'
+        'alpha3'    => 'nld',
+        'name'      => 'Ολλανδία (Κάτω Χώρες)'
     ),
-    array(
+    512 => array(
         'id'        => 512,
-        'name'      => 'Ομάν',
         'alpha2'    => 'om',
-        'alpha3'    => 'omn'
+        'alpha3'    => 'omn',
+        'name'      => 'Ομάν'
     ),
-    array(
+    583 => array(
         'id'        => 583,
-        'name'      => 'Ομόσπονδες Πολιτείες της Μικρονησίας',
         'alpha2'    => 'fm',
-        'alpha3'    => 'fsm'
+        'alpha3'    => 'fsm',
+        'name'      => 'Ομόσπονδες Πολιτείες της Μικρονησίας'
     ),
-    array(
+    340 => array(
         'id'        => 340,
-        'name'      => 'Ονδούρα',
         'alpha2'    => 'hn',
-        'alpha3'    => 'hnd'
+        'alpha3'    => 'hnd',
+        'name'      => 'Ονδούρα'
     ),
-    array(
+    876 => array(
         'id'        => 876,
-        'name'      => 'Ουαλίς και Φουτουνά',
         'alpha2'    => 'wf',
-        'alpha3'    => 'wlf'
+        'alpha3'    => 'wlf',
+        'name'      => 'Ουαλίς και Φουτουνά'
     ),
-    array(
+    348 => array(
         'id'        => 348,
-        'name'      => 'Ουγγαρία',
         'alpha2'    => 'hu',
-        'alpha3'    => 'hun'
+        'alpha3'    => 'hun',
+        'name'      => 'Ουγγαρία'
     ),
-    array(
+    800 => array(
         'id'        => 800,
-        'name'      => 'Ουγκάντα',
         'alpha2'    => 'ug',
-        'alpha3'    => 'uga'
+        'alpha3'    => 'uga',
+        'name'      => 'Ουγκάντα'
     ),
-    array(
+    860 => array(
         'id'        => 860,
-        'name'      => 'Ουζμπεκιστάν',
         'alpha2'    => 'uz',
-        'alpha3'    => 'uzb'
+        'alpha3'    => 'uzb',
+        'name'      => 'Ουζμπεκιστάν'
     ),
-    array(
+    804 => array(
         'id'        => 804,
-        'name'      => 'Ουκρανία',
         'alpha2'    => 'ua',
-        'alpha3'    => 'ukr'
+        'alpha3'    => 'ukr',
+        'name'      => 'Ουκρανία'
     ),
-    array(
+    858 => array(
         'id'        => 858,
-        'name'      => 'Ουρουγουάη',
         'alpha2'    => 'uy',
-        'alpha3'    => 'ury'
+        'alpha3'    => 'ury',
+        'name'      => 'Ουρουγουάη'
     ),
-    array(
+    586 => array(
         'id'        => 586,
-        'name'      => 'Πακιστάν',
         'alpha2'    => 'pk',
-        'alpha3'    => 'pak'
+        'alpha3'    => 'pak',
+        'name'      => 'Πακιστάν'
     ),
-    array(
+    585 => array(
         'id'        => 585,
-        'name'      => 'Παλάου',
         'alpha2'    => 'pw',
-        'alpha3'    => 'plw'
+        'alpha3'    => 'plw',
+        'name'      => 'Παλάου'
     ),
-    array(
+    591 => array(
         'id'        => 591,
-        'name'      => 'Παναμάς',
         'alpha2'    => 'pa',
-        'alpha3'    => 'pan'
+        'alpha3'    => 'pan',
+        'name'      => 'Παναμάς'
     ),
-    array(
+    598 => array(
         'id'        => 598,
-        'name'      => 'Παπούα Νέα Γουινέα',
         'alpha2'    => 'pg',
-        'alpha3'    => 'png'
+        'alpha3'    => 'png',
+        'name'      => 'Παπούα Νέα Γουινέα'
     ),
-    array(
+    600 => array(
         'id'        => 600,
-        'name'      => 'Παραγουάη',
         'alpha2'    => 'py',
-        'alpha3'    => 'pry'
+        'alpha3'    => 'pry',
+        'name'      => 'Παραγουάη'
     ),
-    array(
+    850 => array(
         'id'        => 850,
-        'name'      => 'Αμερικανικές Παρθένοι Νήσοι',
         'alpha2'    => 'vi',
-        'alpha3'    => 'vir'
+        'alpha3'    => 'vir',
+        'name'      => 'Αμερικανικές Παρθένοι Νήσοι'
     ),
-    array(
+    807 => array(
         'id'        => 807,
-        'name'      => 'Βόρεια Μακεδονία',
         'alpha2'    => 'mk',
-        'alpha3'    => 'mkd'
+        'alpha3'    => 'mkd',
+        'name'      => 'Βόρεια Μακεδονία'
     ),
-    array(
+    604 => array(
         'id'        => 604,
-        'name'      => 'Περού',
         'alpha2'    => 'pe',
-        'alpha3'    => 'per'
+        'alpha3'    => 'per',
+        'name'      => 'Περού'
     ),
-    array(
+    616 => array(
         'id'        => 616,
-        'name'      => 'Πολωνία',
         'alpha2'    => 'pl',
-        'alpha3'    => 'pol'
+        'alpha3'    => 'pol',
+        'name'      => 'Πολωνία'
     ),
-    array(
+    620 => array(
         'id'        => 620,
-        'name'      => 'Πορτογαλία',
         'alpha2'    => 'pt',
-        'alpha3'    => 'prt'
+        'alpha3'    => 'prt',
+        'name'      => 'Πορτογαλία'
     ),
-    array(
+    630 => array(
         'id'        => 630,
-        'name'      => 'Πουέρτο Ρίκο',
         'alpha2'    => 'pr',
-        'alpha3'    => 'pri'
+        'alpha3'    => 'pri',
+        'name'      => 'Πουέρτο Ρίκο'
     ),
-    array(
+    132 => array(
         'id'        => 132,
-        'name'      => 'Πράσινο Ακρωτήρι',
         'alpha2'    => 'cv',
-        'alpha3'    => 'cpv'
+        'alpha3'    => 'cpv',
+        'name'      => 'Πράσινο Ακρωτήρι'
     ),
-    array(
+    638 => array(
         'id'        => 638,
-        'name'      => 'Ρεϊνιόν',
         'alpha2'    => 're',
-        'alpha3'    => 'reu'
+        'alpha3'    => 'reu',
+        'name'      => 'Ρεϊνιόν'
     ),
-    array(
+    646 => array(
         'id'        => 646,
-        'name'      => 'Ρουάντα',
         'alpha2'    => 'rw',
-        'alpha3'    => 'rwa'
+        'alpha3'    => 'rwa',
+        'name'      => 'Ρουάντα'
     ),
-    array(
+    642 => array(
         'id'        => 642,
-        'name'      => 'Ρουμανία',
         'alpha2'    => 'ro',
-        'alpha3'    => 'rou'
+        'alpha3'    => 'rou',
+        'name'      => 'Ρουμανία'
     ),
-    array(
+    643 => array(
         'id'        => 643,
-        'name'      => 'Ρωσία',
         'alpha2'    => 'ru',
-        'alpha3'    => 'rus'
+        'alpha3'    => 'rus',
+        'name'      => 'Ρωσία'
     ),
-    array(
+    882 => array(
         'id'        => 882,
-        'name'      => 'Σαμόα',
         'alpha2'    => 'ws',
-        'alpha3'    => 'wsm'
+        'alpha3'    => 'wsm',
+        'name'      => 'Σαμόα'
     ),
-    array(
+    654 => array(
         'id'        => 654,
-        'name'      => 'Νήσος Αγίας Ελένης',
         'alpha2'    => 'sh',
-        'alpha3'    => 'shn'
+        'alpha3'    => 'shn',
+        'name'      => 'Νήσος Αγίας Ελένης'
     ),
-    array(
+    678 => array(
         'id'        => 678,
-        'name'      => 'Σάο Τομέ και Πρίνσιπε',
         'alpha2'    => 'st',
-        'alpha3'    => 'stp'
+        'alpha3'    => 'stp',
+        'name'      => 'Σάο Τομέ και Πρίνσιπε'
     ),
-    array(
+    682 => array(
         'id'        => 682,
-        'name'      => 'Σαουδική Αραβία',
         'alpha2'    => 'sa',
-        'alpha3'    => 'sau'
+        'alpha3'    => 'sau',
+        'name'      => 'Σαουδική Αραβία'
     ),
-    array(
+    744 => array(
         'id'        => 744,
-        'name'      => 'Σβάλμπαρντ',
         'alpha2'    => 'sj',
-        'alpha3'    => 'sjm'
+        'alpha3'    => 'sjm',
+        'name'      => 'Σβάλμπαρντ'
     ),
-    array(
+    686 => array(
         'id'        => 686,
-        'name'      => 'Σενεγάλη',
         'alpha2'    => 'sn',
-        'alpha3'    => 'sen'
+        'alpha3'    => 'sen',
+        'name'      => 'Σενεγάλη'
     ),
-    array(
+    688 => array(
         'id'        => 688,
-        'name'      => 'Σερβία',
         'alpha2'    => 'rs',
-        'alpha3'    => 'srb'
+        'alpha3'    => 'srb',
+        'name'      => 'Σερβία'
     ),
-    array(
+    690 => array(
         'id'        => 690,
-        'name'      => 'Σεϋχέλλες',
         'alpha2'    => 'sc',
-        'alpha3'    => 'syc'
+        'alpha3'    => 'syc',
+        'name'      => 'Σεϋχέλλες'
     ),
-    array(
+    694 => array(
         'id'        => 694,
-        'name'      => 'Σιέρα Λεόνε',
         'alpha2'    => 'sl',
-        'alpha3'    => 'sle'
+        'alpha3'    => 'sle',
+        'name'      => 'Σιέρα Λεόνε'
     ),
-    array(
+    702 => array(
         'id'        => 702,
-        'name'      => 'Σιγκαπούρη',
         'alpha2'    => 'sg',
-        'alpha3'    => 'sgp'
+        'alpha3'    => 'sgp',
+        'name'      => 'Σιγκαπούρη'
     ),
-    array(
+    703 => array(
         'id'        => 703,
-        'name'      => 'Σλοβακία',
         'alpha2'    => 'sk',
-        'alpha3'    => 'svk'
+        'alpha3'    => 'svk',
+        'name'      => 'Σλοβακία'
     ),
-    array(
+    705 => array(
         'id'        => 705,
-        'name'      => 'Σλοβενία',
         'alpha2'    => 'si',
-        'alpha3'    => 'svn'
+        'alpha3'    => 'svn',
+        'name'      => 'Σλοβενία'
     ),
-    array(
+    706 => array(
         'id'        => 706,
-        'name'      => 'Σομαλία',
         'alpha2'    => 'so',
-        'alpha3'    => 'som'
+        'alpha3'    => 'som',
+        'name'      => 'Σομαλία'
     ),
-    array(
+    748 => array(
         'id'        => 748,
-        'name'      => 'Εσουατίνι',
         'alpha2'    => 'sz',
-        'alpha3'    => 'swz'
+        'alpha3'    => 'swz',
+        'name'      => 'Εσουατίνι'
     ),
-    array(
+    729 => array(
         'id'        => 729,
-        'name'      => 'Σουδάν',
         'alpha2'    => 'sd',
-        'alpha3'    => 'sdn'
+        'alpha3'    => 'sdn',
+        'name'      => 'Σουδάν'
     ),
-    array(
+    752 => array(
         'id'        => 752,
-        'name'      => 'Σουηδία',
         'alpha2'    => 'se',
-        'alpha3'    => 'swe'
+        'alpha3'    => 'swe',
+        'name'      => 'Σουηδία'
     ),
-    array(
+    740 => array(
         'id'        => 740,
-        'name'      => 'Σουρινάμ',
         'alpha2'    => 'sr',
-        'alpha3'    => 'sur'
+        'alpha3'    => 'sur',
+        'name'      => 'Σουρινάμ'
     ),
-    array(
+    144 => array(
         'id'        => 144,
-        'name'      => 'Σρι Λάνκα',
         'alpha2'    => 'lk',
-        'alpha3'    => 'lka'
+        'alpha3'    => 'lka',
+        'name'      => 'Σρι Λάνκα'
     ),
-    array(
+    760 => array(
         'id'        => 760,
-        'name'      => 'Συρία',
         'alpha2'    => 'sy',
-        'alpha3'    => 'syr'
+        'alpha3'    => 'syr',
+        'name'      => 'Συρία'
     ),
-    array(
+    158 => array(
         'id'        => 158,
-        'name'      => 'Ταϊβάν',
         'alpha2'    => 'tw',
-        'alpha3'    => 'twn'
+        'alpha3'    => 'twn',
+        'name'      => 'Ταϊβάν'
     ),
-    array(
+    764 => array(
         'id'        => 764,
-        'name'      => 'Ταϊλάνδη',
         'alpha2'    => 'th',
-        'alpha3'    => 'tha'
+        'alpha3'    => 'tha',
+        'name'      => 'Ταϊλάνδη'
     ),
-    array(
+    834 => array(
         'id'        => 834,
-        'name'      => 'Τανζανία',
         'alpha2'    => 'tz',
-        'alpha3'    => 'tza'
+        'alpha3'    => 'tza',
+        'name'      => 'Τανζανία'
     ),
-    array(
+    762 => array(
         'id'        => 762,
-        'name'      => 'Τατζικιστάν',
         'alpha2'    => 'tj',
-        'alpha3'    => 'tjk'
+        'alpha3'    => 'tjk',
+        'name'      => 'Τατζικιστάν'
     ),
-    array(
+    796 => array(
         'id'        => 796,
-        'name'      => 'Τερκς και Κέικος',
         'alpha2'    => 'tc',
-        'alpha3'    => 'tca'
+        'alpha3'    => 'tca',
+        'name'      => 'Τερκς και Κέικος'
     ),
-    array(
+    388 => array(
         'id'        => 388,
-        'name'      => 'Τζαμάικα',
         'alpha2'    => 'jm',
-        'alpha3'    => 'jam'
+        'alpha3'    => 'jam',
+        'name'      => 'Τζαμάικα'
     ),
-    array(
+    832 => array(
         'id'        => 832,
-        'name'      => 'Τζέρσεϊ',
         'alpha2'    => 'je',
-        'alpha3'    => 'jey'
+        'alpha3'    => 'jey',
+        'name'      => 'Τζέρσεϊ'
     ),
-    array(
+    262 => array(
         'id'        => 262,
-        'name'      => 'Τζιμπουτί',
         'alpha2'    => 'dj',
-        'alpha3'    => 'dji'
+        'alpha3'    => 'dji',
+        'name'      => 'Τζιμπουτί'
     ),
-    array(
+    776 => array(
         'id'        => 776,
-        'name'      => 'Τόγκα',
         'alpha2'    => 'to',
-        'alpha3'    => 'ton'
+        'alpha3'    => 'ton',
+        'name'      => 'Τόγκα'
     ),
-    array(
+    768 => array(
         'id'        => 768,
-        'name'      => 'Τόγκο',
         'alpha2'    => 'tg',
-        'alpha3'    => 'tgo'
+        'alpha3'    => 'tgo',
+        'name'      => 'Τόγκο'
     ),
-    array(
+    772 => array(
         'id'        => 772,
-        'name'      => 'Τοκελάου',
         'alpha2'    => 'tk',
-        'alpha3'    => 'tkl'
+        'alpha3'    => 'tkl',
+        'name'      => 'Τοκελάου'
     ),
-    array(
+    798 => array(
         'id'        => 798,
-        'name'      => 'Τουβαλού',
         'alpha2'    => 'tv',
-        'alpha3'    => 'tuv'
+        'alpha3'    => 'tuv',
+        'name'      => 'Τουβαλού'
     ),
-    array(
+    792 => array(
         'id'        => 792,
-        'name'      => 'Τουρκία',
         'alpha2'    => 'tr',
-        'alpha3'    => 'tur'
+        'alpha3'    => 'tur',
+        'name'      => 'Τουρκία'
     ),
-    array(
+    795 => array(
         'id'        => 795,
-        'name'      => 'Τουρκμενιστάν',
         'alpha2'    => 'tm',
-        'alpha3'    => 'tkm'
+        'alpha3'    => 'tkm',
+        'name'      => 'Τουρκμενιστάν'
     ),
-    array(
+    780 => array(
         'id'        => 780,
-        'name'      => 'Τρινιντάντ και Τομπάγκο',
         'alpha2'    => 'tt',
-        'alpha3'    => 'tto'
+        'alpha3'    => 'tto',
+        'name'      => 'Τρινιντάντ και Τομπάγκο'
     ),
-    array(
+    148 => array(
         'id'        => 148,
-        'name'      => 'Τσαντ',
         'alpha2'    => 'td',
-        'alpha3'    => 'tcd'
+        'alpha3'    => 'tcd',
+        'name'      => 'Τσαντ'
     ),
-    array(
+    203 => array(
         'id'        => 203,
-        'name'      => 'Τσεχία',
         'alpha2'    => 'cz',
-        'alpha3'    => 'cze'
+        'alpha3'    => 'cze',
+        'name'      => 'Τσεχία'
     ),
-    array(
+    788 => array(
         'id'        => 788,
-        'name'      => 'Τυνησία',
         'alpha2'    => 'tn',
-        'alpha3'    => 'tun'
+        'alpha3'    => 'tun',
+        'name'      => 'Τυνησία'
     ),
-    array(
+    887 => array(
         'id'        => 887,
-        'name'      => 'Υεμένη',
         'alpha2'    => 'ye',
-        'alpha3'    => 'yem'
+        'alpha3'    => 'yem',
+        'name'      => 'Υεμένη'
     ),
-    array(
+    608 => array(
         'id'        => 608,
-        'name'      => 'Φιλιππίνες',
         'alpha2'    => 'ph',
-        'alpha3'    => 'phl'
+        'alpha3'    => 'phl',
+        'name'      => 'Φιλιππίνες'
     ),
-    array(
+    246 => array(
         'id'        => 246,
-        'name'      => 'Φινλανδία',
         'alpha2'    => 'fi',
-        'alpha3'    => 'fin'
+        'alpha3'    => 'fin',
+        'name'      => 'Φινλανδία'
     ),
-    array(
+    242 => array(
         'id'        => 242,
-        'name'      => 'Φίτζι',
         'alpha2'    => 'fj',
-        'alpha3'    => 'fji'
+        'alpha3'    => 'fji',
+        'name'      => 'Φίτζι'
     ),
-    array(
+    152 => array(
         'id'        => 152,
-        'name'      => 'Χιλή',
         'alpha2'    => 'cl',
-        'alpha3'    => 'chl'
+        'alpha3'    => 'chl',
+        'name'      => 'Χιλή'
     ),
-    array(
+    344 => array(
         'id'        => 344,
-        'name'      => 'Χονγκ Κονγκ',
         'alpha2'    => 'hk',
-        'alpha3'    => 'hkg'
+        'alpha3'    => 'hkg',
+        'name'      => 'Χονγκ Κονγκ'
     ),
 );
