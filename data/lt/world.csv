@@ -1,250 +1,250 @@
-id,name,alpha2,alpha3
-4,Afganistanas,af,afg
-248,"Alandų salos",ax,ala
-8,Albanija,al,alb
-12,Alžyras,dz,dza
-16,"Amerikos Samoa",as,asm
-20,Andora,ad,and
-24,Angola,ao,ago
-660,Angilija,ai,aia
-10,Antarktida,aq,ata
-28,"Antigva ir Barbuda",ag,atg
-32,Argentina,ar,arg
-51,Armėnija,am,arm
-533,Aruba,aw,abw
-36,Australija,au,aus
-40,Austrija,at,aut
-31,Azerbaidžanas,az,aze
-44,Bahamos,bs,bhs
-48,Bahreinas,bh,bhr
-112,Baltarusija,by,blr
-50,Bangladešas,bd,bgd
-52,Barbadosas,bb,brb
-56,Belgija,be,bel
-84,Belizas,bz,blz
-204,Beninas,bj,ben
-60,Bermuda,bm,bmu
-64,Butanas,bt,btn
-68,Bolivija,bo,bol
-535,"Boneras, Sint Eustatijus ir Saba (BES salos)",bq,bes
-70,"Bosnija ir Hercegovina",ba,bih
-72,Botsvana,bw,bwa
-74,"Buvė sala",bv,bvt
-76,Brazilija,br,bra
-96,Brunėjus,bn,brn
-100,Bulgarija,bg,bgr
-854,"Burkina Faso",bf,bfa
-108,Burundis,bi,bdi
-140,"Centrinės Afrikos Respublika",cf,caf
-148,Čadas,td,tcd
-152,Čilė,cl,chl
-203,Čekija,cz,cze
-208,Danija,dk,dnk
-384,"Dramblio Kaulo Krantas",ci,civ
-212,Dominika,dm,dma
-214,"Dominikos Respublika",do,dom
-262,Džibutis,dj,dji
-818,Egiptas,eg,egy
-218,Ekvadoras,ec,ecu
-232,Eritrėja,er,eri
-233,Estija,ee,est
-231,Etiopija,et,eth
-234,"Farerų Salos",fo,fro
-242,Fidžis,fj,fji
-238,"Folklando (Malvinų) Salos",fk,flk
-266,Gabonas,ga,gab
-270,Gambija,gm,gmb
-288,Gana,gh,gha
-292,Gibraltaras,gi,gib
-300,Graikija,gr,grc
-304,Grenlandija,gl,grl
-308,Grenada,gd,grd
-268,Gruzija,ge,geo
-312,Gvadelupa,gp,glp
-316,Guamas,gu,gum
-320,Gvatemala,gt,gtm
-831,Gernsis,gg,ggy
-324,Gvinėja,gn,gin
-624,"Bisau Gvinėja",gw,gnb
-328,Gajana,gy,guy
-332,Haitis,ht,hti
-334,"Herdo ir Makdonaldo salos",hm,hmd
-336,Vatikanas,va,vat
-340,Hondūras,hn,hnd
-344,Honkongas,hk,hkg
-348,Vengrija,hu,hun
-352,Islandija,is,isl
-356,Indija,in,ind
-86,"Indijos Vandenyno Britų Sritis",io,iot
-360,Indonezija,id,idn
-364,Iranas,ir,irn
-368,Irakas,iq,irq
-372,Airija,ie,irl
-833,"Meno sala",im,imn
-376,Izraelis,il,isr
-380,Italija,it,ita
-388,Jamaika,jm,jam
-392,Japonija,jp,jpn
-832,Džersis,je,jey
-400,Jordanija,jo,jor
-116,Kambodža,kh,khm
-120,Kamerūnas,cm,cmr
-124,Kanada,ca,can
-136,"Kaimanų salos",ky,cym
-156,Kinija,cn,chn
-162,"Kalėdų sala",cx,cxr
-166,"Kokosų (Kilingo) Salos",cc,cck
-170,Kolumbija,co,col
-174,Komorai,km,com
-178,"Kongo Respublika",cg,cog
-180,"Kongo Demokratinė Respublika",cd,cod
-184,"Kuko Salos",ck,cok
-188,"Kosta Rika",cr,cri
-191,Kroatija,hr,hrv
-192,Kuba,cu,cub
-531,Kiurasao,cw,cuw
-196,Kipras,cy,cyp
-398,Kazachstanas,kz,kaz
-404,Kenija,ke,ken
-296,Kiribatis,ki,kir
-408,"Šiaurės Korėja",kp,prk
-410,"Pietų Korėja",kr,kor
-414,Kuveitas,kw,kwt
-417,Kirgizija,kg,kgz
-418,Laosas,la,lao
-428,Latvija,lv,lva
-422,Libanas,lb,lbn
-426,Lesotas,ls,lso
-430,Liberija,lr,lbr
-434,Libija,ly,lby
-438,Lichtenšteinas,li,lie
-440,Lietuva,lt,ltu
-442,Liuksemburgas,lu,lux
-446,Makao,mo,mac
-807,Makedonija,mk,mkd
-450,Madagaskaras,mg,mdg
-454,Malavis,mw,mwi
-458,Malaizija,my,mys
-462,Maldyvai,mv,mdv
-466,Malis,ml,mli
-470,Malta,mt,mlt
-584,"Maršalo salos",mh,mhl
-474,Martinika,mq,mtq
-478,Mauritanija,mr,mrt
-480,Mauricijus,mu,mus
-175,Majotas,yt,myt
-484,Meksika,mx,mex
-583,Mikronezija,fm,fsm
-498,Moldavija,md,mda
-492,Monakas,mc,mco
-496,Mongolija,mn,mng
-499,Juodkalnija,me,mne
-500,Montseratas,ms,msr
-504,Marokas,ma,mar
-508,Mozambikas,mz,moz
-104,Mianmaras,mm,mmr
-516,Namibija,na,nam
-520,Nauru,nr,nru
-524,Nepalas,np,npl
-528,Nyderlandai,nl,nld
-540,"Naujoji Kaledonija",nc,ncl
-554,"Naujoji Zelandija",nz,nzl
-558,Nikaragva,ni,nic
-562,Nigeris,ne,ner
-566,Nigerija,ng,nga
-570,Niujė,nu,niu
-574,"Norfolko sala",nf,nfk
-580,"Marianos Šiaurinės Salos",mp,mnp
-578,Norvegija,no,nor
-512,Omanas,om,omn
-586,Pakistanas,pk,pak
-585,Palau,pw,plw
-275,Palestina,ps,pse
-591,Panama,pa,pan
-250,Prancūzija,fr,fra
-254,"Prancūzijos Gviana",gf,guf
-258,"Prancūzijos Polinezija",pf,pyf
-260,"Prancūzijos Pietų Sritys",tf,atf
-598,"Papua Naujoji Gvinėja",pg,png
-600,Paragvajus,py,pry
-226,"Pusiaujo Gvinėja",gq,gnq
-604,Peru,pe,per
-608,Filipinai,ph,phl
-612,Pitkernas,pn,pcn
-616,Lenkija,pl,pol
-620,Portugalija,pt,prt
-630,"Puerto Rikas",pr,pri
-634,Kataras,qa,qat
-638,Reunjonas,re,reu
-642,Rumunija,ro,rou
-643,Rusija,ru,rus
-646,Ruanda,rw,rwa
-222,Salvadoras,sv,slv
-652,"Šv. Bartolomėjaus sala",bl,blm
-654,"Šv. Elenos, Dangun Žengimo, Tristanas da Kunja salos",sh,shn
-659,"Sent Kitsas ir Nevis",kn,kna
-662,"Sent Lusija",lc,lca
-663,"San Martenas",mf,maf
-666,"Sen Pjeras ir Mikelonas",pm,spm
-670,"Sent Vinsentas ir Grenadinai",vc,vct
-882,Samoa,ws,wsm
-674,"San Marinas",sm,smr
-678,"San Tomė ir Prinsipė",st,stp
-682,"Saudo Arabija",sa,sau
-686,Senegalas,sn,sen
-688,Serbija,rs,srb
-690,Seišeliai,sc,syc
-694,"Siera Leonė",sl,sle
-702,Singapūras,sg,sgp
-534,"Sint Martenas",sx,sxm
-246,Suomija,fi,fin
-703,Slovakija,sk,svk
-705,Slovėnija,si,svn
-90,"Saliamono Salos",sb,slb
-706,Somalis,so,som
-710,PAR,za,zaf
-239,"Pietų Džordžijos ir Pietų Sandvičo Salos",gs,sgs
-728,"Pietų Sudanas",ss,ssd
-724,Ispanija,es,esp
-144,"Šri Lanka",lk,lka
-729,Sudanas,sd,sdn
-740,Surinamas,sr,sur
-744,"Svalbardo ir Jan Majeno salos",sj,sjm
-748,Svazilendas,sz,swz
-752,Švedija,se,swe
-756,Šveicarija,ch,che
-760,Sirija,sy,syr
-158,Taivanas,tw,twn
-762,Tadžikija,tj,tjk
-834,Tanzanija,tz,tza
-764,Tailandas,th,tha
-626,"Rytų Timoras",tl,tls
-768,Togas,tg,tgo
-772,Tokelau,tk,tkl
-776,Tonga,to,ton
-780,"Trinidadas ir Tobagas",tt,tto
-788,Tunisas,tn,tun
-792,Turkija,tr,tur
-795,Turkmėnija,tm,tkm
-796,"Terksas ir Kaikosas",tc,tca
-798,Tuvalu,tv,tuv
-800,Uganda,ug,uga
-804,Ukraina,ua,ukr
-784,"Jungtiniai Arabų Emyratai",ae,are
-826,"Jungtinė Karalystė",gb,gbr
-840,"Jungtinės Valstijos",us,usa
-581,"JAV užjūrio mažosios salos",um,umi
-858,Urugvajus,uy,ury
-860,Uzbekistanas,uz,uzb
-548,Vanuatu,vu,vut
-862,Venesuela,ve,ven
-276,Vokietija,de,deu
-704,Vietnamas,vn,vnm
-92,"Mergelių Salos (Didžioji Britanija)",vg,vgb
-850,"Mergelių Salos (JAV)",vi,vir
-876,"Volisas ir Futūna",wf,wlf
-732,"Vakarų Sahara",eh,esh
-887,Jemenas,ye,yem
-894,Zambija,zm,zmb
-716,Zimbabvė,zw,zwe
-132,"Žaliasis Kyšulys",cv,cpv
+id,alpha2,alpha3,name
+4,af,afg,Afganistanas
+248,ax,ala,"Alandų salos"
+8,al,alb,Albanija
+12,dz,dza,Alžyras
+16,as,asm,"Amerikos Samoa"
+20,ad,and,Andora
+24,ao,ago,Angola
+660,ai,aia,Angilija
+10,aq,ata,Antarktida
+28,ag,atg,"Antigva ir Barbuda"
+32,ar,arg,Argentina
+51,am,arm,Armėnija
+533,aw,abw,Aruba
+36,au,aus,Australija
+40,at,aut,Austrija
+31,az,aze,Azerbaidžanas
+44,bs,bhs,Bahamos
+48,bh,bhr,Bahreinas
+112,by,blr,Baltarusija
+50,bd,bgd,Bangladešas
+52,bb,brb,Barbadosas
+56,be,bel,Belgija
+84,bz,blz,Belizas
+204,bj,ben,Beninas
+60,bm,bmu,Bermuda
+64,bt,btn,Butanas
+68,bo,bol,Bolivija
+535,bq,bes,"Boneras, Sint Eustatijus ir Saba (BES salos)"
+70,ba,bih,"Bosnija ir Hercegovina"
+72,bw,bwa,Botsvana
+74,bv,bvt,"Buvė sala"
+76,br,bra,Brazilija
+96,bn,brn,Brunėjus
+100,bg,bgr,Bulgarija
+854,bf,bfa,"Burkina Faso"
+108,bi,bdi,Burundis
+140,cf,caf,"Centrinės Afrikos Respublika"
+148,td,tcd,Čadas
+152,cl,chl,Čilė
+203,cz,cze,Čekija
+208,dk,dnk,Danija
+384,ci,civ,"Dramblio Kaulo Krantas"
+212,dm,dma,Dominika
+214,do,dom,"Dominikos Respublika"
+262,dj,dji,Džibutis
+818,eg,egy,Egiptas
+218,ec,ecu,Ekvadoras
+232,er,eri,Eritrėja
+233,ee,est,Estija
+231,et,eth,Etiopija
+234,fo,fro,"Farerų Salos"
+242,fj,fji,Fidžis
+238,fk,flk,"Folklando (Malvinų) Salos"
+266,ga,gab,Gabonas
+270,gm,gmb,Gambija
+288,gh,gha,Gana
+292,gi,gib,Gibraltaras
+300,gr,grc,Graikija
+304,gl,grl,Grenlandija
+308,gd,grd,Grenada
+268,ge,geo,Gruzija
+312,gp,glp,Gvadelupa
+316,gu,gum,Guamas
+320,gt,gtm,Gvatemala
+831,gg,ggy,Gernsis
+324,gn,gin,Gvinėja
+624,gw,gnb,"Bisau Gvinėja"
+328,gy,guy,Gajana
+332,ht,hti,Haitis
+334,hm,hmd,"Herdo ir Makdonaldo salos"
+336,va,vat,Vatikanas
+340,hn,hnd,Hondūras
+344,hk,hkg,Honkongas
+348,hu,hun,Vengrija
+352,is,isl,Islandija
+356,in,ind,Indija
+86,io,iot,"Indijos Vandenyno Britų Sritis"
+360,id,idn,Indonezija
+364,ir,irn,Iranas
+368,iq,irq,Irakas
+372,ie,irl,Airija
+833,im,imn,"Meno sala"
+376,il,isr,Izraelis
+380,it,ita,Italija
+388,jm,jam,Jamaika
+392,jp,jpn,Japonija
+832,je,jey,Džersis
+400,jo,jor,Jordanija
+116,kh,khm,Kambodža
+120,cm,cmr,Kamerūnas
+124,ca,can,Kanada
+136,ky,cym,"Kaimanų salos"
+156,cn,chn,Kinija
+162,cx,cxr,"Kalėdų sala"
+166,cc,cck,"Kokosų (Kilingo) Salos"
+170,co,col,Kolumbija
+174,km,com,Komorai
+178,cg,cog,"Kongo Respublika"
+180,cd,cod,"Kongo Demokratinė Respublika"
+184,ck,cok,"Kuko Salos"
+188,cr,cri,"Kosta Rika"
+191,hr,hrv,Kroatija
+192,cu,cub,Kuba
+531,cw,cuw,Kiurasao
+196,cy,cyp,Kipras
+398,kz,kaz,Kazachstanas
+404,ke,ken,Kenija
+296,ki,kir,Kiribatis
+408,kp,prk,"Šiaurės Korėja"
+410,kr,kor,"Pietų Korėja"
+414,kw,kwt,Kuveitas
+417,kg,kgz,Kirgizija
+418,la,lao,Laosas
+428,lv,lva,Latvija
+422,lb,lbn,Libanas
+426,ls,lso,Lesotas
+430,lr,lbr,Liberija
+434,ly,lby,Libija
+438,li,lie,Lichtenšteinas
+440,lt,ltu,Lietuva
+442,lu,lux,Liuksemburgas
+446,mo,mac,Makao
+807,mk,mkd,Makedonija
+450,mg,mdg,Madagaskaras
+454,mw,mwi,Malavis
+458,my,mys,Malaizija
+462,mv,mdv,Maldyvai
+466,ml,mli,Malis
+470,mt,mlt,Malta
+584,mh,mhl,"Maršalo salos"
+474,mq,mtq,Martinika
+478,mr,mrt,Mauritanija
+480,mu,mus,Mauricijus
+175,yt,myt,Majotas
+484,mx,mex,Meksika
+583,fm,fsm,Mikronezija
+498,md,mda,Moldavija
+492,mc,mco,Monakas
+496,mn,mng,Mongolija
+499,me,mne,Juodkalnija
+500,ms,msr,Montseratas
+504,ma,mar,Marokas
+508,mz,moz,Mozambikas
+104,mm,mmr,Mianmaras
+516,na,nam,Namibija
+520,nr,nru,Nauru
+524,np,npl,Nepalas
+528,nl,nld,Nyderlandai
+540,nc,ncl,"Naujoji Kaledonija"
+554,nz,nzl,"Naujoji Zelandija"
+558,ni,nic,Nikaragva
+562,ne,ner,Nigeris
+566,ng,nga,Nigerija
+570,nu,niu,Niujė
+574,nf,nfk,"Norfolko sala"
+580,mp,mnp,"Marianos Šiaurinės Salos"
+578,no,nor,Norvegija
+512,om,omn,Omanas
+586,pk,pak,Pakistanas
+585,pw,plw,Palau
+275,ps,pse,Palestina
+591,pa,pan,Panama
+250,fr,fra,Prancūzija
+254,gf,guf,"Prancūzijos Gviana"
+258,pf,pyf,"Prancūzijos Polinezija"
+260,tf,atf,"Prancūzijos Pietų Sritys"
+598,pg,png,"Papua Naujoji Gvinėja"
+600,py,pry,Paragvajus
+226,gq,gnq,"Pusiaujo Gvinėja"
+604,pe,per,Peru
+608,ph,phl,Filipinai
+612,pn,pcn,Pitkernas
+616,pl,pol,Lenkija
+620,pt,prt,Portugalija
+630,pr,pri,"Puerto Rikas"
+634,qa,qat,Kataras
+638,re,reu,Reunjonas
+642,ro,rou,Rumunija
+643,ru,rus,Rusija
+646,rw,rwa,Ruanda
+222,sv,slv,Salvadoras
+652,bl,blm,"Šv. Bartolomėjaus sala"
+654,sh,shn,"Šv. Elenos, Dangun Žengimo, Tristanas da Kunja salos"
+659,kn,kna,"Sent Kitsas ir Nevis"
+662,lc,lca,"Sent Lusija"
+663,mf,maf,"San Martenas"
+666,pm,spm,"Sen Pjeras ir Mikelonas"
+670,vc,vct,"Sent Vinsentas ir Grenadinai"
+882,ws,wsm,Samoa
+674,sm,smr,"San Marinas"
+678,st,stp,"San Tomė ir Prinsipė"
+682,sa,sau,"Saudo Arabija"
+686,sn,sen,Senegalas
+688,rs,srb,Serbija
+690,sc,syc,Seišeliai
+694,sl,sle,"Siera Leonė"
+702,sg,sgp,Singapūras
+534,sx,sxm,"Sint Martenas"
+246,fi,fin,Suomija
+703,sk,svk,Slovakija
+705,si,svn,Slovėnija
+90,sb,slb,"Saliamono Salos"
+706,so,som,Somalis
+710,za,zaf,PAR
+239,gs,sgs,"Pietų Džordžijos ir Pietų Sandvičo Salos"
+728,ss,ssd,"Pietų Sudanas"
+724,es,esp,Ispanija
+144,lk,lka,"Šri Lanka"
+729,sd,sdn,Sudanas
+740,sr,sur,Surinamas
+744,sj,sjm,"Svalbardo ir Jan Majeno salos"
+748,sz,swz,Svazilendas
+752,se,swe,Švedija
+756,ch,che,Šveicarija
+760,sy,syr,Sirija
+158,tw,twn,Taivanas
+762,tj,tjk,Tadžikija
+834,tz,tza,Tanzanija
+764,th,tha,Tailandas
+626,tl,tls,"Rytų Timoras"
+768,tg,tgo,Togas
+772,tk,tkl,Tokelau
+776,to,ton,Tonga
+780,tt,tto,"Trinidadas ir Tobagas"
+788,tn,tun,Tunisas
+792,tr,tur,Turkija
+795,tm,tkm,Turkmėnija
+796,tc,tca,"Terksas ir Kaikosas"
+798,tv,tuv,Tuvalu
+800,ug,uga,Uganda
+804,ua,ukr,Ukraina
+784,ae,are,"Jungtiniai Arabų Emyratai"
+826,gb,gbr,"Jungtinė Karalystė"
+840,us,usa,"Jungtinės Valstijos"
+581,um,umi,"JAV užjūrio mažosios salos"
+858,uy,ury,Urugvajus
+860,uz,uzb,Uzbekistanas
+548,vu,vut,Vanuatu
+862,ve,ven,Venesuela
+276,de,deu,Vokietija
+704,vn,vnm,Vietnamas
+92,vg,vgb,"Mergelių Salos (Didžioji Britanija)"
+850,vi,vir,"Mergelių Salos (JAV)"
+876,wf,wlf,"Volisas ir Futūna"
+732,eh,esh,"Vakarų Sahara"
+887,ye,yem,Jemenas
+894,zm,zmb,Zambija
+716,zw,zwe,Zimbabvė
+132,cv,cpv,"Žaliasis Kyšulys"

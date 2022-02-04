@@ -1,194 +1,194 @@
-id,name,alpha2,alpha3
-4,Afeganistão,af,afg
-710,"África do Sul",za,zaf
-8,Albânia,al,alb
-276,Alemanha,de,deu
-20,Andorra,ad,and
-24,Angola,ao,ago
-28,"Antígua e Barbuda",ag,atg
-682,"Arábia Saudita",sa,sau
-12,Argélia,dz,dza
-32,Argentina,ar,arg
-51,Armênia,am,arm
-36,Austrália,au,aus
-40,Áustria,at,aut
-31,Azerbaijão,az,aze
-44,Bahamas,bs,bhs
-50,Bangladexe,bd,bgd
-52,Barbados,bb,brb
-48,Barém,bh,bhr
-56,Bélgica,be,bel
-84,Belize,bz,blz
-204,Benim,bj,ben
-112,Bielorrússia,by,blr
-68,Bolívia,bo,bol
-70,"Bósnia e Herzegovina",ba,bih
-72,Botsuana,bw,bwa
-76,Brasil,br,bra
-96,Brunei,bn,brn
-100,Bulgária,bg,bgr
-854,"Burquina Fasso",bf,bfa
-108,Burundi,bi,bdi
-64,Butão,bt,btn
-132,"Cabo Verde",cv,cpv
-116,Camboja,kh,khm
-120,Camarões,cm,cmr
-124,Canadá,ca,can
-634,Catar,qa,qat
-398,Cazaquistão,kz,kaz
-140,"República Centro-Africana",cf,caf
-148,Chade,td,tcd
-203,Chéquia,cz,cze
-152,Chile,cl,chl
-156,China,cn,chn
-196,Chipre,cy,cyp
-170,Colômbia,co,col
-174,Comores,km,com
-178,"República do Congo",cg,cog
-180,"República Democrática do Congo",cd,cod
-410,"Coreia do Sul",kr,kor
-408,"Coreia do Norte",kp,prk
-384,"Costa do Marfim",ci,civ
-188,"Costa Rica",cr,cri
-191,Croácia,hr,hrv
-192,Cuba,cu,cub
-208,Dinamarca,dk,dnk
-262,Djibuti,dj,dji
-212,Dominica,dm,dma
-214,"República Dominicana",do,dom
-818,Egito,eg,egy
-222,"El Salvador",sv,slv
-784,"Emirados Árabes Unidos",ae,are
-218,Equador,ec,ecu
-232,Eritreia,er,eri
-703,Eslováquia,sk,svk
-705,Eslovênia,si,svn
-724,Espanha,es,esp
-840,"Estados Unidos",us,usa
-233,Estónia,ee,est
-748,Essuatíni,sz,swz
-231,Etiópia,et,eth
-242,Fiji,fj,fji
-608,Filipinas,ph,phl
-246,Finlândia,fi,fin
-250,França,fr,fra
-266,Gabão,ga,gab
-270,Gâmbia,gm,gmb
-288,Gana,gh,gha
-268,Geórgia,ge,geo
-308,Granada,gd,grd
-300,Grécia,gr,grc
-320,Guatemala,gt,gtm
-328,Guiana,gy,guy
-624,Guiné-Bissau,gw,gnb
-324,Guiné,gn,gin
-226,"Guiné Equatorial",gq,gnq
-332,Haiti,ht,hti
-340,Honduras,hn,hnd
-348,Hungria,hu,hun
-887,Iêmen,ye,yem
-356,Índia,in,ind
-360,Indonésia,id,idn
-368,Iraque,iq,irq
-364,Irão,ir,irn
-372,Irlanda,ie,irl
-352,Islândia,is,isl
-376,Israel,il,isr
-380,Itália,it,ita
-388,Jamaica,jm,jam
-392,Japão,jp,jpn
-400,Jordânia,jo,jor
-414,Kuwait,kw,kwt
-418,Laos,la,lao
-426,Lesoto,ls,lso
-428,Letônia,lv,lva
-422,Líbano,lb,lbn
-430,Libéria,lr,lbr
-434,Líbia,ly,lby
-438,Listenstaine,li,lie
-440,Lituânia,lt,ltu
-442,Luxemburgo,lu,lux
-807,"Macedônia do Norte",mk,mkd
-450,Madagáscar,mg,mdg
-458,Malásia,my,mys
-454,Maláui,mw,mwi
-462,Maldivas,mv,mdv
-466,Mali,ml,mli
-470,Malta,mt,mlt
-504,Marrocos,ma,mar
-584,"Ilhas Marshall",mh,mhl
-480,Maurícia,mu,mus
-478,Mauritânia,mr,mrt
-484,México,mx,mex
-104,Mianmar,mm,mmr
-583,"Estados Federados da Micronésia",fm,fsm
-508,Moçambique,mz,moz
-498,Moldávia,md,mda
-492,Mónaco,mc,mco
-496,Mongólia,mn,mng
-499,Montenegro,me,mne
-516,Namíbia,na,nam
-520,Nauru,nr,nru
-524,Nepal,np,npl
-558,Nicarágua,ni,nic
-562,Níger,ne,ner
-566,Nigéria,ng,nga
-578,Noruega,no,nor
-554,"Nova Zelândia",nz,nzl
-512,Omã,om,omn
-528,"Países Baixos",nl,nld
-585,Palau,pw,plw
-591,Panamá,pa,pan
-598,"Papua-Nova Guiné",pg,png
-586,Paquistão,pk,pak
-600,Paraguai,py,pry
-604,Peru,pe,per
-616,Polónia,pl,pol
-620,Portugal,pt,prt
-404,Quênia,ke,ken
-417,Quirguistão,kg,kgz
-296,Quiribáti,ki,kir
-826,"Reino Unido",gb,gbr
-642,Roménia,ro,rou
-646,Ruanda,rw,rwa
-643,Rússia,ru,rus
-882,Samoa,ws,wsm
-90,"Ilhas Salomão",sb,slb
-674,"San Marino",sm,smr
-662,"Santa Lúcia",lc,lca
-659,"São Cristóvão e Neves",kn,kna
-678,"São Tomé e Príncipe",st,stp
-670,"São Vicente e Granadinas",vc,vct
-690,Seicheles,sc,syc
-686,Senegal,sn,sen
-144,"Seri Lanca",lk,lka
-694,"Serra Leoa",sl,sle
-688,Sérvia,rs,srb
-702,Singapura,sg,sgp
-760,Síria,sy,syr
-706,Somália,so,som
-729,Sudão,sd,sdn
-728,"Sudão do Sul",ss,ssd
-752,Suécia,se,swe
-756,Suíça,ch,che
-740,Suriname,sr,sur
-764,Tailândia,th,tha
-762,Tajiquistão,tj,tjk
-834,Tanzânia,tz,tza
-626,Timor-Leste,tl,tls
-768,Togo,tg,tgo
-776,Tonga,to,ton
-780,"Trinidad e Tobago",tt,tto
-788,Tunísia,tn,tun
-795,Turcomenistão,tm,tkm
-792,Turquia,tr,tur
-798,Tuvalu,tv,tuv
-804,Ucrânia,ua,ukr
-800,Uganda,ug,uga
-858,Uruguai,uy,ury
-860,Uzbequistão,uz,uzb
-548,Vanuatu,vu,vut
-862,Venezuela,ve,ven
-704,Vietnã,vn,vnm
-894,Zâmbia,zm,zmb
-716,Zimbábue,zw,zwe
+id,alpha2,alpha3,name
+4,af,afg,Afeganistão
+710,za,zaf,"África do Sul"
+8,al,alb,Albânia
+276,de,deu,Alemanha
+20,ad,and,Andorra
+24,ao,ago,Angola
+28,ag,atg,"Antígua e Barbuda"
+682,sa,sau,"Arábia Saudita"
+12,dz,dza,Argélia
+32,ar,arg,Argentina
+51,am,arm,Armênia
+36,au,aus,Austrália
+40,at,aut,Áustria
+31,az,aze,Azerbaijão
+44,bs,bhs,Bahamas
+50,bd,bgd,Bangladexe
+52,bb,brb,Barbados
+48,bh,bhr,Barém
+56,be,bel,Bélgica
+84,bz,blz,Belize
+204,bj,ben,Benim
+112,by,blr,Bielorrússia
+68,bo,bol,Bolívia
+70,ba,bih,"Bósnia e Herzegovina"
+72,bw,bwa,Botsuana
+76,br,bra,Brasil
+96,bn,brn,Brunei
+100,bg,bgr,Bulgária
+854,bf,bfa,"Burquina Fasso"
+108,bi,bdi,Burundi
+64,bt,btn,Butão
+132,cv,cpv,"Cabo Verde"
+116,kh,khm,Camboja
+120,cm,cmr,Camarões
+124,ca,can,Canadá
+634,qa,qat,Catar
+398,kz,kaz,Cazaquistão
+140,cf,caf,"República Centro-Africana"
+148,td,tcd,Chade
+203,cz,cze,Chéquia
+152,cl,chl,Chile
+156,cn,chn,China
+196,cy,cyp,Chipre
+170,co,col,Colômbia
+174,km,com,Comores
+178,cg,cog,"República do Congo"
+180,cd,cod,"República Democrática do Congo"
+410,kr,kor,"Coreia do Sul"
+408,kp,prk,"Coreia do Norte"
+384,ci,civ,"Costa do Marfim"
+188,cr,cri,"Costa Rica"
+191,hr,hrv,Croácia
+192,cu,cub,Cuba
+208,dk,dnk,Dinamarca
+262,dj,dji,Djibuti
+212,dm,dma,Dominica
+214,do,dom,"República Dominicana"
+818,eg,egy,Egito
+222,sv,slv,"El Salvador"
+784,ae,are,"Emirados Árabes Unidos"
+218,ec,ecu,Equador
+232,er,eri,Eritreia
+703,sk,svk,Eslováquia
+705,si,svn,Eslovênia
+724,es,esp,Espanha
+840,us,usa,"Estados Unidos"
+233,ee,est,Estónia
+748,sz,swz,Essuatíni
+231,et,eth,Etiópia
+242,fj,fji,Fiji
+608,ph,phl,Filipinas
+246,fi,fin,Finlândia
+250,fr,fra,França
+266,ga,gab,Gabão
+270,gm,gmb,Gâmbia
+288,gh,gha,Gana
+268,ge,geo,Geórgia
+308,gd,grd,Granada
+300,gr,grc,Grécia
+320,gt,gtm,Guatemala
+328,gy,guy,Guiana
+624,gw,gnb,Guiné-Bissau
+324,gn,gin,Guiné
+226,gq,gnq,"Guiné Equatorial"
+332,ht,hti,Haiti
+340,hn,hnd,Honduras
+348,hu,hun,Hungria
+887,ye,yem,Iêmen
+356,in,ind,Índia
+360,id,idn,Indonésia
+368,iq,irq,Iraque
+364,ir,irn,Irão
+372,ie,irl,Irlanda
+352,is,isl,Islândia
+376,il,isr,Israel
+380,it,ita,Itália
+388,jm,jam,Jamaica
+392,jp,jpn,Japão
+400,jo,jor,Jordânia
+414,kw,kwt,Kuwait
+418,la,lao,Laos
+426,ls,lso,Lesoto
+428,lv,lva,Letônia
+422,lb,lbn,Líbano
+430,lr,lbr,Libéria
+434,ly,lby,Líbia
+438,li,lie,Listenstaine
+440,lt,ltu,Lituânia
+442,lu,lux,Luxemburgo
+807,mk,mkd,"Macedônia do Norte"
+450,mg,mdg,Madagáscar
+458,my,mys,Malásia
+454,mw,mwi,Maláui
+462,mv,mdv,Maldivas
+466,ml,mli,Mali
+470,mt,mlt,Malta
+504,ma,mar,Marrocos
+584,mh,mhl,"Ilhas Marshall"
+480,mu,mus,Maurícia
+478,mr,mrt,Mauritânia
+484,mx,mex,México
+104,mm,mmr,Mianmar
+583,fm,fsm,"Estados Federados da Micronésia"
+508,mz,moz,Moçambique
+498,md,mda,Moldávia
+492,mc,mco,Mónaco
+496,mn,mng,Mongólia
+499,me,mne,Montenegro
+516,na,nam,Namíbia
+520,nr,nru,Nauru
+524,np,npl,Nepal
+558,ni,nic,Nicarágua
+562,ne,ner,Níger
+566,ng,nga,Nigéria
+578,no,nor,Noruega
+554,nz,nzl,"Nova Zelândia"
+512,om,omn,Omã
+528,nl,nld,"Países Baixos"
+585,pw,plw,Palau
+591,pa,pan,Panamá
+598,pg,png,"Papua-Nova Guiné"
+586,pk,pak,Paquistão
+600,py,pry,Paraguai
+604,pe,per,Peru
+616,pl,pol,Polónia
+620,pt,prt,Portugal
+404,ke,ken,Quênia
+417,kg,kgz,Quirguistão
+296,ki,kir,Quiribáti
+826,gb,gbr,"Reino Unido"
+642,ro,rou,Roménia
+646,rw,rwa,Ruanda
+643,ru,rus,Rússia
+882,ws,wsm,Samoa
+90,sb,slb,"Ilhas Salomão"
+674,sm,smr,"San Marino"
+662,lc,lca,"Santa Lúcia"
+659,kn,kna,"São Cristóvão e Neves"
+678,st,stp,"São Tomé e Príncipe"
+670,vc,vct,"São Vicente e Granadinas"
+690,sc,syc,Seicheles
+686,sn,sen,Senegal
+144,lk,lka,"Seri Lanca"
+694,sl,sle,"Serra Leoa"
+688,rs,srb,Sérvia
+702,sg,sgp,Singapura
+760,sy,syr,Síria
+706,so,som,Somália
+729,sd,sdn,Sudão
+728,ss,ssd,"Sudão do Sul"
+752,se,swe,Suécia
+756,ch,che,Suíça
+740,sr,sur,Suriname
+764,th,tha,Tailândia
+762,tj,tjk,Tajiquistão
+834,tz,tza,Tanzânia
+626,tl,tls,Timor-Leste
+768,tg,tgo,Togo
+776,to,ton,Tonga
+780,tt,tto,"Trinidad e Tobago"
+788,tn,tun,Tunísia
+795,tm,tkm,Turcomenistão
+792,tr,tur,Turquia
+798,tv,tuv,Tuvalu
+804,ua,ukr,Ucrânia
+800,ug,uga,Uganda
+858,uy,ury,Uruguai
+860,uz,uzb,Uzbequistão
+548,vu,vut,Vanuatu
+862,ve,ven,Venezuela
+704,vn,vnm,Vietnã
+894,zm,zmb,Zâmbia
+716,zw,zwe,Zimbábue

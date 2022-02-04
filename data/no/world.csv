@@ -1,250 +1,250 @@
-id,name,alpha2,alpha3
-4,Afghanistan,af,afg
-8,Albania,al,alb
-12,Algerie,dz,dza
-16,"Amerikansk Samoa",as,asm
-20,Andorra,ad,and
-24,Angola,ao,ago
-660,Anguilla,ai,aia
-10,Antarktika,aq,ata
-28,"Antigua og Barbuda",ag,atg
-32,Argentina,ar,arg
-51,Armenia,am,arm
-533,Aruba,aw,abw
-31,Aserbajdsjan,az,aze
-36,Australia,au,aus
-44,Bahamas,bs,bhs
-48,Bahrain,bh,bhr
-50,Bangladesh,bd,bgd
-52,Barbados,bb,brb
-56,Belgia,be,bel
-84,Belize,bz,blz
-204,Benin,bj,ben
-60,Bermuda,bm,bmu
-64,Bhutan,bt,btn
-68,Bolivia,bo,bol
-535,"Bonaire, Sint Eustatius og Saba",bq,bes
-70,Bosnia-Hercegovina,ba,bih
-72,Botswana,bw,bwa
-74,Bouvetøya,bv,bvt
-76,Brasil,br,bra
-96,Brunei,bn,brn
-100,Bulgaria,bg,bgr
-854,"Burkina Faso",bf,bfa
-108,Burundi,bi,bdi
-124,Canada,ca,can
-136,Caymanøyene,ky,cym
-152,Chile,cl,chl
-162,Christmasøya,cx,cxr
-170,Colombia,co,col
-184,Cookøyene,ck,cok
-188,"Costa Rica",cr,cri
-192,Cuba,cu,cub
-531,Curaçao,cw,cuw
-208,Danmark,dk,dnk
-784,"De forente arabiske emirater",ae,are
-260,"De franske sørterritorier",tf,atf
-275,"De palestinske territoriene",ps,pse
-214,"Den dominikanske republikk",do,dom
-140,"Den sentralafrikanske republikk",cf,caf
-86,"Det britiske territoriet i Indiahavet",io,iot
-262,Djibouti,dj,dji
-212,Dominica,dm,dma
-218,Ecuador,ec,ecu
-818,Egypt,eg,egy
-226,Ekvatorial-Guinea,gq,gnq
-384,Elfenbenskysten,ci,civ
-222,"El Salvador",sv,slv
-232,Eritrea,er,eri
-233,Estland,ee,est
-231,Etiopia,et,eth
-238,Falklandsøyene,fk,flk
-242,Fiji,fj,fji
-608,Filippinene,ph,phl
-246,Finland,fi,fin
-250,Frankrike,fr,fra
-254,"Fransk Guyana",gf,guf
-258,"Fransk Polynesia",pf,pyf
-234,Færøyene,fo,fro
-266,Gabon,ga,gab
-270,Gambia,gm,gmb
-268,Georgia,ge,geo
-288,Ghana,gh,gha
-292,Gibraltar,gi,gib
-308,Grenada,gd,grd
-304,Grønland,gl,grl
-312,Guadeloupe,gp,glp
-316,Guam,gu,gum
-320,Guatemala,gt,gtm
-831,Guernsey,gg,ggy
-324,Guinea,gn,gin
-624,Guinea-Bissau,gw,gnb
-328,Guyana,gy,guy
-332,Haiti,ht,hti
-334,"Heard- og McDonaldøyene",hm,hmd
-300,Hellas,gr,grc
-340,Honduras,hn,hnd
-344,Hongkong,hk,hkg
-112,Hviterussland,by,blr
-356,India,in,ind
-360,Indonesia,id,idn
-368,Irak,iq,irq
-364,Iran,ir,irn
-372,Irland,ie,irl
-352,Island,is,isl
-376,Israel,il,isr
-380,Italia,it,ita
-388,Jamaica,jm,jam
-392,Japan,jp,jpn
-887,Jemen,ye,yem
-832,Jersey,je,jey
-850,"Jomfruøyene, De amerikanske",vi,vir
-92,"Jomfruøyene, De britiske",vg,vgb
-400,Jordan,jo,jor
-116,Kambodsja,kh,khm
-120,Kamerun,cm,cmr
-132,"Kapp Verde",cv,cpv
-398,Kasakhstan,kz,kaz
-404,Kenya,ke,ken
-156,Kina,cn,chn
-417,Kirgisistan,kg,kgz
-296,Kiribati,ki,kir
-166,Kokosøyene,cc,cck
-174,Komorene,km,com
-180,"Kongo, Den demokratiske republikken",cd,cod
-178,"Kongo, Republikken",cg,cog
-191,Kroatia,hr,hrv
-414,Kuwait,kw,kwt
-196,Kypros,cy,cyp
-418,Laos,la,lao
-428,Latvia,lv,lva
-426,Lesotho,ls,lso
-422,Libanon,lb,lbn
-430,Liberia,lr,lbr
-434,Libya,ly,lby
-438,Liechtenstein,li,lie
-440,Litauen,lt,ltu
-442,Luxembourg,lu,lux
-446,Macao,mo,mac
-450,Madagaskar,mg,mdg
-807,"Makedonia, Republikken",mk,mkd
-454,Malawi,mw,mwi
-458,Malaysia,my,mys
-462,Maldivene,mv,mdv
-466,Mali,ml,mli
-470,Malta,mt,mlt
-833,Man,im,imn
-504,Marokko,ma,mar
-584,Marshalløyene,mh,mhl
-474,Martinique,mq,mtq
-478,Mauritania,mr,mrt
-480,Mauritius,mu,mus
-175,Mayotte,yt,myt
-484,Mexico,mx,mex
-583,Mikronesiaføderasjonen,fm,fsm
-498,Moldova,md,mda
-492,Monaco,mc,mco
-496,Mongolia,mn,mng
-499,Montenegro,me,mne
-500,Montserrat,ms,msr
-508,Mosambik,mz,moz
-104,Myanmar,mm,mmr
-516,Namibia,na,nam
-520,Nauru,nr,nru
-524,Nepal,np,npl
-528,Nederland,nl,nld
-554,"New Zealand",nz,nzl
-558,Nicaragua,ni,nic
-562,Niger,ne,ner
-566,Nigeria,ng,nga
-570,Niue,nu,niu
-408,Nord-Korea,kp,prk
-580,Nord-Marianene,mp,mnp
-574,Norfolkøya,nf,nfk
-578,Norge,no,nor
-540,Ny-Caledonia,nc,ncl
-512,Oman,om,omn
-586,Pakistan,pk,pak
-585,Palau,pw,plw
-591,Panama,pa,pan
-598,"Papua Ny-Guinea",pg,png
-600,Paraguay,py,pry
-604,Peru,pe,per
-612,Pitcairnøyene,pn,pcn
-616,Polen,pl,pol
-620,Portugal,pt,prt
-630,"Puerto Rico",pr,pri
-634,Qatar,qa,qat
-638,Réunion,re,reu
-642,Romania,ro,rou
-643,Russland,ru,rus
-646,Rwanda,rw,rwa
-652,Saint-Barthélemy,bl,blm
-654,"St. Helena, Ascension og Tristan da Cunha",sh,shn
-659,"Saint Kitts og Nevis",kn,kna
-662,"Saint Lucia",lc,lca
-663,Saint-Martin,mf,maf
-666,"Saint-Pierre og Miquelon",pm,spm
-670,"Saint Vincent og Grenadinene",vc,vct
-90,Salomonøyene,sb,slb
-882,Samoa,ws,wsm
-674,"San Marino",sm,smr
-678,"São Tomé og Príncipe",st,stp
-682,Saudi-Arabia,sa,sau
-686,Senegal,sn,sen
-688,Serbia,rs,srb
-690,Seychellene,sc,syc
-694,"Sierra Leone",sl,sle
-702,Singapore,sg,sgp
-534,"Sint Maarten",sx,sxm
-703,Slovakia,sk,svk
-705,Slovenia,si,svn
-706,Somalia,so,som
-724,Spania,es,esp
-144,"Sri Lanka",lk,lka
-826,Storbritannia,gb,gbr
-729,Sudan,sd,sdn
-740,Surinam,sr,sur
-744,"Svalbard og Jan Mayen",sj,sjm
-756,Sveits,ch,che
-752,Sverige,se,swe
-748,Eswatini,sz,swz
-760,Syria,sy,syr
-710,Sør-Afrika,za,zaf
-239,"Sør-Georgia og Sør-Sandwichøyene",gs,sgs
-410,Sør-Korea,kr,kor
-728,Sør-Sudan,ss,ssd
-762,Tadsjikistan,tj,tjk
-158,Taiwan,tw,twn
-834,Tanzania,tz,tza
-764,Thailand,th,tha
-768,Togo,tg,tgo
-772,Tokelau,tk,tkl
-776,Tonga,to,ton
-780,"Trinidad og Tobago",tt,tto
-148,Tsjad,td,tcd
-203,Tsjekkia,cz,cze
-788,Tunisia,tn,tun
-795,Turkmenistan,tm,tkm
-796,"Turks- og Caicosøyene",tc,tca
-798,Tuvalu,tv,tuv
-792,Tyrkia,tr,tur
-276,Tyskland,de,deu
-800,Uganda,ug,uga
-804,Ukraina,ua,ukr
-348,Ungarn,hu,hun
-858,Uruguay,uy,ury
-840,USA,us,usa
-581,"USAs ytre småøyer",um,umi
-860,Usbekistan,uz,uzb
-548,Vanuatu,vu,vut
-336,Vatikanstaten,va,vat
-862,Venezuela,ve,ven
-732,Vest-Sahara,eh,esh
-704,Vietnam,vn,vnm
-876,"Wallis- og Futunaøyene",wf,wlf
-894,Zambia,zm,zmb
-716,Zimbabwe,zw,zwe
-40,Østerrike,at,aut
-626,Øst-Timor,tl,tls
-248,Åland,ax,ala
+id,alpha2,alpha3,name
+4,af,afg,Afghanistan
+8,al,alb,Albania
+12,dz,dza,Algerie
+16,as,asm,"Amerikansk Samoa"
+20,ad,and,Andorra
+24,ao,ago,Angola
+660,ai,aia,Anguilla
+10,aq,ata,Antarktika
+28,ag,atg,"Antigua og Barbuda"
+32,ar,arg,Argentina
+51,am,arm,Armenia
+533,aw,abw,Aruba
+31,az,aze,Aserbajdsjan
+36,au,aus,Australia
+44,bs,bhs,Bahamas
+48,bh,bhr,Bahrain
+50,bd,bgd,Bangladesh
+52,bb,brb,Barbados
+56,be,bel,Belgia
+84,bz,blz,Belize
+204,bj,ben,Benin
+60,bm,bmu,Bermuda
+64,bt,btn,Bhutan
+68,bo,bol,Bolivia
+535,bq,bes,"Bonaire, Sint Eustatius og Saba"
+70,ba,bih,Bosnia-Hercegovina
+72,bw,bwa,Botswana
+74,bv,bvt,Bouvetøya
+76,br,bra,Brasil
+96,bn,brn,Brunei
+100,bg,bgr,Bulgaria
+854,bf,bfa,"Burkina Faso"
+108,bi,bdi,Burundi
+124,ca,can,Canada
+136,ky,cym,Caymanøyene
+152,cl,chl,Chile
+162,cx,cxr,Christmasøya
+170,co,col,Colombia
+184,ck,cok,Cookøyene
+188,cr,cri,"Costa Rica"
+192,cu,cub,Cuba
+531,cw,cuw,Curaçao
+208,dk,dnk,Danmark
+784,ae,are,"De forente arabiske emirater"
+260,tf,atf,"De franske sørterritorier"
+275,ps,pse,"De palestinske territoriene"
+214,do,dom,"Den dominikanske republikk"
+140,cf,caf,"Den sentralafrikanske republikk"
+86,io,iot,"Det britiske territoriet i Indiahavet"
+262,dj,dji,Djibouti
+212,dm,dma,Dominica
+218,ec,ecu,Ecuador
+818,eg,egy,Egypt
+226,gq,gnq,Ekvatorial-Guinea
+384,ci,civ,Elfenbenskysten
+222,sv,slv,"El Salvador"
+232,er,eri,Eritrea
+233,ee,est,Estland
+231,et,eth,Etiopia
+238,fk,flk,Falklandsøyene
+242,fj,fji,Fiji
+608,ph,phl,Filippinene
+246,fi,fin,Finland
+250,fr,fra,Frankrike
+254,gf,guf,"Fransk Guyana"
+258,pf,pyf,"Fransk Polynesia"
+234,fo,fro,Færøyene
+266,ga,gab,Gabon
+270,gm,gmb,Gambia
+268,ge,geo,Georgia
+288,gh,gha,Ghana
+292,gi,gib,Gibraltar
+308,gd,grd,Grenada
+304,gl,grl,Grønland
+312,gp,glp,Guadeloupe
+316,gu,gum,Guam
+320,gt,gtm,Guatemala
+831,gg,ggy,Guernsey
+324,gn,gin,Guinea
+624,gw,gnb,Guinea-Bissau
+328,gy,guy,Guyana
+332,ht,hti,Haiti
+334,hm,hmd,"Heard- og McDonaldøyene"
+300,gr,grc,Hellas
+340,hn,hnd,Honduras
+344,hk,hkg,Hongkong
+112,by,blr,Hviterussland
+356,in,ind,India
+360,id,idn,Indonesia
+368,iq,irq,Irak
+364,ir,irn,Iran
+372,ie,irl,Irland
+352,is,isl,Island
+376,il,isr,Israel
+380,it,ita,Italia
+388,jm,jam,Jamaica
+392,jp,jpn,Japan
+887,ye,yem,Jemen
+832,je,jey,Jersey
+850,vi,vir,"Jomfruøyene, De amerikanske"
+92,vg,vgb,"Jomfruøyene, De britiske"
+400,jo,jor,Jordan
+116,kh,khm,Kambodsja
+120,cm,cmr,Kamerun
+132,cv,cpv,"Kapp Verde"
+398,kz,kaz,Kasakhstan
+404,ke,ken,Kenya
+156,cn,chn,Kina
+417,kg,kgz,Kirgisistan
+296,ki,kir,Kiribati
+166,cc,cck,Kokosøyene
+174,km,com,Komorene
+180,cd,cod,"Kongo, Den demokratiske republikken"
+178,cg,cog,"Kongo, Republikken"
+191,hr,hrv,Kroatia
+414,kw,kwt,Kuwait
+196,cy,cyp,Kypros
+418,la,lao,Laos
+428,lv,lva,Latvia
+426,ls,lso,Lesotho
+422,lb,lbn,Libanon
+430,lr,lbr,Liberia
+434,ly,lby,Libya
+438,li,lie,Liechtenstein
+440,lt,ltu,Litauen
+442,lu,lux,Luxembourg
+446,mo,mac,Macao
+450,mg,mdg,Madagaskar
+807,mk,mkd,"Makedonia, Republikken"
+454,mw,mwi,Malawi
+458,my,mys,Malaysia
+462,mv,mdv,Maldivene
+466,ml,mli,Mali
+470,mt,mlt,Malta
+833,im,imn,Man
+504,ma,mar,Marokko
+584,mh,mhl,Marshalløyene
+474,mq,mtq,Martinique
+478,mr,mrt,Mauritania
+480,mu,mus,Mauritius
+175,yt,myt,Mayotte
+484,mx,mex,Mexico
+583,fm,fsm,Mikronesiaføderasjonen
+498,md,mda,Moldova
+492,mc,mco,Monaco
+496,mn,mng,Mongolia
+499,me,mne,Montenegro
+500,ms,msr,Montserrat
+508,mz,moz,Mosambik
+104,mm,mmr,Myanmar
+516,na,nam,Namibia
+520,nr,nru,Nauru
+524,np,npl,Nepal
+528,nl,nld,Nederland
+554,nz,nzl,"New Zealand"
+558,ni,nic,Nicaragua
+562,ne,ner,Niger
+566,ng,nga,Nigeria
+570,nu,niu,Niue
+408,kp,prk,Nord-Korea
+580,mp,mnp,Nord-Marianene
+574,nf,nfk,Norfolkøya
+578,no,nor,Norge
+540,nc,ncl,Ny-Caledonia
+512,om,omn,Oman
+586,pk,pak,Pakistan
+585,pw,plw,Palau
+591,pa,pan,Panama
+598,pg,png,"Papua Ny-Guinea"
+600,py,pry,Paraguay
+604,pe,per,Peru
+612,pn,pcn,Pitcairnøyene
+616,pl,pol,Polen
+620,pt,prt,Portugal
+630,pr,pri,"Puerto Rico"
+634,qa,qat,Qatar
+638,re,reu,Réunion
+642,ro,rou,Romania
+643,ru,rus,Russland
+646,rw,rwa,Rwanda
+652,bl,blm,Saint-Barthélemy
+654,sh,shn,"St. Helena, Ascension og Tristan da Cunha"
+659,kn,kna,"Saint Kitts og Nevis"
+662,lc,lca,"Saint Lucia"
+663,mf,maf,Saint-Martin
+666,pm,spm,"Saint-Pierre og Miquelon"
+670,vc,vct,"Saint Vincent og Grenadinene"
+90,sb,slb,Salomonøyene
+882,ws,wsm,Samoa
+674,sm,smr,"San Marino"
+678,st,stp,"São Tomé og Príncipe"
+682,sa,sau,Saudi-Arabia
+686,sn,sen,Senegal
+688,rs,srb,Serbia
+690,sc,syc,Seychellene
+694,sl,sle,"Sierra Leone"
+702,sg,sgp,Singapore
+534,sx,sxm,"Sint Maarten"
+703,sk,svk,Slovakia
+705,si,svn,Slovenia
+706,so,som,Somalia
+724,es,esp,Spania
+144,lk,lka,"Sri Lanka"
+826,gb,gbr,Storbritannia
+729,sd,sdn,Sudan
+740,sr,sur,Surinam
+744,sj,sjm,"Svalbard og Jan Mayen"
+756,ch,che,Sveits
+752,se,swe,Sverige
+748,sz,swz,Eswatini
+760,sy,syr,Syria
+710,za,zaf,Sør-Afrika
+239,gs,sgs,"Sør-Georgia og Sør-Sandwichøyene"
+410,kr,kor,Sør-Korea
+728,ss,ssd,Sør-Sudan
+762,tj,tjk,Tadsjikistan
+158,tw,twn,Taiwan
+834,tz,tza,Tanzania
+764,th,tha,Thailand
+768,tg,tgo,Togo
+772,tk,tkl,Tokelau
+776,to,ton,Tonga
+780,tt,tto,"Trinidad og Tobago"
+148,td,tcd,Tsjad
+203,cz,cze,Tsjekkia
+788,tn,tun,Tunisia
+795,tm,tkm,Turkmenistan
+796,tc,tca,"Turks- og Caicosøyene"
+798,tv,tuv,Tuvalu
+792,tr,tur,Tyrkia
+276,de,deu,Tyskland
+800,ug,uga,Uganda
+804,ua,ukr,Ukraina
+348,hu,hun,Ungarn
+858,uy,ury,Uruguay
+840,us,usa,USA
+581,um,umi,"USAs ytre småøyer"
+860,uz,uzb,Usbekistan
+548,vu,vut,Vanuatu
+336,va,vat,Vatikanstaten
+862,ve,ven,Venezuela
+732,eh,esh,Vest-Sahara
+704,vn,vnm,Vietnam
+876,wf,wlf,"Wallis- og Futunaøyene"
+894,zm,zmb,Zambia
+716,zw,zwe,Zimbabwe
+40,at,aut,Østerrike
+626,tl,tls,Øst-Timor
+248,ax,ala,Åland

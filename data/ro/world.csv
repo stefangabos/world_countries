@@ -1,250 +1,250 @@
-id,name,alpha2,alpha3
-4,Afganistan,af,afg
-248,"Insulele Åland",ax,ala
-8,Albania,al,alb
-12,Algeria,dz,dza
-16,"Samoa americană",as,asm
-20,Andorra,ad,and
-24,Angola,ao,ago
-660,Anguilla,ai,aia
-10,Antarctica,aq,ata
-28,"Antigua și Barbuda",ag,atg
-32,Argentina,ar,arg
-51,Armenia,am,arm
-533,Aruba,aw,abw
-36,Australia,au,aus
-40,Austria,at,aut
-31,Azerbaidjan,az,aze
-44,Bahamas,bs,bhs
-48,Bahrain,bh,bhr
-50,Bangladesh,bd,bgd
-52,Barbados,bb,brb
-112,Belarus,by,blr
-56,Belgia,be,bel
-84,Belize,bz,blz
-204,Benin,bj,ben
-60,Bermude,bm,bmu
-64,Bhutan,bt,btn
-68,Bolivia,bo,bol
-535,"Insulele Bonaire, Sint Eustatius și Saba",bq,bes
-70,"Bosnia și Herțegovina",ba,bih
-72,Botswana,bw,bwa
-74,"Insula Bouvet",bv,bvt
-76,Brazilia,br,bra
-86,"Teritoriul Britanic din Oceanul Indian",io,iot
-96,Brunei,bn,brn
-100,Bulgaria,bg,bgr
-854,"Burkina Faso",bf,bfa
-108,Burundi,bi,bdi
-116,Cambodgia,kh,khm
-120,Camerun,cm,cmr
-124,Canada,ca,can
-531,Curaçao,cw,cuw
-132,"Republica Capului Verde",cv,cpv
-136,"Insulele Cayman",ky,cym
-140,"Republica Centrafricană",cf,caf
-148,Ciad,td,tcd
-152,Chile,cl,chl
-156,"Republica Populară Chineză",cn,chn
-162,"Insula Crăciunului",cx,cxr
-166,"Insulele Cocos",cc,cck
-170,Columbia,co,col
-174,Comore,km,com
-178,Congo,cg,cog
-180,"Republica Democrată Congo",cd,cod
-184,"Insulele Cook",ck,cok
-188,"Costa Rica",cr,cri
-384,"Coasta de Fildeș",ci,civ
-191,Croația,hr,hrv
-192,Cuba,cu,cub
-196,Cipru,cy,cyp
-203,Cehia,cz,cze
-208,Danemarca,dk,dnk
-262,Djibouti,dj,dji
-212,Dominica,dm,dma
-214,"Republica Dominicană",do,dom
-218,Ecuador,ec,ecu
-818,Egipt,eg,egy
-222,"El Salvador",sv,slv
-226,"Guineea Ecuatorială",gq,gnq
-232,Eritreea,er,eri
-233,Estonia,ee,est
-748,Eswatini,sz,swz
-231,Etiopia,et,eth
-238,"Insulele Falkland",fk,flk
-234,"Insulele Feroe",fo,fro
-242,Fiji,fj,fji
-246,Finlanda,fi,fin
-250,Franța,fr,fra
-254,"Guiana Franceză",gf,guf
-258,"Polinezia franceză",pf,pyf
-260,"Teritoriile australe și antarctice franceze",tf,atf
-266,Gabon,ga,gab
-270,Gambia,gm,gmb
-268,Georgia,ge,geo
-276,Germania,de,deu
-288,Ghana,gh,gha
-292,Gibraltar,gi,gib
-300,Grecia,gr,grc
-304,Groenlanda,gl,grl
-308,Grenada,gd,grd
-312,Guadelupa,gp,glp
-316,Guam,gu,gum
-320,Guatemala,gt,gtm
-831,Guernsey,gg,ggy
-324,Guineea,gn,gin
-624,Guineea-Bissau,gw,gnb
-328,Guyana,gy,guy
-332,Haiti,ht,hti
-334,"Insula Heard și Insulele McDonald",hm,hmd
-336,Vatican,va,vat
-340,Honduras,hn,hnd
-344,"Hong Kong",hk,hkg
-348,Ungaria,hu,hun
-352,Islanda,is,isl
-356,India,in,ind
-360,Indonezia,id,idn
-364,Iran,ir,irn
-368,Irak,iq,irq
-372,"Republica Irlanda",ie,irl
-833,"Insula Man",im,imn
-376,Israel,il,isr
-380,Italia,it,ita
-388,Jamaica,jm,jam
-392,Japonia,jp,jpn
-832,"Insula Jersey",je,jey
-400,Iordania,jo,jor
-398,Kazahstan,kz,kaz
-404,Kenya,ke,ken
-296,Kiribati,ki,kir
-408,"Coreea de Nord",kp,prk
-410,"Coreea de Sud",kr,kor
-414,Kuweit,kw,kwt
-417,Kârgâzstan,kg,kgz
-418,Laos,la,lao
-428,Letonia,lv,lva
-422,Liban,lb,lbn
-426,Lesotho,ls,lso
-430,Liberia,lr,lbr
-434,Libia,ly,lby
-438,Liechtenstein,li,lie
-440,Lituania,lt,ltu
-442,Luxemburg,lu,lux
-446,Macao,mo,mac
-807,"Republica Macedonia",mk,mkd
-450,Madagascar,mg,mdg
-454,Malawi,mw,mwi
-458,Malaezia,my,mys
-462,Maldive,mv,mdv
-466,Mali,ml,mli
-470,Malta,mt,mlt
-584,"Insulele Marshall",mh,mhl
-474,Martinica,mq,mtq
-478,Mauritania,mr,mrt
-480,Mauritius,mu,mus
-175,Mayotte,yt,myt
-484,Mexic,mx,mex
-583,Micronezia,fm,fsm
-498,"Republica Moldova",md,mda
-492,Monaco,mc,mco
-496,Mongolia,mn,mng
-499,Muntenegru,me,mne
-500,Montserrat,ms,msr
-504,Maroc,ma,mar
-508,Mozambic,mz,moz
-104,Myanmar,mm,mmr
-516,Namibia,na,nam
-520,Nauru,nr,nru
-524,Nepal,np,npl
-528,"Țările de Jos",nl,nld
-540,"Noua Caledonie",nc,ncl
-554,"Noua Zeelandă",nz,nzl
-558,Nicaragua,ni,nic
-562,Niger,ne,ner
-566,Nigeria,ng,nga
-570,Niue,nu,niu
-574,"Insula Norfolk",nf,nfk
-580,"Insulele Mariane de Nord",mp,mnp
-578,Norvegia,no,nor
-512,Oman,om,omn
-586,Pakistan,pk,pak
-585,Palau,pw,plw
-275,"Teritoriile Palestiniene Ocupate",ps,pse
-591,Panama,pa,pan
-598,"Papua Noua Guinee",pg,png
-600,Paraguay,py,pry
-604,Peru,pe,per
-608,Filipine,ph,phl
-612,Pitcairn,pn,pcn
-616,Polonia,pl,pol
-620,Portugalia,pt,prt
-630,"Puerto Rico",pr,pri
-634,Qatar,qa,qat
-638,Réunion,re,reu
-642,România,ro,rou
-643,Rusia,ru,rus
-646,Rwanda,rw,rwa
-652,"Saint Barthélemy",bl,blm
-654,"Sfânta Elena",sh,shn
-659,"Sfântul Kitts și Nevis",kn,kna
-662,"Sfânta Lucia",lc,lca
-663,"Sint Maarten (partea franceză)",mf,maf
-666,"Sfântul Pierre și Miquelon",pm,spm
-670,"Sfântul Vincent și Grenadine",vc,vct
-882,Samoa,ws,wsm
-674,"San Marino",sm,smr
-678,"Sao Tome și Principe",st,stp
-682,"Arabia Saudită",sa,sau
-686,Senegal,sn,sen
-688,Serbia,rs,srb
-690,Seychelles,sc,syc
-694,"Sierra Leone",sl,sle
-702,Singapore,sg,sgp
-534,"Sint Maarten (partea olandeză)",sx,sxm
-703,Slovacia,sk,svk
-705,Slovenia,si,svn
-90,"Insulele Solomon",sb,slb
-706,Somalia,so,som
-710,"Africa de Sud",za,zaf
-239,"Georgia de Sud și Insulele Sandwich de Sud",gs,sgs
-724,Spania,es,esp
-144,"Sri Lanka",lk,lka
-729,Sudan,sd,sdn
-728,"Sudanul de Sud",ss,ssd
-740,Surinam,sr,sur
-744,"Svalbard și Jan Mayen",sj,sjm
-752,Suedia,se,swe
-756,Elveția,ch,che
-760,Siria,sy,syr
-158,Taiwan,tw,twn
-762,Tadjikistan,tj,tjk
-834,Tanzania,tz,tza
-764,Thailanda,th,tha
-626,"Timorul de Est",tl,tls
-768,Togo,tg,tgo
-772,Tokelau,tk,tkl
-776,Tonga,to,ton
-780,"Trinidad și Tobago",tt,tto
-788,Tunisia,tn,tun
-792,Turcia,tr,tur
-795,Turkmenistan,tm,tkm
-796,"Insulele Turks și Caicos",tc,tca
-798,Tuvalu,tv,tuv
-800,Uganda,ug,uga
-804,Ucraina,ua,ukr
-784,"Emiratele Arabe Unite",ae,are
-826,"Regatul Unit",gb,gbr
-840,"Statele Unite ale Americii",us,usa
-581,"United States Minor Outlying Islands",um,umi
-858,Uruguay,uy,ury
-860,Uzbekistan,uz,uzb
-548,Vanuatu,vu,vut
-862,Venezuela,ve,ven
-704,Vietnam,vn,vnm
-92,"Insulele Virgine Britanice",vg,vgb
-850,"Insulele Virgine Americane",vi,vir
-876,"Wallis și Futuna",wf,wlf
-732,"Sahara Occidentală",eh,esh
-887,Yemen,ye,yem
-894,Zambia,zm,zmb
-716,Zimbabwe,zw,zwe
+id,alpha2,alpha3,name
+4,af,afg,Afganistan
+248,ax,ala,"Insulele Åland"
+8,al,alb,Albania
+12,dz,dza,Algeria
+16,as,asm,"Samoa americană"
+20,ad,and,Andorra
+24,ao,ago,Angola
+660,ai,aia,Anguilla
+10,aq,ata,Antarctica
+28,ag,atg,"Antigua și Barbuda"
+32,ar,arg,Argentina
+51,am,arm,Armenia
+533,aw,abw,Aruba
+36,au,aus,Australia
+40,at,aut,Austria
+31,az,aze,Azerbaidjan
+44,bs,bhs,Bahamas
+48,bh,bhr,Bahrain
+50,bd,bgd,Bangladesh
+52,bb,brb,Barbados
+112,by,blr,Belarus
+56,be,bel,Belgia
+84,bz,blz,Belize
+204,bj,ben,Benin
+60,bm,bmu,Bermude
+64,bt,btn,Bhutan
+68,bo,bol,Bolivia
+535,bq,bes,"Insulele Bonaire, Sint Eustatius și Saba"
+70,ba,bih,"Bosnia și Herțegovina"
+72,bw,bwa,Botswana
+74,bv,bvt,"Insula Bouvet"
+76,br,bra,Brazilia
+86,io,iot,"Teritoriul Britanic din Oceanul Indian"
+96,bn,brn,Brunei
+100,bg,bgr,Bulgaria
+854,bf,bfa,"Burkina Faso"
+108,bi,bdi,Burundi
+116,kh,khm,Cambodgia
+120,cm,cmr,Camerun
+124,ca,can,Canada
+531,cw,cuw,Curaçao
+132,cv,cpv,"Republica Capului Verde"
+136,ky,cym,"Insulele Cayman"
+140,cf,caf,"Republica Centrafricană"
+148,td,tcd,Ciad
+152,cl,chl,Chile
+156,cn,chn,"Republica Populară Chineză"
+162,cx,cxr,"Insula Crăciunului"
+166,cc,cck,"Insulele Cocos"
+170,co,col,Columbia
+174,km,com,Comore
+178,cg,cog,Congo
+180,cd,cod,"Republica Democrată Congo"
+184,ck,cok,"Insulele Cook"
+188,cr,cri,"Costa Rica"
+384,ci,civ,"Coasta de Fildeș"
+191,hr,hrv,Croația
+192,cu,cub,Cuba
+196,cy,cyp,Cipru
+203,cz,cze,Cehia
+208,dk,dnk,Danemarca
+262,dj,dji,Djibouti
+212,dm,dma,Dominica
+214,do,dom,"Republica Dominicană"
+218,ec,ecu,Ecuador
+818,eg,egy,Egipt
+222,sv,slv,"El Salvador"
+226,gq,gnq,"Guineea Ecuatorială"
+232,er,eri,Eritreea
+233,ee,est,Estonia
+748,sz,swz,Eswatini
+231,et,eth,Etiopia
+238,fk,flk,"Insulele Falkland"
+234,fo,fro,"Insulele Feroe"
+242,fj,fji,Fiji
+246,fi,fin,Finlanda
+250,fr,fra,Franța
+254,gf,guf,"Guiana Franceză"
+258,pf,pyf,"Polinezia franceză"
+260,tf,atf,"Teritoriile australe și antarctice franceze"
+266,ga,gab,Gabon
+270,gm,gmb,Gambia
+268,ge,geo,Georgia
+276,de,deu,Germania
+288,gh,gha,Ghana
+292,gi,gib,Gibraltar
+300,gr,grc,Grecia
+304,gl,grl,Groenlanda
+308,gd,grd,Grenada
+312,gp,glp,Guadelupa
+316,gu,gum,Guam
+320,gt,gtm,Guatemala
+831,gg,ggy,Guernsey
+324,gn,gin,Guineea
+624,gw,gnb,Guineea-Bissau
+328,gy,guy,Guyana
+332,ht,hti,Haiti
+334,hm,hmd,"Insula Heard și Insulele McDonald"
+336,va,vat,Vatican
+340,hn,hnd,Honduras
+344,hk,hkg,"Hong Kong"
+348,hu,hun,Ungaria
+352,is,isl,Islanda
+356,in,ind,India
+360,id,idn,Indonezia
+364,ir,irn,Iran
+368,iq,irq,Irak
+372,ie,irl,"Republica Irlanda"
+833,im,imn,"Insula Man"
+376,il,isr,Israel
+380,it,ita,Italia
+388,jm,jam,Jamaica
+392,jp,jpn,Japonia
+832,je,jey,"Insula Jersey"
+400,jo,jor,Iordania
+398,kz,kaz,Kazahstan
+404,ke,ken,Kenya
+296,ki,kir,Kiribati
+408,kp,prk,"Coreea de Nord"
+410,kr,kor,"Coreea de Sud"
+414,kw,kwt,Kuweit
+417,kg,kgz,Kârgâzstan
+418,la,lao,Laos
+428,lv,lva,Letonia
+422,lb,lbn,Liban
+426,ls,lso,Lesotho
+430,lr,lbr,Liberia
+434,ly,lby,Libia
+438,li,lie,Liechtenstein
+440,lt,ltu,Lituania
+442,lu,lux,Luxemburg
+446,mo,mac,Macao
+807,mk,mkd,"Republica Macedonia"
+450,mg,mdg,Madagascar
+454,mw,mwi,Malawi
+458,my,mys,Malaezia
+462,mv,mdv,Maldive
+466,ml,mli,Mali
+470,mt,mlt,Malta
+584,mh,mhl,"Insulele Marshall"
+474,mq,mtq,Martinica
+478,mr,mrt,Mauritania
+480,mu,mus,Mauritius
+175,yt,myt,Mayotte
+484,mx,mex,Mexic
+583,fm,fsm,Micronezia
+498,md,mda,"Republica Moldova"
+492,mc,mco,Monaco
+496,mn,mng,Mongolia
+499,me,mne,Muntenegru
+500,ms,msr,Montserrat
+504,ma,mar,Maroc
+508,mz,moz,Mozambic
+104,mm,mmr,Myanmar
+516,na,nam,Namibia
+520,nr,nru,Nauru
+524,np,npl,Nepal
+528,nl,nld,"Țările de Jos"
+540,nc,ncl,"Noua Caledonie"
+554,nz,nzl,"Noua Zeelandă"
+558,ni,nic,Nicaragua
+562,ne,ner,Niger
+566,ng,nga,Nigeria
+570,nu,niu,Niue
+574,nf,nfk,"Insula Norfolk"
+580,mp,mnp,"Insulele Mariane de Nord"
+578,no,nor,Norvegia
+512,om,omn,Oman
+586,pk,pak,Pakistan
+585,pw,plw,Palau
+275,ps,pse,"Teritoriile Palestiniene Ocupate"
+591,pa,pan,Panama
+598,pg,png,"Papua Noua Guinee"
+600,py,pry,Paraguay
+604,pe,per,Peru
+608,ph,phl,Filipine
+612,pn,pcn,Pitcairn
+616,pl,pol,Polonia
+620,pt,prt,Portugalia
+630,pr,pri,"Puerto Rico"
+634,qa,qat,Qatar
+638,re,reu,Réunion
+642,ro,rou,România
+643,ru,rus,Rusia
+646,rw,rwa,Rwanda
+652,bl,blm,"Saint Barthélemy"
+654,sh,shn,"Sfânta Elena"
+659,kn,kna,"Sfântul Kitts și Nevis"
+662,lc,lca,"Sfânta Lucia"
+663,mf,maf,"Sint Maarten (partea franceză)"
+666,pm,spm,"Sfântul Pierre și Miquelon"
+670,vc,vct,"Sfântul Vincent și Grenadine"
+882,ws,wsm,Samoa
+674,sm,smr,"San Marino"
+678,st,stp,"Sao Tome și Principe"
+682,sa,sau,"Arabia Saudită"
+686,sn,sen,Senegal
+688,rs,srb,Serbia
+690,sc,syc,Seychelles
+694,sl,sle,"Sierra Leone"
+702,sg,sgp,Singapore
+534,sx,sxm,"Sint Maarten (partea olandeză)"
+703,sk,svk,Slovacia
+705,si,svn,Slovenia
+90,sb,slb,"Insulele Solomon"
+706,so,som,Somalia
+710,za,zaf,"Africa de Sud"
+239,gs,sgs,"Georgia de Sud și Insulele Sandwich de Sud"
+724,es,esp,Spania
+144,lk,lka,"Sri Lanka"
+729,sd,sdn,Sudan
+728,ss,ssd,"Sudanul de Sud"
+740,sr,sur,Surinam
+744,sj,sjm,"Svalbard și Jan Mayen"
+752,se,swe,Suedia
+756,ch,che,Elveția
+760,sy,syr,Siria
+158,tw,twn,Taiwan
+762,tj,tjk,Tadjikistan
+834,tz,tza,Tanzania
+764,th,tha,Thailanda
+626,tl,tls,"Timorul de Est"
+768,tg,tgo,Togo
+772,tk,tkl,Tokelau
+776,to,ton,Tonga
+780,tt,tto,"Trinidad și Tobago"
+788,tn,tun,Tunisia
+792,tr,tur,Turcia
+795,tm,tkm,Turkmenistan
+796,tc,tca,"Insulele Turks și Caicos"
+798,tv,tuv,Tuvalu
+800,ug,uga,Uganda
+804,ua,ukr,Ucraina
+784,ae,are,"Emiratele Arabe Unite"
+826,gb,gbr,"Regatul Unit"
+840,us,usa,"Statele Unite ale Americii"
+581,um,umi,"United States Minor Outlying Islands"
+858,uy,ury,Uruguay
+860,uz,uzb,Uzbekistan
+548,vu,vut,Vanuatu
+862,ve,ven,Venezuela
+704,vn,vnm,Vietnam
+92,vg,vgb,"Insulele Virgine Britanice"
+850,vi,vir,"Insulele Virgine Americane"
+876,wf,wlf,"Wallis și Futuna"
+732,eh,esh,"Sahara Occidentală"
+887,ye,yem,Yemen
+894,zm,zmb,Zambia
+716,zw,zwe,Zimbabwe

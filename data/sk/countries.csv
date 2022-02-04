@@ -1,194 +1,194 @@
-id,name,alpha2,alpha3
-4,Afganistan,af,afg
-8,Albánsko,al,alb
-12,Alžírsko,dz,dza
-20,Andorra,ad,and
-24,Angola,ao,ago
-28,"Antigua a Barbuda",ag,atg
-32,Argentína,ar,arg
-51,Arménsko,am,arm
-36,Austrália,au,aus
-31,Azerbajdžan,az,aze
-44,Bahamy,bs,bhs
-48,Bahrajn,bh,bhr
-50,Bangladéš,bd,bgd
-52,Barbados,bb,brb
-56,Belgicko,be,bel
-84,Belize,bz,blz
-204,Benin,bj,ben
-64,Bhután,bt,btn
-112,Bielorusko,by,blr
-68,Bolívia,bo,bol
-70,"Bosna a Hercegovina",ba,bih
-72,Botswana,bw,bwa
-76,Brazília,br,bra
-96,Brunej,bn,brn
-100,Bulharsko,bg,bgr
-854,Burkina,bf,bfa
-108,Burundi,bi,bdi
-196,Cyprus,cy,cyp
-148,Čad,td,tcd
-203,Česko,cz,cze
-499,"Čierna Hora",me,mne
-152,Čile,cl,chl
-156,Čína,cn,chn
-208,Dánsko,dk,dnk
-212,Dominika,dm,dma
-214,"Dominikánska republika",do,dom
-262,Džibutsko,dj,dji
-818,Egypt,eg,egy
-218,Ekvádor,ec,ecu
-232,Eritrea,er,eri
-233,Estónsko,ee,est
-231,Etiópia,et,eth
-242,Fidži,fj,fji
-608,Filipíny,ph,phl
-246,Fínsko,fi,fin
-250,Francúzsko,fr,fra
-266,Gabon,ga,gab
-270,Gambia,gm,gmb
-288,Ghana,gh,gha
-300,Grécko,gr,grc
-308,Grenada,gd,grd
-268,Gruzínsko,ge,geo
-320,Guatemala,gt,gtm
-324,Guinea,gn,gin
-624,Guinea-Bissau,gw,gnb
-328,Guyana,gy,guy
-332,Haiti,ht,hti
-528,Holandsko,nl,nld
-340,Honduras,hn,hnd
-191,Chorvátsko,hr,hrv
-356,India,in,ind
-360,Indonézia,id,idn
-364,Irán,ir,irn
-368,Irak,iq,irq
-372,Írsko,ie,irl
-352,Island,is,isl
-376,Izrael,il,isr
-388,Jamajka,jm,jam
-392,Japonsko,jp,jpn
-887,Jemen,ye,yem
-400,Jordánsko,jo,jor
-710,"Južná Afrika",za,zaf
-728,"Južný Sudán",ss,ssd
-116,Kambodža,kh,khm
-120,Kamerun,cm,cmr
-124,Kanada,ca,can
-132,Kapverdy,cv,cpv
-634,Katar,qa,qat
-398,Kazachstan,kz,kaz
-404,Keňa,ke,ken
-417,Kirgizsko,kg,kgz
-296,Kiribati,ki,kir
-170,Kolumbia,co,col
-174,Komory,km,com
-178,Kongo,cg,cog
-180,"Konžská demokratická republika",cd,cod
-408,"Kórejská ľudovodemokratická republika",kp,prk
-410,"Kórejská republika",kr,kor
-188,Kostarika,cr,cri
-192,Kuba,cu,cub
-414,Kuvajt,kw,kwt
-418,Laos,la,lao
-426,Lesotho,ls,lso
-422,Libanon,lb,lbn
-430,Libéria,lr,lbr
-434,Líbya,ly,lby
-438,Lichtenštajnsko,li,lie
-440,Litva,lt,ltu
-428,Lotyšsko,lv,lva
-442,Luxembursko,lu,lux
-807,"Severné Macedónsko",mk,mkd
-450,Madagaskar,mg,mdg
-348,Maďarsko,hu,hun
-458,Malajzia,my,mys
-454,Malawi,mw,mwi
-462,Maldivy,mv,mdv
-466,Mali,ml,mli
-470,Malta,mt,mlt
-504,Maroko,ma,mar
-584,"Marshallove ostrovy",mh,mhl
-480,Maurícius,mu,mus
-478,Mauritánia,mr,mrt
-484,Mexiko,mx,mex
-583,Mikronézia,fm,fsm
-104,Mjanmarsko,mm,mmr
-498,Moldavsko,md,mda
-492,Monako,mc,mco
-496,Mongolsko,mn,mng
-508,Mozambik,mz,moz
-516,Namíbia,na,nam
-520,Nauru,nr,nru
-276,Nemecko,de,deu
-524,Nepál,np,npl
-562,Niger,ne,ner
-566,Nigéria,ng,nga
-558,Nikaragua,ni,nic
-578,Nórsko,no,nor
-554,"Nový Zéland",nz,nzl
-512,Omán,om,omn
-586,Pakistan,pk,pak
-585,Palau,pw,plw
-591,Panama,pa,pan
-598,"Papua-Nová Guinea",pg,png
-600,Paraguaj,py,pry
-604,Peru,pe,per
-384,"Pobrežie Slonoviny",ci,civ
-616,Poľsko,pl,pol
-620,Portugalsko,pt,prt
-40,Rakúsko,at,aut
-226,"Rovníková Guinea",gq,gnq
-642,Rumunsko,ro,rou
-643,Rusko,ru,rus
-646,Rwanda,rw,rwa
-222,Salvádor,sv,slv
-882,Samoa,ws,wsm
-674,"San Maríno",sm,smr
-682,"Saudská Arábia",sa,sau
-686,Senegal,sn,sen
-690,Seychely,sc,syc
-694,"Sierra Leone",sl,sle
-702,Singapur,sg,sgp
-703,Slovensko,sk,svk
-705,Slovinsko,si,svn
-706,Somálsko,so,som
-784,"Spojené arabské emiráty",ae,are
-826,"Spojené kráľovstvo",gb,gbr
-840,"Spojené štáty",us,usa
-688,Srbsko,rs,srb
-144,"Srí Lanka",lk,lka
-140,"Stredoafrická republika",cf,caf
-729,Sudán,sd,sdn
-740,Surinam,sr,sur
-662,"Svätá Lucia",lc,lca
-659,"Svätý Krištof a Nevis",kn,kna
-678,"Svätý Tomáš a Princov ostrov",st,stp
-670,"Svätý Vincent a Grenadíny",vc,vct
-748,Svazijsko,sz,swz
-760,Sýria,sy,syr
-90,"Šalamúnove ostrovy",sb,slb
-724,Španielsko,es,esp
-756,Švajčiarsko,ch,che
-752,Švédsko,se,swe
-762,Tadžikistan,tj,tjk
-380,Taliansko,it,ita
-834,Tanzánia,tz,tza
-764,Thajsko,th,tha
-768,Togo,tg,tgo
-776,Tonga,to,ton
-780,"Trinidad a Tobago",tt,tto
-788,Tunisko,tn,tun
-792,Turecko,tr,tur
-795,Turkménsko,tm,tkm
-798,Tuvalu,tv,tuv
-800,Uganda,ug,uga
-804,Ukrajina,ua,ukr
-858,Uruguaj,uy,ury
-860,Uzbekistan,uz,uzb
-548,Vanuatu,vu,vut
-862,Venezuela,ve,ven
-704,Vietnam,vn,vnm
-626,"Východný Timor",tl,tls
-894,Zambia,zm,zmb
-716,Zimbabwe,zw,zwe
+id,alpha2,alpha3,name
+4,af,afg,Afganistan
+8,al,alb,Albánsko
+12,dz,dza,Alžírsko
+20,ad,and,Andorra
+24,ao,ago,Angola
+28,ag,atg,"Antigua a Barbuda"
+32,ar,arg,Argentína
+51,am,arm,Arménsko
+36,au,aus,Austrália
+31,az,aze,Azerbajdžan
+44,bs,bhs,Bahamy
+48,bh,bhr,Bahrajn
+50,bd,bgd,Bangladéš
+52,bb,brb,Barbados
+56,be,bel,Belgicko
+84,bz,blz,Belize
+204,bj,ben,Benin
+64,bt,btn,Bhután
+112,by,blr,Bielorusko
+68,bo,bol,Bolívia
+70,ba,bih,"Bosna a Hercegovina"
+72,bw,bwa,Botswana
+76,br,bra,Brazília
+96,bn,brn,Brunej
+100,bg,bgr,Bulharsko
+854,bf,bfa,Burkina
+108,bi,bdi,Burundi
+196,cy,cyp,Cyprus
+148,td,tcd,Čad
+203,cz,cze,Česko
+499,me,mne,"Čierna Hora"
+152,cl,chl,Čile
+156,cn,chn,Čína
+208,dk,dnk,Dánsko
+212,dm,dma,Dominika
+214,do,dom,"Dominikánska republika"
+262,dj,dji,Džibutsko
+818,eg,egy,Egypt
+218,ec,ecu,Ekvádor
+232,er,eri,Eritrea
+233,ee,est,Estónsko
+231,et,eth,Etiópia
+242,fj,fji,Fidži
+608,ph,phl,Filipíny
+246,fi,fin,Fínsko
+250,fr,fra,Francúzsko
+266,ga,gab,Gabon
+270,gm,gmb,Gambia
+288,gh,gha,Ghana
+300,gr,grc,Grécko
+308,gd,grd,Grenada
+268,ge,geo,Gruzínsko
+320,gt,gtm,Guatemala
+324,gn,gin,Guinea
+624,gw,gnb,Guinea-Bissau
+328,gy,guy,Guyana
+332,ht,hti,Haiti
+528,nl,nld,Holandsko
+340,hn,hnd,Honduras
+191,hr,hrv,Chorvátsko
+356,in,ind,India
+360,id,idn,Indonézia
+364,ir,irn,Irán
+368,iq,irq,Irak
+372,ie,irl,Írsko
+352,is,isl,Island
+376,il,isr,Izrael
+388,jm,jam,Jamajka
+392,jp,jpn,Japonsko
+887,ye,yem,Jemen
+400,jo,jor,Jordánsko
+710,za,zaf,"Južná Afrika"
+728,ss,ssd,"Južný Sudán"
+116,kh,khm,Kambodža
+120,cm,cmr,Kamerun
+124,ca,can,Kanada
+132,cv,cpv,Kapverdy
+634,qa,qat,Katar
+398,kz,kaz,Kazachstan
+404,ke,ken,Keňa
+417,kg,kgz,Kirgizsko
+296,ki,kir,Kiribati
+170,co,col,Kolumbia
+174,km,com,Komory
+178,cg,cog,Kongo
+180,cd,cod,"Konžská demokratická republika"
+408,kp,prk,"Kórejská ľudovodemokratická republika"
+410,kr,kor,"Kórejská republika"
+188,cr,cri,Kostarika
+192,cu,cub,Kuba
+414,kw,kwt,Kuvajt
+418,la,lao,Laos
+426,ls,lso,Lesotho
+422,lb,lbn,Libanon
+430,lr,lbr,Libéria
+434,ly,lby,Líbya
+438,li,lie,Lichtenštajnsko
+440,lt,ltu,Litva
+428,lv,lva,Lotyšsko
+442,lu,lux,Luxembursko
+807,mk,mkd,"Severné Macedónsko"
+450,mg,mdg,Madagaskar
+348,hu,hun,Maďarsko
+458,my,mys,Malajzia
+454,mw,mwi,Malawi
+462,mv,mdv,Maldivy
+466,ml,mli,Mali
+470,mt,mlt,Malta
+504,ma,mar,Maroko
+584,mh,mhl,"Marshallove ostrovy"
+480,mu,mus,Maurícius
+478,mr,mrt,Mauritánia
+484,mx,mex,Mexiko
+583,fm,fsm,Mikronézia
+104,mm,mmr,Mjanmarsko
+498,md,mda,Moldavsko
+492,mc,mco,Monako
+496,mn,mng,Mongolsko
+508,mz,moz,Mozambik
+516,na,nam,Namíbia
+520,nr,nru,Nauru
+276,de,deu,Nemecko
+524,np,npl,Nepál
+562,ne,ner,Niger
+566,ng,nga,Nigéria
+558,ni,nic,Nikaragua
+578,no,nor,Nórsko
+554,nz,nzl,"Nový Zéland"
+512,om,omn,Omán
+586,pk,pak,Pakistan
+585,pw,plw,Palau
+591,pa,pan,Panama
+598,pg,png,"Papua-Nová Guinea"
+600,py,pry,Paraguaj
+604,pe,per,Peru
+384,ci,civ,"Pobrežie Slonoviny"
+616,pl,pol,Poľsko
+620,pt,prt,Portugalsko
+40,at,aut,Rakúsko
+226,gq,gnq,"Rovníková Guinea"
+642,ro,rou,Rumunsko
+643,ru,rus,Rusko
+646,rw,rwa,Rwanda
+222,sv,slv,Salvádor
+882,ws,wsm,Samoa
+674,sm,smr,"San Maríno"
+682,sa,sau,"Saudská Arábia"
+686,sn,sen,Senegal
+690,sc,syc,Seychely
+694,sl,sle,"Sierra Leone"
+702,sg,sgp,Singapur
+703,sk,svk,Slovensko
+705,si,svn,Slovinsko
+706,so,som,Somálsko
+784,ae,are,"Spojené arabské emiráty"
+826,gb,gbr,"Spojené kráľovstvo"
+840,us,usa,"Spojené štáty"
+688,rs,srb,Srbsko
+144,lk,lka,"Srí Lanka"
+140,cf,caf,"Stredoafrická republika"
+729,sd,sdn,Sudán
+740,sr,sur,Surinam
+662,lc,lca,"Svätá Lucia"
+659,kn,kna,"Svätý Krištof a Nevis"
+678,st,stp,"Svätý Tomáš a Princov ostrov"
+670,vc,vct,"Svätý Vincent a Grenadíny"
+748,sz,swz,Svazijsko
+760,sy,syr,Sýria
+90,sb,slb,"Šalamúnove ostrovy"
+724,es,esp,Španielsko
+756,ch,che,Švajčiarsko
+752,se,swe,Švédsko
+762,tj,tjk,Tadžikistan
+380,it,ita,Taliansko
+834,tz,tza,Tanzánia
+764,th,tha,Thajsko
+768,tg,tgo,Togo
+776,to,ton,Tonga
+780,tt,tto,"Trinidad a Tobago"
+788,tn,tun,Tunisko
+792,tr,tur,Turecko
+795,tm,tkm,Turkménsko
+798,tv,tuv,Tuvalu
+800,ug,uga,Uganda
+804,ua,ukr,Ukrajina
+858,uy,ury,Uruguaj
+860,uz,uzb,Uzbekistan
+548,vu,vut,Vanuatu
+862,ve,ven,Venezuela
+704,vn,vnm,Vietnam
+626,tl,tls,"Východný Timor"
+894,zm,zmb,Zambia
+716,zw,zwe,Zimbabwe

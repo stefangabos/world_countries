@@ -1,194 +1,194 @@
-id,name,alpha2,alpha3
-4,Afghanistan,af,afg
-8,Albania,al,alb
-12,Algeria,dz,dza
-20,Andorra,ad,and
-24,Angola,ao,ago
-28,"Antigua and Barbuda",ag,atg
-32,Argentina,ar,arg
-51,Armenia,am,arm
-36,Australia,au,aus
-40,Austria,at,aut
-31,Azerbaijan,az,aze
-44,Bahamas,bs,bhs
-48,Bahrain,bh,bhr
-50,Bangladesh,bd,bgd
-52,Barbados,bb,brb
-112,Belarus,by,blr
-56,Belgium,be,bel
-84,Belize,bz,blz
-204,Benin,bj,ben
-64,Bhutan,bt,btn
-68,"Bolivia (Plurinational State of)",bo,bol
-70,"Bosnia and Herzegovina",ba,bih
-72,Botswana,bw,bwa
-76,Brazil,br,bra
-96,"Brunei Darussalam",bn,brn
-100,Bulgaria,bg,bgr
-854,"Burkina Faso",bf,bfa
-108,Burundi,bi,bdi
-132,"Cabo Verde",cv,cpv
-116,Cambodia,kh,khm
-120,Cameroon,cm,cmr
-124,Canada,ca,can
-140,"Central African Republic",cf,caf
-148,Chad,td,tcd
-152,Chile,cl,chl
-156,China,cn,chn
-170,Colombia,co,col
-174,Comoros,km,com
-178,Congo,cg,cog
-180,"Congo, Democratic Republic of the",cd,cod
-188,"Costa Rica",cr,cri
-384,"Côte d'Ivoire",ci,civ
-191,Croatia,hr,hrv
-192,Cuba,cu,cub
-196,Cyprus,cy,cyp
-203,Czechia,cz,cze
-208,Denmark,dk,dnk
-262,Djibouti,dj,dji
-212,Dominica,dm,dma
-214,"Dominican Republic",do,dom
-218,Ecuador,ec,ecu
-818,Egypt,eg,egy
-222,"El Salvador",sv,slv
-226,"Equatorial Guinea",gq,gnq
-232,Eritrea,er,eri
-233,Estonia,ee,est
-748,Eswatini,sz,swz
-231,Ethiopia,et,eth
-242,Fiji,fj,fji
-246,Finland,fi,fin
-250,France,fr,fra
-266,Gabon,ga,gab
-270,Gambia,gm,gmb
-268,Georgia,ge,geo
-276,Germany,de,deu
-288,Ghana,gh,gha
-300,Greece,gr,grc
-308,Grenada,gd,grd
-320,Guatemala,gt,gtm
-324,Guinea,gn,gin
-624,Guinea-Bissau,gw,gnb
-328,Guyana,gy,guy
-332,Haiti,ht,hti
-340,Honduras,hn,hnd
-348,Hungary,hu,hun
-352,Iceland,is,isl
-356,India,in,ind
-360,Indonesia,id,idn
-364,"Iran (Islamic Republic of)",ir,irn
-368,Iraq,iq,irq
-372,Ireland,ie,irl
-376,Israel,il,isr
-380,Italy,it,ita
-388,Jamaica,jm,jam
-392,Japan,jp,jpn
-400,Jordan,jo,jor
-398,Kazakhstan,kz,kaz
-404,Kenya,ke,ken
-296,Kiribati,ki,kir
-408,"Korea (Democratic People's Republic of)",kp,prk
-410,"Korea, Republic of",kr,kor
-414,Kuwait,kw,kwt
-417,Kyrgyzstan,kg,kgz
-418,"Lao People's Democratic Republic",la,lao
-428,Latvia,lv,lva
-422,Lebanon,lb,lbn
-426,Lesotho,ls,lso
-430,Liberia,lr,lbr
-434,Libya,ly,lby
-438,Liechtenstein,li,lie
-440,Lithuania,lt,ltu
-442,Luxembourg,lu,lux
-450,Madagascar,mg,mdg
-454,Malawi,mw,mwi
-458,Malaysia,my,mys
-462,Maldives,mv,mdv
-466,Mali,ml,mli
-470,Malta,mt,mlt
-584,"Marshall Islands",mh,mhl
-478,Mauritania,mr,mrt
-480,Mauritius,mu,mus
-484,Mexico,mx,mex
-583,"Micronesia (Federated States of)",fm,fsm
-498,"Moldova, Republic of",md,mda
-492,Monaco,mc,mco
-496,Mongolia,mn,mng
-499,Montenegro,me,mne
-504,Morocco,ma,mar
-508,Mozambique,mz,moz
-104,Myanmar,mm,mmr
-516,Namibia,na,nam
-520,Nauru,nr,nru
-524,Nepal,np,npl
-528,Netherlands,nl,nld
-554,"New Zealand",nz,nzl
-558,Nicaragua,ni,nic
-562,Niger,ne,ner
-566,Nigeria,ng,nga
-807,"North Macedonia",mk,mkd
-578,Norway,no,nor
-512,Oman,om,omn
-586,Pakistan,pk,pak
-585,Palau,pw,plw
-591,Panama,pa,pan
-598,"Papua New Guinea",pg,png
-600,Paraguay,py,pry
-604,Peru,pe,per
-608,Philippines,ph,phl
-616,Poland,pl,pol
-620,Portugal,pt,prt
-634,Qatar,qa,qat
-642,Romania,ro,rou
-643,"Russian Federation",ru,rus
-646,Rwanda,rw,rwa
-659,"Saint Kitts and Nevis",kn,kna
-662,"Saint Lucia",lc,lca
-670,"Saint Vincent and the Grenadines",vc,vct
-882,Samoa,ws,wsm
-674,"San Marino",sm,smr
-678,"Sao Tome and Principe",st,stp
-682,"Saudi Arabia",sa,sau
-686,Senegal,sn,sen
-688,Serbia,rs,srb
-690,Seychelles,sc,syc
-694,"Sierra Leone",sl,sle
-702,Singapore,sg,sgp
-703,Slovakia,sk,svk
-705,Slovenia,si,svn
-90,"Solomon Islands",sb,slb
-706,Somalia,so,som
-710,"South Africa",za,zaf
-728,"South Sudan",ss,ssd
-724,Spain,es,esp
-144,"Sri Lanka",lk,lka
-729,Sudan,sd,sdn
-740,Suriname,sr,sur
-752,Sweden,se,swe
-756,Switzerland,ch,che
-760,"Syrian Arab Republic",sy,syr
-762,Tajikistan,tj,tjk
-834,"Tanzania, United Republic of",tz,tza
-764,Thailand,th,tha
-626,Timor-Leste,tl,tls
-768,Togo,tg,tgo
-776,Tonga,to,ton
-780,"Trinidad and Tobago",tt,tto
-788,Tunisia,tn,tun
-792,Turkey,tr,tur
-795,Turkmenistan,tm,tkm
-798,Tuvalu,tv,tuv
-800,Uganda,ug,uga
-804,Ukraine,ua,ukr
-784,"United Arab Emirates",ae,are
-826,"United Kingdom of Great Britain and Northern Ireland",gb,gbr
-840,"United States of America",us,usa
-858,Uruguay,uy,ury
-860,Uzbekistan,uz,uzb
-548,Vanuatu,vu,vut
-862,"Venezuela (Bolivarian Republic of)",ve,ven
-704,"Viet Nam",vn,vnm
-887,Yemen,ye,yem
-894,Zambia,zm,zmb
-716,Zimbabwe,zw,zwe
+id,alpha2,alpha3,name
+4,af,afg,Afghanistan
+8,al,alb,Albania
+12,dz,dza,Algeria
+20,ad,and,Andorra
+24,ao,ago,Angola
+28,ag,atg,"Antigua and Barbuda"
+32,ar,arg,Argentina
+51,am,arm,Armenia
+36,au,aus,Australia
+40,at,aut,Austria
+31,az,aze,Azerbaijan
+44,bs,bhs,Bahamas
+48,bh,bhr,Bahrain
+50,bd,bgd,Bangladesh
+52,bb,brb,Barbados
+112,by,blr,Belarus
+56,be,bel,Belgium
+84,bz,blz,Belize
+204,bj,ben,Benin
+64,bt,btn,Bhutan
+68,bo,bol,"Bolivia (Plurinational State of)"
+70,ba,bih,"Bosnia and Herzegovina"
+72,bw,bwa,Botswana
+76,br,bra,Brazil
+96,bn,brn,"Brunei Darussalam"
+100,bg,bgr,Bulgaria
+854,bf,bfa,"Burkina Faso"
+108,bi,bdi,Burundi
+132,cv,cpv,"Cabo Verde"
+116,kh,khm,Cambodia
+120,cm,cmr,Cameroon
+124,ca,can,Canada
+140,cf,caf,"Central African Republic"
+148,td,tcd,Chad
+152,cl,chl,Chile
+156,cn,chn,China
+170,co,col,Colombia
+174,km,com,Comoros
+178,cg,cog,Congo
+180,cd,cod,"Congo, Democratic Republic of the"
+188,cr,cri,"Costa Rica"
+384,ci,civ,"Côte d'Ivoire"
+191,hr,hrv,Croatia
+192,cu,cub,Cuba
+196,cy,cyp,Cyprus
+203,cz,cze,Czechia
+208,dk,dnk,Denmark
+262,dj,dji,Djibouti
+212,dm,dma,Dominica
+214,do,dom,"Dominican Republic"
+218,ec,ecu,Ecuador
+818,eg,egy,Egypt
+222,sv,slv,"El Salvador"
+226,gq,gnq,"Equatorial Guinea"
+232,er,eri,Eritrea
+233,ee,est,Estonia
+748,sz,swz,Eswatini
+231,et,eth,Ethiopia
+242,fj,fji,Fiji
+246,fi,fin,Finland
+250,fr,fra,France
+266,ga,gab,Gabon
+270,gm,gmb,Gambia
+268,ge,geo,Georgia
+276,de,deu,Germany
+288,gh,gha,Ghana
+300,gr,grc,Greece
+308,gd,grd,Grenada
+320,gt,gtm,Guatemala
+324,gn,gin,Guinea
+624,gw,gnb,Guinea-Bissau
+328,gy,guy,Guyana
+332,ht,hti,Haiti
+340,hn,hnd,Honduras
+348,hu,hun,Hungary
+352,is,isl,Iceland
+356,in,ind,India
+360,id,idn,Indonesia
+364,ir,irn,"Iran (Islamic Republic of)"
+368,iq,irq,Iraq
+372,ie,irl,Ireland
+376,il,isr,Israel
+380,it,ita,Italy
+388,jm,jam,Jamaica
+392,jp,jpn,Japan
+400,jo,jor,Jordan
+398,kz,kaz,Kazakhstan
+404,ke,ken,Kenya
+296,ki,kir,Kiribati
+408,kp,prk,"Korea (Democratic People's Republic of)"
+410,kr,kor,"Korea, Republic of"
+414,kw,kwt,Kuwait
+417,kg,kgz,Kyrgyzstan
+418,la,lao,"Lao People's Democratic Republic"
+428,lv,lva,Latvia
+422,lb,lbn,Lebanon
+426,ls,lso,Lesotho
+430,lr,lbr,Liberia
+434,ly,lby,Libya
+438,li,lie,Liechtenstein
+440,lt,ltu,Lithuania
+442,lu,lux,Luxembourg
+450,mg,mdg,Madagascar
+454,mw,mwi,Malawi
+458,my,mys,Malaysia
+462,mv,mdv,Maldives
+466,ml,mli,Mali
+470,mt,mlt,Malta
+584,mh,mhl,"Marshall Islands"
+478,mr,mrt,Mauritania
+480,mu,mus,Mauritius
+484,mx,mex,Mexico
+583,fm,fsm,"Micronesia (Federated States of)"
+498,md,mda,"Moldova, Republic of"
+492,mc,mco,Monaco
+496,mn,mng,Mongolia
+499,me,mne,Montenegro
+504,ma,mar,Morocco
+508,mz,moz,Mozambique
+104,mm,mmr,Myanmar
+516,na,nam,Namibia
+520,nr,nru,Nauru
+524,np,npl,Nepal
+528,nl,nld,Netherlands
+554,nz,nzl,"New Zealand"
+558,ni,nic,Nicaragua
+562,ne,ner,Niger
+566,ng,nga,Nigeria
+807,mk,mkd,"North Macedonia"
+578,no,nor,Norway
+512,om,omn,Oman
+586,pk,pak,Pakistan
+585,pw,plw,Palau
+591,pa,pan,Panama
+598,pg,png,"Papua New Guinea"
+600,py,pry,Paraguay
+604,pe,per,Peru
+608,ph,phl,Philippines
+616,pl,pol,Poland
+620,pt,prt,Portugal
+634,qa,qat,Qatar
+642,ro,rou,Romania
+643,ru,rus,"Russian Federation"
+646,rw,rwa,Rwanda
+659,kn,kna,"Saint Kitts and Nevis"
+662,lc,lca,"Saint Lucia"
+670,vc,vct,"Saint Vincent and the Grenadines"
+882,ws,wsm,Samoa
+674,sm,smr,"San Marino"
+678,st,stp,"Sao Tome and Principe"
+682,sa,sau,"Saudi Arabia"
+686,sn,sen,Senegal
+688,rs,srb,Serbia
+690,sc,syc,Seychelles
+694,sl,sle,"Sierra Leone"
+702,sg,sgp,Singapore
+703,sk,svk,Slovakia
+705,si,svn,Slovenia
+90,sb,slb,"Solomon Islands"
+706,so,som,Somalia
+710,za,zaf,"South Africa"
+728,ss,ssd,"South Sudan"
+724,es,esp,Spain
+144,lk,lka,"Sri Lanka"
+729,sd,sdn,Sudan
+740,sr,sur,Suriname
+752,se,swe,Sweden
+756,ch,che,Switzerland
+760,sy,syr,"Syrian Arab Republic"
+762,tj,tjk,Tajikistan
+834,tz,tza,"Tanzania, United Republic of"
+764,th,tha,Thailand
+626,tl,tls,Timor-Leste
+768,tg,tgo,Togo
+776,to,ton,Tonga
+780,tt,tto,"Trinidad and Tobago"
+788,tn,tun,Tunisia
+792,tr,tur,Turkey
+795,tm,tkm,Turkmenistan
+798,tv,tuv,Tuvalu
+800,ug,uga,Uganda
+804,ua,ukr,Ukraine
+784,ae,are,"United Arab Emirates"
+826,gb,gbr,"United Kingdom of Great Britain and Northern Ireland"
+840,us,usa,"United States of America"
+858,uy,ury,Uruguay
+860,uz,uzb,Uzbekistan
+548,vu,vut,Vanuatu
+862,ve,ven,"Venezuela (Bolivarian Republic of)"
+704,vn,vnm,"Viet Nam"
+887,ye,yem,Yemen
+894,zm,zmb,Zambia
+716,zw,zwe,Zimbabwe
