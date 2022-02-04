@@ -1,0 +1,196 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<countries>
+    <country id="662" alpha2="lc" alpha3="lca" name="Αγία Λουκία"/>
+    <country id="670" alpha2="vc" alpha3="vct" name="Άγιος Βικέντιος και Γρεναδίνες"/>
+    <country id="674" alpha2="sm" alpha3="smr" name="Άγιος Μαρίνος"/>
+    <country id="659" alpha2="kn" alpha3="kna" name="Άγιος Χριστόφορος και Νέβις"/>
+    <country id="31" alpha2="az" alpha3="aze" name="Αζερμπαϊτζάν"/>
+    <country id="818" alpha2="eg" alpha3="egy" name="Αίγυπτος"/>
+    <country id="231" alpha2="et" alpha3="eth" name="Αιθιοπία"/>
+    <country id="332" alpha2="ht" alpha3="hti" name="Αϊτή"/>
+    <country id="384" alpha2="ci" alpha3="civ" name="Ακτή Ελεφαντοστού"/>
+    <country id="8" alpha2="al" alpha3="alb" name="Αλβανία"/>
+    <country id="12" alpha2="dz" alpha3="dza" name="Αλγερία"/>
+    <country id="626" alpha2="tl" alpha3="tls" name="Ανατολικό Τιμόρ"/>
+    <country id="24" alpha2="ao" alpha3="ago" name="Ανγκόλα"/>
+    <country id="20" alpha2="ad" alpha3="and" name="Ανδόρρα"/>
+    <country id="28" alpha2="ag" alpha3="atg" name="Αντίγκουα και Μπαρμπούντα"/>
+    <country id="32" alpha2="ar" alpha3="arg" name="Αργεντινή"/>
+    <country id="51" alpha2="am" alpha3="arm" name="Αρμενία"/>
+    <country id="36" alpha2="au" alpha3="aus" name="Αυστραλία"/>
+    <country id="40" alpha2="at" alpha3="aut" name="Αυστρία"/>
+    <country id="4" alpha2="af" alpha3="afg" name="Αφγανιστάν"/>
+    <country id="548" alpha2="vu" alpha3="vut" name="Βανουάτου"/>
+    <country id="56" alpha2="be" alpha3="bel" name="Βέλγιο"/>
+    <country id="862" alpha2="ve" alpha3="ven" name="Βενεζουέλα"/>
+    <country id="704" alpha2="vn" alpha3="vnm" name="Βιετνάμ"/>
+    <country id="68" alpha2="bo" alpha3="bol" name="Βολιβία"/>
+    <country id="408" alpha2="kp" alpha3="prk" name="Βόρεια Κορέα"/>
+    <country id="70" alpha2="ba" alpha3="bih" name="Βοσνία-Ερζεγοβίνη"/>
+    <country id="100" alpha2="bg" alpha3="bgr" name="Βουλγαρία"/>
+    <country id="76" alpha2="br" alpha3="bra" name="Βραζιλία"/>
+    <country id="250" alpha2="fr" alpha3="fra" name="Γαλλία"/>
+    <country id="276" alpha2="de" alpha3="deu" name="Γερμανία"/>
+    <country id="268" alpha2="ge" alpha3="geo" name="Γεωργία"/>
+    <country id="270" alpha2="gm" alpha3="gmb" name="Γκάμπια"/>
+    <country id="266" alpha2="ga" alpha3="gab" name="Γκαμπόν"/>
+    <country id="288" alpha2="gh" alpha3="gha" name="Γκάνα"/>
+    <country id="320" alpha2="gt" alpha3="gtm" name="Γουατεμάλα"/>
+    <country id="328" alpha2="gy" alpha3="guy" name="Γουιάνα"/>
+    <country id="324" alpha2="gn" alpha3="gin" name="Γουινέα"/>
+    <country id="624" alpha2="gw" alpha3="gnb" name="Γουινέα-Μπισσάου"/>
+    <country id="308" alpha2="gd" alpha3="grd" name="Γρενάδα"/>
+    <country id="208" alpha2="dk" alpha3="dnk" name="Δανία"/>
+    <country id="214" alpha2="do" alpha3="dom" name="Δομινικανή Δημοκρατία"/>
+    <country id="222" alpha2="sv" alpha3="slv" name="Ελ Σαλβαδόρ"/>
+    <country id="756" alpha2="ch" alpha3="che" name="Ελβετία"/>
+    <country id="300" alpha2="gr" alpha3="grc" name="Ελλάδα"/>
+    <country id="232" alpha2="er" alpha3="eri" name="Ερυθραία"/>
+    <country id="233" alpha2="ee" alpha3="est" name="Εσθονία"/>
+    <country id="894" alpha2="zm" alpha3="zmb" name="Ζάμπια"/>
+    <country id="716" alpha2="zw" alpha3="zwe" name="Ζιμπάμπουε"/>
+    <country id="784" alpha2="ae" alpha3="are" name="Ηνωμένα Αραβικά Εμιράτα"/>
+    <country id="840" alpha2="us" alpha3="usa" name="Ηνωμένες Πολιτείες Αμερικής"/>
+    <country id="826" alpha2="gb" alpha3="gbr" name="Ηνωμένο Βασίλειο"/>
+    <country id="392" alpha2="jp" alpha3="jpn" name="Ιαπωνία"/>
+    <country id="356" alpha2="in" alpha3="ind" name="Ινδία"/>
+    <country id="360" alpha2="id" alpha3="idn" name="Ινδονησία"/>
+    <country id="400" alpha2="jo" alpha3="jor" name="Ιορδανία"/>
+    <country id="368" alpha2="iq" alpha3="irq" name="Ιράκ"/>
+    <country id="364" alpha2="ir" alpha3="irn" name="Ιράν"/>
+    <country id="372" alpha2="ie" alpha3="irl" name="Ιρλανδία"/>
+    <country id="226" alpha2="gq" alpha3="gnq" name="Ισημερινή Γουινέα"/>
+    <country id="218" alpha2="ec" alpha3="ecu" name="Ισημερινός"/>
+    <country id="352" alpha2="is" alpha3="isl" name="Ισλανδία"/>
+    <country id="724" alpha2="es" alpha3="esp" name="Ισπανία"/>
+    <country id="376" alpha2="il" alpha3="isr" name="Ισραήλ"/>
+    <country id="380" alpha2="it" alpha3="ita" name="Ιταλία"/>
+    <country id="398" alpha2="kz" alpha3="kaz" name="Καζακστάν"/>
+    <country id="120" alpha2="cm" alpha3="cmr" name="Καμερούν"/>
+    <country id="116" alpha2="kh" alpha3="khm" name="Καμπότζη"/>
+    <country id="124" alpha2="ca" alpha3="can" name="Καναδάς"/>
+    <country id="634" alpha2="qa" alpha3="qat" name="Κατάρ"/>
+    <country id="140" alpha2="cf" alpha3="caf" name="Κεντροαφρικανική Δημοκρατία"/>
+    <country id="404" alpha2="ke" alpha3="ken" name="Κένυα"/>
+    <country id="156" alpha2="cn" alpha3="chn" name="Κίνα"/>
+    <country id="417" alpha2="kg" alpha3="kgz" name="Κιργιζία"/>
+    <country id="296" alpha2="ki" alpha3="kir" name="Κιριμπάτι"/>
+    <country id="178" alpha2="cg" alpha3="cog" name="Κογκό"/>
+    <country id="170" alpha2="co" alpha3="col" name="Κολομβία"/>
+    <country id="174" alpha2="km" alpha3="com" name="Κομόρες"/>
+    <country id="188" alpha2="cr" alpha3="cri" name="Κόστα Ρίκα"/>
+    <country id="192" alpha2="cu" alpha3="cub" name="Κούβα"/>
+    <country id="414" alpha2="kw" alpha3="kwt" name="Κουβέιτ"/>
+    <country id="191" alpha2="hr" alpha3="hrv" name="Κροατία"/>
+    <country id="196" alpha2="cy" alpha3="cyp" name="Κύπρος"/>
+    <country id="180" alpha2="cd" alpha3="cod" name="Λαϊκή Δημοκρατία του Κογκό"/>
+    <country id="418" alpha2="la" alpha3="lao" name="Λάος"/>
+    <country id="426" alpha2="ls" alpha3="lso" name="Λεσότο"/>
+    <country id="428" alpha2="lv" alpha3="lva" name="Λεττονία"/>
+    <country id="112" alpha2="by" alpha3="blr" name="Λευκορωσία"/>
+    <country id="422" alpha2="lb" alpha3="lbn" name="Λίβανος"/>
+    <country id="430" alpha2="lr" alpha3="lbr" name="Λιβερία"/>
+    <country id="434" alpha2="ly" alpha3="lby" name="Λιβύη"/>
+    <country id="440" alpha2="lt" alpha3="ltu" name="Λιθουανία"/>
+    <country id="438" alpha2="li" alpha3="lie" name="Λίχτενσταϊν"/>
+    <country id="442" alpha2="lu" alpha3="lux" name="Λουξεμβούργο"/>
+    <country id="450" alpha2="mg" alpha3="mdg" name="Μαδαγασκάρη"/>
+    <country id="458" alpha2="my" alpha3="mys" name="Μαλαισία"/>
+    <country id="454" alpha2="mw" alpha3="mwi" name="Μαλάουι"/>
+    <country id="462" alpha2="mv" alpha3="mdv" name="Μαλδίβες"/>
+    <country id="466" alpha2="ml" alpha3="mli" name="Μάλι"/>
+    <country id="470" alpha2="mt" alpha3="mlt" name="Μάλτα"/>
+    <country id="504" alpha2="ma" alpha3="mar" name="Μαρόκο"/>
+    <country id="480" alpha2="mu" alpha3="mus" name="Μαυρίκιος"/>
+    <country id="478" alpha2="mr" alpha3="mrt" name="Μαυριτανία"/>
+    <country id="499" alpha2="me" alpha3="mne" name="Μαυροβούνιο"/>
+    <country id="484" alpha2="mx" alpha3="mex" name="Μεξικό"/>
+    <country id="104" alpha2="mm" alpha3="mmr" name="Μιανμάρ"/>
+    <country id="496" alpha2="mn" alpha3="mng" name="Μογγολία"/>
+    <country id="508" alpha2="mz" alpha3="moz" name="Μοζαμβίκη"/>
+    <country id="498" alpha2="md" alpha3="mda" name="Μολδαβία"/>
+    <country id="492" alpha2="mc" alpha3="mco" name="Μονακό"/>
+    <country id="50" alpha2="bd" alpha3="bgd" name="Μπανγκλαντές"/>
+    <country id="52" alpha2="bb" alpha3="brb" name="Μπαρμπάντος"/>
+    <country id="44" alpha2="bs" alpha3="bhs" name="Μπαχάμες"/>
+    <country id="48" alpha2="bh" alpha3="bhr" name="Μπαχρέιν"/>
+    <country id="84" alpha2="bz" alpha3="blz" name="Μπελίζ"/>
+    <country id="204" alpha2="bj" alpha3="ben" name="Μπενίν"/>
+    <country id="72" alpha2="bw" alpha3="bwa" name="Μποτσουάνα"/>
+    <country id="854" alpha2="bf" alpha3="bfa" name="Μπουρκίνα Φάσο"/>
+    <country id="108" alpha2="bi" alpha3="bdi" name="Μπουρούντι"/>
+    <country id="64" alpha2="bt" alpha3="btn" name="Μπουτάν"/>
+    <country id="96" alpha2="bn" alpha3="brn" name="Μπρουνέι"/>
+    <country id="516" alpha2="na" alpha3="nam" name="Ναμίμπια"/>
+    <country id="520" alpha2="nr" alpha3="nru" name="Ναουρού"/>
+    <country id="554" alpha2="nz" alpha3="nzl" name="Νέα Ζηλανδία"/>
+    <country id="524" alpha2="np" alpha3="npl" name="Νεπάλ"/>
+    <country id="584" alpha2="mh" alpha3="mhl" name="Νήσοι Μάρσαλ"/>
+    <country id="90" alpha2="sb" alpha3="slb" name="Νήσοι Σολομώντα"/>
+    <country id="562" alpha2="ne" alpha3="ner" name="Νίγηρας"/>
+    <country id="566" alpha2="ng" alpha3="nga" name="Νιγηρία"/>
+    <country id="558" alpha2="ni" alpha3="nic" name="Νικαράγουα"/>
+    <country id="578" alpha2="no" alpha3="nor" name="Νορβηγία"/>
+    <country id="710" alpha2="za" alpha3="zaf" name="Νότια Αφρική"/>
+    <country id="410" alpha2="kr" alpha3="kor" name="Νότια Κορέα"/>
+    <country id="728" alpha2="ss" alpha3="ssd" name="Νότιο Σουδάν"/>
+    <country id="212" alpha2="dm" alpha3="dma" name="Δομινίκα"/>
+    <country id="528" alpha2="nl" alpha3="nld" name="Ολλανδία (Κάτω Χώρες)"/>
+    <country id="512" alpha2="om" alpha3="omn" name="Ομάν"/>
+    <country id="583" alpha2="fm" alpha3="fsm" name="Ομόσπονδες Πολιτείες της Μικρονησίας"/>
+    <country id="340" alpha2="hn" alpha3="hnd" name="Ονδούρα"/>
+    <country id="348" alpha2="hu" alpha3="hun" name="Ουγγαρία"/>
+    <country id="800" alpha2="ug" alpha3="uga" name="Ουγκάντα"/>
+    <country id="860" alpha2="uz" alpha3="uzb" name="Ουζμπεκιστάν"/>
+    <country id="804" alpha2="ua" alpha3="ukr" name="Ουκρανία"/>
+    <country id="858" alpha2="uy" alpha3="ury" name="Ουρουγουάη"/>
+    <country id="586" alpha2="pk" alpha3="pak" name="Πακιστάν"/>
+    <country id="585" alpha2="pw" alpha3="plw" name="Παλάου"/>
+    <country id="591" alpha2="pa" alpha3="pan" name="Παναμάς"/>
+    <country id="598" alpha2="pg" alpha3="png" name="Παπούα Νέα Γουινέα"/>
+    <country id="600" alpha2="py" alpha3="pry" name="Παραγουάη"/>
+    <country id="807" alpha2="mk" alpha3="mkd" name="Βόρεια Μακεδονία"/>
+    <country id="604" alpha2="pe" alpha3="per" name="Περού"/>
+    <country id="616" alpha2="pl" alpha3="pol" name="Πολωνία"/>
+    <country id="620" alpha2="pt" alpha3="prt" name="Πορτογαλία"/>
+    <country id="132" alpha2="cv" alpha3="cpv" name="Πράσινο Ακρωτήρι"/>
+    <country id="646" alpha2="rw" alpha3="rwa" name="Ρουάντα"/>
+    <country id="642" alpha2="ro" alpha3="rou" name="Ρουμανία"/>
+    <country id="643" alpha2="ru" alpha3="rus" name="Ρωσία"/>
+    <country id="882" alpha2="ws" alpha3="wsm" name="Σαμόα"/>
+    <country id="678" alpha2="st" alpha3="stp" name="Σάο Τομέ και Πρίνσιπε"/>
+    <country id="682" alpha2="sa" alpha3="sau" name="Σαουδική Αραβία"/>
+    <country id="686" alpha2="sn" alpha3="sen" name="Σενεγάλη"/>
+    <country id="688" alpha2="rs" alpha3="srb" name="Σερβία"/>
+    <country id="690" alpha2="sc" alpha3="syc" name="Σεϋχέλλες"/>
+    <country id="694" alpha2="sl" alpha3="sle" name="Σιέρα Λεόνε"/>
+    <country id="702" alpha2="sg" alpha3="sgp" name="Σιγκαπούρη"/>
+    <country id="703" alpha2="sk" alpha3="svk" name="Σλοβακία"/>
+    <country id="705" alpha2="si" alpha3="svn" name="Σλοβενία"/>
+    <country id="706" alpha2="so" alpha3="som" name="Σομαλία"/>
+    <country id="748" alpha2="sz" alpha3="swz" name="Εσουατίνι"/>
+    <country id="729" alpha2="sd" alpha3="sdn" name="Σουδάν"/>
+    <country id="752" alpha2="se" alpha3="swe" name="Σουηδία"/>
+    <country id="740" alpha2="sr" alpha3="sur" name="Σουρινάμ"/>
+    <country id="144" alpha2="lk" alpha3="lka" name="Σρι Λάνκα"/>
+    <country id="760" alpha2="sy" alpha3="syr" name="Συρία"/>
+    <country id="764" alpha2="th" alpha3="tha" name="Ταϊλάνδη"/>
+    <country id="834" alpha2="tz" alpha3="tza" name="Τανζανία"/>
+    <country id="762" alpha2="tj" alpha3="tjk" name="Τατζικιστάν"/>
+    <country id="388" alpha2="jm" alpha3="jam" name="Τζαμάικα"/>
+    <country id="262" alpha2="dj" alpha3="dji" name="Τζιμπουτί"/>
+    <country id="776" alpha2="to" alpha3="ton" name="Τόγκα"/>
+    <country id="768" alpha2="tg" alpha3="tgo" name="Τόγκο"/>
+    <country id="798" alpha2="tv" alpha3="tuv" name="Τουβαλού"/>
+    <country id="792" alpha2="tr" alpha3="tur" name="Τουρκία"/>
+    <country id="795" alpha2="tm" alpha3="tkm" name="Τουρκμενιστάν"/>
+    <country id="780" alpha2="tt" alpha3="tto" name="Τρινιντάντ και Τομπάγκο"/>
+    <country id="148" alpha2="td" alpha3="tcd" name="Τσαντ"/>
+    <country id="203" alpha2="cz" alpha3="cze" name="Τσεχία"/>
+    <country id="788" alpha2="tn" alpha3="tun" name="Τυνησία"/>
+    <country id="887" alpha2="ye" alpha3="yem" name="Υεμένη"/>
+    <country id="608" alpha2="ph" alpha3="phl" name="Φιλιππίνες"/>
+    <country id="246" alpha2="fi" alpha3="fin" name="Φινλανδία"/>
+    <country id="242" alpha2="fj" alpha3="fji" name="Φίτζι"/>
+    <country id="152" alpha2="cl" alpha3="chl" name="Χιλή"/>
+</countries>
