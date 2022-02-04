@@ -2,11 +2,11 @@
 
 # World countries &nbsp;[![Tweet](https://img.shields.io/twitter/url/http/shields.io.svg?style=social)](https://twitter.com/intent/tweet?text=Constantly+updated+lists+of+world+countries+with+associated+ISO+3166-1+alpha-2%2C+alpha-3+and+numeric+codes%2C+available+in+multiple+formats+and+languages%2C+with+national+flags+included&url=https://github.com/stefangabos/world_countries&via=stefangabos)
 
-*available in multiple languages, in CSV, JSON, PHP and SQL formats, with associated codes as defined by the ISO 3166 standard, and with national flags included*
+*available in multiple languages, in CSV, JSON, PHP, SQL and XML formats, with associated codes as defined by the ISO 3166 standard, and with national flags included*
 
 [![npm](https://img.shields.io/npm/v/world_countries_lists.svg)](https://www.npmjs.com/package/world_countries_lists) [![Total](https://img.shields.io/npm/dt/world_countries_lists.svg)](https://www.npmjs.com/package/world_countries_lists) [![Monthly](https://img.shields.io/npm/dm/world_countries_lists.svg)](https://www.npmjs.com/package/world_countries_lists) [![JSDelivr](https://data.jsdelivr.com/v1/package/npm/world_countries_lists/badge?style=rounded)](https://www.jsdelivr.com/package/npm/world_countries_lists) [![License](https://img.shields.io/github/license/stefangabos/world_countries.svg)](https://github.com/stefangabos/world_countries/blob/master/LICENSE.md)
 
-Constantly updated lists of world countries, territories and areas of geographical interest, with associated *alpha-2*, *alpha-3* and *numeric codes* as defined by the *ISO 3166-1* standard, published and maintained by the [International Organization for Standardization](https://www.iso.org/iso-3166-country-codes.html), available in `CSV`, `JSON`, `PHP` and `SQL` formats, in multiple languages and with national flags included.
+Constantly updated lists of world countries, territories and areas of geographical interest, with associated *alpha-2*, *alpha-3* and *numeric codes* as defined by the *ISO 3166-1* standard, published and maintained by the [International Organization for Standardization](https://www.iso.org/iso-3166-country-codes.html), available in `CSV`, `JSON`, `PHP`, `SQL` and `XML` formats, in multiple languages and with national flags included.
 
 In the language folders you will find files named in two different ways. Here's what you will find in each of them:
 
@@ -99,14 +99,14 @@ Or
 Excerpt from the `data/en/countries.sql` file:
 
 ```sql
-(250,'France','fr','fra'),
-(266,'Gabon','ga','gab'),
-(270,'Gambia','gm','gmb'),
-(268,'Georgia','ge','geo'),
-(276,'Germany','de','deu'),
-(288,'Ghana','gh','gha'),
-(300,'Greece','gr','grc'),
-(308,'Grenada','gd','grd'),
+(250,'fr','fra','France'),
+(266,'ga','gab','Gabon'),
+(270,'gm','gmb','Gambia'),
+(268,'ge','geo','Georgia'),
+(276,'de','deu','Germany'),
+(288,'gh','gha','Ghana'),
+(300,'gr','grc','Greece'),
+(308,'gd','grd','Grenada'),
 ```
 
 ### CSV
@@ -114,14 +114,14 @@ Excerpt from the `data/en/countries.sql` file:
 Excerpt from the `data/en/countries.csv` file:
 
 ```csv
-250,France,fr,fra
-266,Gabon,ga,gab
-270,Gambia,gm,gmb
-268,Georgia,ge,geo
-276,Germany,de,deu
-288,Ghana,gh,gha
-300,Greece,gr,grc
-308,Grenada,gd,grd
+250,fr,fra,France
+266,ga,gab,Gabon
+270,gm,gmb,Gambia
+268,ge,geo,Georgia
+276,de,deu,Germany
+288,gh,gha,Ghana
+300,gr,grc,Greece
+308,gd,grd,Grenada
 ```
 
 ### JSON
@@ -129,14 +129,14 @@ Excerpt from the `data/en/countries.csv` file:
 Excerpt from the `data/en/countries.json` file:
 
 ```json
-{"id":250,"name":"France","alpha2":"fr","alpha3":"fra"},
-{"id":266,"name":"Gabon","alpha2":"ga","alpha3":"gab"},
-{"id":270,"name":"Gambia","alpha2":"gm","alpha3":"gmb"},
-{"id":268,"name":"Georgia","alpha2":"ge","alpha3":"geo"},
-{"id":276,"name":"Germany","alpha2":"de","alpha3":"deu"},
-{"id":288,"name":"Ghana","alpha2":"gh","alpha3":"gha"},
-{"id":300,"name":"Greece","alpha2":"gr","alpha3":"grc"},
-{"id":308,"name":"Grenada","alpha2":"gd","alpha3":"grd"},
+{"id":250,"alpha2":"fr","alpha3":"fra","name":"France"},
+{"id":266,"alpha2":"ga","alpha3":"gab","name":"Gabon"},
+{"id":270,"alpha2":"gm","alpha3":"gmb","name":"Gambia"},
+{"id":268,"alpha2":"ge","alpha3":"geo","name":"Georgia"},
+{"id":276,"alpha2":"de","alpha3":"deu","name":"Germany"},
+{"id":288,"alpha2":"gh","alpha3":"gha","name":"Ghana"},
+{"id":300,"alpha2":"gr","alpha3":"grc","name":"Greece"},
+{"id":308,"alpha2":"gd","alpha3":"grd","name":"Grenada"},
 ```
 
 Here's a little helper function for searching for a specific country's data
@@ -185,23 +185,23 @@ Excerpt from the `data/en/countries.php` file:
 
 ```php
 ...
-    array(
+    250 => array(
         'id'        => 250,
-        'name'      => 'France',
         'alpha2'    => 'fr',
-        'alpha3'    => 'fra'
+        'alpha3'    => 'fra',
+        'name'      => 'France'
     ),
-    array(
+    266 => array(
         'id'        => 266,
-        'name'      => 'Gabon',
         'alpha2'    => 'ga',
-        'alpha3'    => 'gab'
+        'alpha3'    => 'gab',
+        'name'      => 'Gabon'
     ),
-    array(
+    270 => array(
         'id'        => 270,
-        'name'      => 'Gambia',
         'alpha2'    => 'gm',
-        'alpha3'    => 'gmb'
+        'alpha3'    => 'gmb',
+        'name'      => 'Gambia'
     ),
 ...
 ```
@@ -248,6 +248,21 @@ Usage
 search_county(array('id' => 250});
 search_county(array('alpha2' => 'fr'});
 search_county(array('alpha3' => 'fra'});
+```
+
+### XML
+
+Excerpt from the `data/en/countries.xml` file:
+
+```xml
+<country id="250" alpha2="fr" alpha3="fra" name="France"/>
+<country id="266" alpha2="ga" alpha3="gab" name="Gabon"/>
+<country id="270" alpha2="gm" alpha3="gmb" name="Gambia"/>
+<country id="268" alpha2="ge" alpha3="geo" name="Georgia"/>
+<country id="276" alpha2="de" alpha3="deu" name="Germany"/>
+<country id="288" alpha2="gh" alpha3="gha" name="Ghana"/>
+<country id="300" alpha2="gr" alpha3="grc" name="Greece"/>
+<country id="308" alpha2="gd" alpha3="grd" name="Grenada"/>
 ```
 
 ## Flags
