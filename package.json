@@ -1,7 +1,7 @@
 {
   "name": "world_countries_lists",
   "version": "2.4.0",
-  "description": "Constantly updated lists of world countries and their associated alpha-2, alpha-3 and numeric codes as defined by the ISO 3166 standard, available in CVS, JSON and SQL formats, in multiple languages and with national flags included",
+  "description": "Constantly updated lists of world countries and their associated alpha-2, alpha-3 and numeric codes as defined by the ISO 3166 standard, available in multiple formats, in multiple languages and with national flags included",
   "repository": {
     "type": "git",
     "url": "git+https://github.com/stefangabos/world_countries.git"
@@ -13,7 +13,9 @@
     "iso-3166",
     "sql",
     "json",
-    "csv"
+    "csv",
+    "php",
+    "xml"
   ],
   "author": "Stefan Gabos",
   "license": "LGPL-3.0-or-later",
