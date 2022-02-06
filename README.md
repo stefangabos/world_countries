@@ -86,7 +86,7 @@ composer require stefangabos/world_countries
 
 Alternatively, you can load data from [JSDelivr CDN](https://www.jsdelivr.com/package/npm/world_countries_lists) like this:
 ```html
-<script src="https://cdn.jsdelivr.net/npm/world_countries_lists@latest/data/en/countries.json"></script>
+<script src="https://cdn.jsdelivr.net/npm/world_countries_lists@latest/data/countries/en/countries.json"></script>
 ```
 
 Or
@@ -96,7 +96,7 @@ Or
 
 ### SQL
 
-Excerpt from the `data/en/countries.sql` file:
+Excerpt from the `data/countries/en/countries.sql` file:
 
 ```sql
 (250,'fr','fra','France'),
@@ -111,7 +111,7 @@ Excerpt from the `data/en/countries.sql` file:
 
 ### CSV
 
-Excerpt from the `data/en/countries.csv` file:
+Excerpt from the `data/countries/en/countries.csv` file:
 
 ```csv
 250,fr,fra,France
@@ -126,7 +126,7 @@ Excerpt from the `data/en/countries.csv` file:
 
 ### JSON
 
-Excerpt from the `data/en/countries.json` file:
+Excerpt from the `data/countries/en/countries.json` file:
 
 ```json
 {"id":250,"alpha2":"fr","alpha3":"fra","name":"France"},
@@ -181,7 +181,7 @@ search_county({alpha3: 'fra'})
 
 ### PHP
 
-Excerpt from the `data/en/countries.php` file:
+Excerpt from the `data/countries/en/countries.php` file:
 
 ```php
 ...
@@ -252,7 +252,7 @@ search_county(array('alpha3' => 'fra'});
 
 ### XML
 
-Excerpt from the `data/en/countries.xml` file:
+Excerpt from the `data/countries/en/countries.xml` file:
 
 ```xml
 <country id="250" alpha2="fr" alpha3="fra" name="France"/>
