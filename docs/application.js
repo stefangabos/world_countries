@@ -137,7 +137,7 @@ $(document).ready(function() {
                     } else
 
                         $.get('https://raw.githubusercontent.com/stefangabos/world_countries/master/data/countries/' + path[0] + '/' + path[1], function(result) {
-                            zip.folder('data/countries/' + path[0]).file(path[1], result);
+                            zip.folder('countries/' + path[0]).file(path[1], result);
                             items_processed++;
                         }, 'text');
 
