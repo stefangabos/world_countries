@@ -120,7 +120,7 @@ $(document).ready(function() {
                         } else {
 
                             jQuery.ajax({
-                                url:        'https://cdn.jsdelivr.net/gh/stefangabos/world_countries/flags/' + path[1] + '/flags-' + path[1] + '.json',
+                                url:        'https://cdn.jsdelivr.net/gh/stefangabos/world_countries/data/flags/' + path[1] + '/flags-' + path[1] + '.json',
                                 cache:      false,
                                 xhr:        function() {
                                                 var xhr = new XMLHttpRequest();
@@ -136,7 +136,7 @@ $(document).ready(function() {
 
                     } else
 
-                        $.get('https://raw.githubusercontent.com/stefangabos/world_countries/master/data/' + path[0] + '/' + path[1], function(result) {
+                        $.get('https://raw.githubusercontent.com/stefangabos/world_countries/master/data/countries/' + path[0] + '/' + path[1], function(result) {
                             zip.folder('data/' + path[0]).file(path[1], result);
                             items_processed++;
                         }, 'text');
