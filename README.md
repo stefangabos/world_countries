@@ -2,13 +2,13 @@
 
 # World countries &nbsp;[![Tweet](https://img.shields.io/twitter/url/http/shields.io.svg?style=social)](https://twitter.com/intent/tweet?text=Constantly+updated+lists+of+world+countries+with+associated+ISO+3166-1+alpha-2%2C+alpha-3+and+numeric+codes%2C+available+in+multiple+formats+and+languages%2C+with+national+flags+included&url=https://github.com/stefangabos/world_countries&via=stefangabos)
 
-*available in multiple languages, in CSV, JSON, PHP, SQL and XML formats, with associated codes as defined by the ISO 3166 standard, and with national flags included*
+*available in multiple languages, in CSV, JSON, PHP, SQL and XML formats, with associated codes as defined by the ISO 3166 standard, and with national flags included; also available are the ISO 3166-2 codes used for identifying the principal subdivisions (e.g., provinces or states) of all countries coded in ISO 3166-1*
 
 [![npm](https://img.shields.io/npm/v/world_countries_lists.svg)](https://www.npmjs.com/package/world_countries_lists) [![Total](https://img.shields.io/npm/dt/world_countries_lists.svg)](https://www.npmjs.com/package/world_countries_lists) [![Monthly](https://img.shields.io/npm/dm/world_countries_lists.svg)](https://www.npmjs.com/package/world_countries_lists) [![JSDelivr](https://data.jsdelivr.com/v1/package/npm/world_countries_lists/badge?style=rounded)](https://www.jsdelivr.com/package/npm/world_countries_lists) [![License](https://img.shields.io/github/license/stefangabos/world_countries.svg)](https://github.com/stefangabos/world_countries/blob/master/LICENSE.md)
 
-Constantly updated lists of world countries, territories and areas of geographical interest, with associated *alpha-2*, *alpha-3* and *numeric codes* as defined by the *ISO 3166-1* standard, published and maintained by the [International Organization for Standardization](https://www.iso.org/iso-3166-country-codes.html), available in `CSV`, `JSON`, `PHP`, `SQL` and `XML` formats, in multiple languages and with national flags included.
+Constantly updated lists of world countries, territories and areas of geographical interest, with associated *alpha-2*, *alpha-3* and *numeric codes* as defined by the *ISO 3166-1* standard, published and maintained by the [International Organization for Standardization](https://www.iso.org/iso-3166-country-codes.html), available in `CSV`, `JSON`, `PHP`, `SQL` and `XML` formats, in multiple languages and with national flags included. Also available are the ISO 3166-2 codes used for identifying the principal subdivisions (e.g., provinces or states) of all countries coded in ISO 3166-1.
 
-In the language folders you will find files named in two different ways. Here's what you will find in each of them:
+In the language folders (inside `data/countries`) you will find files named in two different ways.<br>Here's what you will find in each of them:
 
 |File names | Content |
 |:---:|:---
@@ -60,6 +60,31 @@ The lists are currently available in **29 languages**:
 - Ukrainian
 
 > The language folders are named based on the [ISO 639-1](https://en.wikipedia.org/wiki/List_of_ISO_639-1_codes) standard.
+
+## ISO 3166-2 codes
+
+The project also tries to be a comprehensive and up-to-date source for **ISO 3166-2** which defines codes for identifying the principal subdivisions (e.g., provinces or states) of all countries coded in ISO 3166-1.
+
+The purpose of ISO 3166-2 is to establish an international standard of short and unique alphanumeric codes to represent the relevant administrative divisions and dependent territories of all countries in a more convenient and less ambiguous form than their full names. Each complete ISO 3166-2 code consists of two parts, separated by a hyphen:
+
+`US-TX` for Texas, USA
+
+The first part is the ISO 3166-1 alpha-2 code of the country;
+The second part is a string of up to three alphanumeric characters, which is usually obtained from national sources and stems from coding systems already in use in the country concerned, but may also be developed by the ISO itself.
+Each complete ISO 3166-2 code can then be used to uniquely identify a country subdivision in a global context.
+
+The list is available in `CSV`, `JSON`, `PHP`, `SQL` and `XML` formats in the `data/subdivisions` folder and the CSV one looks like this:
+
+```csv
+US,US-AL,Alabama
+US,US-AK,Alaska
+US,US-AZ,Arizona
+US,US-AR,Arkansas
+US,US-CA,California
+US,US-CO,Colorado
+```
+
+The starting point of this list was the ISO 3166-2 Subdivision Code list provided by [IP2Location](https://www.ip2location.com/free/iso3166-2) but this one will be maintained by the community.
 
 ## 🎂 Support the development of this project
 
