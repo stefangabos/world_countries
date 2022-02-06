@@ -20,13 +20,16 @@ $(document).ready(function() {
 
             var all_world = $('.world:checked', $container).length === 5,
                 all_countries = $('.countries:checked', $container).length === 5,
+                all_subdivisions = $('.subdivisions:checked', $container).length === 5,
                 all_flags = $('.flags:checked', $container).length === 6,
                 any_world = $('.world:checked', $container).length > 0,
                 any_countries = $('.countries:checked', $container).length > 0,
+                any_subdivisions = $('.subdivisions:checked', $container).length > 0,
                 any_flags = $('.flags:checked', $container).length > 0,
                 $all = $('.all', $container),
                 $world = $('.all-world', $container),
                 $countries = $('.all-countries', $container),
+                $subdivisions = $('.all-subdivisions', $container),
                 $flags = $('.all-flags', $container);
 
             if (any_world || any_countries || any_flags) $container.addClass('selected animated pulse');
@@ -44,6 +47,10 @@ $(document).ready(function() {
             else if (any_countries) $countries.prop('checked', true).prop('indeterminate', true);
             else $countries.prop('checked', false).prop('indeterminate', false);
 
+            if (all_subdivisions) $subdivisions.prop('checked', true).prop('indeterminate', false);
+            else if (any_subdivisions) $subdivisions.prop('checked', true).prop('indeterminate', true);
+            else $subdivisions.prop('checked', false).prop('indeterminate', false);
+
             if (all_flags) $flags.prop('checked', true).prop('indeterminate', false);
             else if (any_flags) $flags.prop('checked', true).prop('indeterminate', true);
             else $flags.prop('checked', false).prop('indeterminate', false);
@@ -52,7 +59,7 @@ $(document).ready(function() {
                 $('#flags-format-images').prop('checked', true);
             }
 
-            if ($('input[type="checkbox"]:checked').not('.all-flags').not('.all-countries').not('.all-world').not('.all').length)
+            if ($('input[type="checkbox"]:checked').not('.all-subdivisions').not('.all-flags').not('.all-countries').not('.all-world').not('.all').length)
                 $('#download').removeClass('disabled');
             else $('#download').addClass('disabled');
 
@@ -68,6 +75,7 @@ $(document).ready(function() {
             $('.countries', $container).prop('checked', $element.prop('checked'));
         } else if ($element.hasClass('all-world')) $('.world', $container).prop('checked', $element.prop('checked'));
         else if ($element.hasClass('all-countries')) $('.countries', $container).prop('checked', $element.prop('checked'));
+        else if ($element.hasClass('all-subdivisions')) $('.subdivisions', $container).prop('checked', $element.prop('checked'));
         else if ($element.hasClass('all-flags')) $('.flags', $container).prop('checked', $element.prop('checked'));
 
         toggle_element($container);
@@ -79,9 +87,9 @@ $(document).ready(function() {
         e.preventDefault();
 
         var zip = new JSZip(),
-            items_to_download = $('input[type="checkbox"]:checked').not('.all-flags').not('.all-countries').not('.all-world').not('.all'),
+            items_to_download = $('input[type="checkbox"]:checked').not('.all-subdivisions').not('.all-flags').not('.all-countries').not('.all-world').not('.all'),
             items_processed = 0,
-            total_downloads = $(items_to_download).length - $(items_to_download).filter('.flags').length + ($(items_to_download).filter('.flags').length * flags.length),
+            total_downloads = $(items_to_download).length - ($(items_to_download).filter('.flags').length * flags.length),
             flag_types = $('input[name="flags-format"]:checked').val() || 'images',
             timeout;
 
@@ -109,7 +117,7 @@ $(document).ready(function() {
                                                     xhr.responseType= 'blob'
                                                     return xhr;
                                                 },
-                                    success:    function(data){
+                                    success:    function(data) {
                                                     zip.folder('flags/' + path[1]).file(flag + '.png', data, {blob: true});
                                                     items_processed++;
                                                 }
@@ -126,13 +134,20 @@ $(document).ready(function() {
                                                 var xhr = new XMLHttpRequest();
                                                 return xhr;
                                             },
-                                success:    function(data){
+                                success:    function(data) {
                                                 zip.folder('flags/' + path[1]).file('flags-' + path[1] + '.json', JSON.stringify(data, null, 2), {});
                                                 items_processed += flags.length;
                                             }
                             });
 
                         }
+
+                    } else if (value.indexOf('subdivisions') > -1) {
+
+                        $.get('https://raw.githubusercontent.com/stefangabos/world_countries/master/data/subdivisions/' + path[1], function(result) {
+                            zip.folder('subdivisions').file(path[1], result);
+                            items_processed++;
+                        }, 'text');
 
                     } else
 
