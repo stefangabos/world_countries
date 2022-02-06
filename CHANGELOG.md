@@ -5,12 +5,14 @@
 - fixed `id` of Sudan for Swedish language
 - fixed broken SQL files
 - changed folder structure in preparations for adding more data to the library; for now, countries moved to their own `countries` folder inside the `data` folder and the `flags` folder was moved inside the `data` folder
+
 ## version 2.3.0 (September 28, 2021)
 
 - flags are now available as JSON files with data uris; see [#41](https://github.com/stefangabos/world_countries/issues/41)
 - fixed folder name for Estonian translations; see [#52](https://github.com/stefangabos/world_countries/issues/52)
 - fixed a potential issue with the lists for German language by removing a soft-hyphen `(\u00ad)` from country names; see [#54](https://github.com/stefangabos/world_countries/issues/54)
 - fixed broken download links for Basque
+
 ## version 2.2.0 (June 06, 2021)
 
 - added Bulgarian translations
