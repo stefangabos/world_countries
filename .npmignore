@@ -1,6 +1,7 @@
 cache/*
 cache/LICENSE.TXT
 node_modules/*
+generator/*
 docs/*
 .gitattributes
 .gitignore
