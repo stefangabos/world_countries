@@ -1,9 +1,10 @@
-## version 2.4.0 (TBA)
+## version 2.4.0 (February 06, 2022)
 - added `XML` file format
 - added combined lists; see [#29](https://github.com/stefangabos/world_countries/issues/29)
 - aded a note about the fact that alpha-2 and alpha-3 codes are lowercase instead of uppercase as defined by ISO 3166-1; see [#50](https://github.com/stefangabos/world_countries/issues/50)
 - fixed `id` of Sudan for Swedish language
 - fixed broken SQL files
+- changed folder structure in preparations for adding more data to the library; for now, countries moved to their own `countries` folder inside the `data` folder and the `flags` folder was moved inside the `data` folder
 ## version 2.3.0 (September 28, 2021)
 
 - flags are now available as JSON files with data uris; see [#41](https://github.com/stefangabos/world_countries/issues/41)
