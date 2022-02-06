@@ -1,4 +1,5 @@
 cache/*
+cache/LICENSE.TXT
 node_modules/*
 docs/*
 .gitattributes
