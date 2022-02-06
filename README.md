@@ -184,26 +184,9 @@ search_county({alpha3: 'fra'})
 Excerpt from the `data/countries/en/countries.php` file:
 
 ```php
-...
-    250 => array(
-        'id'        => 250,
-        'alpha2'    => 'fr',
-        'alpha3'    => 'fra',
-        'name'      => 'France'
-    ),
-    266 => array(
-        'id'        => 266,
-        'alpha2'    => 'ga',
-        'alpha3'    => 'gab',
-        'name'      => 'Gabon'
-    ),
-    270 => array(
-        'id'        => 270,
-        'alpha2'    => 'gm',
-        'alpha3'    => 'gmb',
-        'name'      => 'Gambia'
-    ),
-...
+250 => array('id' => 250, 'alpha2' => 'fr', 'alpha3' => 'fra', 'name' => 'France'),
+266 => array('id' => 266, 'alpha2' => 'ga', 'alpha3' => 'gab', 'name' => 'Gabon'),
+270 => array('id' => 270, 'alpha2' => 'gm', 'alpha3' => 'gmb', 'name' => 'Gambia'),
 ```
 Here's a little helper function for searching for a specific country's data
 
