@@ -192,7 +192,7 @@ Here's a little helper function for searching for a specific country's data
 
 ```php
 //  this function assumes that you have done this:
-require 'path/to/countries.php';
+$countries = require 'path/to/countries.php';
 
 //  returns an array with the sought country's data if the search yields a result
 //  returns false if no results could be found or if argument is incorrect
