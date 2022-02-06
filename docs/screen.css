@@ -2,6 +2,10 @@ body {
     font-family: Tahoma, Helvetica, Arial, sans-serif;
 }
 
+p {
+    margin-bottom: 15px;
+}
+
 .panel {
     animation-duration: .2s;
     position: relative;
