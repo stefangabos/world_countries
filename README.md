@@ -230,7 +230,7 @@ function search_country($query) {
     // if argument is not valid return false
     if (!isset($query['id']) && !isset($query['alpha2']) && !isset($query['alpha3'])) return false;
 
-        // iterate over the array of countries
+    // iterate over the array of countries
 	$result = array_filter($countries, function($country) use ($query) {
 
         // return country's data if
