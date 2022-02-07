@@ -231,7 +231,7 @@ function search_country($query) {
     if (!isset($query['id']) && !isset($query['alpha2']) && !isset($query['alpha3'])) return false;
 
     // iterate over the array of countries
-	$result = array_filter($countries, function($country) use ($query) {
+    $result = array_filter($countries, function($country) use ($query) {
 
         // return country's data if
         return (
