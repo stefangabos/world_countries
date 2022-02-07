@@ -44,7 +44,6 @@ id,alpha2,alpha3,name
 203,cz,cze,Česko
 156,cn,chn,Čína
 208,dk,dnk,Dánsko
-180,cd,cod,"Demokratická republika Kongo"
 212,dm,dma,Dominika
 214,do,dom,"Dominikánská republika"
 262,dj,dji,Džibutsko
@@ -112,6 +111,7 @@ id,alpha2,alpha3,name
 170,co,col,Kolumbie
 174,km,com,Komory
 178,cg,cog,Kongo
+180,cd,cod,"Konžská demokratická republika"
 188,cr,cri,Kostarika
 192,cu,cub,Kuba
 414,kw,kwt,Kuvajt

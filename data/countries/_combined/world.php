@@ -1582,7 +1582,7 @@
 ),
     180 => array('id' => 180, 'alpha2' => 'cd', 'alpha3' => 'cod', 'name' => 'ar'     => 'جمهورية الكونغو الديمقراطية',
 'bg'     => 'Демократична република Конго',
-'cs'     => 'Demokratická republika Kongo',
+'cs'     => 'Konžská demokratická republika',
 'da'     => 'Demokratiske Republik Congo',
 'de'     => 'Kongo, Demokratische Republik',
 'el'     => 'Λαϊκή Δημοκρατία του Κογκό',

@@ -45,7 +45,6 @@
     <country id="203" alpha2="cz" alpha3="cze" name="Česko"/>
     <country id="156" alpha2="cn" alpha3="chn" name="Čína"/>
     <country id="208" alpha2="dk" alpha3="dnk" name="Dánsko"/>
-    <country id="180" alpha2="cd" alpha3="cod" name="Demokratická republika Kongo"/>
     <country id="212" alpha2="dm" alpha3="dma" name="Dominika"/>
     <country id="214" alpha2="do" alpha3="dom" name="Dominikánská republika"/>
     <country id="262" alpha2="dj" alpha3="dji" name="Džibutsko"/>
@@ -113,6 +112,7 @@
     <country id="170" alpha2="co" alpha3="col" name="Kolumbie"/>
     <country id="174" alpha2="km" alpha3="com" name="Komory"/>
     <country id="178" alpha2="cg" alpha3="cog" name="Kongo"/>
+    <country id="180" alpha2="cd" alpha3="cod" name="Konžská demokratická republika"/>
     <country id="188" alpha2="cr" alpha3="cri" name="Kostarika"/>
     <country id="192" alpha2="cu" alpha3="cub" name="Kuba"/>
     <country id="414" alpha2="kw" alpha3="kwt" name="Kuvajt"/>
