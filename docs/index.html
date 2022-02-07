@@ -27,7 +27,11 @@
         <div class="jumbotron">
             <div class="container">
                 <h1>World countries</h1>
-                <p>available in multiple languages, in CSV, JSON, PHP, SQL and XML formats, with associated alpha-2, alpha-3, and numeric codes as defined by the ISO 3166 standard, and with national flags included</p>
+                <p>
+                    available in multiple languages, in CSV, JSON, PHP, SQL and XML formats, with associated alpha-2, alpha-3,
+                    and numeric codes as defined by the ISO 3166 standard, and with national flags included; also available are
+                    the ISO 3166-2 codes used for identifying the principal subdivisions (e.g., provinces or states) of all
+                    countries coded in ISO 3166-1</p>
                 <hr>
                 <p>
                     <a href="https://github.com/stefangabos/world_countries/archive/master.zip" class="btn btn-primary btn-lg" role="button" style="text-decoration: none">Download</a>
@@ -45,12 +49,13 @@
                         associated alpha-2, alpha-3 and numeric codes as defined by the ISO 3166-1 standard, published and
                         maintained by the <a href="https://www.iso.org/iso-3166-country-codes.html">International Organization for
                         Standardization</a>, available in CSV, JSON, PHP, SQL and XML formats, in multiple languages and with national
-                        flags included.
+                        flags included. Also available are the <a href="">ISO 3166-2</a> codes used for identifying the principal subdivisions
+                        (e.g., provinces or states) of all countries coded in ISO 3166-1.
                     </p>
 
                     <p>
-                        In the language folders you will find files named in two different ways. Here's what you will find
-                        in each of them:
+                        In the language folders (inside <code>data/countries</code>) you will find files named in two different ways.<br>
+                        Here's what you will find in each of them:
                     </p>
 
                     <table cellspacing="0" cellpadding="0" class="table table-bordered table-striped" style="width: 850px">
@@ -112,17 +117,65 @@
                     </blockquote>
 
                     <p>
-                        The package also contains the national flags of each country as a 16x16, 24x24, 32x32, 48x48, 64x64
+                        The lists are currently available in <strong>30 languages</strong>:
+                        Arabic, Basque, Bulgarian, Chinese (simplified), Chinese (traditional), Czech, Danish, Dutch, English, Esperanto, Estonian, Finnish, French, German, Greek, Hungarian, Italian, Japanese, Korean, Lithuanian, Norwegian, Polish, Portuguese, Romanian, Russian, Slovak, Spanish, Swedish, Thai, Ukrainian                    </p>
+
+                    <p>All data is taken from <a href="https://en.wikipedia.org/wiki/ISO_3166-1">Wikipedia</a>.</p>
+
+                    <h3>ISO 3166-2 codes</h3>
+
+                    <p>
+                        The project also tries to be a comprehensive and up-to-date source for <strong>ISO 3166-2</strong>
+                        which defines codes for identifying the principal subdivisions (e.g., provinces or states) of all
+                        countries coded in ISO 3166-1.
+                    </p>
+
+                    <p>
+                        The purpose of ISO 3166-2 is to establish an international standard of short and unique alphanumeric
+                        codes to represent the relevant administrative divisions and dependent territories of all countries
+                        in a more convenient and less ambiguous form than their full names. Each complete ISO 3166-2 code
+                        consists of two parts, separated by a hyphen:
+                    </p>
+
+                    <p><code>US-TX</code> for Texas, USA</p>
+
+                    <p>
+                        The first part is the ISO 3166-1 alpha-2 code of the country;<br>
+                        The second part is a string of up to three alphanumeric characters, which is usually obtained from
+                        national sources and stems from coding systems already in use in the country concerned, but may also
+                        be developed by the ISO itself.<br>
+                        Each complete ISO 3166-2 code can then be used to uniquely identify a country subdivision in a global
+                        context.
+                    </p>
+
+                    <p>
+                        The list is available in <code>CSV</code>, <code>JSON</code>, <code>PHP</code>, <code>SQL</code> and
+                        <code>XML</code> formats in the <code>data/subdivisions</code> folder and the CSV one looks like this:
+                    </p>
+
+                    <p><code>
+                        US,US-AL,Alabama<br>
+                        US,US-AK,Alaska<br>
+                        US,US-AZ,Arizona<br>
+                        US,US-AR,Arkansas<br>
+                        US,US-CA,California<br>
+                        US,US-CO,Colorado<br>
+                    </code></p>
+
+                    <p>
+                        The starting point of this list was the ISO 3166-2 Subdivision Code list provided by
+                        <a href="https://www.ip2location.com/free/iso3166-2">IP2Location</a> but this one will be maintained
+                        by the community.
+                    </p>
+
+                    <h3>Flags</h3>
+
+                    <p>
+                        The library provides national flags of each country as a 16x16, 24x24, 32x32, 48x48, 64x64
                         and 128x128 PNG images, courtesy of <a href="http://icondrawer.com/free.php">IconDrawer</a>. The
                         image files are named using the <em>ISO 3166-1-alpha-2</em> code of the country they represent,
                         for easily pairing flags with countries.
                     </p>
-
-                    <p>
-                        The lists are currently available in <strong>29 languages</strong>:
-                        Arabic, Basque, Bulgarian, Chinese (simplified), Chinese (traditional), Czech, Danish, Dutch, English, Estonian, Finnish, French, German, Greek, Hungarian, Italian, Japanese, Korean, Lithuanian, Norwegian, Polish, Portuguese, Romanian, Russian, Slovak, Spanish, Swedish, Thai, Ukrainian                    </p>
-
-                    <p>All data is taken from <a href="https://en.wikipedia.org/wiki/ISO_3166-1">Wikipedia</a>.</p>
 
                     <hr>
 
@@ -131,9 +184,9 @@
                     <h2>Download</h2>
 
                     <p>
-                        To download the entire package containing all the world countries in all the 29 languages, in all
-                        the available formats (CSV, JSON, PHP, SQL and XML), and with flags included, use the big <strong>Download</strong>
-                        button at the <a href="#top">top</a>.
+                        To download the entire package containing all the world countries in all the 30                        languages, in all the available formats (CSV, JSON, PHP, SQL and XML), with flags included, and
+                        with the ISO 3166-2 list of administrative divisions and dependent territories of all countries,
+                        use the big <strong>Download</strong> button at the <a href="#top">top</a>.
                     </p>
 
                     <p>
@@ -495,6 +548,41 @@
                                             <label><input type="checkbox" class="format countries" name="download[]" value="en/countries.php">PHP</label>&nbsp;
                                             <label><input type="checkbox" class="format countries" name="download[]" value="en/countries.sql">SQL</label>&nbsp;
                                             <label><input type="checkbox" class="format countries" name="download[]" value="en/countries.xml">XML</label>
+                                        </td>
+                                    </tr>
+                                </tbody>
+                            </table>
+                        </div>
+                    </div>
+                </div>
+
+
+                <div class="col-lg-6 col-md-6 col-sm-6 col-xs-12">
+                    <div class="panel panel-default">
+                        <div class="panel-heading">
+                            <label><input type="checkbox" class="format all">&nbsp;<strong>Esperanto</strong> (eo)</label>
+                        </div>
+                        <div class="panel-body">
+                            <table>
+                                <tbody>
+                                    <tr>
+                                        <th><label><input type="checkbox" class="format all-world">World</label></th>
+                                        <td>
+                                            <label><input type="checkbox" class="format world" name="download[]" value="eo/world.csv">CSV</label>&nbsp;
+                                            <label><input type="checkbox" class="format world" name="download[]" value="eo/world.json">JSON</label>&nbsp;
+                                            <label><input type="checkbox" class="format world" name="download[]" value="eo/world.php">PHP</label>&nbsp;
+                                            <label><input type="checkbox" class="format world" name="download[]" value="eo/world.sql">SQL</label>&nbsp;
+                                            <label><input type="checkbox" class="format world" name="download[]" value="eo/world.xml">XML</label>
+                                        </td>
+                                    </tr>
+                                    <tr>
+                                        <th><label><input type="checkbox" class="format all-countries">Countries</label></th>
+                                        <td>
+                                            <label><input type="checkbox" class="format countries" name="download[]" value="eo/countries.csv">CSV</label>&nbsp;
+                                            <label><input type="checkbox" class="format countries" name="download[]" value="eo/countries.json">JSON</label>&nbsp;
+                                            <label><input type="checkbox" class="format countries" name="download[]" value="eo/countries.php">PHP</label>&nbsp;
+                                            <label><input type="checkbox" class="format countries" name="download[]" value="eo/countries.sql">SQL</label>&nbsp;
+                                            <label><input type="checkbox" class="format countries" name="download[]" value="eo/countries.xml">XML</label>
                                         </td>
                                     </tr>
                                 </tbody>
@@ -1206,10 +1294,29 @@
 
             </div>
 
-            <h3><strong>II.</strong> Flags</h3><br>
+            <h3><strong>II.</strong> ISO 3166-2 codes</h3><br>
 
             <div class="row">
-                <div class="col-lg-4 col-md-6 col-sm-6 col-xs-12">
+                <div class="col-lg-6 col-md-6 col-sm-6 col-xs-12">
+                    <div class="panel panel-default">
+                        <div class="panel-heading">
+                            <label><input type="checkbox" class="format all-subdivisions">&nbsp;<strong>ISO 3166-2 codes</strong></label>
+                        </div>
+                        <div class="panel-body">
+                            <label><input type="checkbox" class="format subdivisions" name="download[]" value="subdivisions/subdivisions.csv">CSV</label>&nbsp;
+                            <label><input type="checkbox" class="format subdivisions" name="download[]" value="subdivisions/subdivisions.json">JSON</label>&nbsp;
+                            <label><input type="checkbox" class="format subdivisions" name="download[]" value="subdivisions/subdivisions.php">PHP</label>&nbsp;
+                            <label><input type="checkbox" class="format subdivisions" name="download[]" value="subdivisions/subdivisions.sql">SQL</label>&nbsp;
+                            <label><input type="checkbox" class="format subdivisions" name="download[]" value="subdivisions/subdivisions.xml">XML</label>
+                        </div>
+                    </div>
+                </div>
+            </div>
+
+            <h3><strong>III.</strong> Flags</h3><br>
+
+            <div class="row">
+                <div class="col-lg-6 col-md-6 col-sm-6 col-xs-12">
                     <div class="panel panel-default">
                         <div class="panel-heading">
                             <label><input type="checkbox" class="format all-flags">&nbsp;<strong>Flags</strong></label>
