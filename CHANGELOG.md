@@ -2,7 +2,7 @@
 
 - added ISO 3166-2 codes; see [#61](https://github.com/stefangabos/world_countries/issues/61); thanks to [Alan Jones](https://github.com/asjones987) for providing the links; what we have at this point should be considered as a start - a lot of codes are missing (according to [Wikipedia](https://en.wikipedia.org/wiki/ISO_3166-2) which says there are 5047 while our list has only 3607) and names are written in their anglicized version rather than local - this will have to be updated by the community
 - added Esperanto language
-- updated formatting and usage of PHP files
+- updated formatting and usage of PHP files; thanks to [Jacek Karczmarczyk](https://github.com/jacekkarczmarczyk) for suggesting - see [#58](https://github.com/stefangabos/world_countries/issues/58)
 
 ## version 2.4.0 (February 06, 2022)
 - added `XML` file format
