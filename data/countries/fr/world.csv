@@ -49,7 +49,7 @@ id,alpha2,alpha3,name
 196,cy,cyp,"Chypre (pays)"
 166,cc,cck,"Îles Cocos"
 170,co,col,Colombie
-174,km,com,"Comores (pays)"
+174,km,com,Comores
 178,cg,cog,"République du Congo"
 180,cd,cod,"République démocratique du Congo"
 184,ck,cok,"Îles Cook"
@@ -67,7 +67,7 @@ id,alpha2,alpha3,name
 818,eg,egy,Égypte
 222,sv,slv,Salvador
 784,ae,are,"Émirats arabes unis"
-218,ec,ecu,"Équateur (pays)"
+218,ec,ecu,Équateur
 232,er,eri,Érythrée
 724,es,esp,Espagne
 233,ee,est,Estonie
@@ -80,12 +80,12 @@ id,alpha2,alpha3,name
 250,fr,fra,France
 266,ga,gab,Gabon
 270,gm,gmb,Gambie
-268,ge,geo,"Géorgie (pays)"
+268,ge,geo,Géorgie
 239,gs,sgs,"Géorgie du Sud-et-les îles Sandwich du Sud"
 288,gh,gha,Ghana
 292,gi,gib,Gibraltar
 300,gr,grc,Grèce
-308,gd,grd,"Grenade (pays)"
+308,gd,grd,Grenade
 304,gl,grl,Groenland
 312,gp,glp,Guadeloupe
 316,gu,gum,Guam
@@ -109,7 +109,7 @@ id,alpha2,alpha3,name
 360,id,idn,Indonésie
 364,ir,irn,Iran
 368,iq,irq,Irak
-372,ie,irl,"Irlande (pays)"
+372,ie,irl,Irlande
 352,is,isl,Islande
 376,il,isr,Israël
 380,it,ita,Italie
@@ -130,7 +130,7 @@ id,alpha2,alpha3,name
 434,ly,lby,Libye
 438,li,lie,Liechtenstein
 440,lt,ltu,Lituanie
-442,lu,lux,"Luxembourg (pays)"
+442,lu,lux,Luxembourg
 446,mo,mac,Macao
 807,mk,mkd,"Macédoine du Nord"
 450,mg,mdg,Madagascar
@@ -141,13 +141,13 @@ id,alpha2,alpha3,name
 470,mt,mlt,Malte
 580,mp,mnp,"Îles Mariannes du Nord"
 504,ma,mar,Maroc
-584,mh,mhl,"Îles Marshall (pays)"
+584,mh,mhl,"Îles Marshall"
 474,mq,mtq,Martinique
-480,mu,mus,"Maurice (pays)"
+480,mu,mus,Maurice
 478,mr,mrt,Mauritanie
 175,yt,myt,Mayotte
 484,mx,mex,Mexique
-583,fm,fsm,"États fédérés de Micronésie (pays)"
+583,fm,fsm,"États fédérés de Micronésie"
 498,md,mda,Moldavie
 492,mc,mco,Monaco
 496,mn,mng,Mongolie

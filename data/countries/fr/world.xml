@@ -50,7 +50,7 @@
     <country id="196" alpha2="cy" alpha3="cyp" name="Chypre (pays)"/>
     <country id="166" alpha2="cc" alpha3="cck" name="Îles Cocos"/>
     <country id="170" alpha2="co" alpha3="col" name="Colombie"/>
-    <country id="174" alpha2="km" alpha3="com" name="Comores (pays)"/>
+    <country id="174" alpha2="km" alpha3="com" name="Comores"/>
     <country id="178" alpha2="cg" alpha3="cog" name="République du Congo"/>
     <country id="180" alpha2="cd" alpha3="cod" name="République démocratique du Congo"/>
     <country id="184" alpha2="ck" alpha3="cok" name="Îles Cook"/>
@@ -68,7 +68,7 @@
     <country id="818" alpha2="eg" alpha3="egy" name="Égypte"/>
     <country id="222" alpha2="sv" alpha3="slv" name="Salvador"/>
     <country id="784" alpha2="ae" alpha3="are" name="Émirats arabes unis"/>
-    <country id="218" alpha2="ec" alpha3="ecu" name="Équateur (pays)"/>
+    <country id="218" alpha2="ec" alpha3="ecu" name="Équateur"/>
     <country id="232" alpha2="er" alpha3="eri" name="Érythrée"/>
     <country id="724" alpha2="es" alpha3="esp" name="Espagne"/>
     <country id="233" alpha2="ee" alpha3="est" name="Estonie"/>
@@ -81,12 +81,12 @@
     <country id="250" alpha2="fr" alpha3="fra" name="France"/>
     <country id="266" alpha2="ga" alpha3="gab" name="Gabon"/>
     <country id="270" alpha2="gm" alpha3="gmb" name="Gambie"/>
-    <country id="268" alpha2="ge" alpha3="geo" name="Géorgie (pays)"/>
+    <country id="268" alpha2="ge" alpha3="geo" name="Géorgie"/>
     <country id="239" alpha2="gs" alpha3="sgs" name="Géorgie du Sud-et-les îles Sandwich du Sud"/>
     <country id="288" alpha2="gh" alpha3="gha" name="Ghana"/>
     <country id="292" alpha2="gi" alpha3="gib" name="Gibraltar"/>
     <country id="300" alpha2="gr" alpha3="grc" name="Grèce"/>
-    <country id="308" alpha2="gd" alpha3="grd" name="Grenade (pays)"/>
+    <country id="308" alpha2="gd" alpha3="grd" name="Grenade"/>
     <country id="304" alpha2="gl" alpha3="grl" name="Groenland"/>
     <country id="312" alpha2="gp" alpha3="glp" name="Guadeloupe"/>
     <country id="316" alpha2="gu" alpha3="gum" name="Guam"/>
@@ -110,7 +110,7 @@
     <country id="360" alpha2="id" alpha3="idn" name="Indonésie"/>
     <country id="364" alpha2="ir" alpha3="irn" name="Iran"/>
     <country id="368" alpha2="iq" alpha3="irq" name="Irak"/>
-    <country id="372" alpha2="ie" alpha3="irl" name="Irlande (pays)"/>
+    <country id="372" alpha2="ie" alpha3="irl" name="Irlande"/>
     <country id="352" alpha2="is" alpha3="isl" name="Islande"/>
     <country id="376" alpha2="il" alpha3="isr" name="Israël"/>
     <country id="380" alpha2="it" alpha3="ita" name="Italie"/>
@@ -131,7 +131,7 @@
     <country id="434" alpha2="ly" alpha3="lby" name="Libye"/>
     <country id="438" alpha2="li" alpha3="lie" name="Liechtenstein"/>
     <country id="440" alpha2="lt" alpha3="ltu" name="Lituanie"/>
-    <country id="442" alpha2="lu" alpha3="lux" name="Luxembourg (pays)"/>
+    <country id="442" alpha2="lu" alpha3="lux" name="Luxembourg"/>
     <country id="446" alpha2="mo" alpha3="mac" name="Macao"/>
     <country id="807" alpha2="mk" alpha3="mkd" name="Macédoine du Nord"/>
     <country id="450" alpha2="mg" alpha3="mdg" name="Madagascar"/>
@@ -142,13 +142,13 @@
     <country id="470" alpha2="mt" alpha3="mlt" name="Malte"/>
     <country id="580" alpha2="mp" alpha3="mnp" name="Îles Mariannes du Nord"/>
     <country id="504" alpha2="ma" alpha3="mar" name="Maroc"/>
-    <country id="584" alpha2="mh" alpha3="mhl" name="Îles Marshall (pays)"/>
+    <country id="584" alpha2="mh" alpha3="mhl" name="Îles Marshall"/>
     <country id="474" alpha2="mq" alpha3="mtq" name="Martinique"/>
-    <country id="480" alpha2="mu" alpha3="mus" name="Maurice (pays)"/>
+    <country id="480" alpha2="mu" alpha3="mus" name="Maurice"/>
     <country id="478" alpha2="mr" alpha3="mrt" name="Mauritanie"/>
     <country id="175" alpha2="yt" alpha3="myt" name="Mayotte"/>
     <country id="484" alpha2="mx" alpha3="mex" name="Mexique"/>
-    <country id="583" alpha2="fm" alpha3="fsm" name="États fédérés de Micronésie (pays)"/>
+    <country id="583" alpha2="fm" alpha3="fsm" name="États fédérés de Micronésie"/>
     <country id="498" alpha2="md" alpha3="mda" name="Moldavie"/>
     <country id="492" alpha2="mc" alpha3="mco" name="Monaco"/>
     <country id="496" alpha2="mn" alpha3="mng" name="Mongolie"/>
