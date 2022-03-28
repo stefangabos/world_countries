@@ -89,7 +89,7 @@ $(document).ready(function() {
         var zip = new JSZip(),
             items_to_download = $('input[type="checkbox"]:checked').not('.all-subdivisions').not('.all-flags').not('.all-countries').not('.all-world').not('.all'),
             items_processed = 0,
-            total_downloads = $(items_to_download).length - ($(items_to_download).filter('.flags').length * flags.length),
+            total_downloads = $(items_to_download).length - $(items_to_download).filter('.flags').length + ($(items_to_download).filter('.flags').length * flags.length),
             flag_types = $('input[name="flags-format"]:checked').val() || 'images',
             timeout;
 
