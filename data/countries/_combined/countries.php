@@ -1018,7 +1018,7 @@
 'sk'     => 'Stredoafrická republika',
 'sv'     => 'Centralafrikanska republiken',
 'th'     => 'สาธารณรัฐแอฟริกากลาง',
-'uk'     => 'ЦАР',
+'uk'     => 'Центральноафриканська Республіка',
 'zh'     => '中非',
 'zh-tw'  => '中非',
 ),

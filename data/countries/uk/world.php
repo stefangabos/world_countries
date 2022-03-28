@@ -238,7 +238,7 @@
     258 => array('id' => 258, 'alpha2' => 'pf', 'alpha3' => 'pyf', 'name' => 'Французька Полінезія'),
     260 => array('id' => 260, 'alpha2' => 'tf', 'alpha3' => 'atf', 'name' => 'Французькі Південні і Антарктичні Території'),
     191 => array('id' => 191, 'alpha2' => 'hr', 'alpha3' => 'hrv', 'name' => 'Хорватія'),
-    140 => array('id' => 140, 'alpha2' => 'cf', 'alpha3' => 'caf', 'name' => 'ЦАР'),
+    140 => array('id' => 140, 'alpha2' => 'cf', 'alpha3' => 'caf', 'name' => 'Центральноафриканська Республіка'),
     148 => array('id' => 148, 'alpha2' => 'td', 'alpha3' => 'tcd', 'name' => 'Чад'),
     203 => array('id' => 203, 'alpha2' => 'cz', 'alpha3' => 'cze', 'name' => 'Чехія'),
     152 => array('id' => 152, 'alpha2' => 'cl', 'alpha3' => 'chl', 'name' => 'Чилі'),
