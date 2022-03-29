@@ -200,9 +200,9 @@ function search_country(query) {
 Usage
 
 ```js
-search_county({id: 250})
-search_county({alpha2: 'fr'})
-search_county({alpha3: 'fra'})
+search_country({id: 250})
+search_country({alpha2: 'fr'})
+search_country({alpha3: 'fra'})
 ```
 
 ### PHP
@@ -254,9 +254,9 @@ function search_country($query) {
 Usage
 
 ```php
-search_county(array('id' => 250});
-search_county(array('alpha2' => 'fr'});
-search_county(array('alpha3' => 'fra'});
+search_country(array('id' => 250));
+search_country(array('alpha2' => 'fr'));
+search_country(array('alpha3' => 'fra'));
 ```
 
 ### XML
