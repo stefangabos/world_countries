@@ -169,6 +169,7 @@ Here's a little helper function for searching for a specific country's data
 
 > The helper function assumes that the JSON with the countries data is associated with a variable named `countries` which is in the same scope as the function
 
+> The helper function is to be used with the *non-combined* data sets.<br>For the *combined* data sets you can write the function yourself.
 
 ```js
 //  returns an object with the sought country's data if the search yields a result
@@ -215,6 +216,8 @@ Excerpt from the `data/countries/en/countries.php` file:
 270 => array('id' => 270, 'alpha2' => 'gm', 'alpha3' => 'gmb', 'name' => 'Gambia'),
 ```
 Here's a little helper function for searching for a specific country's data
+
+> The helper function is to be used with the *non-combined* data sets.<br>For the *combined* data sets you can write the function yourself.
 
 ```php
 //  this function assumes that you have done this:
