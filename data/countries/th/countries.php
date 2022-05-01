@@ -183,7 +183,7 @@
     804 => array('id' => 804, 'alpha2' => 'ua', 'alpha3' => 'ukr', 'name' => 'ยูเครน'),
     784 => array('id' => 784, 'alpha2' => 'ae', 'alpha3' => 'are', 'name' => 'สหรัฐอาหรับเอมิเรตส์'),
     826 => array('id' => 826, 'alpha2' => 'gb', 'alpha3' => 'gbr', 'name' => 'สหราชอาณาจักร'),
-    840 => array('id' => 840, 'alpha2' => 'us', 'alpha3' => 'usa', 'name' => 'สหรัฐ'),
+    840 => array('id' => 840, 'alpha2' => 'us', 'alpha3' => 'usa', 'name' => 'สหรัฐอเมริกา'),
     858 => array('id' => 858, 'alpha2' => 'uy', 'alpha3' => 'ury', 'name' => 'อุรุกวัย'),
     860 => array('id' => 860, 'alpha2' => 'uz', 'alpha3' => 'uzb', 'name' => 'อุซเบกิสถาน'),
     548 => array('id' => 548, 'alpha2' => 'vu', 'alpha3' => 'vut', 'name' => 'วานูอาตู'),
