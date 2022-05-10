@@ -1,4 +1,5 @@
 ## version 2.5.1 (May 10, 2022)
+
 - removed unused flag of Netherlands Antilles
 - fixed #[67](https://github.com/stefangabos/world_countries/issues/67); thanks [Dennis Wueppelmann](https://github.com/Doener48)!
 
@@ -9,6 +10,7 @@
 - updated formatting and usage of PHP files; thanks to [Jacek Karczmarczyk](https://github.com/jacekkarczmarczyk) for suggesting - see [#58](https://github.com/stefangabos/world_countries/issues/58)
 
 ## version 2.4.0 (February 06, 2022)
+
 - added `XML` file format
 - added combined lists; see [#29](https://github.com/stefangabos/world_countries/issues/29)
 - aded a note about the fact that alpha-2 and alpha-3 codes are lowercase instead of uppercase as defined by ISO 3166-1; see [#50](https://github.com/stefangabos/world_countries/issues/50)
