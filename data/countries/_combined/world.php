@@ -2162,7 +2162,7 @@
             'et'     =>  'Küpros',
             'eu'     =>  'Zipre',
             'fi'     =>  'Kypros',
-            'fr'     =>  'Chypre (pays)',
+            'fr'     =>  'Chypre',
             'hu'     =>  'Ciprus',
             'it'     =>  'Cipro',
             'ja'     =>  'キプロス',

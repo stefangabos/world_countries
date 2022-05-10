@@ -46,7 +46,7 @@
     152 => array('id' => 152, 'alpha2' => 'cl', 'alpha3' => 'chl', 'name' => 'Chili'),
     156 => array('id' => 156, 'alpha2' => 'cn', 'alpha3' => 'chn', 'name' => 'Chine'),
     162 => array('id' => 162, 'alpha2' => 'cx', 'alpha3' => 'cxr', 'name' => 'Île Christmas'),
-    196 => array('id' => 196, 'alpha2' => 'cy', 'alpha3' => 'cyp', 'name' => 'Chypre (pays)'),
+    196 => array('id' => 196, 'alpha2' => 'cy', 'alpha3' => 'cyp', 'name' => 'Chypre'),
     166 => array('id' => 166, 'alpha2' => 'cc', 'alpha3' => 'cck', 'name' => 'Îles Cocos'),
     170 => array('id' => 170, 'alpha2' => 'co', 'alpha3' => 'col', 'name' => 'Colombie'),
     174 => array('id' => 174, 'alpha2' => 'km', 'alpha3' => 'com', 'name' => 'Comores'),

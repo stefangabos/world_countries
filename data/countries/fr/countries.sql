@@ -49,7 +49,7 @@ INSERT INTO `countries` (`id`, `alpha_2`, `alpha_3`, `name`) VALUES
 (140,"cf","caf","République centrafricaine"),
 (152,"cl","chl","Chili"),
 (156,"cn","chn","Chine"),
-(196,"cy","cyp","Chypre (pays)"),
+(196,"cy","cyp","Chypre"),
 (170,"co","col","Colombie"),
 (174,"km","com","Comores"),
 (178,"cg","cog","République du Congo"),
