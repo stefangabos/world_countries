@@ -174,6 +174,7 @@
     795 => array('id' => 795, 'alpha2' => 'tm', 'alpha3' => 'tkm', 'name' => 'Թուրքմենստան'),
     788 => array('id' => 788, 'alpha2' => 'tn', 'alpha3' => 'tun', 'name' => 'Թունիս'),
     776 => array('id' => 776, 'alpha2' => 'to', 'alpha3' => 'ton', 'name' => 'Տոնգա'),
+    792 => array('id' => 792, 'alpha2' => 'tr', 'alpha3' => 'tur', 'name' => 'Թուրքիա'),
     780 => array('id' => 780, 'alpha2' => 'tt', 'alpha3' => 'tto', 'name' => 'Տրինիդադ և Տոբագո'),
     798 => array('id' => 798, 'alpha2' => 'tv', 'alpha3' => 'tuv', 'name' => 'Տուվալու'),
     834 => array('id' => 834, 'alpha2' => 'tz', 'alpha3' => 'tza', 'name' => 'Տանզանիա'),
