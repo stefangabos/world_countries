@@ -159,7 +159,7 @@ INSERT INTO `world` (`id`, `alpha_2`, `alpha_3`, `name`) VALUES
 (462,"mv","mdv","Maldív-szigetek"),
 (466,"ml","mli","Mali"),
 (470,"mt","mlt","Málta"),
-(833,"im","imn","Man"),
+(833,"im","imn","Man-sziget"),
 (504,"ma","mar","Marokkó"),
 (584,"mh","mhl","Marshall-szigetek"),
 (474,"mq","mtq","Martinique"),

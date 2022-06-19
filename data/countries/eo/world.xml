@@ -59,7 +59,7 @@
     <country id="262" alpha2="dj" alpha3="dji" name="Ĝibutio"/>
     <country id="208" alpha2="dk" alpha3="dnk" name="Danio"/>
     <country id="212" alpha2="dm" alpha3="dma" name="Dominiko"/>
-    <country id="214" alpha2="do" alpha3="dom" name="Domingo"/>
+    <country id="214" alpha2="do" alpha3="dom" name="Dominika Respubliko"/>
     <country id="12" alpha2="dz" alpha3="dza" name="Alĝerio"/>
     <country id="218" alpha2="ec" alpha3="ecu" name="Ekvadoro"/>
     <country id="233" alpha2="ee" alpha3="est" name="Estonio"/>
@@ -237,8 +237,8 @@
     <country id="336" alpha2="va" alpha3="vat" name="Vatikanurbo"/>
     <country id="670" alpha2="vc" alpha3="vct" name="Sankta Vincento kaj la Grenadinoj"/>
     <country id="862" alpha2="ve" alpha3="ven" name="Venezuelo"/>
-    <country id="92" alpha2="vg" alpha3="vgb" name="Britaj Virgulinsuloj"/>
-    <country id="850" alpha2="vi" alpha3="vir" name="Usonaj Virgulinsuloj"/>
+    <country id="92" alpha2="vg" alpha3="vgb" name="Britaj Virgulininsuloj"/>
+    <country id="850" alpha2="vi" alpha3="vir" name="Usonaj Virgulininsuloj"/>
     <country id="704" alpha2="vn" alpha3="vnm" name="Vjetnamio"/>
     <country id="548" alpha2="vu" alpha3="vut" name="Vanuatuo"/>
     <country id="876" alpha2="wf" alpha3="wlf" name="Valiso kaj Futuno"/>

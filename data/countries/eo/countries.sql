@@ -57,7 +57,7 @@ INSERT INTO `countries` (`id`, `alpha_2`, `alpha_3`, `name`) VALUES
 (262,"dj","dji","Ĝibutio"),
 (208,"dk","dnk","Danio"),
 (212,"dm","dma","Dominiko"),
-(214,"do","dom","Domingo"),
+(214,"do","dom","Dominika Respubliko"),
 (12,"dz","dza","Alĝerio"),
 (218,"ec","ecu","Ekvadoro"),
 (233,"ee","est","Estonio"),

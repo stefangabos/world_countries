@@ -60,7 +60,7 @@
     332 => array('id' => 332, 'alpha2' => 'ht', 'alpha3' => 'hti', 'name' => 'Haiti'),
     300 => array('id' => 300, 'alpha2' => 'gr', 'alpha3' => 'grc', 'name' => 'Hellas'),
     340 => array('id' => 340, 'alpha2' => 'hn', 'alpha3' => 'hnd', 'name' => 'Honduras'),
-    112 => array('id' => 112, 'alpha2' => 'by', 'alpha3' => 'blr', 'name' => 'Hviterussland'),
+    112 => array('id' => 112, 'alpha2' => 'by', 'alpha3' => 'blr', 'name' => 'Belarus'),
     356 => array('id' => 356, 'alpha2' => 'in', 'alpha3' => 'ind', 'name' => 'India'),
     360 => array('id' => 360, 'alpha2' => 'id', 'alpha3' => 'idn', 'name' => 'Indonesia'),
     368 => array('id' => 368, 'alpha2' => 'iq', 'alpha3' => 'irq', 'name' => 'Irak'),

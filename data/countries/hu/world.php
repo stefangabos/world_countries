@@ -147,7 +147,7 @@
     462 => array('id' => 462, 'alpha2' => 'mv', 'alpha3' => 'mdv', 'name' => 'Maldív-szigetek'),
     466 => array('id' => 466, 'alpha2' => 'ml', 'alpha3' => 'mli', 'name' => 'Mali'),
     470 => array('id' => 470, 'alpha2' => 'mt', 'alpha3' => 'mlt', 'name' => 'Málta'),
-    833 => array('id' => 833, 'alpha2' => 'im', 'alpha3' => 'imn', 'name' => 'Man'),
+    833 => array('id' => 833, 'alpha2' => 'im', 'alpha3' => 'imn', 'name' => 'Man-sziget'),
     504 => array('id' => 504, 'alpha2' => 'ma', 'alpha3' => 'mar', 'name' => 'Marokkó'),
     584 => array('id' => 584, 'alpha2' => 'mh', 'alpha3' => 'mhl', 'name' => 'Marshall-szigetek'),
     474 => array('id' => 474, 'alpha2' => 'mq', 'alpha3' => 'mtq', 'name' => 'Martinique'),

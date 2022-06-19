@@ -45,7 +45,7 @@
     262 => array('id' => 262, 'alpha2' => 'dj', 'alpha3' => 'dji', 'name' => 'Ĝibutio'),
     208 => array('id' => 208, 'alpha2' => 'dk', 'alpha3' => 'dnk', 'name' => 'Danio'),
     212 => array('id' => 212, 'alpha2' => 'dm', 'alpha3' => 'dma', 'name' => 'Dominiko'),
-    214 => array('id' => 214, 'alpha2' => 'do', 'alpha3' => 'dom', 'name' => 'Domingo'),
+    214 => array('id' => 214, 'alpha2' => 'do', 'alpha3' => 'dom', 'name' => 'Dominika Respubliko'),
     12  => array('id' => 12 , 'alpha2' => 'dz', 'alpha3' => 'dza', 'name' => 'Alĝerio'),
     218 => array('id' => 218, 'alpha2' => 'ec', 'alpha3' => 'ecu', 'name' => 'Ekvadoro'),
     233 => array('id' => 233, 'alpha2' => 'ee', 'alpha3' => 'est', 'name' => 'Estonio'),

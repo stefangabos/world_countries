@@ -72,7 +72,7 @@ INSERT INTO `countries` (`id`, `alpha_2`, `alpha_3`, `name`) VALUES
 (332,"ht","hti","Haiti"),
 (300,"gr","grc","Hellas"),
 (340,"hn","hnd","Honduras"),
-(112,"by","blr","Hviterussland"),
+(112,"by","blr","Belarus"),
 (356,"in","ind","India"),
 (360,"id","idn","Indonesia"),
 (368,"iq","irq","Irak"),
