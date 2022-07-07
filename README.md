@@ -207,6 +207,14 @@ search_country({alpha2: 'fr'})
 search_country({alpha3: 'fra'})
 ```
 
+### TypeScript
+
+Typings are available ([source](types.d.ts)):
+
+```ts
+import { Country, LanguageCode, TranslatedCountry } from 'world_countries_lists'
+```
+
 ### PHP
 
 Excerpt from the `data/countries/en/countries.php` file:
