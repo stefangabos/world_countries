@@ -24,6 +24,7 @@
   },
   "homepage": "https://github.com/stefangabos/world_countries#readme",
   "main": "index.js",
+  "types": "types.d.ts",
   "directories": {
     "doc": "docs"
   }
