@@ -184,7 +184,7 @@ INSERT INTO `countries` (`id`, `alpha_2`, `alpha_3`, `name`) VALUES
 (762,"tj","tjk","타지키스탄"),
 (834,"tz","tza","탄자니아"),
 (764,"th","tha","태국"),
-(792,"tr","tur","터키"),
+(792,"tr","tur","튀르키예"),
 (768,"tg","tgo","토고"),
 (776,"to","ton","통가"),
 (795,"tm","tkm","투르크메니스탄"),

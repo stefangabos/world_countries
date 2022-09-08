@@ -188,7 +188,7 @@ INSERT INTO `countries` (`id`, `alpha_2`, `alpha_3`, `name`) VALUES
 (776,"to","ton","Tonga"),
 (780,"tt","tto","Trinidad and Tobago"),
 (788,"tn","tun","Tunisia"),
-(792,"tr","tur","Turkey"),
+(792,"tr","tur","Türkiye"),
 (795,"tm","tkm","Turkmenistan"),
 (798,"tv","tuv","Tuvalu"),
 (800,"ug","uga","Uganda"),

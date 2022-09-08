@@ -172,7 +172,7 @@
     762 => array('id' => 762, 'alpha2' => 'tj', 'alpha3' => 'tjk', 'name' => '타지키스탄'),
     834 => array('id' => 834, 'alpha2' => 'tz', 'alpha3' => 'tza', 'name' => '탄자니아'),
     764 => array('id' => 764, 'alpha2' => 'th', 'alpha3' => 'tha', 'name' => '태국'),
-    792 => array('id' => 792, 'alpha2' => 'tr', 'alpha3' => 'tur', 'name' => '터키'),
+    792 => array('id' => 792, 'alpha2' => 'tr', 'alpha3' => 'tur', 'name' => '튀르키예'),
     768 => array('id' => 768, 'alpha2' => 'tg', 'alpha3' => 'tgo', 'name' => '토고'),
     776 => array('id' => 776, 'alpha2' => 'to', 'alpha3' => 'ton', 'name' => '통가'),
     795 => array('id' => 795, 'alpha2' => 'tm', 'alpha3' => 'tkm', 'name' => '투르크메니스탄'),

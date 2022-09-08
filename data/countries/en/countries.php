@@ -176,7 +176,7 @@
     776 => array('id' => 776, 'alpha2' => 'to', 'alpha3' => 'ton', 'name' => 'Tonga'),
     780 => array('id' => 780, 'alpha2' => 'tt', 'alpha3' => 'tto', 'name' => 'Trinidad and Tobago'),
     788 => array('id' => 788, 'alpha2' => 'tn', 'alpha3' => 'tun', 'name' => 'Tunisia'),
-    792 => array('id' => 792, 'alpha2' => 'tr', 'alpha3' => 'tur', 'name' => 'Turkey'),
+    792 => array('id' => 792, 'alpha2' => 'tr', 'alpha3' => 'tur', 'name' => 'Türkiye'),
     795 => array('id' => 795, 'alpha2' => 'tm', 'alpha3' => 'tkm', 'name' => 'Turkmenistan'),
     798 => array('id' => 798, 'alpha2' => 'tv', 'alpha3' => 'tuv', 'name' => 'Tuvalu'),
     800 => array('id' => 800, 'alpha2' => 'ug', 'alpha3' => 'uga', 'name' => 'Uganda'),

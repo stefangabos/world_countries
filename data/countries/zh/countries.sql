@@ -88,7 +88,7 @@ INSERT INTO `countries` (`id`, `alpha_2`, `alpha_3`, `name`) VALUES
 (348,"hu","hun","匈牙利"),
 (352,"is","isl","冰岛"),
 (356,"in","ind","印度"),
-(360,"id","idn","印尼"),
+(360,"id","idn","印度尼西亚"),
 (364,"ir","irn","伊朗"),
 (368,"iq","irq","伊拉克"),
 (372,"ie","irl","爱尔兰"),

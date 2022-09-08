@@ -112,7 +112,7 @@
     356 => array('id' => 356, 'alpha2' => 'in', 'alpha3' => 'ind', 'name' => 'Índia'),
     360 => array('id' => 360, 'alpha2' => 'id', 'alpha3' => 'idn', 'name' => 'Indonésia'),
     368 => array('id' => 368, 'alpha2' => 'iq', 'alpha3' => 'irq', 'name' => 'Iraque'),
-    364 => array('id' => 364, 'alpha2' => 'ir', 'alpha3' => 'irn', 'name' => 'Irão'),
+    364 => array('id' => 364, 'alpha2' => 'ir', 'alpha3' => 'irn', 'name' => 'Irã'),
     372 => array('id' => 372, 'alpha2' => 'ie', 'alpha3' => 'irl', 'name' => 'Irlanda'),
     352 => array('id' => 352, 'alpha2' => 'is', 'alpha3' => 'isl', 'name' => 'Islândia'),
     376 => array('id' => 376, 'alpha2' => 'il', 'alpha3' => 'isr', 'name' => 'Israel'),

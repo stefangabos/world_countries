@@ -217,7 +217,7 @@
     834 => array('id' => 834, 'alpha2' => 'tz', 'alpha3' => 'tza', 'name' => '탄자니아'),
     764 => array('id' => 764, 'alpha2' => 'th', 'alpha3' => 'tha', 'name' => '태국'),
     796 => array('id' => 796, 'alpha2' => 'tc', 'alpha3' => 'tca', 'name' => '터크스 케이커스 제도'),
-    792 => array('id' => 792, 'alpha2' => 'tr', 'alpha3' => 'tur', 'name' => '터키'),
+    792 => array('id' => 792, 'alpha2' => 'tr', 'alpha3' => 'tur', 'name' => '튀르키예'),
     768 => array('id' => 768, 'alpha2' => 'tg', 'alpha3' => 'tgo', 'name' => '토고'),
     772 => array('id' => 772, 'alpha2' => 'tk', 'alpha3' => 'tkl', 'name' => '토켈라우'),
     776 => array('id' => 776, 'alpha2' => 'to', 'alpha3' => 'ton', 'name' => '통가'),
