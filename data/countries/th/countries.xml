@@ -5,7 +5,7 @@
     <country id="12" alpha2="dz" alpha3="dza" name="แอลจีเรีย"/>
     <country id="20" alpha2="ad" alpha3="and" name="อันดอร์รา"/>
     <country id="24" alpha2="ao" alpha3="ago" name="แองโกลา"/>
-    <country id="28" alpha2="ag" alpha3="atg" name="แอนติกาและบาร์บูดา"/>
+    <country id="28" alpha2="ag" alpha3="atg" name="แอนทีกาและบาร์บิวดา"/>
     <country id="32" alpha2="ar" alpha3="arg" name="อาร์เจนตินา"/>
     <country id="51" alpha2="am" alpha3="arm" name="อาร์มีเนีย"/>
     <country id="36" alpha2="au" alpha3="aus" name="ออสเตรเลีย"/>
@@ -67,7 +67,7 @@
     <country id="276" alpha2="de" alpha3="deu" name="เยอรมนี"/>
     <country id="288" alpha2="gh" alpha3="gha" name="กานา"/>
     <country id="300" alpha2="gr" alpha3="grc" name="กรีซ"/>
-    <country id="308" alpha2="gd" alpha3="grd" name="เกรเนดา"/>
+    <country id="308" alpha2="gd" alpha3="grd" name="กรีเนดา"/>
     <country id="320" alpha2="gt" alpha3="gtm" name="กัวเตมาลา"/>
     <country id="324" alpha2="gn" alpha3="gin" name="กินี"/>
     <country id="624" alpha2="gw" alpha3="gnb" name="กินี-บิสเซา"/>
@@ -99,7 +99,7 @@
     <country id="426" alpha2="ls" alpha3="lso" name="เลโซโท"/>
     <country id="430" alpha2="lr" alpha3="lbr" name="ไลบีเรีย"/>
     <country id="434" alpha2="ly" alpha3="lby" name="ลิเบีย"/>
-    <country id="438" alpha2="li" alpha3="lie" name="ลิกเตนสไตน์"/>
+    <country id="438" alpha2="li" alpha3="lie" name="ลีชเทินชไตน์"/>
     <country id="440" alpha2="lt" alpha3="ltu" name="ลิทัวเนีย"/>
     <country id="442" alpha2="lu" alpha3="lux" name="ลักเซมเบิร์ก"/>
     <country id="450" alpha2="mg" alpha3="mdg" name="มาดากัสการ์"/>
@@ -112,7 +112,7 @@
     <country id="478" alpha2="mr" alpha3="mrt" name="มอริเตเนีย"/>
     <country id="480" alpha2="mu" alpha3="mus" name="มอริเชียส"/>
     <country id="484" alpha2="mx" alpha3="mex" name="เม็กซิโก"/>
-    <country id="583" alpha2="fm" alpha3="fsm" name="ไมโครนีเซีย"/>
+    <country id="583" alpha2="fm" alpha3="fsm" name="ไมโครนีเชีย"/>
     <country id="498" alpha2="md" alpha3="mda" name="มอลโดวา"/>
     <country id="492" alpha2="mc" alpha3="mco" name="โมนาโก"/>
     <country id="496" alpha2="mn" alpha3="mng" name="มองโกเลีย"/>
@@ -149,7 +149,7 @@
     <country id="670" alpha2="vc" alpha3="vct" name="เซนต์วินเซนต์และเกรนาดีนส์"/>
     <country id="882" alpha2="ws" alpha3="wsm" name="ซามัว"/>
     <country id="674" alpha2="sm" alpha3="smr" name="ซานมารีโน"/>
-    <country id="678" alpha2="st" alpha3="stp" name="เซาตูเมและปรินซีปี"/>
+    <country id="678" alpha2="st" alpha3="stp" name="เซาตูแมอีปริงซีป"/>
     <country id="682" alpha2="sa" alpha3="sau" name="ซาอุดีอาระเบีย"/>
     <country id="686" alpha2="sn" alpha3="sen" name="เซเนกัล"/>
     <country id="688" alpha2="rs" alpha3="srb" name="เซอร์เบีย"/>
@@ -161,7 +161,7 @@
     <country id="90" alpha2="sb" alpha3="slb" name="หมู่เกาะโซโลมอน"/>
     <country id="706" alpha2="so" alpha3="som" name="โซมาเลีย"/>
     <country id="710" alpha2="za" alpha3="zaf" name="แอฟริกาใต้"/>
-    <country id="728" alpha2="ss" alpha3="ssd" name="เซาท์ซูดาน"/>
+    <country id="728" alpha2="ss" alpha3="ssd" name="ซูดานใต้"/>
     <country id="724" alpha2="es" alpha3="esp" name="สเปน"/>
     <country id="144" alpha2="lk" alpha3="lka" name="ศรีลังกา"/>
     <country id="729" alpha2="sd" alpha3="sdn" name="ซูดาน"/>
@@ -187,7 +187,7 @@
     <country id="840" alpha2="us" alpha3="usa" name="สหรัฐ"/>
     <country id="858" alpha2="uy" alpha3="ury" name="อุรุกวัย"/>
     <country id="860" alpha2="uz" alpha3="uzb" name="อุซเบกิสถาน"/>
-    <country id="548" alpha2="vu" alpha3="vut" name="วานูอาตู"/>
+    <country id="548" alpha2="vu" alpha3="vut" name="วานูวาตู"/>
     <country id="862" alpha2="ve" alpha3="ven" name="เวเนซุเอลา"/>
     <country id="704" alpha2="vn" alpha3="vnm" name="เวียดนาม"/>
     <country id="887" alpha2="ye" alpha3="yem" name="เยเมน"/>

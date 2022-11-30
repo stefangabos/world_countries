@@ -164,7 +164,7 @@
     780 => array('id' => 780, 'alpha2' => 'tt', 'alpha3' => 'tto', 'name' => 'Тринидад и Тобаго'),
     798 => array('id' => 798, 'alpha2' => 'tv', 'alpha3' => 'tuv', 'name' => 'Тувалу'),
     788 => array('id' => 788, 'alpha2' => 'tn', 'alpha3' => 'tun', 'name' => 'Тунис'),
-    795 => array('id' => 795, 'alpha2' => 'tm', 'alpha3' => 'tkm', 'name' => 'Туркмения'),
+    795 => array('id' => 795, 'alpha2' => 'tm', 'alpha3' => 'tkm', 'name' => 'Туркменистан'),
     792 => array('id' => 792, 'alpha2' => 'tr', 'alpha3' => 'tur', 'name' => 'Турция'),
     800 => array('id' => 800, 'alpha2' => 'ug', 'alpha3' => 'uga', 'name' => 'Уганда'),
     860 => array('id' => 860, 'alpha2' => 'uz', 'alpha3' => 'uzb', 'name' => 'Узбекистан'),

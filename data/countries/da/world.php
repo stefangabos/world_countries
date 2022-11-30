@@ -27,7 +27,7 @@
     72  => array('id' => 72 , 'alpha2' => 'bw', 'alpha3' => 'bwa', 'name' => 'Botswana'),
     74  => array('id' => 74 , 'alpha2' => 'bv', 'alpha3' => 'bvt', 'name' => 'Bouvetøen'),
     76  => array('id' => 76 , 'alpha2' => 'br', 'alpha3' => 'bra', 'name' => 'Brasilien'),
-    86  => array('id' => 86 , 'alpha2' => 'io', 'alpha3' => 'iot', 'name' => 'British Indian Ocean Territory'),
+    86  => array('id' => 86 , 'alpha2' => 'io', 'alpha3' => 'iot', 'name' => 'Britisk territorium i det indiske ocean'),
     96  => array('id' => 96 , 'alpha2' => 'bn', 'alpha3' => 'brn', 'name' => 'Brunei'),
     100 => array('id' => 100, 'alpha2' => 'bg', 'alpha3' => 'bgr', 'name' => 'Bulgarien'),
     854 => array('id' => 854, 'alpha2' => 'bf', 'alpha3' => 'bfa', 'name' => 'Burkina Faso'),

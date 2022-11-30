@@ -76,7 +76,7 @@ INSERT INTO `countries` (`id`, `alpha_2`, `alpha_3`, `name`) VALUES
 (270,"gm","gmb","甘比亞"),
 (268,"ge","geo","喬治亞"),
 (276,"de","deu","德國"),
-(288,"gh","gha","加納"),
+(288,"gh","gha","迦納"),
 (300,"gr","grc","希臘"),
 (308,"gd","grd","格瑞那達"),
 (320,"gt","gtm","瓜地馬拉"),

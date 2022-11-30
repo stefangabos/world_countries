@@ -118,7 +118,7 @@
     <country id="470" alpha2="mt" alpha3="mlt" name="Malta"/>
     <country id="504" alpha2="ma" alpha3="mar" name="Marrocos"/>
     <country id="584" alpha2="mh" alpha3="mhl" name="Ilhas Marshall"/>
-    <country id="480" alpha2="mu" alpha3="mus" name="Maurícia"/>
+    <country id="480" alpha2="mu" alpha3="mus" name="Ilhas Maurícias"/>
     <country id="478" alpha2="mr" alpha3="mrt" name="Mauritânia"/>
     <country id="484" alpha2="mx" alpha3="mex" name="México"/>
     <country id="104" alpha2="mm" alpha3="mmr" name="Mianmar"/>
@@ -190,7 +190,7 @@
     <country id="860" alpha2="uz" alpha3="uzb" name="Uzbequistão"/>
     <country id="548" alpha2="vu" alpha3="vut" name="Vanuatu"/>
     <country id="862" alpha2="ve" alpha3="ven" name="Venezuela"/>
-    <country id="704" alpha2="vn" alpha3="vnm" name="Vietnã"/>
+    <country id="704" alpha2="vn" alpha3="vnm" name="Vietname"/>
     <country id="894" alpha2="zm" alpha3="zmb" name="Zâmbia"/>
     <country id="716" alpha2="zw" alpha3="zwe" name="Zimbábue"/>
 </countries>

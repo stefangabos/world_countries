@@ -39,7 +39,7 @@ INSERT INTO `world` (`id`, `alpha_2`, `alpha_3`, `name`) VALUES
 (72,"bw","bwa","Botswana"),
 (74,"bv","bvt","Bouvetøen"),
 (76,"br","bra","Brasilien"),
-(86,"io","iot","British Indian Ocean Territory"),
+(86,"io","iot","Britisk territorium i det indiske ocean"),
 (96,"bn","brn","Brunei"),
 (100,"bg","bgr","Bulgarien"),
 (854,"bf","bfa","Burkina Faso"),

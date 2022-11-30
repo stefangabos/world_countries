@@ -117,7 +117,7 @@
     470 => array('id' => 470, 'alpha2' => 'mt', 'alpha3' => 'mlt', 'name' => 'Malta'),
     504 => array('id' => 504, 'alpha2' => 'ma', 'alpha3' => 'mar', 'name' => 'Marrocos'),
     584 => array('id' => 584, 'alpha2' => 'mh', 'alpha3' => 'mhl', 'name' => 'Ilhas Marshall'),
-    480 => array('id' => 480, 'alpha2' => 'mu', 'alpha3' => 'mus', 'name' => 'Maurícia'),
+    480 => array('id' => 480, 'alpha2' => 'mu', 'alpha3' => 'mus', 'name' => 'Ilhas Maurícias'),
     478 => array('id' => 478, 'alpha2' => 'mr', 'alpha3' => 'mrt', 'name' => 'Mauritânia'),
     484 => array('id' => 484, 'alpha2' => 'mx', 'alpha3' => 'mex', 'name' => 'México'),
     104 => array('id' => 104, 'alpha2' => 'mm', 'alpha3' => 'mmr', 'name' => 'Mianmar'),
@@ -189,7 +189,7 @@
     860 => array('id' => 860, 'alpha2' => 'uz', 'alpha3' => 'uzb', 'name' => 'Uzbequistão'),
     548 => array('id' => 548, 'alpha2' => 'vu', 'alpha3' => 'vut', 'name' => 'Vanuatu'),
     862 => array('id' => 862, 'alpha2' => 've', 'alpha3' => 'ven', 'name' => 'Venezuela'),
-    704 => array('id' => 704, 'alpha2' => 'vn', 'alpha3' => 'vnm', 'name' => 'Vietnã'),
+    704 => array('id' => 704, 'alpha2' => 'vn', 'alpha3' => 'vnm', 'name' => 'Vietname'),
     894 => array('id' => 894, 'alpha2' => 'zm', 'alpha3' => 'zmb', 'name' => 'Zâmbia'),
     716 => array('id' => 716, 'alpha2' => 'zw', 'alpha3' => 'zwe', 'name' => 'Zimbábue'),
 );

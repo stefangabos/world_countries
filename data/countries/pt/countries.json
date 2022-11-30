@@ -116,7 +116,7 @@
 {"id":470,"alpha2":"mt","alpha3":"mlt","name":"Malta"},
 {"id":504,"alpha2":"ma","alpha3":"mar","name":"Marrocos"},
 {"id":584,"alpha2":"mh","alpha3":"mhl","name":"Ilhas Marshall"},
-{"id":480,"alpha2":"mu","alpha3":"mus","name":"Maurícia"},
+{"id":480,"alpha2":"mu","alpha3":"mus","name":"Ilhas Maurícias"},
 {"id":478,"alpha2":"mr","alpha3":"mrt","name":"Mauritânia"},
 {"id":484,"alpha2":"mx","alpha3":"mex","name":"México"},
 {"id":104,"alpha2":"mm","alpha3":"mmr","name":"Mianmar"},
@@ -188,6 +188,6 @@
 {"id":860,"alpha2":"uz","alpha3":"uzb","name":"Uzbequistão"},
 {"id":548,"alpha2":"vu","alpha3":"vut","name":"Vanuatu"},
 {"id":862,"alpha2":"ve","alpha3":"ven","name":"Venezuela"},
-{"id":704,"alpha2":"vn","alpha3":"vnm","name":"Vietnã"},
+{"id":704,"alpha2":"vn","alpha3":"vnm","name":"Vietname"},
 {"id":894,"alpha2":"zm","alpha3":"zmb","name":"Zâmbia"},
 {"id":716,"alpha2":"zw","alpha3":"zwe","name":"Zimbábue"}]

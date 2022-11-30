@@ -189,7 +189,7 @@
     748 => array('id' => 748, 'alpha2' => 'sz', 'alpha3' => 'swz', 'name' => 'Есватіні'),
     744 => array('id' => 744, 'alpha2' => 'sj', 'alpha3' => 'sjm', 'name' => 'Свальбард і Ян-Маєн'),
     690 => array('id' => 690, 'alpha2' => 'sc', 'alpha3' => 'syc', 'name' => 'Сейшельські Острови'),
-    652 => array('id' => 652, 'alpha2' => 'bl', 'alpha3' => 'blm', 'name' => 'Сен-Бартельмі'),
+    652 => array('id' => 652, 'alpha2' => 'bl', 'alpha3' => 'blm', 'name' => 'Сен-Бартелемі'),
     686 => array('id' => 686, 'alpha2' => 'sn', 'alpha3' => 'sen', 'name' => 'Сенегал'),
     663 => array('id' => 663, 'alpha2' => 'mf', 'alpha3' => 'maf', 'name' => 'Сен-Мартен'),
     666 => array('id' => 666, 'alpha2' => 'pm', 'alpha3' => 'spm', 'name' => 'Сен-П\'єр і Мікелон'),

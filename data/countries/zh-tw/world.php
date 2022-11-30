@@ -83,7 +83,7 @@
     270 => array('id' => 270, 'alpha2' => 'gm', 'alpha3' => 'gmb', 'name' => '甘比亞'),
     268 => array('id' => 268, 'alpha2' => 'ge', 'alpha3' => 'geo', 'name' => '喬治亞'),
     276 => array('id' => 276, 'alpha2' => 'de', 'alpha3' => 'deu', 'name' => '德國'),
-    288 => array('id' => 288, 'alpha2' => 'gh', 'alpha3' => 'gha', 'name' => '加納'),
+    288 => array('id' => 288, 'alpha2' => 'gh', 'alpha3' => 'gha', 'name' => '迦納'),
     292 => array('id' => 292, 'alpha2' => 'gi', 'alpha3' => 'gib', 'name' => '直布羅陀'),
     300 => array('id' => 300, 'alpha2' => 'gr', 'alpha3' => 'grc', 'name' => '希臘'),
     304 => array('id' => 304, 'alpha2' => 'gl', 'alpha3' => 'grl', 'name' => '格陵蘭'),

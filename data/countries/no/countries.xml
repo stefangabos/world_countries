@@ -98,7 +98,6 @@
     <country id="440" alpha2="lt" alpha3="ltu" name="Litauen"/>
     <country id="442" alpha2="lu" alpha3="lux" name="Luxembourg"/>
     <country id="450" alpha2="mg" alpha3="mdg" name="Madagaskar"/>
-    <country id="807" alpha2="mk" alpha3="mkd" name="Makedonia, Republikken"/>
     <country id="454" alpha2="mw" alpha3="mwi" name="Malawi"/>
     <country id="458" alpha2="my" alpha3="mys" name="Malaysia"/>
     <country id="462" alpha2="mv" alpha3="mdv" name="Maldivene"/>
@@ -125,6 +124,7 @@
     <country id="562" alpha2="ne" alpha3="ner" name="Niger"/>
     <country id="566" alpha2="ng" alpha3="nga" name="Nigeria"/>
     <country id="408" alpha2="kp" alpha3="prk" name="Nord-Korea"/>
+    <country id="807" alpha2="mk" alpha3="mkd" name="Nord-Makedonia, Republikken"/>
     <country id="578" alpha2="no" alpha3="nor" name="Norge"/>
     <country id="512" alpha2="om" alpha3="omn" name="Oman"/>
     <country id="586" alpha2="pk" alpha3="pak" name="Pakistan"/>

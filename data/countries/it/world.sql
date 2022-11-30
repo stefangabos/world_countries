@@ -195,7 +195,7 @@ INSERT INTO `world` (`id`, `alpha_2`, `alpha_3`, `name`) VALUES
 (140,"cf","caf","Rep. Centrafricana"),
 (178,"cg","cog","Rep. del Congo"),
 (214,"do","dom","Rep. Dominicana"),
-(638,"re","reu","Riunione"),
+(638,"re","reu","La Riunione"),
 (642,"ro","rou","Romania"),
 (646,"rw","rwa","Ruanda"),
 (643,"ru","rus","Russia"),

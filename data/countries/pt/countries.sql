@@ -129,7 +129,7 @@ INSERT INTO `countries` (`id`, `alpha_2`, `alpha_3`, `name`) VALUES
 (470,"mt","mlt","Malta"),
 (504,"ma","mar","Marrocos"),
 (584,"mh","mhl","Ilhas Marshall"),
-(480,"mu","mus","Maurícia"),
+(480,"mu","mus","Ilhas Maurícias"),
 (478,"mr","mrt","Mauritânia"),
 (484,"mx","mex","México"),
 (104,"mm","mmr","Mianmar"),
@@ -201,6 +201,6 @@ INSERT INTO `countries` (`id`, `alpha_2`, `alpha_3`, `name`) VALUES
 (860,"uz","uzb","Uzbequistão"),
 (548,"vu","vut","Vanuatu"),
 (862,"ve","ven","Venezuela"),
-(704,"vn","vnm","Vietnã"),
+(704,"vn","vnm","Vietname"),
 (894,"zm","zmb","Zâmbia"),
 (716,"zw","zwe","Zimbábue")

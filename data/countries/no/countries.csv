@@ -97,7 +97,6 @@ id,alpha2,alpha3,name
 440,lt,ltu,Litauen
 442,lu,lux,Luxembourg
 450,mg,mdg,Madagaskar
-807,mk,mkd,"Makedonia, Republikken"
 454,mw,mwi,Malawi
 458,my,mys,Malaysia
 462,mv,mdv,Maldivene
@@ -124,6 +123,7 @@ id,alpha2,alpha3,name
 562,ne,ner,Niger
 566,ng,nga,Nigeria
 408,kp,prk,Nord-Korea
+807,mk,mkd,"Nord-Makedonia, Republikken"
 578,no,nor,Norge
 512,om,omn,Oman
 586,pk,pak,Pakistan

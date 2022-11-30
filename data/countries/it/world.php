@@ -183,7 +183,7 @@
     140 => array('id' => 140, 'alpha2' => 'cf', 'alpha3' => 'caf', 'name' => 'Rep. Centrafricana'),
     178 => array('id' => 178, 'alpha2' => 'cg', 'alpha3' => 'cog', 'name' => 'Rep. del Congo'),
     214 => array('id' => 214, 'alpha2' => 'do', 'alpha3' => 'dom', 'name' => 'Rep. Dominicana'),
-    638 => array('id' => 638, 'alpha2' => 're', 'alpha3' => 'reu', 'name' => 'Riunione'),
+    638 => array('id' => 638, 'alpha2' => 're', 'alpha3' => 'reu', 'name' => 'La Riunione'),
     642 => array('id' => 642, 'alpha2' => 'ro', 'alpha3' => 'rou', 'name' => 'Romania'),
     646 => array('id' => 646, 'alpha2' => 'rw', 'alpha3' => 'rwa', 'name' => 'Ruanda'),
     643 => array('id' => 643, 'alpha2' => 'ru', 'alpha3' => 'rus', 'name' => 'Russia'),
