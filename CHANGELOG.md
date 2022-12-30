@@ -1,7 +1,11 @@
+## version 2.6.1 (TBA)
+
+- added typings for TypeScript users; see [#70](https://github.com/stefangabos/world_countries/issues/70); thanks to [Blake Fischer](https://github.com/bfischer1121)!
+
+
 ## version 2.6.0 (June 19, 2022)
 
 - added country names in Armenian, see [#68](https://github.com/stefangabos/world_countries/issues/68); thanks [Tigran Grigoryan](https://github.com/t1gr4n)!
-
 
 ## version 2.5.1 (May 10, 2022)
 
