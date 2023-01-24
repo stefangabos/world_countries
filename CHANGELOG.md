@@ -1,7 +1,8 @@
 ## version 2.6.1 (TBA)
 
+- udpated Mauritania's flag; see ; see [#26](https://github.com/gosquared/flags/issues/26)
+- fixed broken downloads for Chinese and Simplified Chinese languages; see [#72](https://github.com/stefangabos/world_countries/issues/72); thanks to [Roy](https://github.com/1997roylee)!
 - added typings for TypeScript users; see [#70](https://github.com/stefangabos/world_countries/issues/70); thanks to [Blake Fischer](https://github.com/bfischer1121)!
-
 
 ## version 2.6.0 (June 19, 2022)
 
