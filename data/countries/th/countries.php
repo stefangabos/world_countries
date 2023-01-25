@@ -127,7 +127,7 @@
     558 => array('id' => 558, 'alpha2' => 'ni', 'alpha3' => 'nic', 'name' => 'นิการากัว'),
     562 => array('id' => 562, 'alpha2' => 'ne', 'alpha3' => 'ner', 'name' => 'ไนเจอร์'),
     566 => array('id' => 566, 'alpha2' => 'ng', 'alpha3' => 'nga', 'name' => 'ไนจีเรีย'),
-    807 => array('id' => 807, 'alpha2' => 'mk', 'alpha3' => 'mkd', 'name' => 'นอร์ทมาซิโดเนีย'),
+    807 => array('id' => 807, 'alpha2' => 'mk', 'alpha3' => 'mkd', 'name' => 'มาซิโดเนียเหนือ'),
     578 => array('id' => 578, 'alpha2' => 'no', 'alpha3' => 'nor', 'name' => 'นอร์เวย์'),
     512 => array('id' => 512, 'alpha2' => 'om', 'alpha3' => 'omn', 'name' => 'โอมาน'),
     586 => array('id' => 586, 'alpha2' => 'pk', 'alpha3' => 'pak', 'name' => 'ปากีสถาน'),

@@ -163,7 +163,7 @@
     566 => array('id' => 566, 'alpha2' => 'ng', 'alpha3' => 'nga', 'name' => 'ไนจีเรีย'),
     570 => array('id' => 570, 'alpha2' => 'nu', 'alpha3' => 'niu', 'name' => 'นีวเว'),
     574 => array('id' => 574, 'alpha2' => 'nf', 'alpha3' => 'nfk', 'name' => 'เกาะนอร์ฟอล์ก'),
-    807 => array('id' => 807, 'alpha2' => 'mk', 'alpha3' => 'mkd', 'name' => 'นอร์ทมาซิโดเนีย'),
+    807 => array('id' => 807, 'alpha2' => 'mk', 'alpha3' => 'mkd', 'name' => 'มาซิโดเนียเหนือ'),
     580 => array('id' => 580, 'alpha2' => 'mp', 'alpha3' => 'mnp', 'name' => 'หมู่เกาะนอร์เทิร์นมาเรียนา'),
     578 => array('id' => 578, 'alpha2' => 'no', 'alpha3' => 'nor', 'name' => 'นอร์เวย์'),
     512 => array('id' => 512, 'alpha2' => 'om', 'alpha3' => 'omn', 'name' => 'โอมาน'),
