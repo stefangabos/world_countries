@@ -31,7 +31,7 @@
     70  => array('id' => 70 , 'alpha2' => 'ba', 'alpha3' => 'bih', 'name' => 'Босния и Герцеговина'),
     72  => array('id' => 72 , 'alpha2' => 'bw', 'alpha3' => 'bwa', 'name' => 'Ботсвана'),
     76  => array('id' => 76 , 'alpha2' => 'br', 'alpha3' => 'bra', 'name' => 'Бразилия'),
-    86  => array('id' => 86 , 'alpha2' => 'io', 'alpha3' => 'iot', 'name' => 'Британская территория в Индийском океане'),
+    86  => array('id' => 86 , 'alpha2' => 'io', 'alpha3' => 'iot', 'name' => 'Британская Территория в Индийском Океане'),
     92  => array('id' => 92 , 'alpha2' => 'vg', 'alpha3' => 'vgb', 'name' => 'Виргинские Острова (Великобритания)'),
     96  => array('id' => 96 , 'alpha2' => 'bn', 'alpha3' => 'brn', 'name' => 'Бруней'),
     854 => array('id' => 854, 'alpha2' => 'bf', 'alpha3' => 'bfa', 'name' => 'Буркина-Фасо'),

@@ -7,7 +7,7 @@
     28  => array('id' => 28 , 'alpha2' => 'ag', 'alpha3' => 'atg', 'name' => '安地卡及巴布達'),
     32  => array('id' => 32 , 'alpha2' => 'ar', 'alpha3' => 'arg', 'name' => '阿根廷'),
     51  => array('id' => 51 , 'alpha2' => 'am', 'alpha3' => 'arm', 'name' => '亞美尼亞'),
-    36  => array('id' => 36 , 'alpha2' => 'au', 'alpha3' => 'aus', 'name' => '澳大利亞'),
+    36  => array('id' => 36 , 'alpha2' => 'au', 'alpha3' => 'aus', 'name' => '澳洲'),
     40  => array('id' => 40 , 'alpha2' => 'at', 'alpha3' => 'aut', 'name' => '奧地利'),
     31  => array('id' => 31 , 'alpha2' => 'az', 'alpha3' => 'aze', 'name' => '亞塞拜然'),
     44  => array('id' => 44 , 'alpha2' => 'bs', 'alpha3' => 'bhs', 'name' => '巴哈馬'),

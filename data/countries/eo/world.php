@@ -77,7 +77,7 @@
     826 => array('id' => 826, 'alpha2' => 'gb', 'alpha3' => 'gbr', 'name' => 'Britio'),
     308 => array('id' => 308, 'alpha2' => 'gd', 'alpha3' => 'grd', 'name' => 'Grenado'),
     268 => array('id' => 268, 'alpha2' => 'ge', 'alpha3' => 'geo', 'name' => 'Kartvelio'),
-    254 => array('id' => 254, 'alpha2' => 'gf', 'alpha3' => 'guf', 'name' => 'Franca Gviano'),
+    254 => array('id' => 254, 'alpha2' => 'gf', 'alpha3' => 'guf', 'name' => 'Franca Gujano'),
     831 => array('id' => 831, 'alpha2' => 'gg', 'alpha3' => 'ggy', 'name' => 'Gvernsejo'),
     288 => array('id' => 288, 'alpha2' => 'gh', 'alpha3' => 'gha', 'name' => 'Ganao'),
     292 => array('id' => 292, 'alpha2' => 'gi', 'alpha3' => 'gib', 'name' => 'Ĝibraltaro'),

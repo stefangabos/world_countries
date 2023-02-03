@@ -89,7 +89,7 @@ INSERT INTO `world` (`id`, `alpha_2`, `alpha_3`, `name`) VALUES
 (826,"gb","gbr","Britio"),
 (308,"gd","grd","Grenado"),
 (268,"ge","geo","Kartvelio"),
-(254,"gf","guf","Franca Gviano"),
+(254,"gf","guf","Franca Gujano"),
 (831,"gg","ggy","Gvernsejo"),
 (288,"gh","gha","Ganao"),
 (292,"gi","gib","Ĝibraltaro"),

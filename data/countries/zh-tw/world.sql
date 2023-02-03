@@ -24,7 +24,7 @@ INSERT INTO `world` (`id`, `alpha_2`, `alpha_3`, `name`) VALUES
 (32,"ar","arg","阿根廷"),
 (51,"am","arm","亞美尼亞"),
 (533,"aw","abw","阿魯巴"),
-(36,"au","aus","澳大利亞"),
+(36,"au","aus","澳洲"),
 (40,"at","aut","奧地利"),
 (31,"az","aze","亞塞拜然"),
 (44,"bs","bhs","巴哈馬"),
