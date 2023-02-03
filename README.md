@@ -27,7 +27,7 @@ The files contain:
 <small><a name="footnote"><sup>1</sup></a> for other languages the country names are in that particular language</small>
 <br><small><a name="footnote2"><sup>2</sup></a> ISO 3166-1 alpha codes are uppercase but this library provides them in lowercase</small>
 
-The lists are currently available in **31 languages**:
+The lists are currently available in **33 languages**:
 
 - Arabic
 - Armenian
@@ -55,7 +55,9 @@ The lists are currently available in **31 languages**:
 - Portuguese
 - Romanian
 - Russian
+- Serbian
 - Slovak
+- Slovenian
 - Spanish
 - Swedish
 - Thai
