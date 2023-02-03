@@ -1,0 +1,194 @@
+id,alpha2,alpha3,name
+20,ad,and,Andora
+784,ae,are,"Združeni arabski emirati"
+4,af,afg,Afganistan
+28,ag,atg,"Antigva in Barbuda"
+8,al,alb,Albanija
+51,am,arm,Armenija
+24,ao,ago,Angola
+32,ar,arg,Argentina
+40,at,aut,Avstrija
+36,au,aus,Avstralija
+31,az,aze,Azerbajdžan
+70,ba,bih,"Bosna in Hercegovina"
+52,bb,brb,Barbados
+50,bd,bgd,Bangladeš
+56,be,bel,Belgija
+854,bf,bfa,"Burkina Faso"
+100,bg,bgr,Bolgarija
+48,bh,bhr,Bahrajn
+108,bi,bdi,Burundi
+204,bj,ben,Benin
+96,bn,brn,Brunej
+68,bo,bol,Bolivija
+76,br,bra,Brazilija
+44,bs,bhs,Bahami
+64,bt,btn,Butan
+72,bw,bwa,Bocvana
+112,by,blr,Belorusija
+84,bz,blz,Belize
+124,ca,can,Kanada
+180,cd,cod,"Demokratična republika Kongo"
+140,cf,caf,"Srednjeafriška republika"
+178,cg,cog,Kongo
+756,ch,che,Švica
+384,ci,civ,"Slonokoščena obala"
+152,cl,chl,Čile
+120,cm,cmr,Kamerun
+156,cn,chn,"Ljudska republika Kitajska"
+170,co,col,Kolumbija
+188,cr,cri,Kostarika
+192,cu,cub,Kuba
+132,cv,cpv,"Zelenortski otoki"
+196,cy,cyp,Ciper
+203,cz,cze,Češka
+276,de,deu,Nemčija
+262,dj,dji,Džibuti
+208,dk,dnk,Danska
+212,dm,dma,Dominika
+214,do,dom,"Dominikanska republika"
+12,dz,dza,Alžirija
+218,ec,ecu,Ekvador
+233,ee,est,Estonija
+818,eg,egy,Egipt
+232,er,eri,Eritreja
+724,es,esp,Španija
+748,sz,swz,Esvatini
+231,et,eth,Etiopija
+246,fi,fin,Finska
+242,fj,fji,Fidži
+583,fm,fsm,Mikronezija
+250,fr,fra,Francija
+266,ga,gab,Gabon
+826,gb,gbr,"Združeno kraljestvo Velike Britanije in Severne Irske"
+308,gd,grd,Grenada
+268,ge,geo,Gruzija
+288,gh,gha,Gana
+270,gm,gmb,Gambija
+324,gn,gin,Gvineja
+226,gq,gnq,"Ekvatorialna Gvineja"
+300,gr,grc,Grčija
+728,ss,ssd,"Južni Sudan"
+320,gt,gtm,Gvatemala
+624,gw,gnb,"Gvineja Bissau"
+328,gy,guy,Gvajana
+340,hn,hnd,Honduras
+191,hr,hrv,Hrvaška
+332,ht,hti,Haiti
+348,hu,hun,Madžarska
+360,id,idn,Indonezija
+372,ie,irl,Irska
+376,il,isr,Izrael
+356,in,ind,Indija
+368,iq,irq,Irak
+364,ir,irn,Iran
+352,is,isl,Islandija
+380,it,ita,Italija
+388,jm,jam,Jamajka
+400,jo,jor,Jordanija
+392,jp,jpn,Japonska
+404,ke,ken,Kenija
+417,kg,kgz,Kirgizistan
+116,kh,khm,Kambodža
+296,ki,kir,Kiribati
+174,km,com,Komori
+659,kn,kna,"Saint Kitts in Nevis"
+408,kp,prk,"Severna Koreja"
+410,kr,kor,"Južna Koreja"
+414,kw,kwt,Kuvajt
+398,kz,kaz,Kazahstan
+418,la,lao,Laos
+422,lb,lbn,Libanon
+662,lc,lca,"Saint Lucia"
+438,li,lie,Lihtenštajn
+144,lk,lka,Šrilanka
+430,lr,lbr,Liberija
+426,ls,lso,Lesoto
+440,lt,ltu,Litva
+442,lu,lux,Luksemburg
+428,lv,lva,Latvija
+434,ly,lby,Libija
+504,ma,mar,Maroko
+492,mc,mco,Monako
+498,md,mda,Moldavija
+499,me,mne,"Črna gora"
+450,mg,mdg,Madagaskar
+584,mh,mhl,"Marshallovi otoki"
+807,mk,mkd,"Severna Makedonija"
+466,ml,mli,Mali
+104,mm,mmr,Mjanmar
+496,mn,mng,Mongolija
+478,mr,mrt,Mavretanija
+470,mt,mlt,Malta
+480,mu,mus,Mauritius
+462,mv,mdv,Maldivi
+454,mw,mwi,Malavi
+484,mx,mex,Mehika
+458,my,mys,Malezija
+508,mz,moz,Mozambik
+516,na,nam,Namibija
+562,ne,ner,Niger
+566,ng,nga,Nigerija
+558,ni,nic,Nikaragva
+528,nl,nld,Nizozemska
+578,no,nor,Norveška
+524,np,npl,Nepal
+520,nr,nru,Nauru
+554,nz,nzl,"Nova Zelandija"
+512,om,omn,Oman
+591,pa,pan,Panama
+604,pe,per,Peru
+598,pg,png,"Papua Nova Gvineja"
+608,ph,phl,Filipini
+586,pk,pak,Pakistan
+616,pl,pol,Poljska
+620,pt,prt,Portugalska
+585,pw,plw,Palau
+600,py,pry,Paragvaj
+634,qa,qat,Katar
+642,ro,rou,Romunija
+688,rs,srb,Srbija
+643,ru,rus,Rusija
+646,rw,rwa,Ruanda
+682,sa,sau,"Saudova Arabija"
+90,sb,slb,"Salomonovi otoki"
+690,sc,syc,Sejšeli
+729,sd,sdn,Sudan
+752,se,swe,Švedska
+702,sg,sgp,Singapur
+705,si,svn,Slovenija
+703,sk,svk,Slovaška
+694,sl,sle,"Sierra Leone"
+674,sm,smr,"San Marino"
+686,sn,sen,Senegal
+706,so,som,Somalija
+740,sr,sur,Surinam
+678,st,stp,"Sao Tome in Principe"
+222,sv,slv,Salvador
+760,sy,syr,Sirija
+148,td,tcd,Čad
+768,tg,tgo,Togo
+764,th,tha,Tajska
+762,tj,tjk,Tadžikistan
+626,tl,tls,"Vzhodni Timor"
+795,tm,tkm,Turkmenistan
+788,tn,tun,Tunizija
+776,to,ton,Tonga
+792,tr,tur,Turčija
+780,tt,tto,"Trinidad in Tobago"
+798,tv,tuv,Tuvalu
+834,tz,tza,Tanzanija
+804,ua,ukr,Ukrajina
+800,ug,uga,Uganda
+840,us,usa,"Združene države Amerike"
+858,uy,ury,Urugvaj
+860,uz,uzb,Uzbekistan
+670,vc,vct,"Saint Vincent in Grenadine"
+862,ve,ven,Venezuela
+704,vn,vnm,Vietnam
+548,vu,vut,Vanuatu
+882,ws,wsm,"Zahodna Samoa"
+887,ye,yem,Jemen
+710,za,zaf,"Južna Afrika"
+894,zm,zmb,Zambija
+716,zw,zwe,Zimbabve

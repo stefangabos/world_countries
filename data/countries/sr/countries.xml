@@ -1,0 +1,196 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<countries>
+    <country id="4" alpha2="af" alpha3="afg" name="Avganistan"/>
+    <country id="8" alpha2="al" alpha3="alb" name="Albanija"/>
+    <country id="12" alpha2="dz" alpha3="dza" name="Alžir"/>
+    <country id="20" alpha2="ad" alpha3="and" name="Andora"/>
+    <country id="24" alpha2="ao" alpha3="ago" name="Angola"/>
+    <country id="28" alpha2="ag" alpha3="atg" name="Antigva i Barbuda"/>
+    <country id="32" alpha2="ar" alpha3="arg" name="Argentina"/>
+    <country id="36" alpha2="au" alpha3="aus" name="Australija"/>
+    <country id="40" alpha2="at" alpha3="aut" name="Austrija"/>
+    <country id="31" alpha2="az" alpha3="aze" name="Azerbejdžan"/>
+    <country id="44" alpha2="bs" alpha3="bhs" name="Bahami"/>
+    <country id="48" alpha2="bh" alpha3="bhr" name="Bahrein"/>
+    <country id="50" alpha2="bd" alpha3="bgd" name="Bangladeš"/>
+    <country id="52" alpha2="bb" alpha3="brb" name="Barbados"/>
+    <country id="56" alpha2="be" alpha3="bel" name="Belgija"/>
+    <country id="84" alpha2="bz" alpha3="blz" name="Belize"/>
+    <country id="112" alpha2="by" alpha3="blr" name="Belorusija"/>
+    <country id="204" alpha2="bj" alpha3="ben" name="Benin"/>
+    <country id="64" alpha2="bt" alpha3="btn" name="Butan"/>
+    <country id="68" alpha2="bo" alpha3="bol" name="Bolivija"/>
+    <country id="70" alpha2="ba" alpha3="bih" name="Bosna i Hercegovina"/>
+    <country id="72" alpha2="bw" alpha3="bwa" name="Bocvana"/>
+    <country id="76" alpha2="br" alpha3="bra" name="Brazil"/>
+    <country id="96" alpha2="bn" alpha3="brn" name="Brunej"/>
+    <country id="100" alpha2="bg" alpha3="bgr" name="Bugarska"/>
+    <country id="854" alpha2="bf" alpha3="bfa" name="Burkina Faso"/>
+    <country id="108" alpha2="bi" alpha3="bdi" name="Burundi"/>
+    <country id="140" alpha2="cf" alpha3="caf" name="Centralnoafrička Republika"/>
+    <country id="499" alpha2="me" alpha3="mne" name="Crna Gora"/>
+    <country id="148" alpha2="td" alpha3="tcd" name="Čad"/>
+    <country id="203" alpha2="cz" alpha3="cze" name="Češka"/>
+    <country id="152" alpha2="cl" alpha3="chl" name="Čile"/>
+    <country id="208" alpha2="dk" alpha3="dnk" name="Danska"/>
+    <country id="180" alpha2="cd" alpha3="cod" name="Demokratska Republika Kongo"/>
+    <country id="212" alpha2="dm" alpha3="dma" name="Dominika"/>
+    <country id="214" alpha2="do" alpha3="dom" name="Dominikanska Republika"/>
+    <country id="262" alpha2="dj" alpha3="dji" name="Džibuti"/>
+    <country id="818" alpha2="eg" alpha3="egy" name="Egipat"/>
+    <country id="218" alpha2="ec" alpha3="ecu" name="Ekvador"/>
+    <country id="226" alpha2="gq" alpha3="gnq" name="Ekvatorijalna Gvineja"/>
+    <country id="232" alpha2="er" alpha3="eri" name="Eritreja"/>
+    <country id="233" alpha2="ee" alpha3="est" name="Estonija"/>
+    <country id="231" alpha2="et" alpha3="eth" name="Etiopija"/>
+    <country id="242" alpha2="fj" alpha3="fji" name="Fidži"/>
+    <country id="608" alpha2="ph" alpha3="phl" name="Filipini"/>
+    <country id="246" alpha2="fi" alpha3="fin" name="Finska"/>
+    <country id="250" alpha2="fr" alpha3="fra" name="Francuska"/>
+    <country id="266" alpha2="ga" alpha3="gab" name="Gabon"/>
+    <country id="270" alpha2="gm" alpha3="gmb" name="Gambija"/>
+    <country id="288" alpha2="gh" alpha3="gha" name="Gana"/>
+    <country id="300" alpha2="gr" alpha3="grc" name="Grčka"/>
+    <country id="308" alpha2="gd" alpha3="grd" name="Grenada"/>
+    <country id="268" alpha2="ge" alpha3="geo" name="Gruzija"/>
+    <country id="320" alpha2="gt" alpha3="gtm" name="Gvatemala"/>
+    <country id="324" alpha2="gn" alpha3="gin" name="Gvineja"/>
+    <country id="624" alpha2="gw" alpha3="gnb" name="Gvineja Bisao"/>
+    <country id="328" alpha2="gy" alpha3="guy" name="Gijana"/>
+    <country id="332" alpha2="ht" alpha3="hti" name="Haiti"/>
+    <country id="340" alpha2="hn" alpha3="hnd" name="Honduras"/>
+    <country id="191" alpha2="hr" alpha3="hrv" name="Hrvatska"/>
+    <country id="356" alpha2="in" alpha3="ind" name="Indija"/>
+    <country id="360" alpha2="id" alpha3="idn" name="Indonezija"/>
+    <country id="368" alpha2="iq" alpha3="irq" name="Irak"/>
+    <country id="364" alpha2="ir" alpha3="irn" name="Iran"/>
+    <country id="372" alpha2="ie" alpha3="irl" name="Irska"/>
+    <country id="352" alpha2="is" alpha3="isl" name="Island"/>
+    <country id="626" alpha2="tl" alpha3="tls" name="Istočni Timor"/>
+    <country id="380" alpha2="it" alpha3="ita" name="Italija"/>
+    <country id="376" alpha2="il" alpha3="isr" name="Izrael"/>
+    <country id="388" alpha2="jm" alpha3="jam" name="Jamajka"/>
+    <country id="392" alpha2="jp" alpha3="jpn" name="Japan"/>
+    <country id="887" alpha2="ye" alpha3="yem" name="Jemen"/>
+    <country id="51" alpha2="am" alpha3="arm" name="Jermenija"/>
+    <country id="710" alpha2="za" alpha3="zaf" name="Južnoafrička Republika"/>
+    <country id="410" alpha2="kr" alpha3="kor" name="Južna Koreja"/>
+    <country id="400" alpha2="jo" alpha3="jor" name="Jordan"/>
+    <country id="116" alpha2="kh" alpha3="khm" name="Kambodža"/>
+    <country id="120" alpha2="cm" alpha3="cmr" name="Kamerun"/>
+    <country id="124" alpha2="ca" alpha3="can" name="Kanada"/>
+    <country id="634" alpha2="qa" alpha3="qat" name="Katar"/>
+    <country id="398" alpha2="kz" alpha3="kaz" name="Kazahstan"/>
+    <country id="156" alpha2="cn" alpha3="chn" name="Kina"/>
+    <country id="404" alpha2="ke" alpha3="ken" name="Kenija"/>
+    <country id="296" alpha2="ki" alpha3="kir" name="Kiribati"/>
+    <country id="170" alpha2="co" alpha3="col" name="Kolumbija"/>
+    <country id="174" alpha2="km" alpha3="com" name="Komori"/>
+    <country id="178" alpha2="cg" alpha3="cog" name="Kongo"/>
+    <country id="188" alpha2="cr" alpha3="cri" name="Kostarika"/>
+    <country id="192" alpha2="cu" alpha3="cub" name="Kuba"/>
+    <country id="414" alpha2="kw" alpha3="kwt" name="Kuvajt"/>
+    <country id="196" alpha2="cy" alpha3="cyp" name="Kipar"/>
+    <country id="417" alpha2="kg" alpha3="kgz" name="Kirgizija"/>
+    <country id="418" alpha2="la" alpha3="lao" name="Laos"/>
+    <country id="426" alpha2="ls" alpha3="lso" name="Lesoto"/>
+    <country id="422" alpha2="lb" alpha3="lbn" name="Liban"/>
+    <country id="430" alpha2="lr" alpha3="lbr" name="Liberija"/>
+    <country id="434" alpha2="ly" alpha3="lby" name="Libija"/>
+    <country id="438" alpha2="li" alpha3="lie" name="Lihtenštajn"/>
+    <country id="440" alpha2="lt" alpha3="ltu" name="Litvanija"/>
+    <country id="428" alpha2="lv" alpha3="lva" name="Letonija"/>
+    <country id="442" alpha2="lu" alpha3="lux" name="Luksemburg"/>
+    <country id="450" alpha2="mg" alpha3="mdg" name="Madagaskar"/>
+    <country id="348" alpha2="hu" alpha3="hun" name="Mađarska"/>
+    <country id="807" alpha2="mk" alpha3="mkd" name="Makedonija"/>
+    <country id="458" alpha2="my" alpha3="mys" name="Malezija"/>
+    <country id="454" alpha2="mw" alpha3="mwi" name="Malavi"/>
+    <country id="462" alpha2="mv" alpha3="mdv" name="Maldivi"/>
+    <country id="466" alpha2="ml" alpha3="mli" name="Mali"/>
+    <country id="470" alpha2="mt" alpha3="mlt" name="Malta"/>
+    <country id="504" alpha2="ma" alpha3="mar" name="Maroko"/>
+    <country id="584" alpha2="mh" alpha3="mhl" name="Maršalska Ostrva"/>
+    <country id="480" alpha2="mu" alpha3="mus" name="Mauricijus"/>
+    <country id="478" alpha2="mr" alpha3="mrt" name="Mauritanija"/>
+    <country id="484" alpha2="mx" alpha3="mex" name="Meksiko"/>
+    <country id="583" alpha2="fm" alpha3="fsm" name="Mikronezija"/>
+    <country id="498" alpha2="md" alpha3="mda" name="Moldavija"/>
+    <country id="492" alpha2="mc" alpha3="mco" name="Monako"/>
+    <country id="496" alpha2="mn" alpha3="mng" name="Mongolija"/>
+    <country id="508" alpha2="mz" alpha3="moz" name="Mozambik"/>
+    <country id="104" alpha2="mm" alpha3="mmr" name="Mjanmar"/>
+    <country id="516" alpha2="na" alpha3="nam" name="Namibija"/>
+    <country id="520" alpha2="nr" alpha3="nru" name="Nauru"/>
+    <country id="276" alpha2="de" alpha3="deu" name="Nemačka"/>
+    <country id="524" alpha2="np" alpha3="npl" name="Nepal"/>
+    <country id="562" alpha2="ne" alpha3="ner" name="Niger"/>
+    <country id="566" alpha2="ng" alpha3="nga" name="Nigerija"/>
+    <country id="558" alpha2="ni" alpha3="nic" name="Nikaragva"/>
+    <country id="528" alpha2="nl" alpha3="nld" name="Holandija"/>
+    <country id="578" alpha2="no" alpha3="nor" name="Norveška"/>
+    <country id="554" alpha2="nz" alpha3="nzl" name="Novi Zeland"/>
+    <country id="384" alpha2="ci" alpha3="civ" name="Obala slonovače"/>
+    <country id="512" alpha2="om" alpha3="omn" name="Oman"/>
+    <country id="586" alpha2="pk" alpha3="pak" name="Pakistan"/>
+    <country id="585" alpha2="pw" alpha3="plw" name="Palau"/>
+    <country id="591" alpha2="pa" alpha3="pan" name="Panama"/>
+    <country id="598" alpha2="pg" alpha3="png" name="Papua Nova Gvineja"/>
+    <country id="600" alpha2="py" alpha3="pry" name="Paragvaj"/>
+    <country id="604" alpha2="pe" alpha3="per" name="Peru"/>
+    <country id="616" alpha2="pl" alpha3="pol" name="Poljska"/>
+    <country id="620" alpha2="pt" alpha3="prt" name="Portugal"/>
+    <country id="642" alpha2="ro" alpha3="rou" name="Rumunija"/>
+    <country id="646" alpha2="rw" alpha3="rwa" name="Ruanda"/>
+    <country id="643" alpha2="ru" alpha3="rus" name="Rusija"/>
+    <country id="222" alpha2="sv" alpha3="slv" name="Salvador"/>
+    <country id="882" alpha2="ws" alpha3="wsm" name="Samoa"/>
+    <country id="674" alpha2="sm" alpha3="smr" name="San Marino"/>
+    <country id="678" alpha2="st" alpha3="stp" name="Sao Tome i Principe"/>
+    <country id="682" alpha2="sa" alpha3="sau" name="Saudijska Arabija"/>
+    <country id="686" alpha2="sn" alpha3="sen" name="Senegal"/>
+    <country id="408" alpha2="kp" alpha3="prk" name="Severna Koreja"/>
+    <country id="690" alpha2="sc" alpha3="syc" name="Sejšeli"/>
+    <country id="694" alpha2="sl" alpha3="sle" name="Sijera Leone"/>
+    <country id="702" alpha2="sg" alpha3="sgp" name="Singapur"/>
+    <country id="760" alpha2="sy" alpha3="syr" name="Sirija"/>
+    <country id="840" alpha2="us" alpha3="usa" name="Sjedinjene Američke Države"/>
+    <country id="703" alpha2="sk" alpha3="svk" name="Slovačka"/>
+    <country id="705" alpha2="si" alpha3="svn" name="Slovenija"/>
+    <country id="90" alpha2="sb" alpha3="slb" name="Solomonova Ostrva"/>
+    <country id="706" alpha2="so" alpha3="som" name="Somalija"/>
+    <country id="688" alpha2="rs" alpha3="srb" name="Srbija"/>
+    <country id="728" alpha2="ss" alpha3="ssd" name="Južni Sudan"/>
+    <country id="729" alpha2="sd" alpha3="sdn" name="Sudan"/>
+    <country id="740" alpha2="sr" alpha3="sur" name="Surinam"/>
+    <country id="662" alpha2="lc" alpha3="lca" name="Sveta Lucija"/>
+    <country id="659" alpha2="kn" alpha3="kna" name="Sveti Kits i Nevis"/>
+    <country id="670" alpha2="vc" alpha3="vct" name="Sveti Vinsent i Grenadini"/>
+    <country id="748" alpha2="sz" alpha3="swz" name="Svazilend"/>
+    <country id="724" alpha2="es" alpha3="esp" name="Španija"/>
+    <country id="144" alpha2="lk" alpha3="lka" name="Šri Lanka"/>
+    <country id="752" alpha2="se" alpha3="swe" name="Švedska"/>
+    <country id="756" alpha2="ch" alpha3="che" name="Švajcarska"/>
+    <country id="762" alpha2="tj" alpha3="tjk" name="Tadžikistan"/>
+    <country id="834" alpha2="tz" alpha3="tza" name="Tanzanija"/>
+    <country id="764" alpha2="th" alpha3="tha" name="Tajland"/>
+    <country id="768" alpha2="tg" alpha3="tgo" name="Togo"/>
+    <country id="776" alpha2="to" alpha3="ton" name="Tonga"/>
+    <country id="780" alpha2="tt" alpha3="tto" name="Trinidad i Tobago"/>
+    <country id="788" alpha2="tn" alpha3="tun" name="Tunis"/>
+    <country id="792" alpha2="tr" alpha3="tur" name="Turska"/>
+    <country id="795" alpha2="tm" alpha3="tkm" name="Turkmenistan"/>
+    <country id="798" alpha2="tv" alpha3="tuv" name="Tuvalu"/>
+    <country id="800" alpha2="ug" alpha3="uga" name="Uganda"/>
+    <country id="784" alpha2="ae" alpha3="are" name="Ujedinjeni Arapski Emirati"/>
+    <country id="826" alpha2="gb" alpha3="gbr" name="Ujedinjeno Kraljevstvo"/>
+    <country id="804" alpha2="ua" alpha3="ukr" name="Ukrajina"/>
+    <country id="858" alpha2="uy" alpha3="ury" name="Urugvaj"/>
+    <country id="860" alpha2="uz" alpha3="uzb" name="Uzbekistan"/>
+    <country id="548" alpha2="vu" alpha3="vut" name="Vanuatu"/>
+    <country id="862" alpha2="ve" alpha3="ven" name="Venecuela"/>
+    <country id="704" alpha2="vn" alpha3="vnm" name="Vijetnam"/>
+    <country id="894" alpha2="zm" alpha3="zmb" name="Zambija"/>
+    <country id="132" alpha2="cv" alpha3="cpv" name="Zelenortska Ostrva"/>
+    <country id="716" alpha2="zw" alpha3="zwe" name="Zimbabve"/>
+</countries>
