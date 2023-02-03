@@ -1,6 +1,7 @@
-## version 2.6.1 (TBA)
+## version 2.7.0 (February 23, 2023)
 
-- udpated Mauritania's flag; see ; see [#36](https://github.com/stefangabos/world_countries/issues/36)
+- added Serbian and Slovenian languages; see [#73](https://github.com/stefangabos/world_countries/issues/73); thanks to [AppyxDaniel](https://github.com/AppyxDaniel)!
+- udpated Mauritania's flag; see [#36](https://github.com/stefangabos/world_countries/issues/36)
 - fixed broken downloads for Chinese and Simplified Chinese languages; see [#72](https://github.com/stefangabos/world_countries/issues/72); thanks to [Roy](https://github.com/1997roylee)!
 - added typings for TypeScript users; see [#70](https://github.com/stefangabos/world_countries/issues/70); thanks to [Blake Fischer](https://github.com/bfischer1121)!
 
