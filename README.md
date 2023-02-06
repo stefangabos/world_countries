@@ -290,7 +290,7 @@ Excerpt from the `data/countries/en/countries.xml` file:
 
 ## Flags
 
-The package also contains the national flags of each country as a 16x16, 24x24, 32x32, 48x48, 64x64 and 128x128 PNG images, courtesy of [IconDrawer](http://icondrawer.com/free.php). The image files are named using the ISO 3166-1-alpha-2 code of the country they represent, for easily pairing flags with countries.
+The package also contains the national flags of each country as a 16x16, 24x24, 32x32, 48x48, 64x64 and 128x128 PNG images. The image files are named using the ISO 3166-1-alpha-2 code of the country they represent, for easily pairing flags with countries.
 
 > Flag images are also available as single `JSON` files, one for each of the available sizes, containing all flag images as `data-uri`
 
