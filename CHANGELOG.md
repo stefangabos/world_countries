@@ -1,4 +1,8 @@
-## version 2.7.0 (February 23, 2023)
+## version 2.8.0 (February 08, 2023)
+
+- added Croatian language; see [#73](https://github.com/stefangabos/world_countries/issues/73); thanks to [AppyxDaniel](https://github.com/AppyxDaniel)!
+
+## version 2.7.0 (January 23, 2023)
 
 - added Serbian and Slovenian languages; see [#73](https://github.com/stefangabos/world_countries/issues/73); thanks to [AppyxDaniel](https://github.com/AppyxDaniel)!
 - udpated Mauritania's flag; see [#36](https://github.com/stefangabos/world_countries/issues/36)

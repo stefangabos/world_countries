@@ -35,6 +35,7 @@ The lists are currently available in **33 languages**:
 - Bulgarian
 - Chinese (Simplified)
 - Chinese (Traditional)
+- Croatian
 - Czech
 - Danish
 - Dutch
