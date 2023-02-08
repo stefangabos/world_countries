@@ -158,7 +158,7 @@
     705 => array('id' => 705, 'alpha2' => 'si', 'alpha3' => 'svn', 'name' => 'سلوفينيا'),
     90  => array('id' => 90 , 'alpha2' => 'sb', 'alpha3' => 'slb', 'name' => 'جزر سليمان'),
     706 => array('id' => 706, 'alpha2' => 'so', 'alpha3' => 'som', 'name' => 'الصومال'),
-    710 => array('id' => 710, 'alpha2' => 'za', 'alpha3' => 'zaf', 'name' => 'جنوب أفريقيا'),
+    710 => array('id' => 710, 'alpha2' => 'za', 'alpha3' => 'zaf', 'name' => 'جنوب إفريقيا'),
     728 => array('id' => 728, 'alpha2' => 'ss', 'alpha3' => 'ssd', 'name' => 'جنوب السودان'),
     724 => array('id' => 724, 'alpha2' => 'es', 'alpha3' => 'esp', 'name' => 'إسبانيا'),
     144 => array('id' => 144, 'alpha2' => 'lk', 'alpha3' => 'lka', 'name' => 'سريلانكا'),

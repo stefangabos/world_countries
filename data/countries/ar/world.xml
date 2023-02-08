@@ -180,7 +180,7 @@
     <country id="620" alpha2="pt" alpha3="prt" name="البرتغال"/>
     <country id="630" alpha2="pr" alpha3="pri" name="بورتوريكو"/>
     <country id="634" alpha2="qa" alpha3="qat" name="قطر"/>
-    <country id="638" alpha2="re" alpha3="reu" name="لا ريونيون"/>
+    <country id="638" alpha2="re" alpha3="reu" name="Réunion"/>
     <country id="642" alpha2="ro" alpha3="rou" name="رومانيا"/>
     <country id="643" alpha2="ru" alpha3="rus" name="روسيا"/>
     <country id="646" alpha2="rw" alpha3="rwa" name="رواندا"/>
@@ -205,7 +205,7 @@
     <country id="705" alpha2="si" alpha3="svn" name="سلوفينيا"/>
     <country id="90" alpha2="sb" alpha3="slb" name="جزر سليمان"/>
     <country id="706" alpha2="so" alpha3="som" name="الصومال"/>
-    <country id="710" alpha2="za" alpha3="zaf" name="جنوب أفريقيا"/>
+    <country id="710" alpha2="za" alpha3="zaf" name="جنوب إفريقيا"/>
     <country id="239" alpha2="gs" alpha3="sgs" name="جورجيا الجنوبية وجزر ساندويتش الجنوبية"/>
     <country id="728" alpha2="ss" alpha3="ssd" name="جنوب السودان"/>
     <country id="724" alpha2="es" alpha3="esp" name="إسبانيا"/>
