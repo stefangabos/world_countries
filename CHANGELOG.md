@@ -1,3 +1,7 @@
+## version 2.8.1 (April 18, 2023)
+
+- updated country names for various languages
+
 ## version 2.8.0 (February 08, 2023)
 
 - added Croatian language; see [#73](https://github.com/stefangabos/world_countries/issues/73); thanks to [AppyxDaniel](https://github.com/AppyxDaniel)!
