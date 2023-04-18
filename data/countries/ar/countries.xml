@@ -32,7 +32,7 @@
     <country id="120" alpha2="cm" alpha3="cmr" name="الكاميرون"/>
     <country id="124" alpha2="ca" alpha3="can" name="كندا"/>
     <country id="132" alpha2="cv" alpha3="cpv" name="الرأس الأخضر"/>
-    <country id="140" alpha2="cf" alpha3="caf" name="جمهورية أفريقيا الوسطى"/>
+    <country id="140" alpha2="cf" alpha3="caf" name="جمهورية إفريقيا الوسطى"/>
     <country id="148" alpha2="td" alpha3="tcd" name="تشاد"/>
     <country id="152" alpha2="cl" alpha3="chl" name="تشيلي"/>
     <country id="156" alpha2="cn" alpha3="chn" name="الصين"/>
@@ -129,7 +129,7 @@
     <country id="562" alpha2="ne" alpha3="ner" name="النيجر"/>
     <country id="566" alpha2="ng" alpha3="nga" name="نيجيريا"/>
     <country id="578" alpha2="no" alpha3="nor" name="النرويج"/>
-    <country id="512" alpha2="om" alpha3="omn" name="عمان"/>
+    <country id="512" alpha2="om" alpha3="omn" name="عُمان"/>
     <country id="586" alpha2="pk" alpha3="pak" name="باكستان"/>
     <country id="585" alpha2="pw" alpha3="plw" name="بالاو"/>
     <country id="591" alpha2="pa" alpha3="pan" name="بنما"/>

@@ -212,7 +212,7 @@
     417 => array('id' => 417, 'alpha2' => 'kg', 'alpha3' => 'kgz', 'name' => '키르기스스탄'),
     296 => array('id' => 296, 'alpha2' => 'ki', 'alpha3' => 'kir', 'name' => '키리바시'),
     196 => array('id' => 196, 'alpha2' => 'cy', 'alpha3' => 'cyp', 'name' => '키프로스'),
-    158 => array('id' => 158, 'alpha2' => 'tw', 'alpha3' => 'twn', 'name' => '타이완'),
+    158 => array('id' => 158, 'alpha2' => 'tw', 'alpha3' => 'twn', 'name' => '대만'),
     762 => array('id' => 762, 'alpha2' => 'tj', 'alpha3' => 'tjk', 'name' => '타지키스탄'),
     834 => array('id' => 834, 'alpha2' => 'tz', 'alpha3' => 'tza', 'name' => '탄자니아'),
     764 => array('id' => 764, 'alpha2' => 'th', 'alpha3' => 'tha', 'name' => '태국'),

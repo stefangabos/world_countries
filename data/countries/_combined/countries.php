@@ -644,7 +644,7 @@
             'pl'     =>  'Białoruś',
             'pt'     =>  'Bielorrússia',
             'ro'     =>  'Belarus',
-            'ru'     =>  'Белоруссия',
+            'ru'     =>  'Беларусь',
             'sk'     =>  'Bielorusko',
             'sl'     =>  'Belorusija',
             'sr'     =>  'Belorusija',
@@ -1316,7 +1316,7 @@
         'alpha2' => 'cf',
         'alpha3' => 'caf',
         'name' => array(
-            'ar'     =>  'جمهورية أفريقيا الوسطى',
+            'ar'     =>  'جمهورية إفريقيا الوسطى',
             'bg'     =>  'Централноафриканска република',
             'cs'     =>  'Středoafrická republika',
             'da'     =>  'Centralafrikanske Republik',
@@ -5293,7 +5293,7 @@
         'alpha2' => 'om',
         'alpha3' => 'omn',
         'name' => array(
-            'ar'     =>  'عمان',
+            'ar'     =>  'عُمان',
             'bg'     =>  'Оман',
             'cs'     =>  'Omán',
             'da'     =>  'Oman',
