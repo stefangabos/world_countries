@@ -644,7 +644,7 @@
             'pl'     =>  'Białoruś',
             'pt'     =>  'Bielorrússia',
             'ro'     =>  'Belarus',
-            'ru'     =>  'Белоруссия',
+            'ru'     =>  'Беларусь',
             'sk'     =>  'Bielorusko',
             'sl'     =>  'Belorusija',
             'sr'     =>  'Belorusija',

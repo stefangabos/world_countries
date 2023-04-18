@@ -15,7 +15,7 @@
     52  => array('id' => 52 , 'alpha2' => 'bb', 'alpha3' => 'brb', 'name' => 'Барбадос'),
     48  => array('id' => 48 , 'alpha2' => 'bh', 'alpha3' => 'bhr', 'name' => 'Бахрейн'),
     84  => array('id' => 84 , 'alpha2' => 'bz', 'alpha3' => 'blz', 'name' => 'Белиз'),
-    112 => array('id' => 112, 'alpha2' => 'by', 'alpha3' => 'blr', 'name' => 'Белоруссия'),
+    112 => array('id' => 112, 'alpha2' => 'by', 'alpha3' => 'blr', 'name' => 'Беларусь'),
     56  => array('id' => 56 , 'alpha2' => 'be', 'alpha3' => 'bel', 'name' => 'Бельгия'),
     204 => array('id' => 204, 'alpha2' => 'bj', 'alpha3' => 'ben', 'name' => 'Бенин'),
     100 => array('id' => 100, 'alpha2' => 'bg', 'alpha3' => 'bgr', 'name' => 'Болгария'),
