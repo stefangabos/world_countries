@@ -2191,6 +2191,7 @@ return array(
     'PG-CPK'   => array('country' => 'PG', 'code' => 'PG-CPK'  , 'name' => 'Chimbu'),
     'PG-EBR'   => array('country' => 'PG', 'code' => 'PG-EBR'  , 'name' => 'East New Britain'),
     'PG-EHG'   => array('country' => 'PG', 'code' => 'PG-EHG'  , 'name' => 'Eastern Highlands'),
+    'PG-ESW'   => array('country' => 'PG', 'code' => 'PG-ESW'  , 'name' => 'East Sepik'),
     'PG-MPM'   => array('country' => 'PG', 'code' => 'PG-MPM'  , 'name' => 'Madang'),
     'PG-MRL'   => array('country' => 'PG', 'code' => 'PG-MRL'  , 'name' => 'Manus'),
     'PG-MBA'   => array('country' => 'PG', 'code' => 'PG-MBA'  , 'name' => 'Milne Bay'),

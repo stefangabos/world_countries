@@ -3,15 +3,15 @@ SET NAMES utf8;
 DROP TABLE IF EXISTS `subdivisions`;
 
 CREATE TABLE `subdivisions` (
-  `country` char(2) NOT NULL,
-  `code` char(8) NOT NULL DEFAULT "",
-  `name` varchar(50) NOT NULL DEFAULT "",
-  PRIMARY KEY (`code`),
-  UNIQUE KEY `country_code` (`country`,`code`)
+    `country` char(2) NOT NULL,
+    `code` char(8) NOT NULL DEFAULT "",
+    `name` varchar(50) NOT NULL DEFAULT "",
+    PRIMARY KEY (`code`),
+    UNIQUE KEY `country_code` (`country`,`code`)
 ) ENGINE=MyISAM DEFAULT CHARSET=utf8;
 
 INSERT INTO `subdivisions` (`country`, `code`, `name`) VALUES
-("AD","AD-07","Andorra la Vella"),
+    ("AD","AD-07","Andorra la Vella"),
 ("AD","AD-02","Canillo"),
 ("AD","AD-03","Encamp"),
 ("AD","AD-08","Escaldes-Engordany"),
@@ -2202,6 +2202,7 @@ INSERT INTO `subdivisions` (`country`, `code`, `name`) VALUES
 ("PG","PG-CPK","Chimbu"),
 ("PG","PG-EBR","East New Britain"),
 ("PG","PG-EHG","Eastern Highlands"),
+("PG","PG-ESW","East Sepik"),
 ("PG","PG-MPM","Madang"),
 ("PG","PG-MRL","Manus"),
 ("PG","PG-MBA","Milne Bay"),
