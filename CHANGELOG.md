@@ -1,3 +1,9 @@
+## version 2.8.2 (August 18, 2023)
+
+- fixed missing flags as single JSON files; this fixes [#77](https://github.com/stefangabos/world_countries/issues/77)
+- added missing region; see [#79](https://github.com/stefangabos/world_countries/issues/79) - thanks [RD-PINGEDPNG](https://github.com/RD-PINGEDPNG)!
+- updated country names in various languages
+
 ## version 2.8.1 (April 18, 2023)
 
 - updated country names for various languages
