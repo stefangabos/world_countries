@@ -177,7 +177,7 @@ INSERT INTO `countries` (`id`, `alpha_2`, `alpha_3`, `name`) VALUES
 (678,"st","stp","Sveti Toma i Prinsipe"),
 (222,"sv","slv","Salvador"),
 (760,"sy","syr","Sirija"),
-(748,"sz","swz","Svazi"),
+(748,"sz","swz","Esvatini"),
 (148,"td","tcd","Čad"),
 (768,"tg","tgo","Togo"),
 (764,"th","tha","Tajland"),

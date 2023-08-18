@@ -30,7 +30,7 @@
     854 => array('id' => 854, 'alpha2' => 'bf', 'alpha3' => 'bfa', 'name' => 'Burkina Faso'),
     108 => array('id' => 108, 'alpha2' => 'bi', 'alpha3' => 'bdi', 'name' => 'Burundi'),
     152 => array('id' => 152, 'alpha2' => 'cl', 'alpha3' => 'chl', 'name' => 'Chile'),
-    156 => array('id' => 156, 'alpha2' => 'cn', 'alpha3' => 'chn', 'name' => 'Volksrepublik China'),
+    156 => array('id' => 156, 'alpha2' => 'cn', 'alpha3' => 'chn', 'name' => 'China, Volksrepublik'),
     188 => array('id' => 188, 'alpha2' => 'cr', 'alpha3' => 'cri', 'name' => 'Costa Rica'),
     208 => array('id' => 208, 'alpha2' => 'dk', 'alpha3' => 'dnk', 'name' => 'Dänemark'),
     276 => array('id' => 276, 'alpha2' => 'de', 'alpha3' => 'deu', 'name' => 'Deutschland'),

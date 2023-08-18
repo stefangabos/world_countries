@@ -219,7 +219,7 @@
     752 => array('id' => 752, 'alpha2' => 'se', 'alpha3' => 'swe', 'name' => 'Suède'),
     756 => array('id' => 756, 'alpha2' => 'ch', 'alpha3' => 'che', 'name' => 'Suisse'),
     740 => array('id' => 740, 'alpha2' => 'sr', 'alpha3' => 'sur', 'name' => 'Suriname'),
-    744 => array('id' => 744, 'alpha2' => 'sj', 'alpha3' => 'sjm', 'name' => 'Svalbard et ile Jan Mayen'),
+    744 => array('id' => 744, 'alpha2' => 'sj', 'alpha3' => 'sjm', 'name' => 'Svalbard et île Jan Mayen'),
     748 => array('id' => 748, 'alpha2' => 'sz', 'alpha3' => 'swz', 'name' => 'Eswatini'),
     760 => array('id' => 760, 'alpha2' => 'sy', 'alpha3' => 'syr', 'name' => 'Syrie'),
     762 => array('id' => 762, 'alpha2' => 'tj', 'alpha3' => 'tjk', 'name' => 'Tadjikistan'),

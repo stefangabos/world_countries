@@ -165,7 +165,7 @@
     678 => array('id' => 678, 'alpha2' => 'st', 'alpha3' => 'stp', 'name' => 'Sveti Toma i Prinsipe'),
     222 => array('id' => 222, 'alpha2' => 'sv', 'alpha3' => 'slv', 'name' => 'Salvador'),
     760 => array('id' => 760, 'alpha2' => 'sy', 'alpha3' => 'syr', 'name' => 'Sirija'),
-    748 => array('id' => 748, 'alpha2' => 'sz', 'alpha3' => 'swz', 'name' => 'Svazi'),
+    748 => array('id' => 748, 'alpha2' => 'sz', 'alpha3' => 'swz', 'name' => 'Esvatini'),
     148 => array('id' => 148, 'alpha2' => 'td', 'alpha3' => 'tcd', 'name' => 'Čad'),
     768 => array('id' => 768, 'alpha2' => 'tg', 'alpha3' => 'tgo', 'name' => 'Togo'),
     764 => array('id' => 764, 'alpha2' => 'th', 'alpha3' => 'tha', 'name' => 'Tajland'),

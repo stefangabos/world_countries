@@ -42,7 +42,7 @@ INSERT INTO `countries` (`id`, `alpha_2`, `alpha_3`, `name`) VALUES
 (854,"bf","bfa","Burkina Faso"),
 (108,"bi","bdi","Burundi"),
 (152,"cl","chl","Chile"),
-(156,"cn","chn","Volksrepublik China"),
+(156,"cn","chn","China, Volksrepublik"),
 (188,"cr","cri","Costa Rica"),
 (208,"dk","dnk","Dänemark"),
 (276,"de","deu","Deutschland"),

@@ -42,7 +42,7 @@
     <country id="854" alpha2="bf" alpha3="bfa" name="Burkina Faso"/>
     <country id="108" alpha2="bi" alpha3="bdi" name="Burundi"/>
     <country id="152" alpha2="cl" alpha3="chl" name="Chile"/>
-    <country id="156" alpha2="cn" alpha3="chn" name="Volksrepublik China"/>
+    <country id="156" alpha2="cn" alpha3="chn" name="China, Volksrepublik"/>
     <country id="184" alpha2="ck" alpha3="cok" name="Cookinseln"/>
     <country id="188" alpha2="cr" alpha3="cri" name="Costa Rica"/>
     <country id="531" alpha2="cw" alpha3="cuw" name="Curaçao"/>
@@ -217,7 +217,7 @@
     <country id="744" alpha2="sj" alpha3="sjm" name="Spitzbergen und Jan Mayen"/>
     <country id="760" alpha2="sy" alpha3="syr" name="Syrien"/>
     <country id="762" alpha2="tj" alpha3="tjk" name="Tadschikistan"/>
-    <country id="158" alpha2="tw" alpha3="twn" name="Republik China"/>
+    <country id="158" alpha2="tw" alpha3="twn" name="China, Republik"/>
     <country id="834" alpha2="tz" alpha3="tza" name="Tansania"/>
     <country id="764" alpha2="th" alpha3="tha" name="Thailand"/>
     <country id="768" alpha2="tg" alpha3="tgo" name="Togo"/>

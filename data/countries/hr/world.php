@@ -211,7 +211,7 @@
     222 => array('id' => 222, 'alpha2' => 'sv', 'alpha3' => 'slv', 'name' => 'Salvador'),
     534 => array('id' => 534, 'alpha2' => 'sx', 'alpha3' => 'sxm', 'name' => 'Sint Maarten (nizozemski dio)'),
     760 => array('id' => 760, 'alpha2' => 'sy', 'alpha3' => 'syr', 'name' => 'Sirija'),
-    748 => array('id' => 748, 'alpha2' => 'sz', 'alpha3' => 'swz', 'name' => 'Svazi'),
+    748 => array('id' => 748, 'alpha2' => 'sz', 'alpha3' => 'swz', 'name' => 'Esvatini'),
     796 => array('id' => 796, 'alpha2' => 'tc', 'alpha3' => 'tca', 'name' => 'Turks i Kaikos Otoci'),
     148 => array('id' => 148, 'alpha2' => 'td', 'alpha3' => 'tcd', 'name' => 'Čad'),
     260 => array('id' => 260, 'alpha2' => 'tf', 'alpha3' => 'atf', 'name' => 'Francuski južni teritoriji'),

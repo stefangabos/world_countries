@@ -223,7 +223,7 @@ INSERT INTO `world` (`id`, `alpha_2`, `alpha_3`, `name`) VALUES
 (222,"sv","slv","Salvador"),
 (534,"sx","sxm","Sint Maarten (nizozemski dio)"),
 (760,"sy","syr","Sirija"),
-(748,"sz","swz","Svazi"),
+(748,"sz","swz","Esvatini"),
 (796,"tc","tca","Turks i Kaikos Otoci"),
 (148,"td","tcd","Čad"),
 (260,"tf","atf","Francuski južni teritoriji"),
