@@ -100,7 +100,7 @@ INSERT INTO `world` (`id`, `alpha_2`, `alpha_3`, `name`) VALUES
 (312,"gp","glp","Guadeloupe"),
 (226,"gq","gnq","Ekvatorska Gvineja"),
 (300,"gr","grc","Grčka"),
-(239,"gs","sgs","Južna Džordžija i otoci Južni Sendvič"),
+(239,"gs","sgs","Južna Georgia i otočje Južni Sandwich"),
 (320,"gt","gtm","Gvatemala"),
 (316,"gu","gum","Guam"),
 (624,"gw","gnb","Gvineja Bisau"),

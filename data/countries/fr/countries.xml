@@ -54,7 +54,6 @@
     <country id="214" alpha2="do" alpha3="dom" name="République dominicaine"/>
     <country id="212" alpha2="dm" alpha3="dma" name="Dominique"/>
     <country id="818" alpha2="eg" alpha3="egy" name="Égypte"/>
-    <country id="222" alpha2="sv" alpha3="slv" name="Salvador"/>
     <country id="784" alpha2="ae" alpha3="are" name="Émirats arabes unis"/>
     <country id="218" alpha2="ec" alpha3="ecu" name="Équateur"/>
     <country id="232" alpha2="er" alpha3="eri" name="Érythrée"/>
@@ -154,6 +153,7 @@
     <country id="670" alpha2="vc" alpha3="vct" name="Saint-Vincent-et-les-Grenadines"/>
     <country id="662" alpha2="lc" alpha3="lca" name="Sainte-Lucie"/>
     <country id="90" alpha2="sb" alpha3="slb" name="Îles Salomon"/>
+    <country id="222" alpha2="sv" alpha3="slv" name="Salvador"/>
     <country id="882" alpha2="ws" alpha3="wsm" name="Samoa"/>
     <country id="678" alpha2="st" alpha3="stp" name="Sao Tomé-et-Principe"/>
     <country id="686" alpha2="sn" alpha3="sen" name="Sénégal"/>

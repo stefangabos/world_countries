@@ -53,7 +53,6 @@ id,alpha2,alpha3,name
 214,do,dom,"République dominicaine"
 212,dm,dma,Dominique
 818,eg,egy,Égypte
-222,sv,slv,Salvador
 784,ae,are,"Émirats arabes unis"
 218,ec,ecu,Équateur
 232,er,eri,Érythrée
@@ -153,6 +152,7 @@ id,alpha2,alpha3,name
 670,vc,vct,Saint-Vincent-et-les-Grenadines
 662,lc,lca,Sainte-Lucie
 90,sb,slb,"Îles Salomon"
+222,sv,slv,Salvador
 882,ws,wsm,Samoa
 678,st,stp,"Sao Tomé-et-Principe"
 686,sn,sen,Sénégal

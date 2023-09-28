@@ -88,7 +88,7 @@
     312 => array('id' => 312, 'alpha2' => 'gp', 'alpha3' => 'glp', 'name' => 'Guadeloupe'),
     226 => array('id' => 226, 'alpha2' => 'gq', 'alpha3' => 'gnq', 'name' => 'Ekvatorska Gvineja'),
     300 => array('id' => 300, 'alpha2' => 'gr', 'alpha3' => 'grc', 'name' => 'Grčka'),
-    239 => array('id' => 239, 'alpha2' => 'gs', 'alpha3' => 'sgs', 'name' => 'Južna Džordžija i otoci Južni Sendvič'),
+    239 => array('id' => 239, 'alpha2' => 'gs', 'alpha3' => 'sgs', 'name' => 'Južna Georgia i otočje Južni Sandwich'),
     320 => array('id' => 320, 'alpha2' => 'gt', 'alpha3' => 'gtm', 'name' => 'Gvatemala'),
     316 => array('id' => 316, 'alpha2' => 'gu', 'alpha3' => 'gum', 'name' => 'Guam'),
     624 => array('id' => 624, 'alpha2' => 'gw', 'alpha3' => 'gnb', 'name' => 'Gvineja Bisau'),

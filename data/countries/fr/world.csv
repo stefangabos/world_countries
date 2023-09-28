@@ -65,7 +65,6 @@ id,alpha2,alpha3,name
 214,do,dom,"République dominicaine"
 212,dm,dma,Dominique
 818,eg,egy,Égypte
-222,sv,slv,Salvador
 784,ae,are,"Émirats arabes unis"
 218,ec,ecu,Équateur
 232,er,eri,Érythrée
@@ -101,10 +100,7 @@ id,alpha2,alpha3,name
 340,hn,hnd,Honduras
 344,hk,hkg,"Hong Kong"
 348,hu,hun,Hongrie
-833,im,imn,"Île de Man"
 581,um,umi,"Îles mineures éloignées des États-Unis"
-92,vg,vgb,"Îles Vierges britanniques"
-850,vi,vir,"Îles Vierges des États-Unis"
 356,in,ind,Inde
 360,id,idn,Indonésie
 364,ir,irn,Iran
@@ -139,6 +135,7 @@ id,alpha2,alpha3,name
 462,mv,mdv,Maldives
 466,ml,mli,Mali
 470,mt,mlt,Malte
+833,im,imn,"Île de Man"
 580,mp,mnp,"Îles Mariannes du Nord"
 504,ma,mar,Maroc
 584,mh,mhl,"Îles Marshall"
@@ -202,6 +199,7 @@ id,alpha2,alpha3,name
 654,sh,shn,"Sainte-Hélène, Ascension et Tristan da Cunha"
 662,lc,lca,Sainte-Lucie
 90,sb,slb,"Îles Salomon"
+222,sv,slv,Salvador
 882,ws,wsm,Samoa
 16,as,asm,"Samoa américaines"
 678,st,stp,"Sao Tomé-et-Principe"
@@ -243,6 +241,8 @@ id,alpha2,alpha3,name
 858,uy,ury,Uruguay
 548,vu,vut,Vanuatu
 862,ve,ven,Venezuela
+92,vg,vgb,"Îles Vierges britanniques"
+850,vi,vir,"Îles Vierges des États-Unis"
 704,vn,vnm,"Viêt Nam"
 876,wf,wlf,Wallis-et-Futuna
 887,ye,yem,Yémen

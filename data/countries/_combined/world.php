@@ -8463,7 +8463,7 @@
             'eu'     =>  'Hegoaldeko Georgiak eta Hegoaldeko Sandwichak',
             'fi'     =>  'Etelä-Georgia ja Eteläiset Sandwichsaaret',
             'fr'     =>  'Géorgie du Sud-et-les îles Sandwich du Sud',
-            'hr'     =>  'Južna Džordžija i otoci Južni Sendvič',
+            'hr'     =>  'Južna Georgia i otočje Južni Sandwich',
             'hu'     =>  'Déli-Georgia és Déli-Sandwich-szigetek',
             'hy'     =>  'Հարավային Ջորջիա և Հարավային Սանդվիչյան Կղզիներ',
             'it'     =>  'Georgia del Sud e Isole Sandwich Australi',

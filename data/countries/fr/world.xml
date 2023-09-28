@@ -66,7 +66,6 @@
     <country id="214" alpha2="do" alpha3="dom" name="République dominicaine"/>
     <country id="212" alpha2="dm" alpha3="dma" name="Dominique"/>
     <country id="818" alpha2="eg" alpha3="egy" name="Égypte"/>
-    <country id="222" alpha2="sv" alpha3="slv" name="Salvador"/>
     <country id="784" alpha2="ae" alpha3="are" name="Émirats arabes unis"/>
     <country id="218" alpha2="ec" alpha3="ecu" name="Équateur"/>
     <country id="232" alpha2="er" alpha3="eri" name="Érythrée"/>
@@ -102,10 +101,7 @@
     <country id="340" alpha2="hn" alpha3="hnd" name="Honduras"/>
     <country id="344" alpha2="hk" alpha3="hkg" name="Hong Kong"/>
     <country id="348" alpha2="hu" alpha3="hun" name="Hongrie"/>
-    <country id="833" alpha2="im" alpha3="imn" name="Île de Man"/>
     <country id="581" alpha2="um" alpha3="umi" name="Îles mineures éloignées des États-Unis"/>
-    <country id="92" alpha2="vg" alpha3="vgb" name="Îles Vierges britanniques"/>
-    <country id="850" alpha2="vi" alpha3="vir" name="Îles Vierges des États-Unis"/>
     <country id="356" alpha2="in" alpha3="ind" name="Inde"/>
     <country id="360" alpha2="id" alpha3="idn" name="Indonésie"/>
     <country id="364" alpha2="ir" alpha3="irn" name="Iran"/>
@@ -140,6 +136,7 @@
     <country id="462" alpha2="mv" alpha3="mdv" name="Maldives"/>
     <country id="466" alpha2="ml" alpha3="mli" name="Mali"/>
     <country id="470" alpha2="mt" alpha3="mlt" name="Malte"/>
+    <country id="833" alpha2="im" alpha3="imn" name="Île de Man"/>
     <country id="580" alpha2="mp" alpha3="mnp" name="Îles Mariannes du Nord"/>
     <country id="504" alpha2="ma" alpha3="mar" name="Maroc"/>
     <country id="584" alpha2="mh" alpha3="mhl" name="Îles Marshall"/>
@@ -203,6 +200,7 @@
     <country id="654" alpha2="sh" alpha3="shn" name="Sainte-Hélène, Ascension et Tristan da Cunha"/>
     <country id="662" alpha2="lc" alpha3="lca" name="Sainte-Lucie"/>
     <country id="90" alpha2="sb" alpha3="slb" name="Îles Salomon"/>
+    <country id="222" alpha2="sv" alpha3="slv" name="Salvador"/>
     <country id="882" alpha2="ws" alpha3="wsm" name="Samoa"/>
     <country id="16" alpha2="as" alpha3="asm" name="Samoa américaines"/>
     <country id="678" alpha2="st" alpha3="stp" name="Sao Tomé-et-Principe"/>
@@ -244,6 +242,8 @@
     <country id="858" alpha2="uy" alpha3="ury" name="Uruguay"/>
     <country id="548" alpha2="vu" alpha3="vut" name="Vanuatu"/>
     <country id="862" alpha2="ve" alpha3="ven" name="Venezuela"/>
+    <country id="92" alpha2="vg" alpha3="vgb" name="Îles Vierges britanniques"/>
+    <country id="850" alpha2="vi" alpha3="vir" name="Îles Vierges des États-Unis"/>
     <country id="704" alpha2="vn" alpha3="vnm" name="Viêt Nam"/>
     <country id="876" alpha2="wf" alpha3="wlf" name="Wallis-et-Futuna"/>
     <country id="887" alpha2="ye" alpha3="yem" name="Yémen"/>
