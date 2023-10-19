@@ -1,6 +1,6 @@
 id,alpha2,alpha3,name
 20,ad,and,Andorra
-784,ae,are,"Förenade Arabemiraten"
+784,ae,are,"Förenade arabemiraten"
 4,af,afg,Afghanistan
 28,ag,atg,"Antigua och Barbuda"
 660,ai,aia,Anguilla
@@ -88,7 +88,7 @@ id,alpha2,alpha3,name
 312,gp,glp,Guadeloupe
 226,gq,gnq,Ekvatorialguinea
 300,gr,grc,Grekland
-239,gs,sgs,Sydgeorgien
+239,gs,sgs,"Sydgeorgien och Sydsandwichöarna"
 320,gt,gtm,Guatemala
 316,gu,gum,Guam
 624,gw,gnb,Guinea-Bissau
@@ -104,7 +104,7 @@ id,alpha2,alpha3,name
 376,il,isr,Israel
 833,im,imn,"Isle of Man"
 356,in,ind,Indien
-86,io,iot,"Brittiska territoriet i Indiska Oceanen"
+86,io,iot,"Brittiska territoriet i Indiska oceanen"
 368,iq,irq,Irak
 364,ir,irn,Iran
 352,is,isl,Island
@@ -197,7 +197,7 @@ id,alpha2,alpha3,name
 729,sd,sdn,Sudan
 752,se,swe,Sverige
 702,sg,sgp,Singapore
-654,sh,shn,"Sankta Helena"
+654,sh,shn,"Sankta Helena, Ascension och Tristan da Cunha"
 705,si,svn,Slovenien
 744,sj,sjm,"Svalbard och Jan Mayen"
 703,sk,svk,Slovakien
@@ -214,11 +214,11 @@ id,alpha2,alpha3,name
 748,sz,swz,Swaziland
 796,tc,tca,"Turks- och Caicosöarna"
 148,td,tcd,Tchad
-260,tf,atf,"Franska södra territorierna"
+260,tf,atf,"Franska sydterritorierna"
 768,tg,tgo,Togo
 764,th,tha,Thailand
 762,tj,tjk,Tadzjikistan
-772,tk,tkl,Tokelauöarna
+772,tk,tkl,Tokelau
 626,tl,tls,Östtimor
 795,tm,tkm,Turkmenistan
 788,tn,tun,Tunisien
@@ -230,7 +230,7 @@ id,alpha2,alpha3,name
 834,tz,tza,Tanzania
 804,ua,ukr,Ukraina
 800,ug,uga,Uganda
-581,um,umi,"Förenta staternas mindre öar i Oceanien och Västindien"
+581,um,umi,"USA:s yttre öar"
 840,us,usa,USA
 858,uy,ury,Uruguay
 860,uz,uzb,Uzbekistan

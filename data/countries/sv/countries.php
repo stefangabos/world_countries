@@ -1,6 +1,6 @@
 <?php return array(
     20  => array('id' => 20 , 'alpha2' => 'ad', 'alpha3' => 'and', 'name' => 'Andorra'),
-    784 => array('id' => 784, 'alpha2' => 'ae', 'alpha3' => 'are', 'name' => 'Förenade Arabemiraten'),
+    784 => array('id' => 784, 'alpha2' => 'ae', 'alpha3' => 'are', 'name' => 'Förenade arabemiraten'),
     4   => array('id' => 4  , 'alpha2' => 'af', 'alpha3' => 'afg', 'name' => 'Afghanistan'),
     28  => array('id' => 28 , 'alpha2' => 'ag', 'alpha3' => 'atg', 'name' => 'Antigua och Barbuda'),
     8   => array('id' => 8  , 'alpha2' => 'al', 'alpha3' => 'alb', 'name' => 'Albanien'),

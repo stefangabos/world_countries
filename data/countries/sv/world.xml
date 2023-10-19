@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <countries>
     <country id="20" alpha2="ad" alpha3="and" name="Andorra"/>
-    <country id="784" alpha2="ae" alpha3="are" name="Förenade Arabemiraten"/>
+    <country id="784" alpha2="ae" alpha3="are" name="Förenade arabemiraten"/>
     <country id="4" alpha2="af" alpha3="afg" name="Afghanistan"/>
     <country id="28" alpha2="ag" alpha3="atg" name="Antigua och Barbuda"/>
     <country id="660" alpha2="ai" alpha3="aia" name="Anguilla"/>
@@ -89,7 +89,7 @@
     <country id="312" alpha2="gp" alpha3="glp" name="Guadeloupe"/>
     <country id="226" alpha2="gq" alpha3="gnq" name="Ekvatorialguinea"/>
     <country id="300" alpha2="gr" alpha3="grc" name="Grekland"/>
-    <country id="239" alpha2="gs" alpha3="sgs" name="Sydgeorgien"/>
+    <country id="239" alpha2="gs" alpha3="sgs" name="Sydgeorgien och Sydsandwichöarna"/>
     <country id="320" alpha2="gt" alpha3="gtm" name="Guatemala"/>
     <country id="316" alpha2="gu" alpha3="gum" name="Guam"/>
     <country id="624" alpha2="gw" alpha3="gnb" name="Guinea-Bissau"/>
@@ -105,7 +105,7 @@
     <country id="376" alpha2="il" alpha3="isr" name="Israel"/>
     <country id="833" alpha2="im" alpha3="imn" name="Isle of Man"/>
     <country id="356" alpha2="in" alpha3="ind" name="Indien"/>
-    <country id="86" alpha2="io" alpha3="iot" name="Brittiska territoriet i Indiska Oceanen"/>
+    <country id="86" alpha2="io" alpha3="iot" name="Brittiska territoriet i Indiska oceanen"/>
     <country id="368" alpha2="iq" alpha3="irq" name="Irak"/>
     <country id="364" alpha2="ir" alpha3="irn" name="Iran"/>
     <country id="352" alpha2="is" alpha3="isl" name="Island"/>
@@ -198,7 +198,7 @@
     <country id="729" alpha2="sd" alpha3="sdn" name="Sudan"/>
     <country id="752" alpha2="se" alpha3="swe" name="Sverige"/>
     <country id="702" alpha2="sg" alpha3="sgp" name="Singapore"/>
-    <country id="654" alpha2="sh" alpha3="shn" name="Sankta Helena"/>
+    <country id="654" alpha2="sh" alpha3="shn" name="Sankta Helena, Ascension och Tristan da Cunha"/>
     <country id="705" alpha2="si" alpha3="svn" name="Slovenien"/>
     <country id="744" alpha2="sj" alpha3="sjm" name="Svalbard och Jan Mayen"/>
     <country id="703" alpha2="sk" alpha3="svk" name="Slovakien"/>
@@ -215,11 +215,11 @@
     <country id="748" alpha2="sz" alpha3="swz" name="Swaziland"/>
     <country id="796" alpha2="tc" alpha3="tca" name="Turks- och Caicosöarna"/>
     <country id="148" alpha2="td" alpha3="tcd" name="Tchad"/>
-    <country id="260" alpha2="tf" alpha3="atf" name="Franska södra territorierna"/>
+    <country id="260" alpha2="tf" alpha3="atf" name="Franska sydterritorierna"/>
     <country id="768" alpha2="tg" alpha3="tgo" name="Togo"/>
     <country id="764" alpha2="th" alpha3="tha" name="Thailand"/>
     <country id="762" alpha2="tj" alpha3="tjk" name="Tadzjikistan"/>
-    <country id="772" alpha2="tk" alpha3="tkl" name="Tokelauöarna"/>
+    <country id="772" alpha2="tk" alpha3="tkl" name="Tokelau"/>
     <country id="626" alpha2="tl" alpha3="tls" name="Östtimor"/>
     <country id="795" alpha2="tm" alpha3="tkm" name="Turkmenistan"/>
     <country id="788" alpha2="tn" alpha3="tun" name="Tunisien"/>
@@ -231,7 +231,7 @@
     <country id="834" alpha2="tz" alpha3="tza" name="Tanzania"/>
     <country id="804" alpha2="ua" alpha3="ukr" name="Ukraina"/>
     <country id="800" alpha2="ug" alpha3="uga" name="Uganda"/>
-    <country id="581" alpha2="um" alpha3="umi" name="Förenta staternas mindre öar i Oceanien och Västindien"/>
+    <country id="581" alpha2="um" alpha3="umi" name="USA:s yttre öar"/>
     <country id="840" alpha2="us" alpha3="usa" name="USA"/>
     <country id="858" alpha2="uy" alpha3="ury" name="Uruguay"/>
     <country id="860" alpha2="uz" alpha3="uzb" name="Uzbekistan"/>

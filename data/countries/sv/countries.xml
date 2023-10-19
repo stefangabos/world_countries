@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <countries>
     <country id="20" alpha2="ad" alpha3="and" name="Andorra"/>
-    <country id="784" alpha2="ae" alpha3="are" name="Förenade Arabemiraten"/>
+    <country id="784" alpha2="ae" alpha3="are" name="Förenade arabemiraten"/>
     <country id="4" alpha2="af" alpha3="afg" name="Afghanistan"/>
     <country id="28" alpha2="ag" alpha3="atg" name="Antigua och Barbuda"/>
     <country id="8" alpha2="al" alpha3="alb" name="Albanien"/>

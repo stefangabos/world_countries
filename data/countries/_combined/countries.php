@@ -7495,7 +7495,7 @@
             'sk'     =>  'Spojené arabské emiráty',
             'sl'     =>  'Združeni arabski emirati',
             'sr'     =>  'Ujedinjeni Arapski Emirati',
-            'sv'     =>  'Förenade Arabemiraten',
+            'sv'     =>  'Förenade arabemiraten',
             'th'     =>  'สหรัฐอาหรับเอมิเรตส์',
             'uk'     =>  'ОАЕ',
             'zh'     =>  '阿联酋',

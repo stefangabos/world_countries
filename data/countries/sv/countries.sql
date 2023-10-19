@@ -12,7 +12,7 @@ CREATE TABLE `countries` (
 
 INSERT INTO `countries` (`id`, `alpha_2`, `alpha_3`, `name`) VALUES
 (20,"ad","and","Andorra"),
-(784,"ae","are","Förenade Arabemiraten"),
+(784,"ae","are","Förenade arabemiraten"),
 (4,"af","afg","Afghanistan"),
 (28,"ag","atg","Antigua och Barbuda"),
 (8,"al","alb","Albanien"),
