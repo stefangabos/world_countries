@@ -1,6 +1,6 @@
 {
   "name": "world_countries_lists",
-  "version": "2.8.2",
+  "version": "2.9.0",
   "description": "Constantly updated lists of world countries and their associated alpha-2, alpha-3 and numeric codes as defined by the ISO 3166 standard, available in multiple formats, in multiple languages and with national flags included",
   "repository": {
     "type": "git",
