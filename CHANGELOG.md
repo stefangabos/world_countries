@@ -1,3 +1,7 @@
+## version 2.9.0 (January 26, 2024)
+
+- added country names in Farsi; see [#12](https://github.com/stefangabos/world_countries/pull/12); thanks [Mehdi Khodayari](https://github.com/mehdikhody)!
+
 ## version 2.8.2 (August 18, 2023)
 
 - fixed missing flags as single JSON files; this fixes [#77](https://github.com/stefangabos/world_countries/issues/77)
