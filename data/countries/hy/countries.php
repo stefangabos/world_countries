@@ -59,7 +59,7 @@
     583 => array('id' => 583, 'alpha2' => 'fm', 'alpha3' => 'fsm', 'name' => 'Միկրոնեզիա'),
     250 => array('id' => 250, 'alpha2' => 'fr', 'alpha3' => 'fra', 'name' => 'Ֆրանսիա'),
     266 => array('id' => 266, 'alpha2' => 'ga', 'alpha3' => 'gab', 'name' => 'Գաբոն'),
-    826 => array('id' => 826, 'alpha2' => 'gb', 'alpha3' => 'gbr', 'name' => 'Մեծ Բրիտանիա'),
+    826 => array('id' => 826, 'alpha2' => 'gb', 'alpha3' => 'gbr', 'name' => 'Միացյալ Թագավորություն'),
     308 => array('id' => 308, 'alpha2' => 'gd', 'alpha3' => 'grd', 'name' => 'Գրենադա'),
     268 => array('id' => 268, 'alpha2' => 'ge', 'alpha3' => 'geo', 'name' => 'Վրաստան'),
     288 => array('id' => 288, 'alpha2' => 'gh', 'alpha3' => 'gha', 'name' => 'Գանա'),

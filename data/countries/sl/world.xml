@@ -33,7 +33,7 @@
     <country id="76" alpha2="br" alpha3="bra" name="Brazilija"/>
     <country id="44" alpha2="bs" alpha3="bhs" name="Bahami"/>
     <country id="64" alpha2="bt" alpha3="btn" name="Butan"/>
-    <country id="74" alpha2="bv" alpha3="bvt" name="Bouvetovo otočje"/>
+    <country id="74" alpha2="bv" alpha3="bvt" name="Bouvetov otok"/>
     <country id="72" alpha2="bw" alpha3="bwa" name="Bocvana"/>
     <country id="112" alpha2="by" alpha3="blr" name="Belorusija"/>
     <country id="84" alpha2="bz" alpha3="blz" name="Belize"/>
@@ -53,7 +53,7 @@
     <country id="192" alpha2="cu" alpha3="cub" name="Kuba"/>
     <country id="132" alpha2="cv" alpha3="cpv" name="Zelenortski otoki"/>
     <country id="531" alpha2="cw" alpha3="cuw" name="Curaçao"/>
-    <country id="162" alpha2="cx" alpha3="cxr" name="Božični otoki"/>
+    <country id="162" alpha2="cx" alpha3="cxr" name="Božični otok"/>
     <country id="196" alpha2="cy" alpha3="cyp" name="Ciper"/>
     <country id="203" alpha2="cz" alpha3="cze" name="Češka"/>
     <country id="276" alpha2="de" alpha3="deu" name="Nemčija"/>
@@ -210,10 +210,10 @@
     <country id="706" alpha2="so" alpha3="som" name="Somalija"/>
     <country id="740" alpha2="sr" alpha3="sur" name="Surinam"/>
     <country id="678" alpha2="st" alpha3="stp" name="Sao Tome in Principe"/>
-    <country id="534" alpha2="sx" alpha3="sxm" name="Sveti Martin (nizozemski)"/>
+    <country id="534" alpha2="sx" alpha3="sxm" name="Nizozemski Sveti Martin"/>
     <country id="222" alpha2="sv" alpha3="slv" name="Salvador"/>
     <country id="760" alpha2="sy" alpha3="syr" name="Sirija"/>
-    <country id="796" alpha2="tc" alpha3="tca" name="otočji Turks in Caicos"/>
+    <country id="796" alpha2="tc" alpha3="tca" name="Otoki Turks in Caicos"/>
     <country id="148" alpha2="td" alpha3="tcd" name="Čad"/>
     <country id="260" alpha2="tf" alpha3="atf" name="Francoska južna ozemlja"/>
     <country id="768" alpha2="tg" alpha3="tgo" name="Togo"/>

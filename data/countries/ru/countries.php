@@ -73,7 +73,7 @@
     634 => array('id' => 634, 'alpha2' => 'qa', 'alpha3' => 'qat', 'name' => 'Катар'),
     404 => array('id' => 404, 'alpha2' => 'ke', 'alpha3' => 'ken', 'name' => 'Кения'),
     196 => array('id' => 196, 'alpha2' => 'cy', 'alpha3' => 'cyp', 'name' => 'Кипр'),
-    417 => array('id' => 417, 'alpha2' => 'kg', 'alpha3' => 'kgz', 'name' => 'Киргизия'),
+    417 => array('id' => 417, 'alpha2' => 'kg', 'alpha3' => 'kgz', 'name' => 'Кыргызстан'),
     296 => array('id' => 296, 'alpha2' => 'ki', 'alpha3' => 'kir', 'name' => 'Кирибати'),
     408 => array('id' => 408, 'alpha2' => 'kp', 'alpha3' => 'prk', 'name' => 'КНДР (Корейская Народно-Демократическая Республика)'),
     156 => array('id' => 156, 'alpha2' => 'cn', 'alpha3' => 'chn', 'name' => 'Китай (Китайская Народная Республика)'),

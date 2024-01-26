@@ -17,6 +17,7 @@
 {"id":70,"alpha2":"ba","alpha3":"bih","name":"Bosnio kaj Hercegovino"},
 {"id":52,"alpha2":"bb","alpha3":"brb","name":"Barbado"},
 {"id":50,"alpha2":"bd","alpha3":"bgd","name":"Bangladeŝo"},
+{"id":56,"alpha2":"be","alpha3":"bel","name":"Belgio"},
 {"id":854,"alpha2":"bf","alpha3":"bfa","name":"Burkino"},
 {"id":100,"alpha2":"bg","alpha3":"bgr","name":"Bulgario"},
 {"id":48,"alpha2":"bh","alpha3":"bhr","name":"Barejno"},
@@ -245,5 +246,4 @@
 {"id":175,"alpha2":"yt","alpha3":"myt","name":"Majoto"},
 {"id":710,"alpha2":"za","alpha3":"zaf","name":"Sud-Afriko"},
 {"id":894,"alpha2":"zm","alpha3":"zmb","name":"Zambio"},
-{"id":716,"alpha2":"zw","alpha3":"zwe","name":"Zimbabvo"},
-{"id":56,"alpha2":"be","alpha3":"bel","name":"Belgio"}]
+{"id":716,"alpha2":"zw","alpha3":"zwe","name":"Zimbabvo"}]

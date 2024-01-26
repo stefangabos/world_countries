@@ -13,6 +13,7 @@
     70  => array('id' => 70 , 'alpha2' => 'ba', 'alpha3' => 'bih', 'name' => 'Bosnio kaj Hercegovino'),
     52  => array('id' => 52 , 'alpha2' => 'bb', 'alpha3' => 'brb', 'name' => 'Barbado'),
     50  => array('id' => 50 , 'alpha2' => 'bd', 'alpha3' => 'bgd', 'name' => 'Bangladeŝo'),
+    56  => array('id' => 56 , 'alpha2' => 'be', 'alpha3' => 'bel', 'name' => 'Belgio'),
     854 => array('id' => 854, 'alpha2' => 'bf', 'alpha3' => 'bfa', 'name' => 'Burkino'),
     100 => array('id' => 100, 'alpha2' => 'bg', 'alpha3' => 'bgr', 'name' => 'Bulgario'),
     48  => array('id' => 48 , 'alpha2' => 'bh', 'alpha3' => 'bhr', 'name' => 'Barejno'),
@@ -191,5 +192,4 @@
     710 => array('id' => 710, 'alpha2' => 'za', 'alpha3' => 'zaf', 'name' => 'Sud-Afriko'),
     894 => array('id' => 894, 'alpha2' => 'zm', 'alpha3' => 'zmb', 'name' => 'Zambio'),
     716 => array('id' => 716, 'alpha2' => 'zw', 'alpha3' => 'zwe', 'name' => 'Zimbabvo'),
-    56  => array('id' => 56 , 'alpha2' => 'be', 'alpha3' => 'bel', 'name' => 'Belgio'),
 );

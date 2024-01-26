@@ -32,7 +32,7 @@ id,alpha2,alpha3,name
 76,br,bra,Brazilija
 44,bs,bhs,Bahami
 64,bt,btn,Butan
-74,bv,bvt,"Bouvetovo otočje"
+74,bv,bvt,"Bouvetov otok"
 72,bw,bwa,Bocvana
 112,by,blr,Belorusija
 84,bz,blz,Belize
@@ -52,7 +52,7 @@ id,alpha2,alpha3,name
 192,cu,cub,Kuba
 132,cv,cpv,"Zelenortski otoki"
 531,cw,cuw,Curaçao
-162,cx,cxr,"Božični otoki"
+162,cx,cxr,"Božični otok"
 196,cy,cyp,Ciper
 203,cz,cze,Češka
 276,de,deu,Nemčija
@@ -209,10 +209,10 @@ id,alpha2,alpha3,name
 706,so,som,Somalija
 740,sr,sur,Surinam
 678,st,stp,"Sao Tome in Principe"
-534,sx,sxm,"Sveti Martin (nizozemski)"
+534,sx,sxm,"Nizozemski Sveti Martin"
 222,sv,slv,Salvador
 760,sy,syr,Sirija
-796,tc,tca,"otočji Turks in Caicos"
+796,tc,tca,"Otoki Turks in Caicos"
 148,td,tcd,Čad
 260,tf,atf,"Francoska južna ozemlja"
 768,tg,tgo,Togo

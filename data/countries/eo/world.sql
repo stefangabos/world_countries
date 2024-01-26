@@ -30,6 +30,7 @@ INSERT INTO `world` (`id`, `alpha_2`, `alpha_3`, `name`) VALUES
 (70,"ba","bih","Bosnio kaj Hercegovino"),
 (52,"bb","brb","Barbado"),
 (50,"bd","bgd","Bangladeŝo"),
+(56,"be","bel","Belgio"),
 (854,"bf","bfa","Burkino"),
 (100,"bg","bgr","Bulgario"),
 (48,"bh","bhr","Barejno"),
@@ -258,5 +259,4 @@ INSERT INTO `world` (`id`, `alpha_2`, `alpha_3`, `name`) VALUES
 (175,"yt","myt","Majoto"),
 (710,"za","zaf","Sud-Afriko"),
 (894,"zm","zmb","Zambio"),
-(716,"zw","zwe","Zimbabvo"),
-(56,"be","bel","Belgio")
+(716,"zw","zwe","Zimbabvo")

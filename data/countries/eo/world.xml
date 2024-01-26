@@ -19,6 +19,7 @@
     <country id="70" alpha2="ba" alpha3="bih" name="Bosnio kaj Hercegovino"/>
     <country id="52" alpha2="bb" alpha3="brb" name="Barbado"/>
     <country id="50" alpha2="bd" alpha3="bgd" name="Bangladeŝo"/>
+    <country id="56" alpha2="be" alpha3="bel" name="Belgio"/>
     <country id="854" alpha2="bf" alpha3="bfa" name="Burkino"/>
     <country id="100" alpha2="bg" alpha3="bgr" name="Bulgario"/>
     <country id="48" alpha2="bh" alpha3="bhr" name="Barejno"/>
@@ -248,5 +249,4 @@
     <country id="710" alpha2="za" alpha3="zaf" name="Sud-Afriko"/>
     <country id="894" alpha2="zm" alpha3="zmb" name="Zambio"/>
     <country id="716" alpha2="zw" alpha3="zwe" name="Zimbabvo"/>
-    <country id="56" alpha2="be" alpha3="bel" name="Belgio"/>
 </countries>
