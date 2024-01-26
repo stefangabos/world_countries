@@ -1,6 +1,7 @@
 ## version 2.9.0 (January 26, 2024)
 
 - added country names in Farsi; see [#12](https://github.com/stefangabos/world_countries/pull/12); thanks [Mehdi Khodayari](https://github.com/mehdikhody)!
+- updated country names in various languages
 
 ## version 2.8.2 (August 18, 2023)
 
