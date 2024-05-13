@@ -19,7 +19,7 @@ id,alpha2,alpha3,name
 84,bz,blz,Belize
 204,bj,ben,Benin
 64,bt,btn,Bhutan
-68,bo,bol,"Bolivia (Plurinational State of)"
+68,bo,bol,"Bolivia, Plurinational State of"
 70,ba,bih,"Bosnia and Herzegovina"
 72,bw,bwa,Botswana
 76,br,bra,Brazil
@@ -77,7 +77,7 @@ id,alpha2,alpha3,name
 352,is,isl,Iceland
 356,in,ind,India
 360,id,idn,Indonesia
-364,ir,irn,"Iran (Islamic Republic of)"
+364,ir,irn,"Iran, Islamic Republic of"
 368,iq,irq,Iraq
 372,ie,irl,Ireland
 376,il,isr,Israel
@@ -88,7 +88,7 @@ id,alpha2,alpha3,name
 398,kz,kaz,Kazakhstan
 404,ke,ken,Kenya
 296,ki,kir,Kiribati
-408,kp,prk,"Korea (Democratic People's Republic of)"
+408,kp,prk,"Korea, Democratic People's Republic of"
 410,kr,kor,"Korea, Republic of"
 414,kw,kwt,Kuwait
 417,kg,kgz,Kyrgyzstan
@@ -111,7 +111,7 @@ id,alpha2,alpha3,name
 478,mr,mrt,Mauritania
 480,mu,mus,Mauritius
 484,mx,mex,Mexico
-583,fm,fsm,"Micronesia (Federated States of)"
+583,fm,fsm,"Micronesia, Federated States of"
 498,md,mda,"Moldova, Republic of"
 492,mc,mco,Monaco
 496,mn,mng,Mongolia
@@ -187,7 +187,7 @@ id,alpha2,alpha3,name
 858,uy,ury,Uruguay
 860,uz,uzb,Uzbekistan
 548,vu,vut,Vanuatu
-862,ve,ven,"Venezuela (Bolivarian Republic of)"
+862,ve,ven,"Venezuela, Bolivarian Republic of"
 704,vn,vnm,"Viet Nam"
 887,ye,yem,Yemen
 894,zm,zmb,Zambia

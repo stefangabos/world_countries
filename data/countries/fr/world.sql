@@ -233,7 +233,7 @@ INSERT INTO `world` (`id`, `alpha_2`, `alpha_3`, `name`) VALUES
 (748,"sz","swz","Eswatini"),
 (760,"sy","syr","Syrie"),
 (762,"tj","tjk","Tadjikistan"),
-(158,"tw","twn","Taïwan / (République de Chine (Taïwan))"),
+(158,"tw","twn","Taïwan (République de Chine)"),
 (834,"tz","tza","Tanzanie"),
 (148,"td","tcd","Tchad"),
 (203,"cz","cze","Tchéquie"),

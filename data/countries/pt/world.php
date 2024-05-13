@@ -168,7 +168,7 @@
     570 => array('id' => 570, 'alpha2' => 'nu', 'alpha3' => 'niu', 'name' => 'Niue'),
     574 => array('id' => 574, 'alpha2' => 'nf', 'alpha3' => 'nfk', 'name' => 'Ilha Norfolk'),
     578 => array('id' => 578, 'alpha2' => 'no', 'alpha3' => 'nor', 'name' => 'Noruega'),
-    540 => array('id' => 540, 'alpha2' => 'nc', 'alpha3' => 'ncl', 'name' => 'Nova Caledónia'),
+    540 => array('id' => 540, 'alpha2' => 'nc', 'alpha3' => 'ncl', 'name' => 'Nova Caledônia'),
     554 => array('id' => 554, 'alpha2' => 'nz', 'alpha3' => 'nzl', 'name' => 'Nova Zelândia'),
     512 => array('id' => 512, 'alpha2' => 'om', 'alpha3' => 'omn', 'name' => 'Omã'),
     528 => array('id' => 528, 'alpha2' => 'nl', 'alpha3' => 'nld', 'name' => 'Países Baixos'),

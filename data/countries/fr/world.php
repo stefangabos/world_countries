@@ -221,7 +221,7 @@
     748 => array('id' => 748, 'alpha2' => 'sz', 'alpha3' => 'swz', 'name' => 'Eswatini'),
     760 => array('id' => 760, 'alpha2' => 'sy', 'alpha3' => 'syr', 'name' => 'Syrie'),
     762 => array('id' => 762, 'alpha2' => 'tj', 'alpha3' => 'tjk', 'name' => 'Tadjikistan'),
-    158 => array('id' => 158, 'alpha2' => 'tw', 'alpha3' => 'twn', 'name' => 'Taïwan / (République de Chine (Taïwan))'),
+    158 => array('id' => 158, 'alpha2' => 'tw', 'alpha3' => 'twn', 'name' => 'Taïwan (République de Chine)'),
     834 => array('id' => 834, 'alpha2' => 'tz', 'alpha3' => 'tza', 'name' => 'Tanzanie'),
     148 => array('id' => 148, 'alpha2' => 'td', 'alpha3' => 'tcd', 'name' => 'Tchad'),
     203 => array('id' => 203, 'alpha2' => 'cz', 'alpha3' => 'cze', 'name' => 'Tchéquie'),

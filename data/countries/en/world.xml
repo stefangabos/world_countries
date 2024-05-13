@@ -26,7 +26,7 @@
     <country id="204" alpha2="bj" alpha3="ben" name="Benin"/>
     <country id="60" alpha2="bm" alpha3="bmu" name="Bermuda"/>
     <country id="64" alpha2="bt" alpha3="btn" name="Bhutan"/>
-    <country id="68" alpha2="bo" alpha3="bol" name="Bolivia (Plurinational State of)"/>
+    <country id="68" alpha2="bo" alpha3="bol" name="Bolivia, Plurinational State of"/>
     <country id="535" alpha2="bq" alpha3="bes" name="Bonaire, Sint Eustatius and Saba"/>
     <country id="70" alpha2="ba" alpha3="bih" name="Bosnia and Herzegovina"/>
     <country id="72" alpha2="bw" alpha3="bwa" name="Botswana"/>
@@ -105,7 +105,7 @@
     <country id="352" alpha2="is" alpha3="isl" name="Iceland"/>
     <country id="356" alpha2="in" alpha3="ind" name="India"/>
     <country id="360" alpha2="id" alpha3="idn" name="Indonesia"/>
-    <country id="364" alpha2="ir" alpha3="irn" name="Iran (Islamic Republic of)"/>
+    <country id="364" alpha2="ir" alpha3="irn" name="Iran, Islamic Republic of"/>
     <country id="368" alpha2="iq" alpha3="irq" name="Iraq"/>
     <country id="372" alpha2="ie" alpha3="irl" name="Ireland"/>
     <country id="833" alpha2="im" alpha3="imn" name="Isle of Man"/>
@@ -118,7 +118,7 @@
     <country id="398" alpha2="kz" alpha3="kaz" name="Kazakhstan"/>
     <country id="404" alpha2="ke" alpha3="ken" name="Kenya"/>
     <country id="296" alpha2="ki" alpha3="kir" name="Kiribati"/>
-    <country id="408" alpha2="kp" alpha3="prk" name="Korea (Democratic People's Republic of)"/>
+    <country id="408" alpha2="kp" alpha3="prk" name="Korea, Democratic People's Republic of"/>
     <country id="410" alpha2="kr" alpha3="kor" name="Korea, Republic of"/>
     <country id="414" alpha2="kw" alpha3="kwt" name="Kuwait"/>
     <country id="417" alpha2="kg" alpha3="kgz" name="Kyrgyzstan"/>
@@ -144,7 +144,7 @@
     <country id="480" alpha2="mu" alpha3="mus" name="Mauritius"/>
     <country id="175" alpha2="yt" alpha3="myt" name="Mayotte"/>
     <country id="484" alpha2="mx" alpha3="mex" name="Mexico"/>
-    <country id="583" alpha2="fm" alpha3="fsm" name="Micronesia (Federated States of)"/>
+    <country id="583" alpha2="fm" alpha3="fsm" name="Micronesia, Federated States of"/>
     <country id="498" alpha2="md" alpha3="mda" name="Moldova, Republic of"/>
     <country id="492" alpha2="mc" alpha3="mco" name="Monaco"/>
     <country id="496" alpha2="mn" alpha3="mng" name="Mongolia"/>
@@ -240,7 +240,7 @@
     <country id="858" alpha2="uy" alpha3="ury" name="Uruguay"/>
     <country id="860" alpha2="uz" alpha3="uzb" name="Uzbekistan"/>
     <country id="548" alpha2="vu" alpha3="vut" name="Vanuatu"/>
-    <country id="862" alpha2="ve" alpha3="ven" name="Venezuela (Bolivarian Republic of)"/>
+    <country id="862" alpha2="ve" alpha3="ven" name="Venezuela, Bolivarian Republic of"/>
     <country id="704" alpha2="vn" alpha3="vnm" name="Viet Nam"/>
     <country id="92" alpha2="vg" alpha3="vgb" name="Virgin Islands (British)"/>
     <country id="850" alpha2="vi" alpha3="vir" name="Virgin Islands (U.S.)"/>

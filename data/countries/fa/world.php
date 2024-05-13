@@ -1,6 +1,6 @@
 <?php return array(
     4   => array('id' => 4  , 'alpha2' => 'af', 'alpha3' => 'afg', 'name' => 'افغانستان'),
-    248 => array('id' => 248, 'alpha2' => 'ax', 'alpha3' => 'ala', 'name' => 'جزایر آلند'),
+    248 => array('id' => 248, 'alpha2' => 'ax', 'alpha3' => 'ala', 'name' => 'جزایر الند'),
     8   => array('id' => 8  , 'alpha2' => 'al', 'alpha3' => 'alb', 'name' => 'آلبانی'),
     12  => array('id' => 12 , 'alpha2' => 'dz', 'alpha3' => 'dza', 'name' => 'الجزایر'),
     16  => array('id' => 16 , 'alpha2' => 'as', 'alpha3' => 'asm', 'name' => 'ساموای آمریکا'),
@@ -160,7 +160,7 @@
     562 => array('id' => 562, 'alpha2' => 'ne', 'alpha3' => 'ner', 'name' => 'نیجر'),
     566 => array('id' => 566, 'alpha2' => 'ng', 'alpha3' => 'nga', 'name' => 'نیجریه'),
     570 => array('id' => 570, 'alpha2' => 'nu', 'alpha3' => 'niu', 'name' => 'نیووی'),
-    574 => array('id' => 574, 'alpha2' => 'nf', 'alpha3' => 'nfk', 'name' => 'جزیره نورفولک'),
+    574 => array('id' => 574, 'alpha2' => 'nf', 'alpha3' => 'nfk', 'name' => 'جزیره نورفک'),
     580 => array('id' => 580, 'alpha2' => 'mp', 'alpha3' => 'mnp', 'name' => 'جزایر ماریانای شمالی'),
     578 => array('id' => 578, 'alpha2' => 'no', 'alpha3' => 'nor', 'name' => 'نروژ'),
     512 => array('id' => 512, 'alpha2' => 'om', 'alpha3' => 'omn', 'name' => 'عمان'),

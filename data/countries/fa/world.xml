@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <countries>
     <country id="4" alpha2="af" alpha3="afg" name="افغانستان"/>
-    <country id="248" alpha2="ax" alpha3="ala" name="جزایر آلند"/>
+    <country id="248" alpha2="ax" alpha3="ala" name="جزایر الند"/>
     <country id="8" alpha2="al" alpha3="alb" name="آلبانی"/>
     <country id="12" alpha2="dz" alpha3="dza" name="الجزایر"/>
     <country id="16" alpha2="as" alpha3="asm" name="ساموای آمریکا"/>
@@ -161,7 +161,7 @@
     <country id="562" alpha2="ne" alpha3="ner" name="نیجر"/>
     <country id="566" alpha2="ng" alpha3="nga" name="نیجریه"/>
     <country id="570" alpha2="nu" alpha3="niu" name="نیووی"/>
-    <country id="574" alpha2="nf" alpha3="nfk" name="جزیره نورفولک"/>
+    <country id="574" alpha2="nf" alpha3="nfk" name="جزیره نورفک"/>
     <country id="580" alpha2="mp" alpha3="mnp" name="جزایر ماریانای شمالی"/>
     <country id="578" alpha2="no" alpha3="nor" name="نروژ"/>
     <country id="512" alpha2="om" alpha3="omn" name="عمان"/>

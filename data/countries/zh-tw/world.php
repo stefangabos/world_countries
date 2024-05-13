@@ -27,7 +27,7 @@
     64  => array('id' => 64 , 'alpha2' => 'bt', 'alpha3' => 'btn', 'name' => '不丹'),
     68  => array('id' => 68 , 'alpha2' => 'bo', 'alpha3' => 'bol', 'name' => '玻利維亞'),
     535 => array('id' => 535, 'alpha2' => 'bq', 'alpha3' => 'bes', 'name' => '荷蘭加勒比區'),
-    70  => array('id' => 70 , 'alpha2' => 'ba', 'alpha3' => 'bih', 'name' => '波士尼亞與赫塞哥維納'),
+    70  => array('id' => 70 , 'alpha2' => 'ba', 'alpha3' => 'bih', 'name' => '波赫'),
     72  => array('id' => 72 , 'alpha2' => 'bw', 'alpha3' => 'bwa', 'name' => '波札那'),
     74  => array('id' => 74 , 'alpha2' => 'bv', 'alpha3' => 'bvt', 'name' => '布韋島'),
     76  => array('id' => 76 , 'alpha2' => 'br', 'alpha3' => 'bra', 'name' => '巴西'),

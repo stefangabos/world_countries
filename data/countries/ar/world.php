@@ -67,7 +67,7 @@
     818 => array('id' => 818, 'alpha2' => 'eg', 'alpha3' => 'egy', 'name' => 'مصر'),
     222 => array('id' => 222, 'alpha2' => 'sv', 'alpha3' => 'slv', 'name' => 'السلفادور'),
     226 => array('id' => 226, 'alpha2' => 'gq', 'alpha3' => 'gnq', 'name' => 'غينيا الاستوائية'),
-    232 => array('id' => 232, 'alpha2' => 'er', 'alpha3' => 'eri', 'name' => 'إريتريا'),
+    232 => array('id' => 232, 'alpha2' => 'er', 'alpha3' => 'eri', 'name' => 'إرتريا'),
     233 => array('id' => 233, 'alpha2' => 'ee', 'alpha3' => 'est', 'name' => 'إستونيا'),
     231 => array('id' => 231, 'alpha2' => 'et', 'alpha3' => 'eth', 'name' => 'إثيوبيا'),
     238 => array('id' => 238, 'alpha2' => 'fk', 'alpha3' => 'flk', 'name' => 'جزر فوكلاند'),
