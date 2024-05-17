@@ -198,6 +198,7 @@ return array(
     'BB-03'    => array('country' => 'BB', 'code' => 'BB-03'   , 'name' => 'Saint George'),
     'BB-04'    => array('country' => 'BB', 'code' => 'BB-04'   , 'name' => 'Saint James'),
     'BB-05'    => array('country' => 'BB', 'code' => 'BB-05'   , 'name' => 'Saint John'),
+    'BB-06'    => array('country' => 'BB', 'code' => 'BB-06'   , 'name' => 'Saint Joseph'),
     'BB-07'    => array('country' => 'BB', 'code' => 'BB-07'   , 'name' => 'Saint Lucy'),
     'BB-08'    => array('country' => 'BB', 'code' => 'BB-08'   , 'name' => 'Saint Michael'),
     'BB-09'    => array('country' => 'BB', 'code' => 'BB-09'   , 'name' => 'Saint Peter'),

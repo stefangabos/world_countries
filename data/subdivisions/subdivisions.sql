@@ -209,6 +209,7 @@ INSERT INTO `subdivisions` (`country`, `code`, `name`) VALUES
 ("BB","BB-03","Saint George"),
 ("BB","BB-04","Saint James"),
 ("BB","BB-05","Saint John"),
+("BB","BB-06","Saint Joseph"),
 ("BB","BB-07","Saint Lucy"),
 ("BB","BB-08","Saint Michael"),
 ("BB","BB-09","Saint Peter"),
