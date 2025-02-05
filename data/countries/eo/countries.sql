@@ -67,7 +67,7 @@ INSERT INTO `countries` (`id`, `alpha_2`, `alpha_3`, `name`) VALUES
 (724,"es","esp","Hispanio"),
 (231,"et","eth","Etiopio"),
 (246,"fi","fin","Finnlando"),
-(242,"fj","fji","Fiĝio"),
+(242,"fj","fji","Fiĝioj"),
 (583,"fm","fsm","Federacio de Mikronezio"),
 (250,"fr","fra","Francio"),
 (266,"ga","gab","Gabono"),

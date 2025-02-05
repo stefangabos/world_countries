@@ -70,7 +70,7 @@
     <country id="226" alpha2="gq" alpha3="gnq" name="อิเควทอเรียลกินี"/>
     <country id="232" alpha2="er" alpha3="eri" name="เอริเทรีย"/>
     <country id="233" alpha2="ee" alpha3="est" name="เอสโตเนีย"/>
-    <country id="748" alpha2="sz" alpha3="swz" name="เอสวาตีนี"/>
+    <country id="748" alpha2="sz" alpha3="swz" name="เอสวาตินี"/>
     <country id="231" alpha2="et" alpha3="eth" name="เอธิโอเปีย"/>
     <country id="238" alpha2="fk" alpha3="flk" name="หมู่เกาะฟอล์กแลนด์"/>
     <country id="234" alpha2="fo" alpha3="fro" name="หมู่เกาะแฟโร"/>
@@ -189,7 +189,7 @@
     <country id="654" alpha2="sh" alpha3="shn" name="เซนต์เฮเลนา"/>
     <country id="659" alpha2="kn" alpha3="kna" name="เซนต์คิตส์และเนวิส"/>
     <country id="662" alpha2="lc" alpha3="lca" name="เซนต์ลูเชีย"/>
-    <country id="663" alpha2="mf" alpha3="maf" name="เซนต์มาร์ติน"/>
+    <country id="663" alpha2="mf" alpha3="maf" name="แซ็ง-มาร์แต็ง"/>
     <country id="666" alpha2="pm" alpha3="spm" name="แซงปีแยร์และมีเกอลง"/>
     <country id="670" alpha2="vc" alpha3="vct" name="เซนต์วินเซนต์และเกรนาดีนส์"/>
     <country id="882" alpha2="ws" alpha3="wsm" name="ซามัว"/>

@@ -69,7 +69,7 @@
     724 => array('id' => 724, 'alpha2' => 'es', 'alpha3' => 'esp', 'name' => 'Hispanio'),
     231 => array('id' => 231, 'alpha2' => 'et', 'alpha3' => 'eth', 'name' => 'Etiopio'),
     246 => array('id' => 246, 'alpha2' => 'fi', 'alpha3' => 'fin', 'name' => 'Finnlando'),
-    242 => array('id' => 242, 'alpha2' => 'fj', 'alpha3' => 'fji', 'name' => 'Fiĝio'),
+    242 => array('id' => 242, 'alpha2' => 'fj', 'alpha3' => 'fji', 'name' => 'Fiĝioj'),
     238 => array('id' => 238, 'alpha2' => 'fk', 'alpha3' => 'flk', 'name' => 'Insuloj Falklandoj'),
     583 => array('id' => 583, 'alpha2' => 'fm', 'alpha3' => 'fsm', 'name' => 'Federacio de Mikronezio'),
     234 => array('id' => 234, 'alpha2' => 'fo', 'alpha3' => 'fro', 'name' => 'Ferooj'),

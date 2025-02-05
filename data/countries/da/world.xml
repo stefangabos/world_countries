@@ -7,7 +7,7 @@
     <country id="20" alpha2="ad" alpha3="and" name="Andorra"/>
     <country id="24" alpha2="ao" alpha3="ago" name="Angola"/>
     <country id="660" alpha2="ai" alpha3="aia" name="Anguilla"/>
-    <country id="10" alpha2="aq" alpha3="ata" name="Antarktika (Antarktis)"/>
+    <country id="10" alpha2="aq" alpha3="ata" name="Antarktis"/>
     <country id="28" alpha2="ag" alpha3="atg" name="Antigua og Barbuda"/>
     <country id="32" alpha2="ar" alpha3="arg" name="Argentina"/>
     <country id="51" alpha2="am" alpha3="arm" name="Armenien"/>
@@ -32,7 +32,7 @@
     <country id="96" alpha2="bn" alpha3="brn" name="Brunei"/>
     <country id="100" alpha2="bg" alpha3="bgr" name="Bulgarien"/>
     <country id="854" alpha2="bf" alpha3="bfa" name="Burkina Faso"/>
-    <country id="104" alpha2="mm" alpha3="mmr" name="Burma"/>
+    <country id="104" alpha2="mm" alpha3="mmr" name="Myanmar"/>
     <country id="108" alpha2="bi" alpha3="bdi" name="Burundi"/>
     <country id="116" alpha2="kh" alpha3="khm" name="Cambodja"/>
     <country id="120" alpha2="cm" alpha3="cmr" name="Cameroun"/>
@@ -207,7 +207,7 @@
     <country id="744" alpha2="sj" alpha3="sjm" name="Svalbard og Jan Mayen (Norge)"/>
     <country id="752" alpha2="se" alpha3="swe" name="Sverige"/>
     <country id="756" alpha2="ch" alpha3="che" name="Schweiz"/>
-    <country id="748" alpha2="sz" alpha3="swz" name="Swaziland"/>
+    <country id="748" alpha2="sz" alpha3="swz" name="Eswatini"/>
     <country id="760" alpha2="sy" alpha3="syr" name="Syrien"/>
     <country id="710" alpha2="za" alpha3="zaf" name="Sydafrika"/>
     <country id="239" alpha2="gs" alpha3="sgs" name="South Georgia og South Sandwich Islands"/>

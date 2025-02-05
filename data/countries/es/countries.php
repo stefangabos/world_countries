@@ -109,7 +109,7 @@
     458 => array('id' => 458, 'alpha2' => 'my', 'alpha3' => 'mys', 'name' => 'Malasia'),
     454 => array('id' => 454, 'alpha2' => 'mw', 'alpha3' => 'mwi', 'name' => 'Malaui'),
     462 => array('id' => 462, 'alpha2' => 'mv', 'alpha3' => 'mdv', 'name' => 'Maldivas'),
-    466 => array('id' => 466, 'alpha2' => 'ml', 'alpha3' => 'mli', 'name' => 'Malí'),
+    466 => array('id' => 466, 'alpha2' => 'ml', 'alpha3' => 'mli', 'name' => 'Mali'),
     470 => array('id' => 470, 'alpha2' => 'mt', 'alpha3' => 'mlt', 'name' => 'Malta'),
     504 => array('id' => 504, 'alpha2' => 'ma', 'alpha3' => 'mar', 'name' => 'Marruecos'),
     480 => array('id' => 480, 'alpha2' => 'mu', 'alpha3' => 'mus', 'name' => 'Mauricio'),

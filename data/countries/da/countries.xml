@@ -25,7 +25,7 @@
     <country id="96" alpha2="bn" alpha3="brn" name="Brunei"/>
     <country id="100" alpha2="bg" alpha3="bgr" name="Bulgarien"/>
     <country id="854" alpha2="bf" alpha3="bfa" name="Burkina Faso"/>
-    <country id="104" alpha2="mm" alpha3="mmr" name="Burma"/>
+    <country id="104" alpha2="mm" alpha3="mmr" name="Myanmar"/>
     <country id="108" alpha2="bi" alpha3="bdi" name="Burundi"/>
     <country id="116" alpha2="kh" alpha3="khm" name="Cambodja"/>
     <country id="120" alpha2="cm" alpha3="cmr" name="Cameroun"/>
@@ -160,7 +160,7 @@
     <country id="740" alpha2="sr" alpha3="sur" name="Surinam"/>
     <country id="752" alpha2="se" alpha3="swe" name="Sverige"/>
     <country id="756" alpha2="ch" alpha3="che" name="Schweiz"/>
-    <country id="748" alpha2="sz" alpha3="swz" name="Swaziland"/>
+    <country id="748" alpha2="sz" alpha3="swz" name="Eswatini"/>
     <country id="760" alpha2="sy" alpha3="syr" name="Syrien"/>
     <country id="710" alpha2="za" alpha3="zaf" name="Sydafrika"/>
     <country id="410" alpha2="kr" alpha3="kor" name="Sydkorea"/>

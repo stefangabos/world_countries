@@ -121,7 +121,7 @@ INSERT INTO `countries` (`id`, `alpha_2`, `alpha_3`, `name`) VALUES
 (458,"my","mys","Malasia"),
 (454,"mw","mwi","Malaui"),
 (462,"mv","mdv","Maldivas"),
-(466,"ml","mli","Malí"),
+(466,"ml","mli","Mali"),
 (470,"mt","mlt","Malta"),
 (504,"ma","mar","Marruecos"),
 (480,"mu","mus","Mauricio"),

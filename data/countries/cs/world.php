@@ -166,7 +166,7 @@
     512 => array('id' => 512, 'alpha2' => 'om', 'alpha3' => 'omn', 'name' => 'Omán'),
     586 => array('id' => 586, 'alpha2' => 'pk', 'alpha3' => 'pak', 'name' => 'Pákistán'),
     585 => array('id' => 585, 'alpha2' => 'pw', 'alpha3' => 'plw', 'name' => 'Palau'),
-    275 => array('id' => 275, 'alpha2' => 'ps', 'alpha3' => 'pse', 'name' => 'Palestinská autonomie'),
+    275 => array('id' => 275, 'alpha2' => 'ps', 'alpha3' => 'pse', 'name' => 'Palestina'),
     591 => array('id' => 591, 'alpha2' => 'pa', 'alpha3' => 'pan', 'name' => 'Panama'),
     598 => array('id' => 598, 'alpha2' => 'pg', 'alpha3' => 'png', 'name' => 'Papua Nová Guinea'),
     600 => array('id' => 600, 'alpha2' => 'py', 'alpha3' => 'pry', 'name' => 'Paraguay'),

@@ -55,7 +55,7 @@
     226 => array('id' => 226, 'alpha2' => 'gq', 'alpha3' => 'gnq', 'name' => 'อิเควทอเรียลกินี'),
     232 => array('id' => 232, 'alpha2' => 'er', 'alpha3' => 'eri', 'name' => 'เอริเทรีย'),
     233 => array('id' => 233, 'alpha2' => 'ee', 'alpha3' => 'est', 'name' => 'เอสโตเนีย'),
-    748 => array('id' => 748, 'alpha2' => 'sz', 'alpha3' => 'swz', 'name' => 'เอสวาตีนี'),
+    748 => array('id' => 748, 'alpha2' => 'sz', 'alpha3' => 'swz', 'name' => 'เอสวาตินี'),
     231 => array('id' => 231, 'alpha2' => 'et', 'alpha3' => 'eth', 'name' => 'เอธิโอเปีย'),
     242 => array('id' => 242, 'alpha2' => 'fj', 'alpha3' => 'fji', 'name' => 'ฟีจี'),
     246 => array('id' => 246, 'alpha2' => 'fi', 'alpha3' => 'fin', 'name' => 'ฟินแลนด์'),

@@ -146,7 +146,7 @@
     583 => array('id' => 583, 'alpha2' => 'fm', 'alpha3' => 'fsm', 'name' => '密克罗尼西亚联邦'),
     498 => array('id' => 498, 'alpha2' => 'md', 'alpha3' => 'mda', 'name' => '摩尔多瓦'),
     492 => array('id' => 492, 'alpha2' => 'mc', 'alpha3' => 'mco', 'name' => '摩纳哥'),
-    496 => array('id' => 496, 'alpha2' => 'mn', 'alpha3' => 'mng', 'name' => '蒙古'),
+    496 => array('id' => 496, 'alpha2' => 'mn', 'alpha3' => 'mng', 'name' => '蒙古国'),
     499 => array('id' => 499, 'alpha2' => 'me', 'alpha3' => 'mne', 'name' => '黑山'),
     500 => array('id' => 500, 'alpha2' => 'ms', 'alpha3' => 'msr', 'name' => '蒙特塞拉特'),
     504 => array('id' => 504, 'alpha2' => 'ma', 'alpha3' => 'mar', 'name' => '摩洛哥'),

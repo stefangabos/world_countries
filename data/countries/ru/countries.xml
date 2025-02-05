@@ -107,7 +107,7 @@
     <country id="484" alpha2="mx" alpha3="mex" name="Мексика"/>
     <country id="583" alpha2="fm" alpha3="fsm" name="Микронезия"/>
     <country id="508" alpha2="mz" alpha3="moz" name="Мозамбик"/>
-    <country id="498" alpha2="md" alpha3="mda" name="Молдавия"/>
+    <country id="498" alpha2="md" alpha3="mda" name="Молдова"/>
     <country id="492" alpha2="mc" alpha3="mco" name="Монако"/>
     <country id="496" alpha2="mn" alpha3="mng" name="Монголия"/>
     <country id="104" alpha2="mm" alpha3="mmr" name="Мьянма"/>
@@ -140,7 +140,6 @@
     <country id="674" alpha2="sm" alpha3="smr" name="Сан-Марино"/>
     <country id="678" alpha2="st" alpha3="stp" name="Сан-Томе и Принсипи"/>
     <country id="682" alpha2="sa" alpha3="sau" name="Саудовская Аравия"/>
-    <country id="748" alpha2="sz" alpha3="swz" name="Эсватини"/>
     <country id="690" alpha2="sc" alpha3="syc" name="Сейшельские Острова"/>
     <country id="686" alpha2="sn" alpha3="sen" name="Сенегал"/>
     <country id="670" alpha2="vc" alpha3="vct" name="Сент-Винсент и Гренадины"/>
@@ -187,6 +186,7 @@
     <country id="218" alpha2="ec" alpha3="ecu" name="Эквадор"/>
     <country id="226" alpha2="gq" alpha3="gnq" name="Экваториальная Гвинея"/>
     <country id="232" alpha2="er" alpha3="eri" name="Эритрея"/>
+    <country id="748" alpha2="sz" alpha3="swz" name="Эсватини"/>
     <country id="233" alpha2="ee" alpha3="est" name="Эстония"/>
     <country id="231" alpha2="et" alpha3="eth" name="Эфиопия"/>
     <country id="710" alpha2="za" alpha3="zaf" name="ЮАР"/>

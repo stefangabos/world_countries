@@ -89,7 +89,7 @@
     686 => array('id' => 686, 'alpha2' => 'sn', 'alpha3' => 'sen', 'name' => 'セネガル'),
     688 => array('id' => 688, 'alpha2' => 'rs', 'alpha3' => 'srb', 'name' => 'セルビア'),
     659 => array('id' => 659, 'alpha2' => 'kn', 'alpha3' => 'kna', 'name' => 'セントクリストファー・ネイビス'),
-    670 => array('id' => 670, 'alpha2' => 'vc', 'alpha3' => 'vct', 'name' => 'セントビンセントおよびグレナディーン諸島'),
+    670 => array('id' => 670, 'alpha2' => 'vc', 'alpha3' => 'vct', 'name' => 'セントビンセント・グレナディーン'),
     662 => array('id' => 662, 'alpha2' => 'lc', 'alpha3' => 'lca', 'name' => 'セントルシア'),
     706 => array('id' => 706, 'alpha2' => 'so', 'alpha3' => 'som', 'name' => 'ソマリア'),
     90  => array('id' => 90 , 'alpha2' => 'sb', 'alpha3' => 'slb', 'name' => 'ソロモン諸島'),

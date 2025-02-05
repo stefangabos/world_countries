@@ -36,7 +36,7 @@
     152 => array('id' => 152, 'alpha2' => 'cl', 'alpha3' => 'chl', 'name' => 'شیلی'),
     156 => array('id' => 156, 'alpha2' => 'cn', 'alpha3' => 'chn', 'name' => 'چین'),
     170 => array('id' => 170, 'alpha2' => 'co', 'alpha3' => 'col', 'name' => 'کلمبیا'),
-    174 => array('id' => 174, 'alpha2' => 'km', 'alpha3' => 'com', 'name' => 'اتحاد قمر'),
+    174 => array('id' => 174, 'alpha2' => 'km', 'alpha3' => 'com', 'name' => 'کومور'),
     178 => array('id' => 178, 'alpha2' => 'cg', 'alpha3' => 'cog', 'name' => 'جمهوری کنگو'),
     180 => array('id' => 180, 'alpha2' => 'cd', 'alpha3' => 'cod', 'name' => 'جمهوری دموکراتیک کنگو'),
     188 => array('id' => 188, 'alpha2' => 'cr', 'alpha3' => 'cri', 'name' => 'کاستاریکا'),

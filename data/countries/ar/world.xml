@@ -16,7 +16,7 @@
     <country id="36" alpha2="au" alpha3="aus" name="أستراليا"/>
     <country id="40" alpha2="at" alpha3="aut" name="النمسا"/>
     <country id="31" alpha2="az" alpha3="aze" name="أذربيجان"/>
-    <country id="44" alpha2="bs" alpha3="bhs" name="باهاماس"/>
+    <country id="44" alpha2="bs" alpha3="bhs" name="جزر البهاما"/>
     <country id="48" alpha2="bh" alpha3="bhr" name="البحرين"/>
     <country id="50" alpha2="bd" alpha3="bgd" name="بنغلاديش"/>
     <country id="52" alpha2="bb" alpha3="brb" name="باربادوس"/>
@@ -77,7 +77,7 @@
     <country id="246" alpha2="fi" alpha3="fin" name="فنلندا"/>
     <country id="250" alpha2="fr" alpha3="fra" name="فرنسا"/>
     <country id="254" alpha2="gf" alpha3="guf" name="غويانا الفرنسية"/>
-    <country id="258" alpha2="pf" alpha3="pyf" name="بولينزيا الفرنسية"/>
+    <country id="258" alpha2="pf" alpha3="pyf" name="بولنيزيا الفرنسية"/>
     <country id="260" alpha2="tf" alpha3="atf" name="أراض فرنسية جنوبية وأنتارتيكية"/>
     <country id="266" alpha2="ga" alpha3="gab" name="الغابون"/>
     <country id="270" alpha2="gm" alpha3="gmb" name="غامبيا"/>
@@ -120,7 +120,7 @@
     <country id="408" alpha2="kp" alpha3="prk" name="كوريا الشمالية"/>
     <country id="410" alpha2="kr" alpha3="kor" name="كوريا الجنوبية"/>
     <country id="414" alpha2="kw" alpha3="kwt" name="الكويت"/>
-    <country id="417" alpha2="kg" alpha3="kgz" name="قيرغيزستان"/>
+    <country id="417" alpha2="kg" alpha3="kgz" name="قرغيزستان"/>
     <country id="418" alpha2="la" alpha3="lao" name="لاوس"/>
     <country id="428" alpha2="lv" alpha3="lva" name="لاتفيا"/>
     <country id="422" alpha2="lb" alpha3="lbn" name="لبنان"/>
@@ -185,7 +185,7 @@
     <country id="643" alpha2="ru" alpha3="rus" name="روسيا"/>
     <country id="646" alpha2="rw" alpha3="rwa" name="رواندا"/>
     <country id="652" alpha2="bl" alpha3="blm" name="سان بارتيلمي"/>
-    <country id="654" alpha2="sh" alpha3="shn" name="سانت هيلانة وأسينشين وتريستان دا كونا"/>
+    <country id="654" alpha2="sh" alpha3="shn" name="إقليم سانت هيلانة وتوابعه"/>
     <country id="659" alpha2="kn" alpha3="kna" name="سانت كيتس ونيفيس"/>
     <country id="662" alpha2="lc" alpha3="lca" name="سانت لوسيا"/>
     <country id="663" alpha2="mf" alpha3="maf" name="تجمع سان مارتين"/>

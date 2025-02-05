@@ -47,7 +47,7 @@
     162 => array('id' => 162, 'alpha2' => 'cx', 'alpha3' => 'cxr', 'name' => 'جزیره کریسمس'),
     166 => array('id' => 166, 'alpha2' => 'cc', 'alpha3' => 'cck', 'name' => 'جزایر کوکوس'),
     170 => array('id' => 170, 'alpha2' => 'co', 'alpha3' => 'col', 'name' => 'کلمبیا'),
-    174 => array('id' => 174, 'alpha2' => 'km', 'alpha3' => 'com', 'name' => 'اتحاد قمر'),
+    174 => array('id' => 174, 'alpha2' => 'km', 'alpha3' => 'com', 'name' => 'کومور'),
     178 => array('id' => 178, 'alpha2' => 'cg', 'alpha3' => 'cog', 'name' => 'جمهوری کنگو'),
     180 => array('id' => 180, 'alpha2' => 'cd', 'alpha3' => 'cod', 'name' => 'جمهوری دموکراتیک کنگو'),
     184 => array('id' => 184, 'alpha2' => 'ck', 'alpha3' => 'cok', 'name' => 'جزایر کوک'),

@@ -178,7 +178,7 @@ INSERT INTO `world` (`id`, `alpha_2`, `alpha_3`, `name`) VALUES
 (512,"om","omn","Omán"),
 (586,"pk","pak","Pákistán"),
 (585,"pw","plw","Palau"),
-(275,"ps","pse","Palestinská autonomie"),
+(275,"ps","pse","Palestina"),
 (591,"pa","pan","Panama"),
 (598,"pg","png","Papua Nová Guinea"),
 (600,"py","pry","Paraguay"),
