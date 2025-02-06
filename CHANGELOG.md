@@ -1,3 +1,8 @@
+## version 2.9.1 (February 06, 2025)
+
+- added country names in Turkish; see [#94](https://github.com/stefangabos/world_countries/issues/94); thanks [Hakan](https://github.com/hakansoylu1)!
+- updated country names in various languages
+
 ## version 2.9.0 (January 26, 2024)
 
 - added country names in Farsi; see [#12](https://github.com/stefangabos/world_countries/pull/12); thanks [Mehdi Khodayari](https://github.com/mehdikhody)!
