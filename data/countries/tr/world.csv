@@ -1,0 +1,250 @@
+id,alpha2,alpha3,name
+4,af,afg,Afganistan
+248,ax,ala,"Åland Adaları"
+8,al,alb,Arnavutluk
+12,dz,dza,Cezayir
+16,as,asm,"Amerikan Samoası"
+20,ad,and,Andorra
+24,ao,ago,Angola
+660,ai,aia,Anguilla
+10,aq,ata,Antarktika
+28,ag,atg,"Antigua ve Barbuda"
+32,ar,arg,Arjantin
+51,am,arm,Ermenistan
+533,aw,abw,Aruba
+36,au,aus,Avustralya
+40,at,aut,Avusturya
+31,az,aze,Azerbaycan
+44,bs,bhs,Bahamalar
+48,bh,bhr,Bahreyn
+50,bd,bgd,Bangladeş
+52,bb,brb,Barbados
+112,by,blr,Belarus
+56,be,bel,Belçika
+84,bz,blz,Belize
+204,bj,ben,Benin
+60,bm,bmu,Bermuda
+64,bt,btn,Bhutan
+68,bo,bol,Bolivya
+535,bq,bes,"Bonaire Sint Eustatius Saba"
+70,ba,bih,Bosna-Hersek
+72,bw,bwa,Botsvana
+74,bv,bvt,"Bouvet Adası"
+76,br,bra,Brezilya
+86,io,iot,"Britanya Hint Okyanusu Toprakları"
+96,bn,brn,"Brunei Darüsselam"
+100,bg,bgr,Bulgaristan
+854,bf,bfa,"Burkina Faso"
+108,bi,bdi,Burundi
+132,cv,cpv,"Yeşil Burun Adaları"
+116,kh,khm,Kamboçya
+120,cm,cmr,Kamerun
+124,ca,can,Kanada
+136,ky,cym,"Cayman Adaları"
+140,cf,caf,"Orta Afrika Cumhuriyeti"
+148,td,tcd,Çad
+152,cl,chl,Şili
+156,cn,chn,Çin
+162,cx,cxr,"Christmas Adası"
+166,cc,cck,"Cocos (Keeling) Adaları"
+170,co,col,Kolombiya
+174,km,com,Komorlar
+180,cd,cod,"Kongo Demokratik Cumhuriyeti"
+178,cg,cog,"Kongo Cumhuriyeti"
+184,ck,cok,"Cook Adaları"
+188,cr,cri,"Kosta Rika"
+384,ci,civ,"Fildişi Sahili"
+191,hr,hrv,Hırvatistan
+192,cu,cub,Küba
+531,cw,cuw,Curaçao
+196,cy,cyp,"Kıbrıs Cumhuriyeti"
+203,cz,cze,Çekya
+208,dk,dnk,Danimarka
+262,dj,dji,Cibuti
+212,dm,dma,Dominika
+214,do,dom,"Dominik Cumhuriyeti"
+218,ec,ecu,Ekvador
+818,eg,egy,Mısır
+222,sv,slv,"El Salvador"
+226,gq,gnq,"Ekvator Ginesi"
+232,er,eri,Eritre
+233,ee,est,Estonya
+748,sz,swz,Esvatini
+231,et,eth,Etiyopya
+238,fk,flk,"Falkland Adaları [Malvinas]"
+234,fo,fro,"Faroe Adaları"
+242,fj,fji,Fiji
+246,fi,fin,Finlandiya
+250,fr,fra,Fransa
+254,gf,guf,"Fransız Guyanası"
+258,pf,pyf,"Fransız Polinezyası"
+260,tf,atf,"Fransız Güney ve Antarktika Toprakları"
+266,ga,gab,Gabon
+270,gm,gmb,Gambiya
+268,ge,geo,Gürcistan
+276,de,deu,Almanya
+288,gh,gha,Gana
+292,gi,gib,Cebelitarık
+300,gr,grc,Yunanistan
+304,gl,grl,Grönland
+308,gd,grd,Grenada
+312,gp,glp,Guadeloupe
+316,gu,gum,Guam
+320,gt,gtm,Guatemala
+831,gg,ggy,Guernsey
+324,gn,gin,Gine
+624,gw,gnb,Gine-Bissau
+328,gy,guy,Guyana
+332,ht,hti,Haiti
+334,hm,hmd,"Heard Adası ve McDonald Adaları"
+336,va,vat,"Kutsal Makam"
+340,hn,hnd,Honduras
+344,hk,hkg,"Hong Kong"
+348,hu,hun,Macaristan
+352,is,isl,İzlanda
+356,in,ind,Hindistan
+360,id,idn,Endonezya
+364,ir,irn,İran
+368,iq,irq,Irak
+372,ie,irl,İrlanda
+833,im,imn,"Man Adası"
+376,il,isr,İsrail
+380,it,ita,İtalya
+388,jm,jam,Jamaika
+392,jp,jpn,Japonya
+832,je,jey,Jersey
+400,jo,jor,Ürdün
+398,kz,kaz,Kazakistan
+404,ke,ken,Kenya
+296,ki,kir,Kiribati
+408,kp,prk,"Kore Demokratik Halk Cumhuriyeti"
+410,kr,kor,"Kore Cumhuriyeti"
+414,kw,kwt,Kuveyt
+417,kg,kgz,Kırgızistan
+418,la,lao,"Lao Demokratik Halk Cumhuriyeti"
+428,lv,lva,Letonya
+422,lb,lbn,Lübnan
+426,ls,lso,Lesotho
+430,lr,lbr,Liberya
+434,ly,lby,Libya
+438,li,lie,Lihtenştayn
+440,lt,ltu,Litvanya
+442,lu,lux,Lüksemburg
+446,mo,mac,Makao
+807,mk,mkd,"Kuzey Makedonya"
+450,mg,mdg,Madagaskar
+454,mw,mwi,Malavi
+458,my,mys,Malezya
+462,mv,mdv,Maldivler
+466,ml,mli,Mali
+470,mt,mlt,Malta
+584,mh,mhl,"Marshall Adaları"
+474,mq,mtq,Martinik
+478,mr,mrt,Moritanya
+480,mu,mus,Mauritius
+175,yt,myt,Mayotte
+484,mx,mex,Meksika
+583,fm,fsm,"Mikronezya Federal Devletleri"
+498,md,mda,Moldova
+492,mc,mco,Monako
+496,mn,mng,Moğolistan
+499,me,mne,Karadağ
+500,ms,msr,Montserrat
+504,ma,mar,Fas
+508,mz,moz,Mozambik
+104,mm,mmr,Myanmar
+516,na,nam,Namibya
+520,nr,nru,Nauru
+524,np,npl,Nepal
+528,nl,nld,Hollanda
+540,nc,ncl,"Yeni Kaledonya"
+554,nz,nzl,"Yeni Zelanda"
+558,ni,nic,Nikaragua
+562,ne,ner,Nijer
+566,ng,nga,Nijerya
+570,nu,niu,Niue
+574,nf,nfk,"Norfolk Adası"
+580,mp,mnp,"Kuzey Mariana Adaları"
+578,no,nor,Norveç
+512,om,omn,Umman
+586,pk,pak,Pakistan
+585,pw,plw,Palau
+275,ps,pse,"Filistin Devleti"
+591,pa,pan,Panama
+598,pg,png,"Papua Yeni Gine"
+600,py,pry,Paraguay
+604,pe,per,Peru
+608,ph,phl,Filipinler
+612,pn,pcn,Pitcairn
+616,pl,pol,Polonya
+620,pt,prt,Portekiz
+630,pr,pri,"Porto Riko"
+634,qa,qat,Katar
+638,re,reu,Réunion
+642,ro,rou,Romanya
+643,ru,rus,"Rusya Federasyonu"
+646,rw,rwa,Ruanda
+652,bl,blm,"Saint Barthélemy"
+654,sh,shn,"Saint Helena Ascension Adası Tristan da Cunha"
+659,kn,kna,"Saint Kitts ve Nevis"
+662,lc,lca,"Saint Lucia"
+663,mf,maf,"Saint Martin (Fransız bölümü)"
+666,pm,spm,"Saint Pierre ve Miquelon"
+670,vc,vct,"Saint Vincent ve Grenadinler"
+882,ws,wsm,Samoa
+674,sm,smr,"San Marino"
+678,st,stp,"São Tomé ve Príncipe"
+682,sa,sau,"Suudi Arabistan"
+686,sn,sen,Senegal
+688,rs,srb,Sırbistan
+690,sc,syc,Seyşeller
+694,sl,sle,"Sierra Leone"
+702,sg,sgp,Singapur
+534,sx,sxm,"Sint Maarten (Dutch part)"
+703,sk,svk,Slovakya
+705,si,svn,Slovenya
+90,sb,slb,"Solomon Adaları"
+706,so,som,Somali
+710,za,zaf,"Güney Afrika"
+239,gs,sgs,"Güney Georgia ve Güney Sandwich Adaları"
+728,ss,ssd,"Güney Sudan"
+724,es,esp,İspanya
+144,lk,lka,"Sri Lanka"
+729,sd,sdn,Sudan
+740,sr,sur,Surinam
+744,sj,sjm,"Svalbard Jan Mayen"
+752,se,swe,İsveç
+756,ch,che,İsviçre
+760,sy,syr,"Suriye Arap Cumhuriyeti"
+158,tw,twn,"Tayvan (Çin Eyaleti)"
+762,tj,tjk,Tacikistan
+834,tz,tza,"Tanzanya Birleşik Cumhuriyeti"
+764,th,tha,Tayland
+626,tl,tls,Timor-Leste
+768,tg,tgo,Togo
+772,tk,tkl,Tokelau
+776,to,ton,Tonga
+780,tt,tto,"Trinidad ve Tobago"
+788,tn,tun,Tunus
+792,tr,tur,Türkiye
+795,tm,tkm,Türkmenistan
+796,tc,tca,"Turks ve Caicos Adaları"
+798,tv,tuv,Tuvalu
+800,ug,uga,Uganda
+804,ua,ukr,Ukrayna
+784,ae,are,"Birleşik Arap Emirlikleri"
+826,gb,gbr,"Birleşik Krallık"
+581,um,umi,"Amerika Birleşik Devletleri'nin küçük dış adaları"
+840,us,usa,"Amerika Birleşik Devletleri"
+858,uy,ury,Uruguay
+860,uz,uzb,Özbekistan
+548,vu,vut,Vanuatu
+862,ve,ven,Venezuela
+704,vn,vnm,"Viet Nam"
+92,vg,vgb,"Virjin Adaları (Britanya)"
+850,vi,vir,"Virjin Adaları (ABD)"
+876,wf,wlf,"Wallis ve Futuna"
+732,eh,esh,"Batı Sahra"
+887,ye,yem,Yemen
+894,zm,zmb,Zambiya
+716,zw,zwe,Zimbabve
