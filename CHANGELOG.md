@@ -1,3 +1,8 @@
+## version 2.10.0 (May 29, 2025)
+
+- added country names in Breton; see [#98](https://github.com/stefangabos/world_countries/issues/98); thanks [Alexis Launay](https://github.com/YoruNoHikage)!
+- updated country names in various languages
+
 ## version 2.9.1 (February 06, 2025)
 
 - added country names in Turkish; see [#94](https://github.com/stefangabos/world_countries/issues/94); thanks [Hakan](https://github.com/hakansoylu1)!
