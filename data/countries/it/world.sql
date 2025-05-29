@@ -235,7 +235,7 @@ INSERT INTO `world` (`id`, `alpha_2`, `alpha_3`, `name`) VALUES
 (158,"tw","twn","Taiwan"),
 (762,"tj","tjk","Tagikistan"),
 (834,"tz","tza","Tanzania"),
-(260,"tf","atf","Terre australi e antartiche francesi"),
+(260,"tf","atf","Terre Australi e Antartiche Francesi"),
 (86,"io","iot","Territorio britannico dell'Oceano Indiano"),
 (764,"th","tha","Thailandia"),
 (626,"tl","tls","Timor Est"),

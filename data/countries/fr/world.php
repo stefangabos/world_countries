@@ -72,7 +72,7 @@
     233 => array('id' => 233, 'alpha2' => 'ee', 'alpha3' => 'est', 'name' => 'Estonie'),
     840 => array('id' => 840, 'alpha2' => 'us', 'alpha3' => 'usa', 'name' => 'États-Unis'),
     231 => array('id' => 231, 'alpha2' => 'et', 'alpha3' => 'eth', 'name' => 'Éthiopie'),
-    238 => array('id' => 238, 'alpha2' => 'fk', 'alpha3' => 'flk', 'name' => 'Malouines'),
+    238 => array('id' => 238, 'alpha2' => 'fk', 'alpha3' => 'flk', 'name' => 'Îles Malouines'),
     234 => array('id' => 234, 'alpha2' => 'fo', 'alpha3' => 'fro', 'name' => 'Îles Féroé'),
     242 => array('id' => 242, 'alpha2' => 'fj', 'alpha3' => 'fji', 'name' => 'Fidji'),
     246 => array('id' => 246, 'alpha2' => 'fi', 'alpha3' => 'fin', 'name' => 'Finlande'),

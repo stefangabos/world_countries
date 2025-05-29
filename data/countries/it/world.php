@@ -223,7 +223,7 @@
     158 => array('id' => 158, 'alpha2' => 'tw', 'alpha3' => 'twn', 'name' => 'Taiwan'),
     762 => array('id' => 762, 'alpha2' => 'tj', 'alpha3' => 'tjk', 'name' => 'Tagikistan'),
     834 => array('id' => 834, 'alpha2' => 'tz', 'alpha3' => 'tza', 'name' => 'Tanzania'),
-    260 => array('id' => 260, 'alpha2' => 'tf', 'alpha3' => 'atf', 'name' => 'Terre australi e antartiche francesi'),
+    260 => array('id' => 260, 'alpha2' => 'tf', 'alpha3' => 'atf', 'name' => 'Terre Australi e Antartiche Francesi'),
     86  => array('id' => 86 , 'alpha2' => 'io', 'alpha3' => 'iot', 'name' => 'Territorio britannico dell\'Oceano Indiano'),
     764 => array('id' => 764, 'alpha2' => 'th', 'alpha3' => 'tha', 'name' => 'Thailandia'),
     626 => array('id' => 626, 'alpha2' => 'tl', 'alpha3' => 'tls', 'name' => 'Timor Est'),

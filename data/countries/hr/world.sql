@@ -84,7 +84,7 @@ INSERT INTO `world` (`id`, `alpha_2`, `alpha_3`, `name`) VALUES
 (242,"fj","fji","Fidži"),
 (238,"fk","flk","Falklandi (Malvini)"),
 (583,"fm","fsm","Mikronezija"),
-(234,"fo","fro","Ferojski (Ovčji) otoci"),
+(234,"fo","fro","Farski otoci"),
 (250,"fr","fra","Francuska"),
 (266,"ga","gab","Gabon"),
 (826,"gb","gbr","Velika Britanija"),

@@ -133,7 +133,7 @@
     <country id="430" alpha2="lr" alpha3="lbr" name="Liberio"/>
     <country id="426" alpha2="ls" alpha3="lso" name="Lesoto"/>
     <country id="440" alpha2="lt" alpha3="ltu" name="Litovio"/>
-    <country id="442" alpha2="lu" alpha3="lux" name="Luksemburgo"/>
+    <country id="442" alpha2="lu" alpha3="lux" name="Luksemburgio"/>
     <country id="428" alpha2="lv" alpha3="lva" name="Latvio"/>
     <country id="434" alpha2="ly" alpha3="lby" name="Libio"/>
     <country id="504" alpha2="ma" alpha3="mar" name="Maroko"/>
@@ -235,7 +235,7 @@
     <country id="840" alpha2="us" alpha3="usa" name="Usono"/>
     <country id="858" alpha2="uy" alpha3="ury" name="Urugvajo"/>
     <country id="860" alpha2="uz" alpha3="uzb" name="Uzbekio"/>
-    <country id="336" alpha2="va" alpha3="vat" name="Vatikanurbo"/>
+    <country id="336" alpha2="va" alpha3="vat" name="Vatikano"/>
     <country id="670" alpha2="vc" alpha3="vct" name="Sankta Vincento kaj la Grenadinoj"/>
     <country id="862" alpha2="ve" alpha3="ven" name="Venezuelo"/>
     <country id="92" alpha2="vg" alpha3="vgb" name="Britaj Virgulininsuloj"/>

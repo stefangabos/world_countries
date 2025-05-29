@@ -103,7 +103,7 @@
     430 => array('id' => 430, 'alpha2' => 'lr', 'alpha3' => 'lbr', 'name' => 'Liberio'),
     426 => array('id' => 426, 'alpha2' => 'ls', 'alpha3' => 'lso', 'name' => 'Lesoto'),
     440 => array('id' => 440, 'alpha2' => 'lt', 'alpha3' => 'ltu', 'name' => 'Litovio'),
-    442 => array('id' => 442, 'alpha2' => 'lu', 'alpha3' => 'lux', 'name' => 'Luksemburgo'),
+    442 => array('id' => 442, 'alpha2' => 'lu', 'alpha3' => 'lux', 'name' => 'Luksemburgio'),
     428 => array('id' => 428, 'alpha2' => 'lv', 'alpha3' => 'lva', 'name' => 'Latvio'),
     434 => array('id' => 434, 'alpha2' => 'ly', 'alpha3' => 'lby', 'name' => 'Libio'),
     504 => array('id' => 504, 'alpha2' => 'ma', 'alpha3' => 'mar', 'name' => 'Maroko'),

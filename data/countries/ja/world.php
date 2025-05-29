@@ -124,7 +124,7 @@
     796 => array('id' => 796, 'alpha2' => 'tc', 'alpha3' => 'tca', 'name' => 'タークス・カイコス諸島'),
     764 => array('id' => 764, 'alpha2' => 'th', 'alpha3' => 'tha', 'name' => 'タイ'),
     410 => array('id' => 410, 'alpha2' => 'kr', 'alpha3' => 'kor', 'name' => '大韓民国'),
-    158 => array('id' => 158, 'alpha2' => 'tw', 'alpha3' => 'twn', 'name' => '台湾（中華民国）'),
+    158 => array('id' => 158, 'alpha2' => 'tw', 'alpha3' => 'twn', 'name' => '台湾地区'),
     762 => array('id' => 762, 'alpha2' => 'tj', 'alpha3' => 'tjk', 'name' => 'タジキスタン'),
     834 => array('id' => 834, 'alpha2' => 'tz', 'alpha3' => 'tza', 'name' => 'タンザニア'),
     203 => array('id' => 203, 'alpha2' => 'cz', 'alpha3' => 'cze', 'name' => 'チェコ'),

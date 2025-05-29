@@ -76,7 +76,7 @@
     246 => array('id' => 246, 'alpha2' => 'fi', 'alpha3' => 'fin', 'name' => 'فنلندا'),
     250 => array('id' => 250, 'alpha2' => 'fr', 'alpha3' => 'fra', 'name' => 'فرنسا'),
     254 => array('id' => 254, 'alpha2' => 'gf', 'alpha3' => 'guf', 'name' => 'غويانا الفرنسية'),
-    258 => array('id' => 258, 'alpha2' => 'pf', 'alpha3' => 'pyf', 'name' => 'بولنيزيا الفرنسية'),
+    258 => array('id' => 258, 'alpha2' => 'pf', 'alpha3' => 'pyf', 'name' => 'تاهيتي'),
     260 => array('id' => 260, 'alpha2' => 'tf', 'alpha3' => 'atf', 'name' => 'أراض فرنسية جنوبية وأنتارتيكية'),
     266 => array('id' => 266, 'alpha2' => 'ga', 'alpha3' => 'gab', 'name' => 'الغابون'),
     270 => array('id' => 270, 'alpha2' => 'gm', 'alpha3' => 'gmb', 'name' => 'غامبيا'),

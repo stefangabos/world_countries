@@ -113,7 +113,7 @@ INSERT INTO `countries` (`id`, `alpha_2`, `alpha_3`, `name`) VALUES
 (414,"kw","kwt","Kuwait"),
 (418,"la","lao","Laos"),
 (426,"ls","lso","Lesoto"),
-(428,"lv","lva","Letônia"),
+(428,"lv","lva","Letónia"),
 (422,"lb","lbn","Líbano"),
 (430,"lr","lbr","Libéria"),
 (434,"ly","lby","Líbia"),

@@ -84,7 +84,7 @@ INSERT INTO `world` (`id`, `alpha_2`, `alpha_3`, `name`) VALUES
 (233,"ee","est","Estonie"),
 (840,"us","usa","États-Unis"),
 (231,"et","eth","Éthiopie"),
-(238,"fk","flk","Malouines"),
+(238,"fk","flk","Îles Malouines"),
 (234,"fo","fro","Îles Féroé"),
 (242,"fj","fji","Fidji"),
 (246,"fi","fin","Finlande"),

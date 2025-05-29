@@ -72,7 +72,7 @@
     242 => array('id' => 242, 'alpha2' => 'fj', 'alpha3' => 'fji', 'name' => 'Fidži'),
     238 => array('id' => 238, 'alpha2' => 'fk', 'alpha3' => 'flk', 'name' => 'Falklandi (Malvini)'),
     583 => array('id' => 583, 'alpha2' => 'fm', 'alpha3' => 'fsm', 'name' => 'Mikronezija'),
-    234 => array('id' => 234, 'alpha2' => 'fo', 'alpha3' => 'fro', 'name' => 'Ferojski (Ovčji) otoci'),
+    234 => array('id' => 234, 'alpha2' => 'fo', 'alpha3' => 'fro', 'name' => 'Farski otoci'),
     250 => array('id' => 250, 'alpha2' => 'fr', 'alpha3' => 'fra', 'name' => 'Francuska'),
     266 => array('id' => 266, 'alpha2' => 'ga', 'alpha3' => 'gab', 'name' => 'Gabon'),
     826 => array('id' => 826, 'alpha2' => 'gb', 'alpha3' => 'gbr', 'name' => 'Velika Britanija'),

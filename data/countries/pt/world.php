@@ -124,7 +124,7 @@
     414 => array('id' => 414, 'alpha2' => 'kw', 'alpha3' => 'kwt', 'name' => 'Kuwait'),
     418 => array('id' => 418, 'alpha2' => 'la', 'alpha3' => 'lao', 'name' => 'Laos'),
     426 => array('id' => 426, 'alpha2' => 'ls', 'alpha3' => 'lso', 'name' => 'Lesoto'),
-    428 => array('id' => 428, 'alpha2' => 'lv', 'alpha3' => 'lva', 'name' => 'Letônia'),
+    428 => array('id' => 428, 'alpha2' => 'lv', 'alpha3' => 'lva', 'name' => 'Letónia'),
     422 => array('id' => 422, 'alpha2' => 'lb', 'alpha3' => 'lbn', 'name' => 'Líbano'),
     430 => array('id' => 430, 'alpha2' => 'lr', 'alpha3' => 'lbr', 'name' => 'Libéria'),
     434 => array('id' => 434, 'alpha2' => 'ly', 'alpha3' => 'lby', 'name' => 'Líbia'),

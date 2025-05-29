@@ -96,7 +96,7 @@
     624 => array('id' => 624, 'alpha2' => 'gw', 'alpha3' => 'gnb', 'name' => '幾內亞比索'),
     328 => array('id' => 328, 'alpha2' => 'gy', 'alpha3' => 'guy', 'name' => '蓋亞那'),
     332 => array('id' => 332, 'alpha2' => 'ht', 'alpha3' => 'hti', 'name' => '海地'),
-    334 => array('id' => 334, 'alpha2' => 'hm', 'alpha3' => 'hmd', 'name' => '赫德島和麥克唐納群島'),
+    334 => array('id' => 334, 'alpha2' => 'hm', 'alpha3' => 'hmd', 'name' => '赫德及麥當勞群島'),
     336 => array('id' => 336, 'alpha2' => 'va', 'alpha3' => 'vat', 'name' => '梵蒂岡'),
     340 => array('id' => 340, 'alpha2' => 'hn', 'alpha3' => 'hnd', 'name' => '宏都拉斯'),
     344 => array('id' => 344, 'alpha2' => 'hk', 'alpha3' => 'hkg', 'name' => '香港'),
