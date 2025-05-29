@@ -6,6 +6,7 @@
         'name' => array(
             'ar'     =>  'أفغانستان',
             'bg'     =>  'Афганистан',
+            'br'     =>  'Afghanistan',
             'cs'     =>  'Afghánistán',
             'da'     =>  'Afghanistan',
             'de'     =>  'Afghanistan',
@@ -49,6 +50,7 @@
         'name' => array(
             'ar'     =>  'ألبانيا',
             'bg'     =>  'Албания',
+            'br'     =>  'Albania',
             'cs'     =>  'Albánie',
             'da'     =>  'Albanien',
             'de'     =>  'Albanien',
@@ -92,6 +94,7 @@
         'name' => array(
             'ar'     =>  'الجزائر',
             'bg'     =>  'Алжир',
+            'br'     =>  'Aljeria',
             'cs'     =>  'Alžírsko',
             'da'     =>  'Algeriet',
             'de'     =>  'Algerien',
@@ -135,6 +138,7 @@
         'name' => array(
             'ar'     =>  'أندورا',
             'bg'     =>  'Андора',
+            'br'     =>  'Andorra',
             'cs'     =>  'Andorra',
             'da'     =>  'Andorra',
             'de'     =>  'Andorra',
@@ -178,6 +182,7 @@
         'name' => array(
             'ar'     =>  'أنغولا',
             'bg'     =>  'Ангола',
+            'br'     =>  'Angola',
             'cs'     =>  'Angola',
             'da'     =>  'Angola',
             'de'     =>  'Angola',
@@ -221,6 +226,7 @@
         'name' => array(
             'ar'     =>  'أنتيغوا وباربودا',
             'bg'     =>  'Антигуа и Барбуда',
+            'br'     =>  'Antigua-ha-Barbuda',
             'cs'     =>  'Antigua a Barbuda',
             'da'     =>  'Antigua og Barbuda',
             'de'     =>  'Antigua und Barbuda',
@@ -264,6 +270,7 @@
         'name' => array(
             'ar'     =>  'الأرجنتين',
             'bg'     =>  'Аржентина',
+            'br'     =>  'Arc\'hantina',
             'cs'     =>  'Argentina',
             'da'     =>  'Argentina',
             'de'     =>  'Argentinien',
@@ -307,6 +314,7 @@
         'name' => array(
             'ar'     =>  'أرمينيا',
             'bg'     =>  'Армения',
+            'br'     =>  'Armenia',
             'cs'     =>  'Arménie',
             'da'     =>  'Armenien',
             'de'     =>  'Armenien',
@@ -350,6 +358,7 @@
         'name' => array(
             'ar'     =>  'أستراليا',
             'bg'     =>  'Австралия',
+            'br'     =>  'Aostralia',
             'cs'     =>  'Austrálie',
             'da'     =>  'Australien',
             'de'     =>  'Australien',
@@ -393,6 +402,7 @@
         'name' => array(
             'ar'     =>  'النمسا',
             'bg'     =>  'Австрия',
+            'br'     =>  'Aostria',
             'cs'     =>  'Rakousko',
             'da'     =>  'Østrig',
             'de'     =>  'Österreich',
@@ -436,6 +446,7 @@
         'name' => array(
             'ar'     =>  'أذربيجان',
             'bg'     =>  'Азербайджан',
+            'br'     =>  'Azerbaidjan',
             'cs'     =>  'Ázerbájdžán',
             'da'     =>  'Aserbajdsjan',
             'de'     =>  'Aserbaidschan',
@@ -479,6 +490,7 @@
         'name' => array(
             'ar'     =>  'جزر البهاما',
             'bg'     =>  'Бахамски острови',
+            'br'     =>  'Bahamas',
             'cs'     =>  'Bahamy',
             'da'     =>  'Bahamas',
             'de'     =>  'Bahamas',
@@ -522,6 +534,7 @@
         'name' => array(
             'ar'     =>  'البحرين',
             'bg'     =>  'Бахрейн',
+            'br'     =>  'Bahrein',
             'cs'     =>  'Bahrajn',
             'da'     =>  'Bahrain',
             'de'     =>  'Bahrain',
@@ -565,6 +578,7 @@
         'name' => array(
             'ar'     =>  'بنغلاديش',
             'bg'     =>  'Бангладеш',
+            'br'     =>  'Bangladesh',
             'cs'     =>  'Bangladéš',
             'da'     =>  'Bangladesh',
             'de'     =>  'Bangladesch',
@@ -608,6 +622,7 @@
         'name' => array(
             'ar'     =>  'باربادوس',
             'bg'     =>  'Барбадос',
+            'br'     =>  'Barbados',
             'cs'     =>  'Barbados',
             'da'     =>  'Barbados',
             'de'     =>  'Barbados',
@@ -651,6 +666,7 @@
         'name' => array(
             'ar'     =>  'بيلاروس',
             'bg'     =>  'Беларус',
+            'br'     =>  'Belarus',
             'cs'     =>  'Bělorusko',
             'da'     =>  'Hviderusland',
             'de'     =>  'Belarus',
@@ -694,6 +710,7 @@
         'name' => array(
             'ar'     =>  'بلجيكا',
             'bg'     =>  'Белгия',
+            'br'     =>  'Belgia',
             'cs'     =>  'Belgie',
             'da'     =>  'Belgien',
             'de'     =>  'Belgien',
@@ -737,6 +754,7 @@
         'name' => array(
             'ar'     =>  'بليز',
             'bg'     =>  'Белиз',
+            'br'     =>  'Belize',
             'cs'     =>  'Belize',
             'da'     =>  'Belize',
             'de'     =>  'Belize',
@@ -780,6 +798,7 @@
         'name' => array(
             'ar'     =>  'بنين',
             'bg'     =>  'Бенин',
+            'br'     =>  'Benin',
             'cs'     =>  'Benin',
             'da'     =>  'Benin',
             'de'     =>  'Benin',
@@ -823,6 +842,7 @@
         'name' => array(
             'ar'     =>  'بوتان',
             'bg'     =>  'Бутан',
+            'br'     =>  'Bhoutan',
             'cs'     =>  'Bhútán',
             'da'     =>  'Bhutan',
             'de'     =>  'Bhutan',
@@ -866,6 +886,7 @@
         'name' => array(
             'ar'     =>  'بوليفيا',
             'bg'     =>  'Боливия',
+            'br'     =>  'Bolivia',
             'cs'     =>  'Bolívie',
             'da'     =>  'Bolivia',
             'de'     =>  'Bolivien',
@@ -909,6 +930,7 @@
         'name' => array(
             'ar'     =>  'البوسنة والهرسك',
             'bg'     =>  'Босна и Херцеговина',
+            'br'     =>  'Bosnia-ha-Herzegovina',
             'cs'     =>  'Bosna a Hercegovina',
             'da'     =>  'Bosnien-Hercegovina',
             'de'     =>  'Bosnien und Herzegowina',
@@ -952,6 +974,7 @@
         'name' => array(
             'ar'     =>  'بوتسوانا',
             'bg'     =>  'Ботсвана',
+            'br'     =>  'Botswana',
             'cs'     =>  'Botswana',
             'da'     =>  'Botswana',
             'de'     =>  'Botswana',
@@ -995,6 +1018,7 @@
         'name' => array(
             'ar'     =>  'البرازيل',
             'bg'     =>  'Бразилия',
+            'br'     =>  'Brazil',
             'cs'     =>  'Brazílie',
             'da'     =>  'Brasilien',
             'de'     =>  'Brasilien',
@@ -1038,6 +1062,7 @@
         'name' => array(
             'ar'     =>  'بروناي',
             'bg'     =>  'Бруней',
+            'br'     =>  'Brunei',
             'cs'     =>  'Brunej',
             'da'     =>  'Brunei',
             'de'     =>  'Brunei',
@@ -1081,6 +1106,7 @@
         'name' => array(
             'ar'     =>  'بلغاريا',
             'bg'     =>  'България',
+            'br'     =>  'Bulgaria',
             'cs'     =>  'Bulharsko',
             'da'     =>  'Bulgarien',
             'de'     =>  'Bulgarien',
@@ -1124,6 +1150,7 @@
         'name' => array(
             'ar'     =>  'بوركينا فاسو',
             'bg'     =>  'Буркина Фасо',
+            'br'     =>  'Burkina Faso',
             'cs'     =>  'Burkina Faso',
             'da'     =>  'Burkina Faso',
             'de'     =>  'Burkina Faso',
@@ -1167,6 +1194,7 @@
         'name' => array(
             'ar'     =>  'بوروندي',
             'bg'     =>  'Бурунди',
+            'br'     =>  'Burundi',
             'cs'     =>  'Burundi',
             'da'     =>  'Burundi',
             'de'     =>  'Burundi',
@@ -1210,6 +1238,7 @@
         'name' => array(
             'ar'     =>  'كمبوديا',
             'bg'     =>  'Камбоджа',
+            'br'     =>  'Kambodja',
             'cs'     =>  'Kambodža',
             'da'     =>  'Cambodja',
             'de'     =>  'Kambodscha',
@@ -1253,6 +1282,7 @@
         'name' => array(
             'ar'     =>  'الكاميرون',
             'bg'     =>  'Камерун',
+            'br'     =>  'Kameroun',
             'cs'     =>  'Kamerun',
             'da'     =>  'Cameroun',
             'de'     =>  'Kamerun',
@@ -1296,6 +1326,7 @@
         'name' => array(
             'ar'     =>  'كندا',
             'bg'     =>  'Канада',
+            'br'     =>  'Kanada',
             'cs'     =>  'Kanada',
             'da'     =>  'Canada',
             'de'     =>  'Kanada',
@@ -1339,6 +1370,7 @@
         'name' => array(
             'ar'     =>  'الرأس الأخضر',
             'bg'     =>  'Кабо Верде',
+            'br'     =>  'Kab Glas',
             'cs'     =>  'Kapverdy',
             'da'     =>  'Kap Verde',
             'de'     =>  'Kap Verde',
@@ -1382,6 +1414,7 @@
         'name' => array(
             'ar'     =>  'جمهورية إفريقيا الوسطى',
             'bg'     =>  'Централноафриканска република',
+            'br'     =>  'Republik Kreizafrikan',
             'cs'     =>  'Středoafrická republika',
             'da'     =>  'Centralafrikanske Republik',
             'de'     =>  'Zentralafrikanische Republik',
@@ -1425,6 +1458,7 @@
         'name' => array(
             'ar'     =>  'تشاد',
             'bg'     =>  'Чад',
+            'br'     =>  'Tchad',
             'cs'     =>  'Čad',
             'da'     =>  'Tchad',
             'de'     =>  'Tschad',
@@ -1468,6 +1502,7 @@
         'name' => array(
             'ar'     =>  'تشيلي',
             'bg'     =>  'Чили',
+            'br'     =>  'Chile',
             'cs'     =>  'Chile',
             'da'     =>  'Chile',
             'de'     =>  'Chile',
@@ -1511,6 +1546,7 @@
         'name' => array(
             'ar'     =>  'الصين',
             'bg'     =>  'Китай',
+            'br'     =>  'Sina',
             'cs'     =>  'Čína',
             'da'     =>  'Kina',
             'de'     =>  'China, Volksrepublik',
@@ -1554,6 +1590,7 @@
         'name' => array(
             'ar'     =>  'كولومبيا',
             'bg'     =>  'Колумбия',
+            'br'     =>  'Kolombia',
             'cs'     =>  'Kolumbie',
             'da'     =>  'Colombia',
             'de'     =>  'Kolumbien',
@@ -1597,6 +1634,7 @@
         'name' => array(
             'ar'     =>  'جزر القمر',
             'bg'     =>  'Коморски острови',
+            'br'     =>  'Komorez',
             'cs'     =>  'Komory',
             'da'     =>  'Comorerne',
             'de'     =>  'Komoren',
@@ -1640,6 +1678,7 @@
         'name' => array(
             'ar'     =>  'جمهورية الكونغو',
             'bg'     =>  'Република Конго',
+            'br'     =>  'Republik Kongo',
             'cs'     =>  'Kongo',
             'da'     =>  'Congo',
             'de'     =>  'Kongo, Republik',
@@ -1683,6 +1722,7 @@
         'name' => array(
             'ar'     =>  'جمهورية الكونغو الديمقراطية',
             'bg'     =>  'Демократична република Конго',
+            'br'     =>  'Kongo (RD)',
             'cs'     =>  'Konžská demokratická republika',
             'da'     =>  'Demokratiske Republik Congo',
             'de'     =>  'Kongo, Demokratische Republik',
@@ -1726,6 +1766,7 @@
         'name' => array(
             'ar'     =>  'كوستاريكا',
             'bg'     =>  'Коста Рика',
+            'br'     =>  'Costa Rica',
             'cs'     =>  'Kostarika',
             'da'     =>  'Costa Rica',
             'de'     =>  'Costa Rica',
@@ -1769,6 +1810,7 @@
         'name' => array(
             'ar'     =>  'ساحل العاج',
             'bg'     =>  'Кот д\'Ивоар',
+            'br'     =>  'Aod an Olifant',
             'cs'     =>  'Pobřeží slonoviny',
             'da'     =>  'Elfenbenskysten',
             'de'     =>  'Elfenbeinküste',
@@ -1812,6 +1854,7 @@
         'name' => array(
             'ar'     =>  'كرواتيا',
             'bg'     =>  'Хърватия',
+            'br'     =>  'Kroatia',
             'cs'     =>  'Chorvatsko',
             'da'     =>  'Kroatien',
             'de'     =>  'Kroatien',
@@ -1855,6 +1898,7 @@
         'name' => array(
             'ar'     =>  'كوبا',
             'bg'     =>  'Куба',
+            'br'     =>  'Kuba',
             'cs'     =>  'Kuba',
             'da'     =>  'Cuba',
             'de'     =>  'Kuba',
@@ -1898,6 +1942,7 @@
         'name' => array(
             'ar'     =>  'قبرص',
             'bg'     =>  'Кипър',
+            'br'     =>  'Republik Kiprenez',
             'cs'     =>  'Kypr',
             'da'     =>  'Cypern',
             'de'     =>  'Zypern',
@@ -1941,6 +1986,7 @@
         'name' => array(
             'ar'     =>  'جمهورية التشيك',
             'bg'     =>  'Чехия',
+            'br'     =>  'Tchekia',
             'cs'     =>  'Česko',
             'da'     =>  'Tjekkiet',
             'de'     =>  'Tschechien',
@@ -1984,6 +2030,7 @@
         'name' => array(
             'ar'     =>  'الدنمارك',
             'bg'     =>  'Дания',
+            'br'     =>  'Danmark',
             'cs'     =>  'Dánsko',
             'da'     =>  'Danmark',
             'de'     =>  'Dänemark',
@@ -2027,6 +2074,7 @@
         'name' => array(
             'ar'     =>  'جيبوتي',
             'bg'     =>  'Джибути',
+            'br'     =>  'Djibouti',
             'cs'     =>  'Džibutsko',
             'da'     =>  'Djibouti',
             'de'     =>  'Dschibuti',
@@ -2070,6 +2118,7 @@
         'name' => array(
             'ar'     =>  'دومينيكا',
             'bg'     =>  'Доминика',
+            'br'     =>  'Dominika',
             'cs'     =>  'Dominika',
             'da'     =>  'Dominica',
             'de'     =>  'Dominica',
@@ -2113,6 +2162,7 @@
         'name' => array(
             'ar'     =>  'جمهورية الدومينيكان',
             'bg'     =>  'Доминиканска република',
+            'br'     =>  'Republik Dominikan',
             'cs'     =>  'Dominikánská republika',
             'da'     =>  'Dominikanske Republik',
             'de'     =>  'Dominikanische Republik',
@@ -2156,6 +2206,7 @@
         'name' => array(
             'ar'     =>  'الإكوادور',
             'bg'     =>  'Еквадор',
+            'br'     =>  'Ecuador',
             'cs'     =>  'Ekvádor',
             'da'     =>  'Ecuador',
             'de'     =>  'Ecuador',
@@ -2199,6 +2250,7 @@
         'name' => array(
             'ar'     =>  'مصر',
             'bg'     =>  'Египет',
+            'br'     =>  'Egipt',
             'cs'     =>  'Egypt',
             'da'     =>  'Egypten',
             'de'     =>  'Ägypten',
@@ -2242,6 +2294,7 @@
         'name' => array(
             'ar'     =>  'السلفادور',
             'bg'     =>  'Салвадор',
+            'br'     =>  'El Salvador',
             'cs'     =>  'Salvador',
             'da'     =>  'El Salvador',
             'de'     =>  'El Salvador',
@@ -2285,6 +2338,7 @@
         'name' => array(
             'ar'     =>  'غينيا الاستوائية',
             'bg'     =>  'Екваториална Гвинея',
+            'br'     =>  'Ginea ar C\'heheder',
             'cs'     =>  'Rovníková Guinea',
             'da'     =>  'Ækvatorialguinea',
             'de'     =>  'Äquatorialguinea',
@@ -2328,6 +2382,7 @@
         'name' => array(
             'ar'     =>  'إرتريا',
             'bg'     =>  'Еритрея',
+            'br'     =>  'Eritrea',
             'cs'     =>  'Eritrea',
             'da'     =>  'Eritrea',
             'de'     =>  'Eritrea',
@@ -2371,6 +2426,7 @@
         'name' => array(
             'ar'     =>  'إستونيا',
             'bg'     =>  'Естония',
+            'br'     =>  'Estonia',
             'cs'     =>  'Estonsko',
             'da'     =>  'Estland',
             'de'     =>  'Estland',
@@ -2414,6 +2470,7 @@
         'name' => array(
             'ar'     =>  'إثيوبيا',
             'bg'     =>  'Етиопия',
+            'br'     =>  'Etiopia',
             'cs'     =>  'Etiopie',
             'da'     =>  'Etiopien',
             'de'     =>  'Äthiopien',
@@ -2457,6 +2514,7 @@
         'name' => array(
             'ar'     =>  'فيجي',
             'bg'     =>  'Фиджи',
+            'br'     =>  'Fidji',
             'cs'     =>  'Fidži',
             'da'     =>  'Fiji',
             'de'     =>  'Fidschi',
@@ -2500,6 +2558,7 @@
         'name' => array(
             'ar'     =>  'فنلندا',
             'bg'     =>  'Финландия',
+            'br'     =>  'Finland',
             'cs'     =>  'Finsko',
             'da'     =>  'Finland',
             'de'     =>  'Finnland',
@@ -2543,6 +2602,7 @@
         'name' => array(
             'ar'     =>  'فرنسا',
             'bg'     =>  'Франция',
+            'br'     =>  'Frañs',
             'cs'     =>  'Francie',
             'da'     =>  'Frankrig',
             'de'     =>  'Frankreich',
@@ -2586,6 +2646,7 @@
         'name' => array(
             'ar'     =>  'الغابون',
             'bg'     =>  'Габон',
+            'br'     =>  'Gabon',
             'cs'     =>  'Gabon',
             'da'     =>  'Gabon',
             'de'     =>  'Gabun',
@@ -2629,6 +2690,7 @@
         'name' => array(
             'ar'     =>  'غامبيا',
             'bg'     =>  'Гамбия',
+            'br'     =>  'Gambia',
             'cs'     =>  'Gambie',
             'da'     =>  'Gambia',
             'de'     =>  'Gambia',
@@ -2672,6 +2734,7 @@
         'name' => array(
             'ar'     =>  'جورجيا',
             'bg'     =>  'Грузия',
+            'br'     =>  'Jorjia',
             'cs'     =>  'Gruzie',
             'da'     =>  'Georgien',
             'de'     =>  'Georgien',
@@ -2715,6 +2778,7 @@
         'name' => array(
             'ar'     =>  'ألمانيا',
             'bg'     =>  'Германия',
+            'br'     =>  'Alamagn',
             'cs'     =>  'Německo',
             'da'     =>  'Tyskland',
             'de'     =>  'Deutschland',
@@ -2758,6 +2822,7 @@
         'name' => array(
             'ar'     =>  'غانا',
             'bg'     =>  'Гана',
+            'br'     =>  'Ghana',
             'cs'     =>  'Ghana',
             'da'     =>  'Ghana',
             'de'     =>  'Ghana',
@@ -2801,6 +2866,7 @@
         'name' => array(
             'ar'     =>  'اليونان',
             'bg'     =>  'Гърция',
+            'br'     =>  'Gres',
             'cs'     =>  'Řecko',
             'da'     =>  'Grækenland',
             'de'     =>  'Griechenland',
@@ -2844,6 +2910,7 @@
         'name' => array(
             'ar'     =>  'غرينادا',
             'bg'     =>  'Гренада',
+            'br'     =>  'Grenada',
             'cs'     =>  'Grenada',
             'da'     =>  'Grenada',
             'de'     =>  'Grenada',
@@ -2887,6 +2954,7 @@
         'name' => array(
             'ar'     =>  'غواتيمالا',
             'bg'     =>  'Гватемала',
+            'br'     =>  'Guatemala',
             'cs'     =>  'Guatemala',
             'da'     =>  'Guatemala',
             'de'     =>  'Guatemala',
@@ -2930,6 +2998,7 @@
         'name' => array(
             'ar'     =>  'غينيا',
             'bg'     =>  'Гвинея',
+            'br'     =>  'Ginea',
             'cs'     =>  'Guinea',
             'da'     =>  'Guinea',
             'de'     =>  'Guinea',
@@ -2973,6 +3042,7 @@
         'name' => array(
             'ar'     =>  'غينيا بيساو',
             'bg'     =>  'Гвинея-Бисау',
+            'br'     =>  'Ginea-Bissau',
             'cs'     =>  'Guinea-Bissau',
             'da'     =>  'Guinea-Bissau',
             'de'     =>  'Guinea-Bissau',
@@ -3016,6 +3086,7 @@
         'name' => array(
             'ar'     =>  'غيانا',
             'bg'     =>  'Гвиана',
+            'br'     =>  'Guyana',
             'cs'     =>  'Guyana',
             'da'     =>  'Guyana',
             'de'     =>  'Guyana',
@@ -3059,6 +3130,7 @@
         'name' => array(
             'ar'     =>  'هايتي',
             'bg'     =>  'Хаити',
+            'br'     =>  'Haiti',
             'cs'     =>  'Haiti',
             'da'     =>  'Haiti',
             'de'     =>  'Haiti',
@@ -3102,6 +3174,7 @@
         'name' => array(
             'ar'     =>  'هندوراس',
             'bg'     =>  'Хондурас',
+            'br'     =>  'Honduras',
             'cs'     =>  'Honduras',
             'da'     =>  'Honduras',
             'de'     =>  'Honduras',
@@ -3145,6 +3218,7 @@
         'name' => array(
             'ar'     =>  'المجر',
             'bg'     =>  'Унгария',
+            'br'     =>  'Hungaria',
             'cs'     =>  'Maďarsko',
             'da'     =>  'Ungarn',
             'de'     =>  'Ungarn',
@@ -3188,6 +3262,7 @@
         'name' => array(
             'ar'     =>  'آيسلندا',
             'bg'     =>  'Исландия',
+            'br'     =>  'Island',
             'cs'     =>  'Island',
             'da'     =>  'Island',
             'de'     =>  'Island',
@@ -3231,6 +3306,7 @@
         'name' => array(
             'ar'     =>  'الهند',
             'bg'     =>  'Индия',
+            'br'     =>  'India',
             'cs'     =>  'Indie',
             'da'     =>  'Indien',
             'de'     =>  'Indien',
@@ -3274,6 +3350,7 @@
         'name' => array(
             'ar'     =>  'إندونيسيا',
             'bg'     =>  'Индонезия',
+            'br'     =>  'Indonezia',
             'cs'     =>  'Indonésie',
             'da'     =>  'Indonesien',
             'de'     =>  'Indonesien',
@@ -3317,6 +3394,7 @@
         'name' => array(
             'ar'     =>  'إيران',
             'bg'     =>  'Иран',
+            'br'     =>  'Iran',
             'cs'     =>  'Írán',
             'da'     =>  'Iran',
             'de'     =>  'Iran',
@@ -3360,6 +3438,7 @@
         'name' => array(
             'ar'     =>  'العراق',
             'bg'     =>  'Ирак',
+            'br'     =>  'Irak',
             'cs'     =>  'Irák',
             'da'     =>  'Irak',
             'de'     =>  'Irak',
@@ -3403,6 +3482,7 @@
         'name' => array(
             'ar'     =>  'أيرلندا',
             'bg'     =>  'Ирландия',
+            'br'     =>  'Iwerzhon',
             'cs'     =>  'Irsko',
             'da'     =>  'Irland',
             'de'     =>  'Irland',
@@ -3446,6 +3526,7 @@
         'name' => array(
             'ar'     =>  'إسرائيل',
             'bg'     =>  'Израел',
+            'br'     =>  'Israel',
             'cs'     =>  'Izrael',
             'da'     =>  'Israel',
             'de'     =>  'Israel',
@@ -3489,6 +3570,7 @@
         'name' => array(
             'ar'     =>  'إيطاليا',
             'bg'     =>  'Италия',
+            'br'     =>  'Italia',
             'cs'     =>  'Itálie',
             'da'     =>  'Italien',
             'de'     =>  'Italien',
@@ -3532,6 +3614,7 @@
         'name' => array(
             'ar'     =>  'جامايكا',
             'bg'     =>  'Ямайка',
+            'br'     =>  'Jamaika',
             'cs'     =>  'Jamajka',
             'da'     =>  'Jamaica',
             'de'     =>  'Jamaika',
@@ -3575,6 +3658,7 @@
         'name' => array(
             'ar'     =>  'اليابان',
             'bg'     =>  'Япония',
+            'br'     =>  'Japan',
             'cs'     =>  'Japonsko',
             'da'     =>  'Japan',
             'de'     =>  'Japan',
@@ -3618,6 +3702,7 @@
         'name' => array(
             'ar'     =>  'الأردن',
             'bg'     =>  'Йордания',
+            'br'     =>  'Jordania',
             'cs'     =>  'Jordánsko',
             'da'     =>  'Jordan',
             'de'     =>  'Jordanien',
@@ -3661,6 +3746,7 @@
         'name' => array(
             'ar'     =>  'كازاخستان',
             'bg'     =>  'Казахстан',
+            'br'     =>  'Kazakstan',
             'cs'     =>  'Kazachstán',
             'da'     =>  'Kasakhstan',
             'de'     =>  'Kasachstan',
@@ -3704,6 +3790,7 @@
         'name' => array(
             'ar'     =>  'كينيا',
             'bg'     =>  'Кения',
+            'br'     =>  'Kenya',
             'cs'     =>  'Keňa',
             'da'     =>  'Kenya',
             'de'     =>  'Kenia',
@@ -3747,6 +3834,7 @@
         'name' => array(
             'ar'     =>  'كيريباتي',
             'bg'     =>  'Кирибати',
+            'br'     =>  'Kiribati',
             'cs'     =>  'Kiribati',
             'da'     =>  'Kiribati',
             'de'     =>  'Kiribati',
@@ -3790,6 +3878,7 @@
         'name' => array(
             'ar'     =>  'كوريا الشمالية',
             'bg'     =>  'Северна Корея',
+            'br'     =>  'Korea an Norzh',
             'cs'     =>  'Severní Korea',
             'da'     =>  'Nordkorea',
             'de'     =>  'Korea, Nord (Nordkorea)',
@@ -3833,6 +3922,7 @@
         'name' => array(
             'ar'     =>  'كوريا الجنوبية',
             'bg'     =>  'Южна Корея',
+            'br'     =>  'Republik Korea',
             'cs'     =>  'Jižní Korea',
             'da'     =>  'Sydkorea',
             'de'     =>  'Korea, Süd (Südkorea)',
@@ -3876,6 +3966,7 @@
         'name' => array(
             'ar'     =>  'الكويت',
             'bg'     =>  'Кувейт',
+            'br'     =>  'Koweit',
             'cs'     =>  'Kuvajt',
             'da'     =>  'Kuwait',
             'de'     =>  'Kuwait',
@@ -3919,6 +4010,7 @@
         'name' => array(
             'ar'     =>  'قرغيزستان',
             'bg'     =>  'Киргизстан',
+            'br'     =>  'Kirgizstan',
             'cs'     =>  'Kyrgyzstán',
             'da'     =>  'Kirgisistan',
             'de'     =>  'Kirgisistan',
@@ -3962,6 +4054,7 @@
         'name' => array(
             'ar'     =>  'لاوس',
             'bg'     =>  'Лаос',
+            'br'     =>  'Laos',
             'cs'     =>  'Laos',
             'da'     =>  'Laos',
             'de'     =>  'Laos',
@@ -4005,6 +4098,7 @@
         'name' => array(
             'ar'     =>  'لاتفيا',
             'bg'     =>  'Латвия',
+            'br'     =>  'Latvia',
             'cs'     =>  'Lotyšsko',
             'da'     =>  'Letland',
             'de'     =>  'Lettland',
@@ -4027,7 +4121,7 @@
             'nl'     =>  'Letland',
             'no'     =>  'Latvia',
             'pl'     =>  'Łotwa',
-            'pt'     =>  'Letônia',
+            'pt'     =>  'Letónia',
             'ro'     =>  'Letonia',
             'ru'     =>  'Латвия',
             'sk'     =>  'Lotyšsko',
@@ -4048,6 +4142,7 @@
         'name' => array(
             'ar'     =>  'لبنان',
             'bg'     =>  'Ливан',
+            'br'     =>  'Liban',
             'cs'     =>  'Libanon',
             'da'     =>  'Libanon',
             'de'     =>  'Libanon',
@@ -4091,6 +4186,7 @@
         'name' => array(
             'ar'     =>  'ليسوتو',
             'bg'     =>  'Лесото',
+            'br'     =>  'Lesotho',
             'cs'     =>  'Lesotho',
             'da'     =>  'Lesotho',
             'de'     =>  'Lesotho',
@@ -4134,6 +4230,7 @@
         'name' => array(
             'ar'     =>  'ليبيريا',
             'bg'     =>  'Либерия',
+            'br'     =>  'Liberia',
             'cs'     =>  'Libérie',
             'da'     =>  'Liberia',
             'de'     =>  'Liberia',
@@ -4177,6 +4274,7 @@
         'name' => array(
             'ar'     =>  'ليبيا',
             'bg'     =>  'Либия',
+            'br'     =>  'Libia',
             'cs'     =>  'Libye',
             'da'     =>  'Libyen',
             'de'     =>  'Libyen',
@@ -4220,6 +4318,7 @@
         'name' => array(
             'ar'     =>  'ليختنشتاين',
             'bg'     =>  'Лихтенщайн',
+            'br'     =>  'Liechtenstein',
             'cs'     =>  'Lichtenštejnsko',
             'da'     =>  'Liechtenstein',
             'de'     =>  'Liechtenstein',
@@ -4263,6 +4362,7 @@
         'name' => array(
             'ar'     =>  'ليتوانيا',
             'bg'     =>  'Литва',
+            'br'     =>  'Lituania',
             'cs'     =>  'Litva',
             'da'     =>  'Litauen',
             'de'     =>  'Litauen',
@@ -4306,12 +4406,13 @@
         'name' => array(
             'ar'     =>  'لوكسمبورغ',
             'bg'     =>  'Люксембург',
+            'br'     =>  'Luksembourg',
             'cs'     =>  'Lucembursko',
             'da'     =>  'Luxembourg',
             'de'     =>  'Luxemburg',
             'el'     =>  'Λουξεμβούργο',
             'en'     =>  'Luxembourg',
-            'eo'     =>  'Luksemburgo',
+            'eo'     =>  'Luksemburgio',
             'es'     =>  'Luxemburgo',
             'et'     =>  'Luksemburg',
             'eu'     =>  'Luxenburgo',
@@ -4349,6 +4450,7 @@
         'name' => array(
             'ar'     =>  'مقدونيا',
             'bg'     =>  'Северна Македония',
+            'br'     =>  'Makedonia an Norzh',
             'cs'     =>  'Severní Makedonie',
             'da'     =>  'Nordmakedonien',
             'de'     =>  'Nordmazedonien',
@@ -4392,6 +4494,7 @@
         'name' => array(
             'ar'     =>  'مدغشقر',
             'bg'     =>  'Мадагаскар',
+            'br'     =>  'Madagaskar',
             'cs'     =>  'Madagaskar',
             'da'     =>  'Madagaskar',
             'de'     =>  'Madagaskar',
@@ -4435,6 +4538,7 @@
         'name' => array(
             'ar'     =>  'مالاوي',
             'bg'     =>  'Малави',
+            'br'     =>  'Malawi',
             'cs'     =>  'Malawi',
             'da'     =>  'Malawi',
             'de'     =>  'Malawi',
@@ -4478,6 +4582,7 @@
         'name' => array(
             'ar'     =>  'ماليزيا',
             'bg'     =>  'Малайзия',
+            'br'     =>  'Malaysia',
             'cs'     =>  'Malajsie',
             'da'     =>  'Malaysia',
             'de'     =>  'Malaysia',
@@ -4521,6 +4626,7 @@
         'name' => array(
             'ar'     =>  'جزر المالديف',
             'bg'     =>  'Малдиви',
+            'br'     =>  'Maldivez',
             'cs'     =>  'Maledivy',
             'da'     =>  'Maldiverne',
             'de'     =>  'Malediven',
@@ -4550,7 +4656,7 @@
             'sl'     =>  'Maldivi',
             'sr'     =>  'Maldivi',
             'sv'     =>  'Maldiverna',
-            'th'     =>  'มัลดีฟส์',
+            'th'     =>  'Maldives',
             'tr'     =>  'Maldivler',
             'uk'     =>  'Мальдіви',
             'zh'     =>  '马尔代夫',
@@ -4564,6 +4670,7 @@
         'name' => array(
             'ar'     =>  'مالي',
             'bg'     =>  'Мали',
+            'br'     =>  'Mali',
             'cs'     =>  'Mali',
             'da'     =>  'Mali',
             'de'     =>  'Mali',
@@ -4607,6 +4714,7 @@
         'name' => array(
             'ar'     =>  'مالطا',
             'bg'     =>  'Малта',
+            'br'     =>  'Malta',
             'cs'     =>  'Malta',
             'da'     =>  'Malta',
             'de'     =>  'Malta',
@@ -4650,6 +4758,7 @@
         'name' => array(
             'ar'     =>  'جزر مارشال',
             'bg'     =>  'Маршалови острови',
+            'br'     =>  'Inizi Marshall',
             'cs'     =>  'Marshallovy ostrovy',
             'da'     =>  'Marshalløerne',
             'de'     =>  'Marshallinseln',
@@ -4693,6 +4802,7 @@
         'name' => array(
             'ar'     =>  'موريتانيا',
             'bg'     =>  'Мавритания',
+            'br'     =>  'Maouritania',
             'cs'     =>  'Mauritánie',
             'da'     =>  'Mauretanien',
             'de'     =>  'Mauretanien',
@@ -4736,6 +4846,7 @@
         'name' => array(
             'ar'     =>  'موريشيوس',
             'bg'     =>  'Мавриций',
+            'br'     =>  'Moris',
             'cs'     =>  'Mauricius',
             'da'     =>  'Mauritius',
             'de'     =>  'Mauritius',
@@ -4779,6 +4890,7 @@
         'name' => array(
             'ar'     =>  'المكسيك',
             'bg'     =>  'Мексико',
+            'br'     =>  'Mec\'hiko',
             'cs'     =>  'Mexiko',
             'da'     =>  'Mexico',
             'de'     =>  'Mexiko',
@@ -4822,6 +4934,7 @@
         'name' => array(
             'ar'     =>  'ولايات ميكرونيسيا المتحدة',
             'bg'     =>  'Микронезия',
+            'br'     =>  'Mikronezia',
             'cs'     =>  'Mikronésie',
             'da'     =>  'Mikronesien',
             'de'     =>  'Mikronesien',
@@ -4865,6 +4978,7 @@
         'name' => array(
             'ar'     =>  'المغرب',
             'bg'     =>  'Мароко',
+            'br'     =>  'Maroko',
             'cs'     =>  'Maroko',
             'da'     =>  'Marokko',
             'de'     =>  'Marokko',
@@ -4908,6 +5022,7 @@
         'name' => array(
             'ar'     =>  'مولدوفا',
             'bg'     =>  'Молдова',
+            'br'     =>  'Moldova',
             'cs'     =>  'Moldavsko',
             'da'     =>  'Moldova',
             'de'     =>  'Moldau',
@@ -4951,6 +5066,7 @@
         'name' => array(
             'ar'     =>  'موناكو',
             'bg'     =>  'Монако',
+            'br'     =>  'Monako',
             'cs'     =>  'Monako',
             'da'     =>  'Monaco',
             'de'     =>  'Monaco',
@@ -4994,6 +5110,7 @@
         'name' => array(
             'ar'     =>  'منغوليا',
             'bg'     =>  'Монголия',
+            'br'     =>  'Mongolia',
             'cs'     =>  'Mongolsko',
             'da'     =>  'Mongoliet',
             'de'     =>  'Mongolei',
@@ -5037,6 +5154,7 @@
         'name' => array(
             'ar'     =>  'الجبل الأسود',
             'bg'     =>  'Черна гора',
+            'br'     =>  'Montenegro',
             'cs'     =>  'Černá Hora',
             'da'     =>  'Montenegro',
             'de'     =>  'Montenegro',
@@ -5080,6 +5198,7 @@
         'name' => array(
             'ar'     =>  'موزمبيق',
             'bg'     =>  'Мозамбик',
+            'br'     =>  'Mozambik',
             'cs'     =>  'Mosambik',
             'da'     =>  'Mozambique',
             'de'     =>  'Mosambik',
@@ -5123,6 +5242,7 @@
         'name' => array(
             'ar'     =>  'ميانمار',
             'bg'     =>  'Мианмар',
+            'br'     =>  'Myanmar',
             'cs'     =>  'Myanmar',
             'da'     =>  'Myanmar',
             'de'     =>  'Myanmar',
@@ -5166,6 +5286,7 @@
         'name' => array(
             'ar'     =>  'ناميبيا',
             'bg'     =>  'Намибия',
+            'br'     =>  'Namibia',
             'cs'     =>  'Namibie',
             'da'     =>  'Namibia',
             'de'     =>  'Namibia',
@@ -5209,6 +5330,7 @@
         'name' => array(
             'ar'     =>  'ناورو',
             'bg'     =>  'Науру',
+            'br'     =>  'Nauru',
             'cs'     =>  'Nauru',
             'da'     =>  'Nauru',
             'de'     =>  'Nauru',
@@ -5252,6 +5374,7 @@
         'name' => array(
             'ar'     =>  'نيبال',
             'bg'     =>  'Непал',
+            'br'     =>  'Nepal',
             'cs'     =>  'Nepál',
             'da'     =>  'Nepal',
             'de'     =>  'Nepal',
@@ -5295,6 +5418,7 @@
         'name' => array(
             'ar'     =>  'هولندا',
             'bg'     =>  'Нидерландия',
+            'br'     =>  'Izelvroioù',
             'cs'     =>  'Nizozemsko',
             'da'     =>  'Holland',
             'de'     =>  'Niederlande',
@@ -5338,6 +5462,7 @@
         'name' => array(
             'ar'     =>  'نيوزيلندا',
             'bg'     =>  'Нова Зеландия',
+            'br'     =>  'Zeland-Nevez',
             'cs'     =>  'Nový Zéland',
             'da'     =>  'New Zealand',
             'de'     =>  'Neuseeland',
@@ -5381,6 +5506,7 @@
         'name' => array(
             'ar'     =>  'نيكاراغوا',
             'bg'     =>  'Никарагуа',
+            'br'     =>  'Nicaragua',
             'cs'     =>  'Nikaragua',
             'da'     =>  'Nicaragua',
             'de'     =>  'Nicaragua',
@@ -5424,6 +5550,7 @@
         'name' => array(
             'ar'     =>  'النيجر',
             'bg'     =>  'Нигер',
+            'br'     =>  'Niger',
             'cs'     =>  'Niger',
             'da'     =>  'Niger',
             'de'     =>  'Niger',
@@ -5467,6 +5594,7 @@
         'name' => array(
             'ar'     =>  'نيجيريا',
             'bg'     =>  'Нигерия',
+            'br'     =>  'Nigeria',
             'cs'     =>  'Nigérie',
             'da'     =>  'Nigeria',
             'de'     =>  'Nigeria',
@@ -5510,6 +5638,7 @@
         'name' => array(
             'ar'     =>  'النرويج',
             'bg'     =>  'Норвегия',
+            'br'     =>  'Norvegia',
             'cs'     =>  'Norsko',
             'da'     =>  'Norge',
             'de'     =>  'Norwegen',
@@ -5553,6 +5682,7 @@
         'name' => array(
             'ar'     =>  'عُمان',
             'bg'     =>  'Оман',
+            'br'     =>  'Oman',
             'cs'     =>  'Omán',
             'da'     =>  'Oman',
             'de'     =>  'Oman',
@@ -5596,6 +5726,7 @@
         'name' => array(
             'ar'     =>  'باكستان',
             'bg'     =>  'Пакистан',
+            'br'     =>  'Pakistan',
             'cs'     =>  'Pákistán',
             'da'     =>  'Pakistan',
             'de'     =>  'Pakistan',
@@ -5639,6 +5770,7 @@
         'name' => array(
             'ar'     =>  'بالاو',
             'bg'     =>  'Палау',
+            'br'     =>  'Palau',
             'cs'     =>  'Palau',
             'da'     =>  'Palau',
             'de'     =>  'Palau',
@@ -5682,6 +5814,7 @@
         'name' => array(
             'ar'     =>  'بنما',
             'bg'     =>  'Панама',
+            'br'     =>  'Panamá',
             'cs'     =>  'Panama',
             'da'     =>  'Panama',
             'de'     =>  'Panama',
@@ -5725,6 +5858,7 @@
         'name' => array(
             'ar'     =>  'بابوا غينيا الجديدة',
             'bg'     =>  'Папуа Нова Гвинея',
+            'br'     =>  'Papoua Ginea-Nevez',
             'cs'     =>  'Papua Nová Guinea',
             'da'     =>  'Papua Ny Guinea',
             'de'     =>  'Papua-Neuguinea',
@@ -5768,6 +5902,7 @@
         'name' => array(
             'ar'     =>  'باراغواي',
             'bg'     =>  'Парагвай',
+            'br'     =>  'Paraguay',
             'cs'     =>  'Paraguay',
             'da'     =>  'Paraguay',
             'de'     =>  'Paraguay',
@@ -5811,6 +5946,7 @@
         'name' => array(
             'ar'     =>  'بيرو',
             'bg'     =>  'Перу',
+            'br'     =>  'Perou',
             'cs'     =>  'Peru',
             'da'     =>  'Peru',
             'de'     =>  'Peru',
@@ -5854,6 +5990,7 @@
         'name' => array(
             'ar'     =>  'الفلبين',
             'bg'     =>  'Филипини',
+            'br'     =>  'Filipinez',
             'cs'     =>  'Filipíny',
             'da'     =>  'Filippinerne',
             'de'     =>  'Philippinen',
@@ -5897,6 +6034,7 @@
         'name' => array(
             'ar'     =>  'بولندا',
             'bg'     =>  'Полша',
+            'br'     =>  'Polonia',
             'cs'     =>  'Polsko',
             'da'     =>  'Polen',
             'de'     =>  'Polen',
@@ -5940,6 +6078,7 @@
         'name' => array(
             'ar'     =>  'البرتغال',
             'bg'     =>  'Португалия',
+            'br'     =>  'Portugal',
             'cs'     =>  'Portugalsko',
             'da'     =>  'Portugal',
             'de'     =>  'Portugal',
@@ -5983,6 +6122,7 @@
         'name' => array(
             'ar'     =>  'قطر',
             'bg'     =>  'Катар',
+            'br'     =>  'Qatar',
             'cs'     =>  'Katar',
             'da'     =>  'Qatar',
             'de'     =>  'Katar',
@@ -6026,6 +6166,7 @@
         'name' => array(
             'ar'     =>  'رومانيا',
             'bg'     =>  'Румъния',
+            'br'     =>  'Roumania',
             'cs'     =>  'Rumunsko',
             'da'     =>  'Rumænien',
             'de'     =>  'Rumänien',
@@ -6069,6 +6210,7 @@
         'name' => array(
             'ar'     =>  'روسيا',
             'bg'     =>  'Русия',
+            'br'     =>  'Rusia',
             'cs'     =>  'Rusko',
             'da'     =>  'Rusland',
             'de'     =>  'Russland',
@@ -6112,6 +6254,7 @@
         'name' => array(
             'ar'     =>  'رواندا',
             'bg'     =>  'Руанда',
+            'br'     =>  'Rwanda',
             'cs'     =>  'Rwanda',
             'da'     =>  'Rwanda',
             'de'     =>  'Ruanda',
@@ -6155,6 +6298,7 @@
         'name' => array(
             'ar'     =>  'سانت كيتس ونيفيس',
             'bg'     =>  'Сейнт Китс и Невис',
+            'br'     =>  'Saint Kitts ha Nevis',
             'cs'     =>  'Svatý Kryštof a Nevis',
             'da'     =>  'Saint Kitts og Nevis',
             'de'     =>  'St. Kitts und Nevis',
@@ -6198,6 +6342,7 @@
         'name' => array(
             'ar'     =>  'سانت لوسيا',
             'bg'     =>  'Сейнт Лусия',
+            'br'     =>  'Santez-Lusia',
             'cs'     =>  'Svatá Lucie',
             'da'     =>  'Saint Lucia',
             'de'     =>  'St. Lucia',
@@ -6241,6 +6386,7 @@
         'name' => array(
             'ar'     =>  'سانت فينسنت والغرينادين',
             'bg'     =>  'Сейнт Винсент и Гренадини',
+            'br'     =>  'Sant-Visant hag ar Grenadinez',
             'cs'     =>  'Svatý Vincenc a Grenadiny',
             'da'     =>  'Saint Vincent og Grenadinerne',
             'de'     =>  'St. Vincent und die Grenadinen',
@@ -6284,6 +6430,7 @@
         'name' => array(
             'ar'     =>  'ساموا',
             'bg'     =>  'Самоа',
+            'br'     =>  'Samoa',
             'cs'     =>  'Samoa',
             'da'     =>  'Samoa',
             'de'     =>  'Samoa',
@@ -6327,6 +6474,7 @@
         'name' => array(
             'ar'     =>  'سان مارينو',
             'bg'     =>  'Сан Марино',
+            'br'     =>  'San Marino',
             'cs'     =>  'San Marino',
             'da'     =>  'San Marino',
             'de'     =>  'San Marino',
@@ -6370,6 +6518,7 @@
         'name' => array(
             'ar'     =>  'ساو تومي وبرينسيب',
             'bg'     =>  'Сао Томе и Принсипи',
+            'br'     =>  'São Tomé ha Príncipe',
             'cs'     =>  'Svatý Tomáš a Princův ostrov',
             'da'     =>  'São Tomé og Príncipe',
             'de'     =>  'São Tomé und Príncipe',
@@ -6413,6 +6562,7 @@
         'name' => array(
             'ar'     =>  'السعودية',
             'bg'     =>  'Саудитска Арабия',
+            'br'     =>  'Arabia Saoudat',
             'cs'     =>  'Saúdská Arábie',
             'da'     =>  'Saudi-Arabien',
             'de'     =>  'Saudi-Arabien',
@@ -6456,6 +6606,7 @@
         'name' => array(
             'ar'     =>  'السنغال',
             'bg'     =>  'Сенегал',
+            'br'     =>  'Senegal',
             'cs'     =>  'Senegal',
             'da'     =>  'Senegal',
             'de'     =>  'Senegal',
@@ -6499,6 +6650,7 @@
         'name' => array(
             'ar'     =>  'صربيا',
             'bg'     =>  'Сърбия',
+            'br'     =>  'Serbia',
             'cs'     =>  'Srbsko',
             'da'     =>  'Serbien',
             'de'     =>  'Serbien',
@@ -6542,6 +6694,7 @@
         'name' => array(
             'ar'     =>  'سيشل',
             'bg'     =>  'Сейшелски острови',
+            'br'     =>  'Sechelez',
             'cs'     =>  'Seychely',
             'da'     =>  'Seychellerne',
             'de'     =>  'Seychellen',
@@ -6585,6 +6738,7 @@
         'name' => array(
             'ar'     =>  'سيراليون',
             'bg'     =>  'Сиера Леоне',
+            'br'     =>  'Sierra Leone',
             'cs'     =>  'Sierra Leone',
             'da'     =>  'Sierra Leone',
             'de'     =>  'Sierra Leone',
@@ -6628,6 +6782,7 @@
         'name' => array(
             'ar'     =>  'سنغافورة',
             'bg'     =>  'Сингапур',
+            'br'     =>  'Singapour',
             'cs'     =>  'Singapur',
             'da'     =>  'Singapore',
             'de'     =>  'Singapur',
@@ -6671,6 +6826,7 @@
         'name' => array(
             'ar'     =>  'سلوفاكيا',
             'bg'     =>  'Словакия',
+            'br'     =>  'Slovakia',
             'cs'     =>  'Slovensko',
             'da'     =>  'Slovakiet',
             'de'     =>  'Slowakei',
@@ -6714,6 +6870,7 @@
         'name' => array(
             'ar'     =>  'سلوفينيا',
             'bg'     =>  'Словения',
+            'br'     =>  'Slovenia',
             'cs'     =>  'Slovinsko',
             'da'     =>  'Slovenien',
             'de'     =>  'Slowenien',
@@ -6757,6 +6914,7 @@
         'name' => array(
             'ar'     =>  'جزر سليمان',
             'bg'     =>  'Соломонови острови',
+            'br'     =>  'Inizi Salomon',
             'cs'     =>  'Šalomounovy ostrovy',
             'da'     =>  'Salomonøerne',
             'de'     =>  'Salomonen',
@@ -6800,6 +6958,7 @@
         'name' => array(
             'ar'     =>  'الصومال',
             'bg'     =>  'Сомалия',
+            'br'     =>  'Somalia',
             'cs'     =>  'Somálsko',
             'da'     =>  'Somalia',
             'de'     =>  'Somalia',
@@ -6843,6 +7002,7 @@
         'name' => array(
             'ar'     =>  'جنوب إفريقيا',
             'bg'     =>  'ЮАР',
+            'br'     =>  'Suafrika',
             'cs'     =>  'Jihoafrická republika',
             'da'     =>  'Sydafrika',
             'de'     =>  'Südafrika',
@@ -6886,6 +7046,7 @@
         'name' => array(
             'ar'     =>  'جنوب السودان',
             'bg'     =>  'Южен Судан',
+            'br'     =>  'Soudan ar Su',
             'cs'     =>  'Jižní Súdán',
             'da'     =>  'Sydsudan',
             'de'     =>  'Südsudan',
@@ -6929,6 +7090,7 @@
         'name' => array(
             'ar'     =>  'إسبانيا',
             'bg'     =>  'Испания',
+            'br'     =>  'Spagn',
             'cs'     =>  'Španělsko',
             'da'     =>  'Spanien',
             'de'     =>  'Spanien',
@@ -6972,6 +7134,7 @@
         'name' => array(
             'ar'     =>  'سريلانكا',
             'bg'     =>  'Шри Ланка',
+            'br'     =>  'Sri Lanka',
             'cs'     =>  'Srí Lanka',
             'da'     =>  'Sri Lanka',
             'de'     =>  'Sri Lanka',
@@ -7015,6 +7178,7 @@
         'name' => array(
             'ar'     =>  'السودان',
             'bg'     =>  'Судан',
+            'br'     =>  'Soudan',
             'cs'     =>  'Súdán',
             'da'     =>  'Sudan',
             'de'     =>  'Sudan',
@@ -7058,6 +7222,7 @@
         'name' => array(
             'ar'     =>  'سورينام',
             'bg'     =>  'Суринам',
+            'br'     =>  'Surinam',
             'cs'     =>  'Surinam',
             'da'     =>  'Surinam',
             'de'     =>  'Suriname',
@@ -7101,6 +7266,7 @@
         'name' => array(
             'ar'     =>  'إسواتيني',
             'bg'     =>  'Есватини',
+            'br'     =>  'Eswatini',
             'cs'     =>  'Svazijsko',
             'da'     =>  'Eswatini',
             'de'     =>  'Eswatini',
@@ -7144,6 +7310,7 @@
         'name' => array(
             'ar'     =>  'السويد',
             'bg'     =>  'Швеция',
+            'br'     =>  'Sveden',
             'cs'     =>  'Švédsko',
             'da'     =>  'Sverige',
             'de'     =>  'Schweden',
@@ -7187,6 +7354,7 @@
         'name' => array(
             'ar'     =>  'سويسرا',
             'bg'     =>  'Швейцария',
+            'br'     =>  'Suis',
             'cs'     =>  'Švýcarsko',
             'da'     =>  'Schweiz',
             'de'     =>  'Schweiz',
@@ -7230,6 +7398,7 @@
         'name' => array(
             'ar'     =>  'سوريا',
             'bg'     =>  'Сирия',
+            'br'     =>  'Siria',
             'cs'     =>  'Sýrie',
             'da'     =>  'Syrien',
             'de'     =>  'Syrien',
@@ -7273,6 +7442,7 @@
         'name' => array(
             'ar'     =>  'طاجيكستان',
             'bg'     =>  'Таджикистан',
+            'br'     =>  'Tadjikistan',
             'cs'     =>  'Tádžikistán',
             'da'     =>  'Tadsjikistan',
             'de'     =>  'Tadschikistan',
@@ -7316,6 +7486,7 @@
         'name' => array(
             'ar'     =>  'تنزانيا',
             'bg'     =>  'Танзания',
+            'br'     =>  'Tanzania',
             'cs'     =>  'Tanzanie',
             'da'     =>  'Tanzania',
             'de'     =>  'Tansania',
@@ -7359,6 +7530,7 @@
         'name' => array(
             'ar'     =>  'تايلاند',
             'bg'     =>  'Тайланд',
+            'br'     =>  'Thailand',
             'cs'     =>  'Thajsko',
             'da'     =>  'Thailand',
             'de'     =>  'Thailand',
@@ -7402,6 +7574,7 @@
         'name' => array(
             'ar'     =>  'تيمور الشرقية',
             'bg'     =>  'Източен Тимор',
+            'br'     =>  'Timor ar Reter',
             'cs'     =>  'Východní Timor',
             'da'     =>  'Østtimor',
             'de'     =>  'Osttimor',
@@ -7445,6 +7618,7 @@
         'name' => array(
             'ar'     =>  'توغو',
             'bg'     =>  'Того',
+            'br'     =>  'Togo',
             'cs'     =>  'Togo',
             'da'     =>  'Togo',
             'de'     =>  'Togo',
@@ -7488,6 +7662,7 @@
         'name' => array(
             'ar'     =>  'تونغا',
             'bg'     =>  'Тонга',
+            'br'     =>  'Tonga',
             'cs'     =>  'Tonga',
             'da'     =>  'Tonga',
             'de'     =>  'Tonga',
@@ -7531,6 +7706,7 @@
         'name' => array(
             'ar'     =>  'ترينيداد وتوباغو',
             'bg'     =>  'Тринидад и Тобаго',
+            'br'     =>  'Trinidad ha Tobago',
             'cs'     =>  'Trinidad a Tobago',
             'da'     =>  'Trinidad og Tobago',
             'de'     =>  'Trinidad und Tobago',
@@ -7574,6 +7750,7 @@
         'name' => array(
             'ar'     =>  'تونس',
             'bg'     =>  'Тунис',
+            'br'     =>  'Tunizia',
             'cs'     =>  'Tunisko',
             'da'     =>  'Tunesien',
             'de'     =>  'Tunesien',
@@ -7617,6 +7794,7 @@
         'name' => array(
             'ar'     =>  'تركيا',
             'bg'     =>  'Турция',
+            'br'     =>  'Turkia',
             'cs'     =>  'Turecko',
             'da'     =>  'Tyrkiet',
             'de'     =>  'Türkei',
@@ -7660,6 +7838,7 @@
         'name' => array(
             'ar'     =>  'تركمانستان',
             'bg'     =>  'Туркменистан',
+            'br'     =>  'Turkmenistan',
             'cs'     =>  'Turkmenistán',
             'da'     =>  'Turkmenistan',
             'de'     =>  'Turkmenistan',
@@ -7703,6 +7882,7 @@
         'name' => array(
             'ar'     =>  'توفالو',
             'bg'     =>  'Тувалу',
+            'br'     =>  'Tuvalu',
             'cs'     =>  'Tuvalu',
             'da'     =>  'Tuvalu',
             'de'     =>  'Tuvalu',
@@ -7746,6 +7926,7 @@
         'name' => array(
             'ar'     =>  'أوغندا',
             'bg'     =>  'Уганда',
+            'br'     =>  'Ouganda',
             'cs'     =>  'Uganda',
             'da'     =>  'Uganda',
             'de'     =>  'Uganda',
@@ -7789,6 +7970,7 @@
         'name' => array(
             'ar'     =>  'أوكرانيا',
             'bg'     =>  'Украйна',
+            'br'     =>  'Ukraina',
             'cs'     =>  'Ukrajina',
             'da'     =>  'Ukraine',
             'de'     =>  'Ukraine',
@@ -7832,6 +8014,7 @@
         'name' => array(
             'ar'     =>  'الإمارات العربية المتحدة',
             'bg'     =>  'ОАЕ',
+            'br'     =>  'Emirelezhioù Arab Unanet',
             'cs'     =>  'Spojené arabské emiráty',
             'da'     =>  'Forenede Arabiske Emirater',
             'de'     =>  'Vereinigte Arabische Emirate',
@@ -7875,6 +8058,7 @@
         'name' => array(
             'ar'     =>  'المملكة المتحدة',
             'bg'     =>  'Великобритания',
+            'br'     =>  'Rouantelezh-Unanet',
             'cs'     =>  'Spojené království Velké Británie a Severního Irska',
             'da'     =>  'Storbritannien',
             'de'     =>  'Vereinigtes Königreich',
@@ -7918,6 +8102,7 @@
         'name' => array(
             'ar'     =>  'الولايات المتحدة',
             'bg'     =>  'САЩ',
+            'br'     =>  'Stadoù-Unanet',
             'cs'     =>  'Spojené státy americké',
             'da'     =>  'USA',
             'de'     =>  'Vereinigte Staaten',
@@ -7961,6 +8146,7 @@
         'name' => array(
             'ar'     =>  'الأوروغواي',
             'bg'     =>  'Уругвай',
+            'br'     =>  'Uruguay',
             'cs'     =>  'Uruguay',
             'da'     =>  'Uruguay',
             'de'     =>  'Uruguay',
@@ -8004,6 +8190,7 @@
         'name' => array(
             'ar'     =>  'أوزبكستان',
             'bg'     =>  'Узбекистан',
+            'br'     =>  'Ouzbekistan',
             'cs'     =>  'Uzbekistán',
             'da'     =>  'Usbekistan',
             'de'     =>  'Usbekistan',
@@ -8047,6 +8234,7 @@
         'name' => array(
             'ar'     =>  'فانواتو',
             'bg'     =>  'Вануату',
+            'br'     =>  'Vanuatu',
             'cs'     =>  'Vanuatu',
             'da'     =>  'Vanuatu',
             'de'     =>  'Vanuatu',
@@ -8090,6 +8278,7 @@
         'name' => array(
             'ar'     =>  'فنزويلا',
             'bg'     =>  'Венецуела',
+            'br'     =>  'Venezuela',
             'cs'     =>  'Venezuela',
             'da'     =>  'Venezuela',
             'de'     =>  'Venezuela',
@@ -8133,6 +8322,7 @@
         'name' => array(
             'ar'     =>  'فيتنام',
             'bg'     =>  'Виетнам',
+            'br'     =>  'Viêt Nam',
             'cs'     =>  'Vietnam',
             'da'     =>  'Vietnam',
             'de'     =>  'Vietnam',
@@ -8176,6 +8366,7 @@
         'name' => array(
             'ar'     =>  'اليمن',
             'bg'     =>  'Йемен',
+            'br'     =>  'Yemen',
             'cs'     =>  'Jemen',
             'da'     =>  'Yemen',
             'de'     =>  'Jemen',
@@ -8219,6 +8410,7 @@
         'name' => array(
             'ar'     =>  'زامبيا',
             'bg'     =>  'Замбия',
+            'br'     =>  'Zambia',
             'cs'     =>  'Zambie',
             'da'     =>  'Zambia',
             'de'     =>  'Sambia',
@@ -8262,6 +8454,7 @@
         'name' => array(
             'ar'     =>  'زيمبابوي',
             'bg'     =>  'Зимбабве',
+            'br'     =>  'Zimbabwe',
             'cs'     =>  'Zimbabwe',
             'da'     =>  'Zimbabwe',
             'de'     =>  'Simbabwe',
