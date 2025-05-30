@@ -1,3 +1,7 @@
+## version 3.0.0 (TBA)
+
+- updated all ISO 3166-2 codes; the data is now taken from [Wikipedia](https://en.wikipedia.org/wiki/ISO_3166-2) and will be automatically kept up to date just like the country names; I've also included a "type" (category) column, and a "parent" column (for when there are multiple administrative levels)
+
 ## version 2.10.0 (May 29, 2025)
 
 - added country names in Breton; see [#98](https://github.com/stefangabos/world_countries/issues/98); thanks [Alexis Launay](https://github.com/YoruNoHikage)!
