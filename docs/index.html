@@ -175,10 +175,48 @@
                     <h3>Flags</h3>
 
                     <p>
-                        The library provides national flags of each country as a 16x16, 24x24, 32x32, 48x48, 64x64
-                        and 128x128 PNG images. The image files are named using the <em>ISO 3166-1-alpha-2</em> code of
-                        the country they represent, for easily pairing flags with countries.
+                        The library also provides national flags of each country in multiple styles. The image files are
+                        named using the <em>ISO 3166-1-alpha-2</em> code of the country they represent, for easily pairing
+                        flags with countries.
                     </p>
+
+                    <p><br>
+                        In <code>/data/flags/default/</code> you will find 16x16, 24x24, 32x32, 48x48, 64x64 and 128x128
+                        PNG images looking like the ones below. The images were available for free on the now defunct
+                        <code>icondrawer.com</code>
+                    </p>
+
+                    <img src="https://github.com/stefangabos/world_countries/blob/master/data/flags/default/64x64/gb.png?raw=true" style="margin: 0 15px 0 0" align="left">
+                    <img src="https://github.com/stefangabos/world_countries/blob/master/data/flags/default/64x64/de.png?raw=true" style="margin: 0 15px 0 0" align="left">
+                    <img src="https://github.com/stefangabos/world_countries/blob/master/data/flags/default/64x64/fr.png?raw=true" style="margin: 0 15px 0 0" align="left">
+                    <img src="https://github.com/stefangabos/world_countries/blob/master/data/flags/default/64x64/it.png?raw=true" style="margin: 0 15px 0 0" align="left">
+                    <img src="https://github.com/stefangabos/world_countries/blob/master/data/flags/default/64x64/us.png?raw=true" style="margin: 0 15px 0 0" align="left">
+                    <img src="https://github.com/stefangabos/world_countries/blob/master/data/flags/default/64x64/pt.png?raw=true" style="margin: 0 15px 0 0" align="left">
+                    <img src="https://github.com/stefangabos/world_countries/blob/master/data/flags/default/64x64/es.png?raw=true" style="margin: 0 15px 0 0" align="left">
+                    <img src="https://github.com/stefangabos/world_countries/blob/master/data/flags/default/64x64/br.png?raw=true" style="margin: 0 15px 0 0" align="left">
+                    <img src="https://github.com/stefangabos/world_countries/blob/master/data/flags/default/64x64/dk.png?raw=true">
+
+                    <p><br>
+                        In <code>/data/flags/flat-waving/</code> you will find 16x12, 24x18, 32x24, 48x36, 64x48 and 128x96
+                        PNG images looking like the ones below.<br>The images are taken from <a href="https://flagpedia.net/">flagpedia.net</a>
+                    </p>
+
+                    <img src="https://github.com/stefangabos/world_countries/blob/master/data/flags/flat-waving/64x48/gb.png?raw=true" style="margin: 0 15px 0 0" align="left">
+                    <img src="https://github.com/stefangabos/world_countries/blob/master/data/flags/flat-waving/64x48/de.png?raw=true" style="margin: 0 15px 0 0" align="left">
+                    <img src="https://github.com/stefangabos/world_countries/blob/master/data/flags/flat-waving/64x48/fr.png?raw=true" style="margin: 0 15px 0 0" align="left">
+                    <img src="https://github.com/stefangabos/world_countries/blob/master/data/flags/flat-waving/64x48/it.png?raw=true" style="margin: 0 15px 0 0" align="left">
+                    <img src="https://github.com/stefangabos/world_countries/blob/master/data/flags/flat-waving/64x48/us.png?raw=true" style="margin: 0 15px 0 0" align="left">
+                    <img src="https://github.com/stefangabos/world_countries/blob/master/data/flags/flat-waving/64x48/pt.png?raw=true" style="margin: 0 15px 0 0" align="left">
+                    <img src="https://github.com/stefangabos/world_countries/blob/master/data/flags/flat-waving/64x48/es.png?raw=true" style="margin: 0 15px 0 0" align="left">
+                    <img src="https://github.com/stefangabos/world_countries/blob/master/data/flags/flat-waving/64x48/br.png?raw=true" style="margin: 0 15px 0 0" align="left">
+                    <img src="https://github.com/stefangabos/world_countries/blob/master/data/flags/flat-waving/64x48/dk.png?raw=true">
+
+                    <br><br>
+
+                    <blockquote><small>
+                        Flag images are also available as single <code>JSON</code> files, one for each of the available sizes,
+                        containing all flag images as <code>data-uri</code>
+                    </small></blockquote>
 
                     <hr>
 
@@ -1564,25 +1602,35 @@
             <h3><strong>III.</strong> Flags</h3><br>
 
             <div class="row">
-                <div class="col-lg-6 col-md-6 col-sm-6 col-xs-12">
-                    <div class="panel panel-default">
-                        <div class="panel-heading">
-                            <label><input type="checkbox" class="format all-flags">&nbsp;<strong>Flags</strong></label>
-                        </div>
-                        <div class="panel-body">
-                            <label><input type="checkbox" class="format flags" name="download[]" value="flags/16x16">16x16</label>&nbsp;
-                            <label><input type="checkbox" class="format flags" name="download[]" value="flags/24x24">24x24</label>&nbsp;
-                            <label><input type="checkbox" class="format flags" name="download[]" value="flags/32x32">32x32</label>&nbsp;
-                            <label><input type="checkbox" class="format flags" name="download[]" value="flags/48x48">48x48</label>&nbsp;
-                            <label><input type="checkbox" class="format flags" name="download[]" value="flags/64x64">64x64</label>&nbsp;
-                            <label><input type="checkbox" class="format flags" name="download[]" value="flags/128x128">128x128</label>&nbsp;
-                            <hr>
-                            <label for="flags-format-images" style="margin-bottom: 0"><input type="radio" name="flags-format" id="flags-format-images" value="images" class="format"> Image files</label>
-                            <label for="flags-format-data-uri" style="margin-bottom: 0"><input type="radio" name="flags-format" id="flags-format-data-uri" value="data-uri" class="format"> Data URI JSON file(s)</label>
+
+                    <div class="col-lg-6 col-md-6 col-sm-6 col-xs-12">
+                        <div class="panel panel-default">
+                            <div class="panel-heading">
+                                <label><input type="checkbox" class="format all-flags">&nbsp;<strong>Default</strong></label>
+                            </div>
+                            <div class="panel-body">
+                    <label><input type="checkbox" class="format flags" name="download[]" value="flags/default/16x16">16x16</label>&nbsp;<label><input type="checkbox" class="format flags" name="download[]" value="flags/default/24x24">24x24</label>&nbsp;<label><input type="checkbox" class="format flags" name="download[]" value="flags/default/32x32">32x32</label>&nbsp;<label><input type="checkbox" class="format flags" name="download[]" value="flags/default/48x48">48x48</label>&nbsp;<label><input type="checkbox" class="format flags" name="download[]" value="flags/default/64x64">64x64</label>&nbsp;<label><input type="checkbox" class="format flags" name="download[]" value="flags/default/128x128">128x128</label>&nbsp;
+                                <hr>
+                                <label for="flags-format-default-images" style="margin-bottom: 0"><input type="radio" name="flags-format-default" id="flags-format-default-images" value="images" class="format flags-format-images"> Image files</label>
+                                <label for="flags-format-default-data-uri" style="margin-bottom: 0"><input type="radio" name="flags-format-default" id="flags-format-default-data-uri" value="data-uri" class="format"> Data URI JSON file(s)</label>
+                            </div>
                         </div>
                     </div>
-                </div>
-            </div>
+
+                    <div class="col-lg-6 col-md-6 col-sm-6 col-xs-12">
+                        <div class="panel panel-default">
+                            <div class="panel-heading">
+                                <label><input type="checkbox" class="format all-flags">&nbsp;<strong>Flat - waving</strong></label>
+                            </div>
+                            <div class="panel-body">
+                    <label><input type="checkbox" class="format flags" name="download[]" value="flags/flat-waving/16x12">16x12</label>&nbsp;<label><input type="checkbox" class="format flags" name="download[]" value="flags/flat-waving/24x18">24x18</label>&nbsp;<label><input type="checkbox" class="format flags" name="download[]" value="flags/flat-waving/32x24">32x24</label>&nbsp;<label><input type="checkbox" class="format flags" name="download[]" value="flags/flat-waving/48x36">48x36</label>&nbsp;<label><input type="checkbox" class="format flags" name="download[]" value="flags/flat-waving/64x48">64x48</label>&nbsp;<label><input type="checkbox" class="format flags" name="download[]" value="flags/flat-waving/128x96">128x96</label>&nbsp;
+                                <hr>
+                                <label for="flags-format-flat-waving-images" style="margin-bottom: 0"><input type="radio" name="flags-format-flat-waving" id="flags-format-flat-waving-images" value="images" class="format flags-format-images"> Image files</label>
+                                <label for="flags-format-flat-waving-data-uri" style="margin-bottom: 0"><input type="radio" name="flags-format-flat-waving" id="flags-format-flat-waving-data-uri" value="data-uri" class="format"> Data URI JSON file(s)</label>
+                            </div>
+                        </div>
+                    </div>
+                                </div>
 
             <div class="row">
                 <div class="col-sm-12">

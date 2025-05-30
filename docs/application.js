@@ -55,8 +55,8 @@ $(document).ready(function() {
             else if (any_flags) $flags.prop('checked', true).prop('indeterminate', true);
             else $flags.prop('checked', false).prop('indeterminate', false);
 
-            if ((all_flags || any_flags) && $('input[name="flags-format"]:checked', $container).length === 0) {
-                $('#flags-format-images').prop('checked', true);
+            if ((all_flags || any_flags) && $('input[name^="flags-format"]:checked', $container).length === 0) {
+                $('.flags-format-images', $container).prop('checked', true);
             }
 
             if ($('input[type="checkbox"]:checked').not('.all-subdivisions').not('.all-flags').not('.all-countries').not('.all-world').not('.all').length)
@@ -90,7 +90,7 @@ $(document).ready(function() {
             items_to_download = $('input[type="checkbox"]:checked').not('.all-subdivisions').not('.all-flags').not('.all-countries').not('.all-world').not('.all'),
             items_processed = 0,
             total_downloads = $(items_to_download).length - $(items_to_download).filter('.flags').length + ($(items_to_download).filter('.flags').length * flags.length),
-            flag_types = $('input[name="flags-format"]:checked').val() || 'images',
+            flag_types,
             timeout;
 
         if (total_downloads) {
@@ -105,12 +105,14 @@ $(document).ready(function() {
 
                     if (value.indexOf('flags') > -1) {
 
+                        flag_types = $('input[name^="flags-format"]:checked', $element.closest('.panel')).val() || 'images';
+
                         if (flag_types === 'images') {
 
                             flags.forEach(function(flag) {
 
                                 jQuery.ajax({
-                                    url:        'https://cdn.jsdelivr.net/gh/stefangabos/world_countries/data/flags/' + path[1] + '/' + flag + '.png',
+                                    url:        'https://cdn.jsdelivr.net/gh/stefangabos/world_countries/data/flags/' + path.slice(1).join('/') + '/' + flag + '.png',
                                     cache:      false,
                                     xhr:        function() {
                                                     var xhr = new XMLHttpRequest();
@@ -118,7 +120,7 @@ $(document).ready(function() {
                                                     return xhr;
                                                 },
                                     success:    function(data) {
-                                                    zip.folder('flags/' + path[1]).file(flag + '.png', data, {blob: true});
+                                                    zip.folder('flags/' + path.slice(1).join('/')).file(flag + '.png', data, {blob: true});
                                                     items_processed++;
                                                 }
                                 });
@@ -128,14 +130,14 @@ $(document).ready(function() {
                         } else {
 
                             jQuery.ajax({
-                                url:        'https://cdn.jsdelivr.net/gh/stefangabos/world_countries/data/flags/' + path[1] + '/flags-' + path[1] + '.json',
+                                url:        'https://cdn.jsdelivr.net/gh/stefangabos/world_countries/data/flags/' + path.slice(1).join('/') + '/flags-' + path[1] + '.json',
                                 cache:      false,
                                 xhr:        function() {
                                                 var xhr = new XMLHttpRequest();
                                                 return xhr;
                                             },
                                 success:    function(data) {
-                                                zip.folder('flags/' + path[1]).file('flags-' + path[1] + '.json', JSON.stringify(data, null, 2), {});
+                                                zip.folder('flags/' + path.slice(1).join('/')).file('flags-' + path[2] + '.json', JSON.stringify(data, null, 2), {});
                                                 items_processed += flags.length;
                                             }
                             });
