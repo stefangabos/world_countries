@@ -53,8 +53,7 @@
                     </p>
 
                     <p>
-                        In the language folders (inside <code>data/countries</code>) you will find files named in two different ways.<br>
-                        Here's what you will find in each of them:
+                        In the language folders (inside <code>data/countries</code>) you will find files named in two different ways:
                     </p>
 
                     <table cellspacing="0" cellpadding="0" class="table table-bordered table-striped" style="width: 850px">
@@ -149,22 +148,28 @@
 
                     <p>
                         The list is available in <code>CSV</code>, <code>JSON</code>, <code>PHP</code>, <code>SQL</code> and
-                        <code>XML</code> formats in the <code>data/subdivisions</code> folder and the CSV one looks like this:
+                        <code>XML</code> formats in the <code>data/subdivisions</code> folder and the lists contain
                     </p>
+                    <ul>
+                        <li>the <strong>country code</strong></li>
+                        <li>the <strong>ISO 3166-2 subdivision code</strong></li>
+                        <li>the <strong>ISO 3166-2 subdivision name</strong></li>
+                        <li>the <strong>type</strong></li>
+                        <li>the <strong>parent</strong> (for when there are multiple administrative levels)</li>
+                    </ul>
+                    <p>An excerpt from the CSV file looks like this</p>
 
                     <p><code>
-                        US,US-AL,Alabama<br>
-                        US,US-AK,Alaska<br>
-                        US,US-AZ,Arizona<br>
-                        US,US-AR,Arkansas<br>
-                        US,US-CA,California<br>
-                        US,US-CO,Colorado<br>
+                        US,US-AL,Alabama,state,<br>
+                        US,US-AK,Alaska,state,<br>
+                        US,US-AZ,Arizona,state,<br>
+                        US,US-AR,Arkansas,state,<br>
+                        US,US-CA,California,state,<br>
+                        US,US-CO,Colorado,state,<br>
                     </code></p>
 
                     <p>
-                        The starting point of this list was the ISO 3166-2 Subdivision Code list provided by
-                        <a href="https://www.ip2location.com/free/iso3166-2">IP2Location</a> but this one will be maintained
-                        by the community.
+                        All the data is taken from <a href="https://en.wikipedia.org/wiki/ISO_3166-2">Wikipedia</a>.
                     </p>
 
                     <h3>Flags</h3>

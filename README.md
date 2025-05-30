@@ -84,15 +84,15 @@ Each complete ISO 3166-2 code can then be used to uniquely identify a country su
 The list is available in `CSV`, `JSON`, `PHP`, `SQL` and `XML` formats in the `data/subdivisions` folder and the CSV one looks like this:
 
 ```csv
-US,US-AL,Alabama
-US,US-AK,Alaska
-US,US-AZ,Arizona
-US,US-AR,Arkansas
-US,US-CA,California
-US,US-CO,Colorado
+US,US-AL,Alabama,state,
+US,US-AK,Alaska,state,
+US,US-AZ,Arizona,state,
+US,US-AR,Arkansas,state,
+US,US-CA,California,state,
+US,US-CO,Colorado,state,
 ```
 
-The starting point of this list was the ISO 3166-2 Subdivision Code list provided by [IP2Location](https://www.ip2location.com/free/iso3166-2) but this one will be maintained by the community.
+All the data is taken from [Wikipedia](https://en.wikipedia.org/wiki/ISO_3166-2).
 
 ## 🎂 Support the development of this project
 
