@@ -83,7 +83,15 @@ The first part is the ISO 3166-1 alpha-2 code of the country;
 The second part is a string of up to three alphanumeric characters, which is usually obtained from national sources and stems from coding systems already in use in the country concerned, but may also be developed by the ISO itself.
 Each complete ISO 3166-2 code can then be used to uniquely identify a country subdivision in a global context.
 
-The list is available in `CSV`, `JSON`, `PHP`, `SQL` and `XML` formats in the `data/subdivisions` folder and the CSV one looks like this:
+The list is available in `CSV`, `JSON`, `PHP`, `SQL` and `XML` formats in the `data/subdivisions` folder and the lists contain:
+
+- the <strong>country code</strong>
+- the <strong>ISO 3166-2 subdivision code</strong>
+- the <strong>ISO 3166-2 subdivision name</strong>
+- the <strong>type</strong>
+- the <strong>parent</strong> (for when there are multiple administrative levels)
+
+<p>An excerpt from the CSV file looks like this</p>
 
 ```csv
 US,US-AL,Alabama,state,
