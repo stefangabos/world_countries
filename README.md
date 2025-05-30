@@ -69,6 +69,8 @@ The lists are currently available in **37 languages**:
 
 > The language folders are named based on the [ISO 639-1](https://en.wikipedia.org/wiki/List_of_ISO_639-1_codes) standard.
 
+All the data is taken from [Wikipedia](https://en.wikipedia.org/wiki/ISO_3166-1).
+
 ## ISO 3166-2 codes
 
 The project also tries to be a comprehensive and up-to-date source for **ISO 3166-2** which defines codes for identifying the principal subdivisions (e.g., provinces or states) of all countries coded in ISO 3166-1.
@@ -93,6 +95,37 @@ US,US-CO,Colorado,state,
 ```
 
 All the data is taken from [Wikipedia](https://en.wikipedia.org/wiki/ISO_3166-2).
+
+## Flags
+
+The package also contains the national flags of each country in multiple styles.
+The image files are named using the ISO 3166-1-alpha-2 code of the country they represent, for easily pairing flags with countries.
+
+In `/data/flags/default/` you will find 16x16, 24x24, 32x32, 48x48, 64x64 and 128x128 PNG images. The images were available for free on the now defunct website `http://icondrawer.com/free.php`.
+
+<img src="https://github.com/stefangabos/world_countries/blob/master/data/flags/default/64x64/gb.png?raw=true">
+<img src="https://github.com/stefangabos/world_countries/blob/master/data/flags/default/64x64/de.png?raw=true">
+<img src="https://github.com/stefangabos/world_countries/blob/master/data/flags/default/64x64/fr.png?raw=true">
+<img src="https://github.com/stefangabos/world_countries/blob/master/data/flags/default/64x64/it.png?raw=true">
+<img src="https://github.com/stefangabos/world_countries/blob/master/data/flags/default/64x64/us.png?raw=true">
+<img src="https://github.com/stefangabos/world_countries/blob/master/data/flags/default/64x64/pt.png?raw=true">
+<img src="https://github.com/stefangabos/world_countries/blob/master/data/flags/default/64x64/es.png?raw=true">
+<img src="https://github.com/stefangabos/world_countries/blob/master/data/flags/default/64x64/br.png?raw=true">
+<img src="https://github.com/stefangabos/world_countries/blob/master/data/flags/default/64x64/dk.png?raw=true">
+
+In `/data/flags/flat-waving/` you will find 16x12, 24x18, 32x24, 48x36, 64x48 and 128x96 PNG images. The images are taken from [flagpedia.net](https://flagpedia.net/)
+
+<img src="https://github.com/stefangabos/world_countries/blob/master/data/flags/flat-waving/64x48/gb.png?raw=true">
+<img src="https://github.com/stefangabos/world_countries/blob/master/data/flags/flat-waving/64x48/de.png?raw=true">
+<img src="https://github.com/stefangabos/world_countries/blob/master/data/flags/flat-waving/64x48/fr.png?raw=true">
+<img src="https://github.com/stefangabos/world_countries/blob/master/data/flags/flat-waving/64x48/it.png?raw=true">
+<img src="https://github.com/stefangabos/world_countries/blob/master/data/flags/flat-waving/64x48/us.png?raw=true">
+<img src="https://github.com/stefangabos/world_countries/blob/master/data/flags/flat-waving/64x48/pt.png?raw=true">
+<img src="https://github.com/stefangabos/world_countries/blob/master/data/flags/flat-waving/64x48/es.png?raw=true">
+<img src="https://github.com/stefangabos/world_countries/blob/master/data/flags/flat-waving/64x48/br.png?raw=true">
+<img src="https://github.com/stefangabos/world_countries/blob/master/data/flags/flat-waving/64x48/dk.png?raw=true">
+
+> Flag images are also available as single `JSON` files, one for each of the available sizes, containing all flag images as `data-uri`
 
 ## 🎂 Support the development of this project
 
@@ -127,9 +160,13 @@ Or
 
 ## Data formats
 
+
 ### SQL
 
 Excerpt from the `data/countries/en/countries.sql` file:
+
+(the columns are `id`,`alpha2`,`alpha3`,`name`)
+
 
 ```sql
 (250,'fr','fra','France'),
@@ -145,6 +182,8 @@ Excerpt from the `data/countries/en/countries.sql` file:
 ### CSV
 
 Excerpt from the `data/countries/en/countries.csv` file:
+
+(the columns are `id`,`alpha2`,`alpha3`,`name`)
 
 ```csv
 250,fr,fra,France
@@ -291,13 +330,3 @@ Excerpt from the `data/countries/en/countries.xml` file:
 <country id="300" alpha2="gr" alpha3="grc" name="Greece"/>
 <country id="308" alpha2="gd" alpha3="grd" name="Grenada"/>
 ```
-
-## Flags
-
-The package also contains the national flags of each country as a 16x16, 24x24, 32x32, 48x48, 64x64 and 128x128 PNG images. The image files are named using the ISO 3166-1-alpha-2 code of the country they represent, for easily pairing flags with countries.
-
-> Flag images are also available as single `JSON` files, one for each of the available sizes, containing all flag images as `data-uri`
-
-## Data sources
-
-Country names in all languages are taken from [Wikipedia](https://en.wikipedia.org/wiki/ISO_3166-1).
