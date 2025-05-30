@@ -133,7 +133,9 @@ The image files are named using the ISO 3166-1-alpha-2 code of the country they 
 <img src="https://github.com/stefangabos/world_countries/blob/master/data/flags/flat-waving/64x48/br.png?raw=true" align="left">
 <img src="https://github.com/stefangabos/world_countries/blob/master/data/flags/flat-waving/64x48/dk.png?raw=true">
 
-<br/>> Flag images are also available as single `JSON` files, one for each of the available sizes, containing all flag images as `data-uri`
+<br/>
+
+> Flag images are also available as single `JSON` files, one for each of the available sizes, containing all flag images as `data-uri`
 
 ## 🎂 Support the development of this project
 
