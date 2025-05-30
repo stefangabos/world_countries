@@ -121,8 +121,7 @@ In `/data/flags/default/` you will find 16x16, 24x24, 32x32, 48x48, 64x64 and 12
 <img src="https://github.com/stefangabos/world_countries/blob/master/data/flags/default/64x64/br.png?raw=true" align="left">
 <img src="https://github.com/stefangabos/world_countries/blob/master/data/flags/default/64x64/dk.png?raw=true">
 
-In `/data/flags/flat-waving/` you will find 16x12, 24x18, 32x24, 48x36, 64x48 and 128x96 PNG images looking like the ones below. The images are taken from [flagpedia.net](https://flagpedia.net/)
-<br/><br/>
+<br/>In `/data/flags/flat-waving/` you will find 16x12, 24x18, 32x24, 48x36, 64x48 and 128x96 PNG images looking like the ones below. The images are taken from [flagpedia.net](https://flagpedia.net/)
 
 <img src="https://github.com/stefangabos/world_countries/blob/master/data/flags/flat-waving/64x48/gb.png?raw=true" align="left">
 <img src="https://github.com/stefangabos/world_countries/blob/master/data/flags/flat-waving/64x48/de.png?raw=true" align="left">
