@@ -109,7 +109,7 @@ All the data is taken from [Wikipedia](https://en.wikipedia.org/wiki/ISO_3166-2)
 The package also contains the national flags of each country in multiple styles.
 The image files are named using the ISO 3166-1-alpha-2 code of the country they represent, for easily pairing flags with countries.
 
-In `/data/flags/default/` you will find 16x16, 24x24, 32x32, 48x48, 64x64 and 128x128 PNG images looking like the ones below. The images were available for free on the now defunct website `http://icondrawer.com/free.php`.
+<br/>In `/data/flags/default/` you will find 16x16, 24x24, 32x32, 48x48, 64x64 and 128x128 PNG images looking like the ones below. The images were available for free on the now defunct website `http://icondrawer.com/free.php`.
 
 <img src="https://github.com/stefangabos/world_countries/blob/master/data/flags/default/64x64/gb.png?raw=true" align="left">
 <img src="https://github.com/stefangabos/world_countries/blob/master/data/flags/default/64x64/de.png?raw=true" align="left">
@@ -133,7 +133,7 @@ In `/data/flags/default/` you will find 16x16, 24x24, 32x32, 48x48, 64x64 and 12
 <img src="https://github.com/stefangabos/world_countries/blob/master/data/flags/flat-waving/64x48/br.png?raw=true" align="left">
 <img src="https://github.com/stefangabos/world_countries/blob/master/data/flags/flat-waving/64x48/dk.png?raw=true">
 
-> Flag images are also available as single `JSON` files, one for each of the available sizes, containing all flag images as `data-uri`
+<br/>> Flag images are also available as single `JSON` files, one for each of the available sizes, containing all flag images as `data-uri`
 
 ## 🎂 Support the development of this project
 
