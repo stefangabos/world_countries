@@ -8,7 +8,7 @@
 
 Constantly updated lists of world countries, territories and areas of geographical interest, with associated *alpha-2*, *alpha-3* and *numeric codes* as defined by the *ISO 3166-1* standard, published and maintained by the [International Organization for Standardization](https://www.iso.org/iso-3166-country-codes.html), available in `CSV`, `JSON`, `PHP`, `SQL` and `XML` formats, in multiple languages and with national flags included. Also available are the ISO 3166-2 codes used for identifying the principal subdivisions (e.g., provinces or states) of all countries coded in ISO 3166-1.
 
-In the language folders (inside `data/countries`) you will find files named in two different ways.<br>Here's what you will find in each of them:
+In the language folders (inside `data/countries`) you will find files named in two different ways:
 
 |File names | Content |
 |:---:|:---
