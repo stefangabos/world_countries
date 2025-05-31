@@ -3,3 +3,4 @@ index.php
 todo.txt
 /vendor/
 /generator/
+node_modules/
