@@ -11,6 +11,8 @@
     "flags",
     "national-flags",
     "iso-3166",
+    "iso-3166-1",
+    "iso-3166-2",
     "sql",
     "json",
     "csv",
@@ -27,5 +29,10 @@
   "types": "types.d.ts",
   "directories": {
     "doc": "docs"
+  },
+  "devDependencies": {
+    "adm-zip": "^0.5.16",
+    "node-fetch": "^3.3.2",
+    "sharp": "^0.34.2"
   }
 }
