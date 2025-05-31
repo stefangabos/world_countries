@@ -121,6 +121,18 @@ The image files are named using the ISO 3166-1-alpha-2 code of the country they 
 <img src="https://github.com/stefangabos/world_countries/blob/master/data/flags/default/64x64/br.png?raw=true" align="left">
 <img src="https://github.com/stefangabos/world_countries/blob/master/data/flags/default/64x64/dk.png?raw=true">
 
+<br/>In `/data/flags/flat/` you will find 16x12, 24x18, 32x24, 48x36, 64x48 and 128x96 PNG images looking like the ones below. The images are taken from the AWESOME [https://github.com/lipis/flag-icons](https://github.com/lipis/flag-icons).
+
+<img src="https://github.com/stefangabos/world_countries/blob/master/data/flags/flat/64x48/gb.png?raw=true" align="left">
+<img src="https://github.com/stefangabos/world_countries/blob/master/data/flags/flat/64x48/de.png?raw=true" align="left">
+<img src="https://github.com/stefangabos/world_countries/blob/master/data/flags/flat/64x48/fr.png?raw=true" align="left">
+<img src="https://github.com/stefangabos/world_countries/blob/master/data/flags/flat/64x48/it.png?raw=true" align="left">
+<img src="https://github.com/stefangabos/world_countries/blob/master/data/flags/flat/64x48/us.png?raw=true" align="left">
+<img src="https://github.com/stefangabos/world_countries/blob/master/data/flags/flat/64x48/pt.png?raw=true" align="left">
+<img src="https://github.com/stefangabos/world_countries/blob/master/data/flags/flat/64x48/es.png?raw=true" align="left">
+<img src="https://github.com/stefangabos/world_countries/blob/master/data/flags/flat/64x48/br.png?raw=true" align="left">
+<img src="https://github.com/stefangabos/world_countries/blob/master/data/flags/flat/64x48/dk.png?raw=true">
+
 <br/>In `/data/flags/flat-waving/` you will find 16x12, 24x18, 32x24, 48x36, 64x48 and 128x96 PNG images looking like the ones below. The images are taken from [flagpedia.net](https://flagpedia.net/)
 
 <img src="https://github.com/stefangabos/world_countries/blob/master/data/flags/flat-waving/64x48/gb.png?raw=true" align="left">
