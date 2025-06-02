@@ -1,7 +1,11 @@
+## version 3.1.0 (May 31, 2025)
+
+- added a new style for flag images, courtesy of the AWESOME [https://github.com/lipis/flag-icons](https://github.com/lipis/flag-icons)!
+
 ## version 3.0.0 (May 31, 2025)
 
 - updated all ISO 3166-2 codes; the data is now taken from [Wikipedia](https://en.wikipedia.org/wiki/ISO_3166-2) and will be automatically kept up to date just like the country names; I've also included a "type" (category) column, and a "parent" column (for when there are multiple administrative levels)
-- added a new style for flag images courtesy of [flagpedia.net](https://flagpedia.net/) and as a consequence the folder structure of the flag images has changed
+- added a new style for flag images, courtesy of [flagpedia.net](https://flagpedia.net/) and as a consequence the folder structure of the flag images has changed
 
 ## version 2.10.0 (May 29, 2025)
 
