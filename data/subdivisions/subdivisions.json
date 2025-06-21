@@ -1936,7 +1936,7 @@
 {"country":"ID","code":"ID-KT","name":"Kalimantan Tengah","type":"province","parent":"ID-KA"},
 {"country":"ID","code":"ID-KI","name":"Kalimantan Timur","type":"province","parent":"ID-KA"},
 {"country":"ID","code":"ID-KU","name":"Kalimantan Utara","type":"province","parent":"ID-KA"},
-{"country":"ID","code":"ID-BB","name":"Bangka Belitung Islands","type":"province","parent":"ID-SM"},
+{"country":"ID","code":"ID-BB","name":"Kepulauan Bangka Belitung","type":"province","parent":"ID-SM"},
 {"country":"ID","code":"ID-KR","name":"Kepulauan Riau","type":"province","parent":"ID-SM"},
 {"country":"ID","code":"ID-LA","name":"Lampung","type":"province","parent":"ID-SM"},
 {"country":"ID","code":"ID-MA","name":"Maluku","type":"province","parent":"ID-ML"},
