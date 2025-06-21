@@ -69,8 +69,6 @@ The lists are currently available in **37 languages**:
 
 > The language folders are named based on the [ISO 639-1](https://en.wikipedia.org/wiki/List_of_ISO_639-1_codes) standard.
 
-All the data is taken from [Wikipedia](https://en.wikipedia.org/wiki/ISO_3166-1).
-
 ## ISO 3166-2 codes
 
 The project also tries to be a comprehensive and up-to-date source for **ISO 3166-2** which defines codes for identifying the principal subdivisions (e.g., provinces or states) of all countries coded in ISO 3166-1.
@@ -102,7 +100,9 @@ US,US-CA,California,state,
 US,US-CO,Colorado,state,
 ```
 
-All the data is taken from [Wikipedia](https://en.wikipedia.org/wiki/ISO_3166-2).
+## License
+
+The country and subdivision data is sourced from [Wikipedia's ISO 3166-1 pages](https://en.wikipedia.org/wiki/ISO_3166-1) and [Wikipedia's ISO 3166-2 pages](https://en.wikipedia.org/wiki/ISO_3166-2), and is licensed under the [Creative Commons Attribution-ShareAlike 4.0 International License](https://creativecommons.org/licenses/by-sa/4.0/).
 
 ## Flags
 
