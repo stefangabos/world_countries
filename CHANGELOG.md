@@ -1,3 +1,8 @@
+## version 3.1.1 (TBA)
+
+- changed license to CC BY-SA (Creative Commons Attribution Share Alike) per the requirements when using Wikipedia data
+- updated country names
+
 ## version 3.1.0 (May 31, 2025)
 
 - added a new style for flag images, courtesy of the AWESOME [https://github.com/lipis/flag-icons](https://github.com/lipis/flag-icons)!
