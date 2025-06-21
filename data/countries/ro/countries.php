@@ -101,7 +101,7 @@
     438 => array('id' => 438, 'alpha2' => 'li', 'alpha3' => 'lie', 'name' => 'Liechtenstein'),
     440 => array('id' => 440, 'alpha2' => 'lt', 'alpha3' => 'ltu', 'name' => 'Lituania'),
     442 => array('id' => 442, 'alpha2' => 'lu', 'alpha3' => 'lux', 'name' => 'Luxemburg'),
-    807 => array('id' => 807, 'alpha2' => 'mk', 'alpha3' => 'mkd', 'name' => 'Republica Macedonia'),
+    807 => array('id' => 807, 'alpha2' => 'mk', 'alpha3' => 'mkd', 'name' => 'Macedonia de Nord'),
     450 => array('id' => 450, 'alpha2' => 'mg', 'alpha3' => 'mdg', 'name' => 'Madagascar'),
     454 => array('id' => 454, 'alpha2' => 'mw', 'alpha3' => 'mwi', 'name' => 'Malawi'),
     458 => array('id' => 458, 'alpha2' => 'my', 'alpha3' => 'mys', 'name' => 'Malaezia'),

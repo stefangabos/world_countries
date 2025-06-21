@@ -4,7 +4,7 @@
     <country id="248" alpha2="ax" alpha3="ala" name="Insulele Åland"/>
     <country id="8" alpha2="al" alpha3="alb" name="Albania"/>
     <country id="12" alpha2="dz" alpha3="dza" name="Algeria"/>
-    <country id="16" alpha2="as" alpha3="asm" name="Samoa americană"/>
+    <country id="16" alpha2="as" alpha3="asm" name="Samoa Americană"/>
     <country id="20" alpha2="ad" alpha3="and" name="Andorra"/>
     <country id="24" alpha2="ao" alpha3="ago" name="Angola"/>
     <country id="660" alpha2="ai" alpha3="aia" name="Anguilla"/>
@@ -78,8 +78,8 @@
     <country id="246" alpha2="fi" alpha3="fin" name="Finlanda"/>
     <country id="250" alpha2="fr" alpha3="fra" name="Franța"/>
     <country id="254" alpha2="gf" alpha3="guf" name="Guiana Franceză"/>
-    <country id="258" alpha2="pf" alpha3="pyf" name="Polinezia franceză"/>
-    <country id="260" alpha2="tf" alpha3="atf" name="Teritoriile australe și antarctice franceze"/>
+    <country id="258" alpha2="pf" alpha3="pyf" name="Polinezia Franceză"/>
+    <country id="260" alpha2="tf" alpha3="atf" name="Teritoriile Australe și Antarctice Franceze"/>
     <country id="266" alpha2="ga" alpha3="gab" name="Gabon"/>
     <country id="270" alpha2="gm" alpha3="gmb" name="Gambia"/>
     <country id="268" alpha2="ge" alpha3="geo" name="Georgia"/>
@@ -132,7 +132,7 @@
     <country id="440" alpha2="lt" alpha3="ltu" name="Lituania"/>
     <country id="442" alpha2="lu" alpha3="lux" name="Luxemburg"/>
     <country id="446" alpha2="mo" alpha3="mac" name="Macao"/>
-    <country id="807" alpha2="mk" alpha3="mkd" name="Republica Macedonia"/>
+    <country id="807" alpha2="mk" alpha3="mkd" name="Macedonia de Nord"/>
     <country id="450" alpha2="mg" alpha3="mdg" name="Madagascar"/>
     <country id="454" alpha2="mw" alpha3="mwi" name="Malawi"/>
     <country id="458" alpha2="my" alpha3="mys" name="Malaezia"/>
@@ -236,7 +236,7 @@
     <country id="784" alpha2="ae" alpha3="are" name="Emiratele Arabe Unite"/>
     <country id="826" alpha2="gb" alpha3="gbr" name="Regatul Unit"/>
     <country id="840" alpha2="us" alpha3="usa" name="Statele Unite ale Americii"/>
-    <country id="581" alpha2="um" alpha3="umi" name="United States Minor Outlying Islands"/>
+    <country id="581" alpha2="um" alpha3="umi" name="Insulele Minore Îndepărtate ale Statelor Unite"/>
     <country id="858" alpha2="uy" alpha3="ury" name="Uruguay"/>
     <country id="860" alpha2="uz" alpha3="uzb" name="Uzbekistan"/>
     <country id="548" alpha2="vu" alpha3="vut" name="Vanuatu"/>
