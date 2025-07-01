@@ -1,7 +1,8 @@
-## version 3.1.1 (TBA)
+## version 3.2.0 (TBA)
 
 - changed license to CC BY-SA (Creative Commons Attribution Share Alike) per the requirements when using Wikipedia data
-- updated country names
+- added data in MSSQL format see [#102](https://github.com/stefangabos/world_countries/pull/102); thanks to [Matthew David Elgert](https://github.com/mdelgert) for suggesting
+- updated various country names
 
 ## version 3.1.0 (May 31, 2025)
 
