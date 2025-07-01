@@ -8,7 +8,7 @@ CREATE TABLE `world` (
   `alpha_3` char(3) NOT NULL DEFAULT "",
   `name` varchar(75) NOT NULL DEFAULT "",
   PRIMARY KEY (`id`)
-) ENGINE=MyISAM DEFAULT CHARSET=utf8;
+) ENGINE=InnoDB DEFAULT CHARSET=utf8mb3;
 
 INSERT INTO `world` (`id`, `alpha_2`, `alpha_3`, `name`) VALUES
 (288,"gh","gha","가나"),
