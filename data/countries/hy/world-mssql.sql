@@ -5,7 +5,7 @@ CREATE TABLE [world] (
     [alpha_2] CHAR(2) NOT NULL DEFAULT '',
     [alpha_3] CHAR(3) NOT NULL DEFAULT '',
     [name] NVARCHAR(75) NOT NULL DEFAULT '',
-    CONSTRAINT [pk_countries] PRIMARY KEY ([id])
+    CONSTRAINT [pk_world] PRIMARY KEY ([id])
 );
 
 INSERT INTO [world] ([id], [alpha_2], [alpha_3], [name]) VALUES
