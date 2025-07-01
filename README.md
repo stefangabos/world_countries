@@ -2,11 +2,11 @@
 
 # World countries &nbsp;[![Tweet](https://img.shields.io/twitter/url/http/shields.io.svg?style=social)](https://twitter.com/intent/tweet?text=Constantly+updated+lists+of+world+countries+with+associated+ISO+3166-1+alpha-2%2C+alpha-3+and+numeric+codes%2C+available+in+multiple+formats+and+languages%2C+with+national+flags+included&url=https://github.com/stefangabos/world_countries&via=stefangabos)
 
-*available in multiple languages, in CSV, JSON, PHP, SQL and XML formats, with associated codes as defined by the ISO 3166 standard, and with national flags included; also available are the ISO 3166-2 codes used for identifying the principal subdivisions (e.g., provinces or states) of all countries coded in ISO 3166-1*
+*available in multiple languages, in CSV, JSON, PHP, MySQL, MSSQL and XML formats, with associated codes as defined by the ISO 3166 standard, and with national flags included; also available are the ISO 3166-2 codes used for identifying the principal subdivisions (e.g., provinces or states) of all countries coded in ISO 3166-1*
 
 [![npm](https://img.shields.io/npm/v/world_countries_lists.svg)](https://www.npmjs.com/package/world_countries_lists) [![Total](https://img.shields.io/npm/dt/world_countries_lists.svg)](https://www.npmjs.com/package/world_countries_lists) [![Monthly](https://img.shields.io/npm/dm/world_countries_lists.svg)](https://www.npmjs.com/package/world_countries_lists) [![JSDelivr](https://data.jsdelivr.com/v1/package/npm/world_countries_lists/badge?style=rounded)](https://www.jsdelivr.com/package/npm/world_countries_lists) [![License](https://img.shields.io/github/license/stefangabos/world_countries.svg)](https://github.com/stefangabos/world_countries/blob/master/LICENSE.md)
 
-Constantly updated lists of world countries, territories and areas of geographical interest, with associated *alpha-2*, *alpha-3* and *numeric codes* as defined by the *ISO 3166-1* standard, published and maintained by the [International Organization for Standardization](https://www.iso.org/iso-3166-country-codes.html), available in `CSV`, `JSON`, `PHP`, `SQL` and `XML` formats, in multiple languages and with national flags included. Also available are the ISO 3166-2 codes used for identifying the principal subdivisions (e.g., provinces or states) of all countries coded in ISO 3166-1.
+Constantly updated lists of world countries, territories and areas of geographical interest, with associated *alpha-2*, *alpha-3* and *numeric codes* as defined by the *ISO 3166-1* standard, published and maintained by the [International Organization for Standardization](https://www.iso.org/iso-3166-country-codes.html), available in `CSV`, `JSON`, `PHP`, `MySQL`, `MSSQL` and `XML` formats, in multiple languages and with national flags included. Also available are the ISO 3166-2 codes used for identifying the principal subdivisions (e.g., provinces or states) of all countries coded in ISO 3166-1.
 
 In the language folders (inside `data/countries`) you will find files named in two different ways:
 
@@ -81,7 +81,7 @@ The first part is the ISO 3166-1 alpha-2 code of the country;
 The second part is a string of up to three alphanumeric characters, which is usually obtained from national sources and stems from coding systems already in use in the country concerned, but may also be developed by the ISO itself.
 Each complete ISO 3166-2 code can then be used to uniquely identify a country subdivision in a global context.
 
-The list is available in `CSV`, `JSON`, `PHP`, `SQL` and `XML` formats in the `data/subdivisions` folder and the lists contain:
+The list is available in `CSV`, `JSON`, `PHP`, `MySQL`, `MSSQL` and `XML` formats in the `data/subdivisions` folder and the lists contain:
 
 - the <strong>country code</strong>
 - the <strong>ISO 3166-2 subdivision code</strong>
@@ -182,13 +182,11 @@ Or
 
 ## Data formats
 
-
-### SQL
+### MySQL
 
 Excerpt from the `data/countries/en/countries.sql` file:
 
 (the columns are `id`,`alpha2`,`alpha3`,`name`)
-
 
 ```sql
 (250,'fr','fra','France'),
@@ -199,6 +197,23 @@ Excerpt from the `data/countries/en/countries.sql` file:
 (288,'gh','gha','Ghana'),
 (300,'gr','grc','Greece'),
 (308,'gd','grd','Grenada'),
+```
+
+### MSSQL
+
+Excerpt from the `data/countries/en/countries-mssql.sql` file:
+
+(the columns are `id`,`alpha2`,`alpha3`,`name`)
+
+```sql
+(250,'fr','fra',N'France'),
+(266,'ga','gab',N'Gabon'),
+(270,'gm','gmb',N'Gambia'),
+(268,'ge','geo',N'Georgia'),
+(276,'de','deu',N'Germany'),
+(288,'gh','gha',N'Ghana'),
+(300,'gr','grc',N'Greece'),
+(308,'gd','grd',N'Grenada'),
 ```
 
 ### CSV
