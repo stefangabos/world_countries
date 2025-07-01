@@ -18,9 +18,9 @@ $(document).ready(function() {
 
         toggle_element = function($container) {
 
-            var all_world = $('.world:checked', $container).length === 5,
-                all_countries = $('.countries:checked', $container).length === 5,
-                all_subdivisions = $('.subdivisions:checked', $container).length === 5,
+            var all_world = $('.world:checked', $container).length === 6,
+                all_countries = $('.countries:checked', $container).length === 6,
+                all_subdivisions = $('.subdivisions:checked', $container).length === 6,
                 all_flags = $('.flags:checked', $container).length === 6,
                 any_world = $('.world:checked', $container).length > 0,
                 any_countries = $('.countries:checked', $container).length > 0,

@@ -9,7 +9,7 @@
         <meta name="viewport" content="width=device-width, initial-scale=1">
         <meta name="description" content="">
         <link rel="shortcut icon" href="favicon.ico">
-        <title>World countries available in multiple languages, in CSV, JSON, PHP, SQL and XML formats, with associated alpha-2, alpha-3, and numeric codes as defined by the ISO 3166 standard, and with national flags included</title>
+        <title>World countries available in multiple languages, in CSV, JSON, PHP, MySQL, MSSQL and XML formats, with associated alpha-2, alpha-3, and numeric codes as defined by the ISO 3166 standard, and with national flags included</title>
 
         <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css" integrity="sha384-BVYiiSIFeK1dGmJRAkycuHAHRg32OmUcww7on3RYdg4Va+PmSTsz/K68vbdEjh4u" crossorigin="anonymous">
         <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/bootswatch/3.3.7/united/bootstrap.min.css">
@@ -27,7 +27,7 @@
             <div class="container">
                 <h1>World countries</h1>
                 <p>
-                    available in multiple languages, in CSV, JSON, PHP, SQL and XML formats, with associated alpha-2, alpha-3,
+                    available in multiple languages, in CSV, JSON, PHP, MySQL, MSSQL and XML formats, with associated alpha-2, alpha-3,
                     and numeric codes as defined by the ISO 3166 standard, and with national flags included; also available are
                     the ISO 3166-2 codes used for identifying the principal subdivisions (e.g., provinces or states) of all
                     countries coded in ISO 3166-1</p>
@@ -48,7 +48,7 @@
                         Constantly updated lists of world countries, territories and areas of geographical interest, with
                         associated alpha-2, alpha-3 and numeric codes as defined by the ISO 3166-1 standard, published and
                         maintained by the <a href="https://www.iso.org/iso-3166-country-codes.html">International Organization for
-                        Standardization</a>, available in CSV, JSON, PHP, SQL and XML formats, in multiple languages and with national
+                        Standardization</a>, available in CSV, JSON, PHP, MySQL, MSSQL and XML formats, in multiple languages and with national
                         flags included. Also available are the <a href="">ISO 3166-2</a> codes used for identifying the principal subdivisions
                         (e.g., provinces or states) of all countries coded in ISO 3166-1.
                     </p>
@@ -146,8 +146,8 @@
                     </p>
 
                     <p>
-                        The list is available in <code>CSV</code>, <code>JSON</code>, <code>PHP</code>, <code>SQL</code> and
-                        <code>XML</code> formats in the <code>data/subdivisions</code> folder and the lists contain
+                        The list is available in <code>CSV</code>, <code>JSON</code>, <code>PHP</code>, <code>MySQL</code>,
+                        <code>MSSQL</code> and <code>XML</code> formats in the <code>data/subdivisions</code> folder and the lists contain
                     </p>
                     <ul>
                         <li>the <strong>country code</strong></li>
@@ -241,7 +241,7 @@
                     <h2 id="custom-download">Download</h2>
 
                     <p>
-                        To download the entire package containing all the world countries in all the 37                        languages, in all the available formats (CSV, JSON, PHP, SQL and XML), with flags included, and
+                        To download the entire package containing all the world countries in all the 37                        languages, in all the available formats (CSV, JSON, PHP, MySQL, MSSQL and XML), with flags included, and
                         with the ISO 3166-2 list of administrative divisions and dependent territories of all countries,
                         use the big <strong>Download</strong> button at the <a href="#top">top</a>.
                     </p>
@@ -273,7 +273,8 @@
                                             <label><input type="checkbox" class="format world" name="download[]" value="_combined/world.csv">CSV</label>&nbsp;
                                             <label><input type="checkbox" class="format world" name="download[]" value="_combined/world.json">JSON</label>&nbsp;
                                             <label><input type="checkbox" class="format world" name="download[]" value="_combined/world.php">PHP</label>&nbsp;
-                                            <label><input type="checkbox" class="format world" name="download[]" value="_combined/world.sql">SQL</label>&nbsp;
+                                            <label><input type="checkbox" class="format world" name="download[]" value="_combined/world.sql">MySQL</label>&nbsp;
+                                            <label><input type="checkbox" class="format world" name="download[]" value="_combined/world-mssql.sql">MSSQL</label>&nbsp;
                                             <label><input type="checkbox" class="format world" name="download[]" value="_combined/world.xml">XML</label>
                                         </td>
                                     </tr>
@@ -283,7 +284,8 @@
                                             <label><input type="checkbox" class="format countries" name="download[]" value="_combined/countries.csv">CSV</label>&nbsp;
                                             <label><input type="checkbox" class="format countries" name="download[]" value="_combined/countries.json">JSON</label>&nbsp;
                                             <label><input type="checkbox" class="format countries" name="download[]" value="_combined/countries.php">PHP</label>&nbsp;
-                                            <label><input type="checkbox" class="format countries" name="download[]" value="_combined/countries.sql">SQL</label>&nbsp;
+                                            <label><input type="checkbox" class="format countries" name="download[]" value="_combined/countries.sql">MySQL</label>&nbsp;
+                                            <label><input type="checkbox" class="format countries" name="download[]" value="_combined/countries-mssql.sql">MSSQL</label>&nbsp;
                                             <label><input type="checkbox" class="format countries" name="download[]" value="_combined/countries.xml">XML</label>
                                         </td>
                                     </tr>
@@ -313,7 +315,8 @@
                                             <label><input type="checkbox" class="format world" name="download[]" value="ar/world.csv">CSV</label>&nbsp;
                                             <label><input type="checkbox" class="format world" name="download[]" value="ar/world.json">JSON</label>&nbsp;
                                             <label><input type="checkbox" class="format world" name="download[]" value="ar/world.php">PHP</label>&nbsp;
-                                            <label><input type="checkbox" class="format world" name="download[]" value="ar/world.sql">SQL</label>&nbsp;
+                                            <label><input type="checkbox" class="format world" name="download[]" value="ar/world.sql">MySQL</label>&nbsp;
+                                            <label><input type="checkbox" class="format world" name="download[]" value="ar/world-mssql.sql">MSSQL</label>&nbsp;
                                             <label><input type="checkbox" class="format world" name="download[]" value="ar/world.xml">XML</label>
                                         </td>
                                     </tr>
@@ -323,7 +326,8 @@
                                             <label><input type="checkbox" class="format countries" name="download[]" value="ar/countries.csv">CSV</label>&nbsp;
                                             <label><input type="checkbox" class="format countries" name="download[]" value="ar/countries.json">JSON</label>&nbsp;
                                             <label><input type="checkbox" class="format countries" name="download[]" value="ar/countries.php">PHP</label>&nbsp;
-                                            <label><input type="checkbox" class="format countries" name="download[]" value="ar/countries.sql">SQL</label>&nbsp;
+                                            <label><input type="checkbox" class="format countries" name="download[]" value="ar/countries.sql">MySQL</label>&nbsp;
+                                            <label><input type="checkbox" class="format countries" name="download[]" value="ar/countries-mssql.sql">MSSQL</label>&nbsp;
                                             <label><input type="checkbox" class="format countries" name="download[]" value="ar/countries.xml">XML</label>
                                         </td>
                                     </tr>
@@ -348,7 +352,8 @@
                                             <label><input type="checkbox" class="format world" name="download[]" value="hy/world.csv">CSV</label>&nbsp;
                                             <label><input type="checkbox" class="format world" name="download[]" value="hy/world.json">JSON</label>&nbsp;
                                             <label><input type="checkbox" class="format world" name="download[]" value="hy/world.php">PHP</label>&nbsp;
-                                            <label><input type="checkbox" class="format world" name="download[]" value="hy/world.sql">SQL</label>&nbsp;
+                                            <label><input type="checkbox" class="format world" name="download[]" value="hy/world.sql">MySQL</label>&nbsp;
+                                            <label><input type="checkbox" class="format world" name="download[]" value="hy/world-mssql.sql">MSSQL</label>&nbsp;
                                             <label><input type="checkbox" class="format world" name="download[]" value="hy/world.xml">XML</label>
                                         </td>
                                     </tr>
@@ -358,7 +363,8 @@
                                             <label><input type="checkbox" class="format countries" name="download[]" value="hy/countries.csv">CSV</label>&nbsp;
                                             <label><input type="checkbox" class="format countries" name="download[]" value="hy/countries.json">JSON</label>&nbsp;
                                             <label><input type="checkbox" class="format countries" name="download[]" value="hy/countries.php">PHP</label>&nbsp;
-                                            <label><input type="checkbox" class="format countries" name="download[]" value="hy/countries.sql">SQL</label>&nbsp;
+                                            <label><input type="checkbox" class="format countries" name="download[]" value="hy/countries.sql">MySQL</label>&nbsp;
+                                            <label><input type="checkbox" class="format countries" name="download[]" value="hy/countries-mssql.sql">MSSQL</label>&nbsp;
                                             <label><input type="checkbox" class="format countries" name="download[]" value="hy/countries.xml">XML</label>
                                         </td>
                                     </tr>
@@ -383,7 +389,8 @@
                                             <label><input type="checkbox" class="format world" name="download[]" value="eu/world.csv">CSV</label>&nbsp;
                                             <label><input type="checkbox" class="format world" name="download[]" value="eu/world.json">JSON</label>&nbsp;
                                             <label><input type="checkbox" class="format world" name="download[]" value="eu/world.php">PHP</label>&nbsp;
-                                            <label><input type="checkbox" class="format world" name="download[]" value="eu/world.sql">SQL</label>&nbsp;
+                                            <label><input type="checkbox" class="format world" name="download[]" value="eu/world.sql">MySQL</label>&nbsp;
+                                            <label><input type="checkbox" class="format world" name="download[]" value="eu/world-mssql.sql">MSSQL</label>&nbsp;
                                             <label><input type="checkbox" class="format world" name="download[]" value="eu/world.xml">XML</label>
                                         </td>
                                     </tr>
@@ -393,7 +400,8 @@
                                             <label><input type="checkbox" class="format countries" name="download[]" value="eu/countries.csv">CSV</label>&nbsp;
                                             <label><input type="checkbox" class="format countries" name="download[]" value="eu/countries.json">JSON</label>&nbsp;
                                             <label><input type="checkbox" class="format countries" name="download[]" value="eu/countries.php">PHP</label>&nbsp;
-                                            <label><input type="checkbox" class="format countries" name="download[]" value="eu/countries.sql">SQL</label>&nbsp;
+                                            <label><input type="checkbox" class="format countries" name="download[]" value="eu/countries.sql">MySQL</label>&nbsp;
+                                            <label><input type="checkbox" class="format countries" name="download[]" value="eu/countries-mssql.sql">MSSQL</label>&nbsp;
                                             <label><input type="checkbox" class="format countries" name="download[]" value="eu/countries.xml">XML</label>
                                         </td>
                                     </tr>
@@ -418,7 +426,8 @@
                                             <label><input type="checkbox" class="format world" name="download[]" value="br/world.csv">CSV</label>&nbsp;
                                             <label><input type="checkbox" class="format world" name="download[]" value="br/world.json">JSON</label>&nbsp;
                                             <label><input type="checkbox" class="format world" name="download[]" value="br/world.php">PHP</label>&nbsp;
-                                            <label><input type="checkbox" class="format world" name="download[]" value="br/world.sql">SQL</label>&nbsp;
+                                            <label><input type="checkbox" class="format world" name="download[]" value="br/world.sql">MySQL</label>&nbsp;
+                                            <label><input type="checkbox" class="format world" name="download[]" value="br/world-mssql.sql">MSSQL</label>&nbsp;
                                             <label><input type="checkbox" class="format world" name="download[]" value="br/world.xml">XML</label>
                                         </td>
                                     </tr>
@@ -428,7 +437,8 @@
                                             <label><input type="checkbox" class="format countries" name="download[]" value="br/countries.csv">CSV</label>&nbsp;
                                             <label><input type="checkbox" class="format countries" name="download[]" value="br/countries.json">JSON</label>&nbsp;
                                             <label><input type="checkbox" class="format countries" name="download[]" value="br/countries.php">PHP</label>&nbsp;
-                                            <label><input type="checkbox" class="format countries" name="download[]" value="br/countries.sql">SQL</label>&nbsp;
+                                            <label><input type="checkbox" class="format countries" name="download[]" value="br/countries.sql">MySQL</label>&nbsp;
+                                            <label><input type="checkbox" class="format countries" name="download[]" value="br/countries-mssql.sql">MSSQL</label>&nbsp;
                                             <label><input type="checkbox" class="format countries" name="download[]" value="br/countries.xml">XML</label>
                                         </td>
                                     </tr>
@@ -453,7 +463,8 @@
                                             <label><input type="checkbox" class="format world" name="download[]" value="bg/world.csv">CSV</label>&nbsp;
                                             <label><input type="checkbox" class="format world" name="download[]" value="bg/world.json">JSON</label>&nbsp;
                                             <label><input type="checkbox" class="format world" name="download[]" value="bg/world.php">PHP</label>&nbsp;
-                                            <label><input type="checkbox" class="format world" name="download[]" value="bg/world.sql">SQL</label>&nbsp;
+                                            <label><input type="checkbox" class="format world" name="download[]" value="bg/world.sql">MySQL</label>&nbsp;
+                                            <label><input type="checkbox" class="format world" name="download[]" value="bg/world-mssql.sql">MSSQL</label>&nbsp;
                                             <label><input type="checkbox" class="format world" name="download[]" value="bg/world.xml">XML</label>
                                         </td>
                                     </tr>
@@ -463,7 +474,8 @@
                                             <label><input type="checkbox" class="format countries" name="download[]" value="bg/countries.csv">CSV</label>&nbsp;
                                             <label><input type="checkbox" class="format countries" name="download[]" value="bg/countries.json">JSON</label>&nbsp;
                                             <label><input type="checkbox" class="format countries" name="download[]" value="bg/countries.php">PHP</label>&nbsp;
-                                            <label><input type="checkbox" class="format countries" name="download[]" value="bg/countries.sql">SQL</label>&nbsp;
+                                            <label><input type="checkbox" class="format countries" name="download[]" value="bg/countries.sql">MySQL</label>&nbsp;
+                                            <label><input type="checkbox" class="format countries" name="download[]" value="bg/countries-mssql.sql">MSSQL</label>&nbsp;
                                             <label><input type="checkbox" class="format countries" name="download[]" value="bg/countries.xml">XML</label>
                                         </td>
                                     </tr>
@@ -488,7 +500,8 @@
                                             <label><input type="checkbox" class="format world" name="download[]" value="zh/world.csv">CSV</label>&nbsp;
                                             <label><input type="checkbox" class="format world" name="download[]" value="zh/world.json">JSON</label>&nbsp;
                                             <label><input type="checkbox" class="format world" name="download[]" value="zh/world.php">PHP</label>&nbsp;
-                                            <label><input type="checkbox" class="format world" name="download[]" value="zh/world.sql">SQL</label>&nbsp;
+                                            <label><input type="checkbox" class="format world" name="download[]" value="zh/world.sql">MySQL</label>&nbsp;
+                                            <label><input type="checkbox" class="format world" name="download[]" value="zh/world-mssql.sql">MSSQL</label>&nbsp;
                                             <label><input type="checkbox" class="format world" name="download[]" value="zh/world.xml">XML</label>
                                         </td>
                                     </tr>
@@ -498,7 +511,8 @@
                                             <label><input type="checkbox" class="format countries" name="download[]" value="zh/countries.csv">CSV</label>&nbsp;
                                             <label><input type="checkbox" class="format countries" name="download[]" value="zh/countries.json">JSON</label>&nbsp;
                                             <label><input type="checkbox" class="format countries" name="download[]" value="zh/countries.php">PHP</label>&nbsp;
-                                            <label><input type="checkbox" class="format countries" name="download[]" value="zh/countries.sql">SQL</label>&nbsp;
+                                            <label><input type="checkbox" class="format countries" name="download[]" value="zh/countries.sql">MySQL</label>&nbsp;
+                                            <label><input type="checkbox" class="format countries" name="download[]" value="zh/countries-mssql.sql">MSSQL</label>&nbsp;
                                             <label><input type="checkbox" class="format countries" name="download[]" value="zh/countries.xml">XML</label>
                                         </td>
                                     </tr>
@@ -523,7 +537,8 @@
                                             <label><input type="checkbox" class="format world" name="download[]" value="zh-tw/world.csv">CSV</label>&nbsp;
                                             <label><input type="checkbox" class="format world" name="download[]" value="zh-tw/world.json">JSON</label>&nbsp;
                                             <label><input type="checkbox" class="format world" name="download[]" value="zh-tw/world.php">PHP</label>&nbsp;
-                                            <label><input type="checkbox" class="format world" name="download[]" value="zh-tw/world.sql">SQL</label>&nbsp;
+                                            <label><input type="checkbox" class="format world" name="download[]" value="zh-tw/world.sql">MySQL</label>&nbsp;
+                                            <label><input type="checkbox" class="format world" name="download[]" value="zh-tw/world-mssql.sql">MSSQL</label>&nbsp;
                                             <label><input type="checkbox" class="format world" name="download[]" value="zh-tw/world.xml">XML</label>
                                         </td>
                                     </tr>
@@ -533,7 +548,8 @@
                                             <label><input type="checkbox" class="format countries" name="download[]" value="zh-tw/countries.csv">CSV</label>&nbsp;
                                             <label><input type="checkbox" class="format countries" name="download[]" value="zh-tw/countries.json">JSON</label>&nbsp;
                                             <label><input type="checkbox" class="format countries" name="download[]" value="zh-tw/countries.php">PHP</label>&nbsp;
-                                            <label><input type="checkbox" class="format countries" name="download[]" value="zh-tw/countries.sql">SQL</label>&nbsp;
+                                            <label><input type="checkbox" class="format countries" name="download[]" value="zh-tw/countries.sql">MySQL</label>&nbsp;
+                                            <label><input type="checkbox" class="format countries" name="download[]" value="zh-tw/countries-mssql.sql">MSSQL</label>&nbsp;
                                             <label><input type="checkbox" class="format countries" name="download[]" value="zh-tw/countries.xml">XML</label>
                                         </td>
                                     </tr>
@@ -558,7 +574,8 @@
                                             <label><input type="checkbox" class="format world" name="download[]" value="hr/world.csv">CSV</label>&nbsp;
                                             <label><input type="checkbox" class="format world" name="download[]" value="hr/world.json">JSON</label>&nbsp;
                                             <label><input type="checkbox" class="format world" name="download[]" value="hr/world.php">PHP</label>&nbsp;
-                                            <label><input type="checkbox" class="format world" name="download[]" value="hr/world.sql">SQL</label>&nbsp;
+                                            <label><input type="checkbox" class="format world" name="download[]" value="hr/world.sql">MySQL</label>&nbsp;
+                                            <label><input type="checkbox" class="format world" name="download[]" value="hr/world-mssql.sql">MSSQL</label>&nbsp;
                                             <label><input type="checkbox" class="format world" name="download[]" value="hr/world.xml">XML</label>
                                         </td>
                                     </tr>
@@ -568,7 +585,8 @@
                                             <label><input type="checkbox" class="format countries" name="download[]" value="hr/countries.csv">CSV</label>&nbsp;
                                             <label><input type="checkbox" class="format countries" name="download[]" value="hr/countries.json">JSON</label>&nbsp;
                                             <label><input type="checkbox" class="format countries" name="download[]" value="hr/countries.php">PHP</label>&nbsp;
-                                            <label><input type="checkbox" class="format countries" name="download[]" value="hr/countries.sql">SQL</label>&nbsp;
+                                            <label><input type="checkbox" class="format countries" name="download[]" value="hr/countries.sql">MySQL</label>&nbsp;
+                                            <label><input type="checkbox" class="format countries" name="download[]" value="hr/countries-mssql.sql">MSSQL</label>&nbsp;
                                             <label><input type="checkbox" class="format countries" name="download[]" value="hr/countries.xml">XML</label>
                                         </td>
                                     </tr>
@@ -593,7 +611,8 @@
                                             <label><input type="checkbox" class="format world" name="download[]" value="cs/world.csv">CSV</label>&nbsp;
                                             <label><input type="checkbox" class="format world" name="download[]" value="cs/world.json">JSON</label>&nbsp;
                                             <label><input type="checkbox" class="format world" name="download[]" value="cs/world.php">PHP</label>&nbsp;
-                                            <label><input type="checkbox" class="format world" name="download[]" value="cs/world.sql">SQL</label>&nbsp;
+                                            <label><input type="checkbox" class="format world" name="download[]" value="cs/world.sql">MySQL</label>&nbsp;
+                                            <label><input type="checkbox" class="format world" name="download[]" value="cs/world-mssql.sql">MSSQL</label>&nbsp;
                                             <label><input type="checkbox" class="format world" name="download[]" value="cs/world.xml">XML</label>
                                         </td>
                                     </tr>
@@ -603,7 +622,8 @@
                                             <label><input type="checkbox" class="format countries" name="download[]" value="cs/countries.csv">CSV</label>&nbsp;
                                             <label><input type="checkbox" class="format countries" name="download[]" value="cs/countries.json">JSON</label>&nbsp;
                                             <label><input type="checkbox" class="format countries" name="download[]" value="cs/countries.php">PHP</label>&nbsp;
-                                            <label><input type="checkbox" class="format countries" name="download[]" value="cs/countries.sql">SQL</label>&nbsp;
+                                            <label><input type="checkbox" class="format countries" name="download[]" value="cs/countries.sql">MySQL</label>&nbsp;
+                                            <label><input type="checkbox" class="format countries" name="download[]" value="cs/countries-mssql.sql">MSSQL</label>&nbsp;
                                             <label><input type="checkbox" class="format countries" name="download[]" value="cs/countries.xml">XML</label>
                                         </td>
                                     </tr>
@@ -628,7 +648,8 @@
                                             <label><input type="checkbox" class="format world" name="download[]" value="da/world.csv">CSV</label>&nbsp;
                                             <label><input type="checkbox" class="format world" name="download[]" value="da/world.json">JSON</label>&nbsp;
                                             <label><input type="checkbox" class="format world" name="download[]" value="da/world.php">PHP</label>&nbsp;
-                                            <label><input type="checkbox" class="format world" name="download[]" value="da/world.sql">SQL</label>&nbsp;
+                                            <label><input type="checkbox" class="format world" name="download[]" value="da/world.sql">MySQL</label>&nbsp;
+                                            <label><input type="checkbox" class="format world" name="download[]" value="da/world-mssql.sql">MSSQL</label>&nbsp;
                                             <label><input type="checkbox" class="format world" name="download[]" value="da/world.xml">XML</label>
                                         </td>
                                     </tr>
@@ -638,7 +659,8 @@
                                             <label><input type="checkbox" class="format countries" name="download[]" value="da/countries.csv">CSV</label>&nbsp;
                                             <label><input type="checkbox" class="format countries" name="download[]" value="da/countries.json">JSON</label>&nbsp;
                                             <label><input type="checkbox" class="format countries" name="download[]" value="da/countries.php">PHP</label>&nbsp;
-                                            <label><input type="checkbox" class="format countries" name="download[]" value="da/countries.sql">SQL</label>&nbsp;
+                                            <label><input type="checkbox" class="format countries" name="download[]" value="da/countries.sql">MySQL</label>&nbsp;
+                                            <label><input type="checkbox" class="format countries" name="download[]" value="da/countries-mssql.sql">MSSQL</label>&nbsp;
                                             <label><input type="checkbox" class="format countries" name="download[]" value="da/countries.xml">XML</label>
                                         </td>
                                     </tr>
@@ -663,7 +685,8 @@
                                             <label><input type="checkbox" class="format world" name="download[]" value="nl/world.csv">CSV</label>&nbsp;
                                             <label><input type="checkbox" class="format world" name="download[]" value="nl/world.json">JSON</label>&nbsp;
                                             <label><input type="checkbox" class="format world" name="download[]" value="nl/world.php">PHP</label>&nbsp;
-                                            <label><input type="checkbox" class="format world" name="download[]" value="nl/world.sql">SQL</label>&nbsp;
+                                            <label><input type="checkbox" class="format world" name="download[]" value="nl/world.sql">MySQL</label>&nbsp;
+                                            <label><input type="checkbox" class="format world" name="download[]" value="nl/world-mssql.sql">MSSQL</label>&nbsp;
                                             <label><input type="checkbox" class="format world" name="download[]" value="nl/world.xml">XML</label>
                                         </td>
                                     </tr>
@@ -673,7 +696,8 @@
                                             <label><input type="checkbox" class="format countries" name="download[]" value="nl/countries.csv">CSV</label>&nbsp;
                                             <label><input type="checkbox" class="format countries" name="download[]" value="nl/countries.json">JSON</label>&nbsp;
                                             <label><input type="checkbox" class="format countries" name="download[]" value="nl/countries.php">PHP</label>&nbsp;
-                                            <label><input type="checkbox" class="format countries" name="download[]" value="nl/countries.sql">SQL</label>&nbsp;
+                                            <label><input type="checkbox" class="format countries" name="download[]" value="nl/countries.sql">MySQL</label>&nbsp;
+                                            <label><input type="checkbox" class="format countries" name="download[]" value="nl/countries-mssql.sql">MSSQL</label>&nbsp;
                                             <label><input type="checkbox" class="format countries" name="download[]" value="nl/countries.xml">XML</label>
                                         </td>
                                     </tr>
@@ -698,7 +722,8 @@
                                             <label><input type="checkbox" class="format world" name="download[]" value="en/world.csv">CSV</label>&nbsp;
                                             <label><input type="checkbox" class="format world" name="download[]" value="en/world.json">JSON</label>&nbsp;
                                             <label><input type="checkbox" class="format world" name="download[]" value="en/world.php">PHP</label>&nbsp;
-                                            <label><input type="checkbox" class="format world" name="download[]" value="en/world.sql">SQL</label>&nbsp;
+                                            <label><input type="checkbox" class="format world" name="download[]" value="en/world.sql">MySQL</label>&nbsp;
+                                            <label><input type="checkbox" class="format world" name="download[]" value="en/world-mssql.sql">MSSQL</label>&nbsp;
                                             <label><input type="checkbox" class="format world" name="download[]" value="en/world.xml">XML</label>
                                         </td>
                                     </tr>
@@ -708,7 +733,8 @@
                                             <label><input type="checkbox" class="format countries" name="download[]" value="en/countries.csv">CSV</label>&nbsp;
                                             <label><input type="checkbox" class="format countries" name="download[]" value="en/countries.json">JSON</label>&nbsp;
                                             <label><input type="checkbox" class="format countries" name="download[]" value="en/countries.php">PHP</label>&nbsp;
-                                            <label><input type="checkbox" class="format countries" name="download[]" value="en/countries.sql">SQL</label>&nbsp;
+                                            <label><input type="checkbox" class="format countries" name="download[]" value="en/countries.sql">MySQL</label>&nbsp;
+                                            <label><input type="checkbox" class="format countries" name="download[]" value="en/countries-mssql.sql">MSSQL</label>&nbsp;
                                             <label><input type="checkbox" class="format countries" name="download[]" value="en/countries.xml">XML</label>
                                         </td>
                                     </tr>
@@ -733,7 +759,8 @@
                                             <label><input type="checkbox" class="format world" name="download[]" value="eo/world.csv">CSV</label>&nbsp;
                                             <label><input type="checkbox" class="format world" name="download[]" value="eo/world.json">JSON</label>&nbsp;
                                             <label><input type="checkbox" class="format world" name="download[]" value="eo/world.php">PHP</label>&nbsp;
-                                            <label><input type="checkbox" class="format world" name="download[]" value="eo/world.sql">SQL</label>&nbsp;
+                                            <label><input type="checkbox" class="format world" name="download[]" value="eo/world.sql">MySQL</label>&nbsp;
+                                            <label><input type="checkbox" class="format world" name="download[]" value="eo/world-mssql.sql">MSSQL</label>&nbsp;
                                             <label><input type="checkbox" class="format world" name="download[]" value="eo/world.xml">XML</label>
                                         </td>
                                     </tr>
@@ -743,7 +770,8 @@
                                             <label><input type="checkbox" class="format countries" name="download[]" value="eo/countries.csv">CSV</label>&nbsp;
                                             <label><input type="checkbox" class="format countries" name="download[]" value="eo/countries.json">JSON</label>&nbsp;
                                             <label><input type="checkbox" class="format countries" name="download[]" value="eo/countries.php">PHP</label>&nbsp;
-                                            <label><input type="checkbox" class="format countries" name="download[]" value="eo/countries.sql">SQL</label>&nbsp;
+                                            <label><input type="checkbox" class="format countries" name="download[]" value="eo/countries.sql">MySQL</label>&nbsp;
+                                            <label><input type="checkbox" class="format countries" name="download[]" value="eo/countries-mssql.sql">MSSQL</label>&nbsp;
                                             <label><input type="checkbox" class="format countries" name="download[]" value="eo/countries.xml">XML</label>
                                         </td>
                                     </tr>
@@ -768,7 +796,8 @@
                                             <label><input type="checkbox" class="format world" name="download[]" value="et/world.csv">CSV</label>&nbsp;
                                             <label><input type="checkbox" class="format world" name="download[]" value="et/world.json">JSON</label>&nbsp;
                                             <label><input type="checkbox" class="format world" name="download[]" value="et/world.php">PHP</label>&nbsp;
-                                            <label><input type="checkbox" class="format world" name="download[]" value="et/world.sql">SQL</label>&nbsp;
+                                            <label><input type="checkbox" class="format world" name="download[]" value="et/world.sql">MySQL</label>&nbsp;
+                                            <label><input type="checkbox" class="format world" name="download[]" value="et/world-mssql.sql">MSSQL</label>&nbsp;
                                             <label><input type="checkbox" class="format world" name="download[]" value="et/world.xml">XML</label>
                                         </td>
                                     </tr>
@@ -778,7 +807,8 @@
                                             <label><input type="checkbox" class="format countries" name="download[]" value="et/countries.csv">CSV</label>&nbsp;
                                             <label><input type="checkbox" class="format countries" name="download[]" value="et/countries.json">JSON</label>&nbsp;
                                             <label><input type="checkbox" class="format countries" name="download[]" value="et/countries.php">PHP</label>&nbsp;
-                                            <label><input type="checkbox" class="format countries" name="download[]" value="et/countries.sql">SQL</label>&nbsp;
+                                            <label><input type="checkbox" class="format countries" name="download[]" value="et/countries.sql">MySQL</label>&nbsp;
+                                            <label><input type="checkbox" class="format countries" name="download[]" value="et/countries-mssql.sql">MSSQL</label>&nbsp;
                                             <label><input type="checkbox" class="format countries" name="download[]" value="et/countries.xml">XML</label>
                                         </td>
                                     </tr>
@@ -803,7 +833,8 @@
                                             <label><input type="checkbox" class="format world" name="download[]" value="fa/world.csv">CSV</label>&nbsp;
                                             <label><input type="checkbox" class="format world" name="download[]" value="fa/world.json">JSON</label>&nbsp;
                                             <label><input type="checkbox" class="format world" name="download[]" value="fa/world.php">PHP</label>&nbsp;
-                                            <label><input type="checkbox" class="format world" name="download[]" value="fa/world.sql">SQL</label>&nbsp;
+                                            <label><input type="checkbox" class="format world" name="download[]" value="fa/world.sql">MySQL</label>&nbsp;
+                                            <label><input type="checkbox" class="format world" name="download[]" value="fa/world-mssql.sql">MSSQL</label>&nbsp;
                                             <label><input type="checkbox" class="format world" name="download[]" value="fa/world.xml">XML</label>
                                         </td>
                                     </tr>
@@ -813,7 +844,8 @@
                                             <label><input type="checkbox" class="format countries" name="download[]" value="fa/countries.csv">CSV</label>&nbsp;
                                             <label><input type="checkbox" class="format countries" name="download[]" value="fa/countries.json">JSON</label>&nbsp;
                                             <label><input type="checkbox" class="format countries" name="download[]" value="fa/countries.php">PHP</label>&nbsp;
-                                            <label><input type="checkbox" class="format countries" name="download[]" value="fa/countries.sql">SQL</label>&nbsp;
+                                            <label><input type="checkbox" class="format countries" name="download[]" value="fa/countries.sql">MySQL</label>&nbsp;
+                                            <label><input type="checkbox" class="format countries" name="download[]" value="fa/countries-mssql.sql">MSSQL</label>&nbsp;
                                             <label><input type="checkbox" class="format countries" name="download[]" value="fa/countries.xml">XML</label>
                                         </td>
                                     </tr>
@@ -838,7 +870,8 @@
                                             <label><input type="checkbox" class="format world" name="download[]" value="fi/world.csv">CSV</label>&nbsp;
                                             <label><input type="checkbox" class="format world" name="download[]" value="fi/world.json">JSON</label>&nbsp;
                                             <label><input type="checkbox" class="format world" name="download[]" value="fi/world.php">PHP</label>&nbsp;
-                                            <label><input type="checkbox" class="format world" name="download[]" value="fi/world.sql">SQL</label>&nbsp;
+                                            <label><input type="checkbox" class="format world" name="download[]" value="fi/world.sql">MySQL</label>&nbsp;
+                                            <label><input type="checkbox" class="format world" name="download[]" value="fi/world-mssql.sql">MSSQL</label>&nbsp;
                                             <label><input type="checkbox" class="format world" name="download[]" value="fi/world.xml">XML</label>
                                         </td>
                                     </tr>
@@ -848,7 +881,8 @@
                                             <label><input type="checkbox" class="format countries" name="download[]" value="fi/countries.csv">CSV</label>&nbsp;
                                             <label><input type="checkbox" class="format countries" name="download[]" value="fi/countries.json">JSON</label>&nbsp;
                                             <label><input type="checkbox" class="format countries" name="download[]" value="fi/countries.php">PHP</label>&nbsp;
-                                            <label><input type="checkbox" class="format countries" name="download[]" value="fi/countries.sql">SQL</label>&nbsp;
+                                            <label><input type="checkbox" class="format countries" name="download[]" value="fi/countries.sql">MySQL</label>&nbsp;
+                                            <label><input type="checkbox" class="format countries" name="download[]" value="fi/countries-mssql.sql">MSSQL</label>&nbsp;
                                             <label><input type="checkbox" class="format countries" name="download[]" value="fi/countries.xml">XML</label>
                                         </td>
                                     </tr>
@@ -873,7 +907,8 @@
                                             <label><input type="checkbox" class="format world" name="download[]" value="fr/world.csv">CSV</label>&nbsp;
                                             <label><input type="checkbox" class="format world" name="download[]" value="fr/world.json">JSON</label>&nbsp;
                                             <label><input type="checkbox" class="format world" name="download[]" value="fr/world.php">PHP</label>&nbsp;
-                                            <label><input type="checkbox" class="format world" name="download[]" value="fr/world.sql">SQL</label>&nbsp;
+                                            <label><input type="checkbox" class="format world" name="download[]" value="fr/world.sql">MySQL</label>&nbsp;
+                                            <label><input type="checkbox" class="format world" name="download[]" value="fr/world-mssql.sql">MSSQL</label>&nbsp;
                                             <label><input type="checkbox" class="format world" name="download[]" value="fr/world.xml">XML</label>
                                         </td>
                                     </tr>
@@ -883,7 +918,8 @@
                                             <label><input type="checkbox" class="format countries" name="download[]" value="fr/countries.csv">CSV</label>&nbsp;
                                             <label><input type="checkbox" class="format countries" name="download[]" value="fr/countries.json">JSON</label>&nbsp;
                                             <label><input type="checkbox" class="format countries" name="download[]" value="fr/countries.php">PHP</label>&nbsp;
-                                            <label><input type="checkbox" class="format countries" name="download[]" value="fr/countries.sql">SQL</label>&nbsp;
+                                            <label><input type="checkbox" class="format countries" name="download[]" value="fr/countries.sql">MySQL</label>&nbsp;
+                                            <label><input type="checkbox" class="format countries" name="download[]" value="fr/countries-mssql.sql">MSSQL</label>&nbsp;
                                             <label><input type="checkbox" class="format countries" name="download[]" value="fr/countries.xml">XML</label>
                                         </td>
                                     </tr>
@@ -908,7 +944,8 @@
                                             <label><input type="checkbox" class="format world" name="download[]" value="de/world.csv">CSV</label>&nbsp;
                                             <label><input type="checkbox" class="format world" name="download[]" value="de/world.json">JSON</label>&nbsp;
                                             <label><input type="checkbox" class="format world" name="download[]" value="de/world.php">PHP</label>&nbsp;
-                                            <label><input type="checkbox" class="format world" name="download[]" value="de/world.sql">SQL</label>&nbsp;
+                                            <label><input type="checkbox" class="format world" name="download[]" value="de/world.sql">MySQL</label>&nbsp;
+                                            <label><input type="checkbox" class="format world" name="download[]" value="de/world-mssql.sql">MSSQL</label>&nbsp;
                                             <label><input type="checkbox" class="format world" name="download[]" value="de/world.xml">XML</label>
                                         </td>
                                     </tr>
@@ -918,7 +955,8 @@
                                             <label><input type="checkbox" class="format countries" name="download[]" value="de/countries.csv">CSV</label>&nbsp;
                                             <label><input type="checkbox" class="format countries" name="download[]" value="de/countries.json">JSON</label>&nbsp;
                                             <label><input type="checkbox" class="format countries" name="download[]" value="de/countries.php">PHP</label>&nbsp;
-                                            <label><input type="checkbox" class="format countries" name="download[]" value="de/countries.sql">SQL</label>&nbsp;
+                                            <label><input type="checkbox" class="format countries" name="download[]" value="de/countries.sql">MySQL</label>&nbsp;
+                                            <label><input type="checkbox" class="format countries" name="download[]" value="de/countries-mssql.sql">MSSQL</label>&nbsp;
                                             <label><input type="checkbox" class="format countries" name="download[]" value="de/countries.xml">XML</label>
                                         </td>
                                     </tr>
@@ -943,7 +981,8 @@
                                             <label><input type="checkbox" class="format world" name="download[]" value="el/world.csv">CSV</label>&nbsp;
                                             <label><input type="checkbox" class="format world" name="download[]" value="el/world.json">JSON</label>&nbsp;
                                             <label><input type="checkbox" class="format world" name="download[]" value="el/world.php">PHP</label>&nbsp;
-                                            <label><input type="checkbox" class="format world" name="download[]" value="el/world.sql">SQL</label>&nbsp;
+                                            <label><input type="checkbox" class="format world" name="download[]" value="el/world.sql">MySQL</label>&nbsp;
+                                            <label><input type="checkbox" class="format world" name="download[]" value="el/world-mssql.sql">MSSQL</label>&nbsp;
                                             <label><input type="checkbox" class="format world" name="download[]" value="el/world.xml">XML</label>
                                         </td>
                                     </tr>
@@ -953,7 +992,8 @@
                                             <label><input type="checkbox" class="format countries" name="download[]" value="el/countries.csv">CSV</label>&nbsp;
                                             <label><input type="checkbox" class="format countries" name="download[]" value="el/countries.json">JSON</label>&nbsp;
                                             <label><input type="checkbox" class="format countries" name="download[]" value="el/countries.php">PHP</label>&nbsp;
-                                            <label><input type="checkbox" class="format countries" name="download[]" value="el/countries.sql">SQL</label>&nbsp;
+                                            <label><input type="checkbox" class="format countries" name="download[]" value="el/countries.sql">MySQL</label>&nbsp;
+                                            <label><input type="checkbox" class="format countries" name="download[]" value="el/countries-mssql.sql">MSSQL</label>&nbsp;
                                             <label><input type="checkbox" class="format countries" name="download[]" value="el/countries.xml">XML</label>
                                         </td>
                                     </tr>
@@ -978,7 +1018,8 @@
                                             <label><input type="checkbox" class="format world" name="download[]" value="hu/world.csv">CSV</label>&nbsp;
                                             <label><input type="checkbox" class="format world" name="download[]" value="hu/world.json">JSON</label>&nbsp;
                                             <label><input type="checkbox" class="format world" name="download[]" value="hu/world.php">PHP</label>&nbsp;
-                                            <label><input type="checkbox" class="format world" name="download[]" value="hu/world.sql">SQL</label>&nbsp;
+                                            <label><input type="checkbox" class="format world" name="download[]" value="hu/world.sql">MySQL</label>&nbsp;
+                                            <label><input type="checkbox" class="format world" name="download[]" value="hu/world-mssql.sql">MSSQL</label>&nbsp;
                                             <label><input type="checkbox" class="format world" name="download[]" value="hu/world.xml">XML</label>
                                         </td>
                                     </tr>
@@ -988,7 +1029,8 @@
                                             <label><input type="checkbox" class="format countries" name="download[]" value="hu/countries.csv">CSV</label>&nbsp;
                                             <label><input type="checkbox" class="format countries" name="download[]" value="hu/countries.json">JSON</label>&nbsp;
                                             <label><input type="checkbox" class="format countries" name="download[]" value="hu/countries.php">PHP</label>&nbsp;
-                                            <label><input type="checkbox" class="format countries" name="download[]" value="hu/countries.sql">SQL</label>&nbsp;
+                                            <label><input type="checkbox" class="format countries" name="download[]" value="hu/countries.sql">MySQL</label>&nbsp;
+                                            <label><input type="checkbox" class="format countries" name="download[]" value="hu/countries-mssql.sql">MSSQL</label>&nbsp;
                                             <label><input type="checkbox" class="format countries" name="download[]" value="hu/countries.xml">XML</label>
                                         </td>
                                     </tr>
@@ -1013,7 +1055,8 @@
                                             <label><input type="checkbox" class="format world" name="download[]" value="it/world.csv">CSV</label>&nbsp;
                                             <label><input type="checkbox" class="format world" name="download[]" value="it/world.json">JSON</label>&nbsp;
                                             <label><input type="checkbox" class="format world" name="download[]" value="it/world.php">PHP</label>&nbsp;
-                                            <label><input type="checkbox" class="format world" name="download[]" value="it/world.sql">SQL</label>&nbsp;
+                                            <label><input type="checkbox" class="format world" name="download[]" value="it/world.sql">MySQL</label>&nbsp;
+                                            <label><input type="checkbox" class="format world" name="download[]" value="it/world-mssql.sql">MSSQL</label>&nbsp;
                                             <label><input type="checkbox" class="format world" name="download[]" value="it/world.xml">XML</label>
                                         </td>
                                     </tr>
@@ -1023,7 +1066,8 @@
                                             <label><input type="checkbox" class="format countries" name="download[]" value="it/countries.csv">CSV</label>&nbsp;
                                             <label><input type="checkbox" class="format countries" name="download[]" value="it/countries.json">JSON</label>&nbsp;
                                             <label><input type="checkbox" class="format countries" name="download[]" value="it/countries.php">PHP</label>&nbsp;
-                                            <label><input type="checkbox" class="format countries" name="download[]" value="it/countries.sql">SQL</label>&nbsp;
+                                            <label><input type="checkbox" class="format countries" name="download[]" value="it/countries.sql">MySQL</label>&nbsp;
+                                            <label><input type="checkbox" class="format countries" name="download[]" value="it/countries-mssql.sql">MSSQL</label>&nbsp;
                                             <label><input type="checkbox" class="format countries" name="download[]" value="it/countries.xml">XML</label>
                                         </td>
                                     </tr>
@@ -1048,7 +1092,8 @@
                                             <label><input type="checkbox" class="format world" name="download[]" value="ja/world.csv">CSV</label>&nbsp;
                                             <label><input type="checkbox" class="format world" name="download[]" value="ja/world.json">JSON</label>&nbsp;
                                             <label><input type="checkbox" class="format world" name="download[]" value="ja/world.php">PHP</label>&nbsp;
-                                            <label><input type="checkbox" class="format world" name="download[]" value="ja/world.sql">SQL</label>&nbsp;
+                                            <label><input type="checkbox" class="format world" name="download[]" value="ja/world.sql">MySQL</label>&nbsp;
+                                            <label><input type="checkbox" class="format world" name="download[]" value="ja/world-mssql.sql">MSSQL</label>&nbsp;
                                             <label><input type="checkbox" class="format world" name="download[]" value="ja/world.xml">XML</label>
                                         </td>
                                     </tr>
@@ -1058,7 +1103,8 @@
                                             <label><input type="checkbox" class="format countries" name="download[]" value="ja/countries.csv">CSV</label>&nbsp;
                                             <label><input type="checkbox" class="format countries" name="download[]" value="ja/countries.json">JSON</label>&nbsp;
                                             <label><input type="checkbox" class="format countries" name="download[]" value="ja/countries.php">PHP</label>&nbsp;
-                                            <label><input type="checkbox" class="format countries" name="download[]" value="ja/countries.sql">SQL</label>&nbsp;
+                                            <label><input type="checkbox" class="format countries" name="download[]" value="ja/countries.sql">MySQL</label>&nbsp;
+                                            <label><input type="checkbox" class="format countries" name="download[]" value="ja/countries-mssql.sql">MSSQL</label>&nbsp;
                                             <label><input type="checkbox" class="format countries" name="download[]" value="ja/countries.xml">XML</label>
                                         </td>
                                     </tr>
@@ -1083,7 +1129,8 @@
                                             <label><input type="checkbox" class="format world" name="download[]" value="ko/world.csv">CSV</label>&nbsp;
                                             <label><input type="checkbox" class="format world" name="download[]" value="ko/world.json">JSON</label>&nbsp;
                                             <label><input type="checkbox" class="format world" name="download[]" value="ko/world.php">PHP</label>&nbsp;
-                                            <label><input type="checkbox" class="format world" name="download[]" value="ko/world.sql">SQL</label>&nbsp;
+                                            <label><input type="checkbox" class="format world" name="download[]" value="ko/world.sql">MySQL</label>&nbsp;
+                                            <label><input type="checkbox" class="format world" name="download[]" value="ko/world-mssql.sql">MSSQL</label>&nbsp;
                                             <label><input type="checkbox" class="format world" name="download[]" value="ko/world.xml">XML</label>
                                         </td>
                                     </tr>
@@ -1093,7 +1140,8 @@
                                             <label><input type="checkbox" class="format countries" name="download[]" value="ko/countries.csv">CSV</label>&nbsp;
                                             <label><input type="checkbox" class="format countries" name="download[]" value="ko/countries.json">JSON</label>&nbsp;
                                             <label><input type="checkbox" class="format countries" name="download[]" value="ko/countries.php">PHP</label>&nbsp;
-                                            <label><input type="checkbox" class="format countries" name="download[]" value="ko/countries.sql">SQL</label>&nbsp;
+                                            <label><input type="checkbox" class="format countries" name="download[]" value="ko/countries.sql">MySQL</label>&nbsp;
+                                            <label><input type="checkbox" class="format countries" name="download[]" value="ko/countries-mssql.sql">MSSQL</label>&nbsp;
                                             <label><input type="checkbox" class="format countries" name="download[]" value="ko/countries.xml">XML</label>
                                         </td>
                                     </tr>
@@ -1118,7 +1166,8 @@
                                             <label><input type="checkbox" class="format world" name="download[]" value="lt/world.csv">CSV</label>&nbsp;
                                             <label><input type="checkbox" class="format world" name="download[]" value="lt/world.json">JSON</label>&nbsp;
                                             <label><input type="checkbox" class="format world" name="download[]" value="lt/world.php">PHP</label>&nbsp;
-                                            <label><input type="checkbox" class="format world" name="download[]" value="lt/world.sql">SQL</label>&nbsp;
+                                            <label><input type="checkbox" class="format world" name="download[]" value="lt/world.sql">MySQL</label>&nbsp;
+                                            <label><input type="checkbox" class="format world" name="download[]" value="lt/world-mssql.sql">MSSQL</label>&nbsp;
                                             <label><input type="checkbox" class="format world" name="download[]" value="lt/world.xml">XML</label>
                                         </td>
                                     </tr>
@@ -1128,7 +1177,8 @@
                                             <label><input type="checkbox" class="format countries" name="download[]" value="lt/countries.csv">CSV</label>&nbsp;
                                             <label><input type="checkbox" class="format countries" name="download[]" value="lt/countries.json">JSON</label>&nbsp;
                                             <label><input type="checkbox" class="format countries" name="download[]" value="lt/countries.php">PHP</label>&nbsp;
-                                            <label><input type="checkbox" class="format countries" name="download[]" value="lt/countries.sql">SQL</label>&nbsp;
+                                            <label><input type="checkbox" class="format countries" name="download[]" value="lt/countries.sql">MySQL</label>&nbsp;
+                                            <label><input type="checkbox" class="format countries" name="download[]" value="lt/countries-mssql.sql">MSSQL</label>&nbsp;
                                             <label><input type="checkbox" class="format countries" name="download[]" value="lt/countries.xml">XML</label>
                                         </td>
                                     </tr>
@@ -1153,7 +1203,8 @@
                                             <label><input type="checkbox" class="format world" name="download[]" value="no/world.csv">CSV</label>&nbsp;
                                             <label><input type="checkbox" class="format world" name="download[]" value="no/world.json">JSON</label>&nbsp;
                                             <label><input type="checkbox" class="format world" name="download[]" value="no/world.php">PHP</label>&nbsp;
-                                            <label><input type="checkbox" class="format world" name="download[]" value="no/world.sql">SQL</label>&nbsp;
+                                            <label><input type="checkbox" class="format world" name="download[]" value="no/world.sql">MySQL</label>&nbsp;
+                                            <label><input type="checkbox" class="format world" name="download[]" value="no/world-mssql.sql">MSSQL</label>&nbsp;
                                             <label><input type="checkbox" class="format world" name="download[]" value="no/world.xml">XML</label>
                                         </td>
                                     </tr>
@@ -1163,7 +1214,8 @@
                                             <label><input type="checkbox" class="format countries" name="download[]" value="no/countries.csv">CSV</label>&nbsp;
                                             <label><input type="checkbox" class="format countries" name="download[]" value="no/countries.json">JSON</label>&nbsp;
                                             <label><input type="checkbox" class="format countries" name="download[]" value="no/countries.php">PHP</label>&nbsp;
-                                            <label><input type="checkbox" class="format countries" name="download[]" value="no/countries.sql">SQL</label>&nbsp;
+                                            <label><input type="checkbox" class="format countries" name="download[]" value="no/countries.sql">MySQL</label>&nbsp;
+                                            <label><input type="checkbox" class="format countries" name="download[]" value="no/countries-mssql.sql">MSSQL</label>&nbsp;
                                             <label><input type="checkbox" class="format countries" name="download[]" value="no/countries.xml">XML</label>
                                         </td>
                                     </tr>
@@ -1188,7 +1240,8 @@
                                             <label><input type="checkbox" class="format world" name="download[]" value="pl/world.csv">CSV</label>&nbsp;
                                             <label><input type="checkbox" class="format world" name="download[]" value="pl/world.json">JSON</label>&nbsp;
                                             <label><input type="checkbox" class="format world" name="download[]" value="pl/world.php">PHP</label>&nbsp;
-                                            <label><input type="checkbox" class="format world" name="download[]" value="pl/world.sql">SQL</label>&nbsp;
+                                            <label><input type="checkbox" class="format world" name="download[]" value="pl/world.sql">MySQL</label>&nbsp;
+                                            <label><input type="checkbox" class="format world" name="download[]" value="pl/world-mssql.sql">MSSQL</label>&nbsp;
                                             <label><input type="checkbox" class="format world" name="download[]" value="pl/world.xml">XML</label>
                                         </td>
                                     </tr>
@@ -1198,7 +1251,8 @@
                                             <label><input type="checkbox" class="format countries" name="download[]" value="pl/countries.csv">CSV</label>&nbsp;
                                             <label><input type="checkbox" class="format countries" name="download[]" value="pl/countries.json">JSON</label>&nbsp;
                                             <label><input type="checkbox" class="format countries" name="download[]" value="pl/countries.php">PHP</label>&nbsp;
-                                            <label><input type="checkbox" class="format countries" name="download[]" value="pl/countries.sql">SQL</label>&nbsp;
+                                            <label><input type="checkbox" class="format countries" name="download[]" value="pl/countries.sql">MySQL</label>&nbsp;
+                                            <label><input type="checkbox" class="format countries" name="download[]" value="pl/countries-mssql.sql">MSSQL</label>&nbsp;
                                             <label><input type="checkbox" class="format countries" name="download[]" value="pl/countries.xml">XML</label>
                                         </td>
                                     </tr>
@@ -1223,7 +1277,8 @@
                                             <label><input type="checkbox" class="format world" name="download[]" value="pt/world.csv">CSV</label>&nbsp;
                                             <label><input type="checkbox" class="format world" name="download[]" value="pt/world.json">JSON</label>&nbsp;
                                             <label><input type="checkbox" class="format world" name="download[]" value="pt/world.php">PHP</label>&nbsp;
-                                            <label><input type="checkbox" class="format world" name="download[]" value="pt/world.sql">SQL</label>&nbsp;
+                                            <label><input type="checkbox" class="format world" name="download[]" value="pt/world.sql">MySQL</label>&nbsp;
+                                            <label><input type="checkbox" class="format world" name="download[]" value="pt/world-mssql.sql">MSSQL</label>&nbsp;
                                             <label><input type="checkbox" class="format world" name="download[]" value="pt/world.xml">XML</label>
                                         </td>
                                     </tr>
@@ -1233,7 +1288,8 @@
                                             <label><input type="checkbox" class="format countries" name="download[]" value="pt/countries.csv">CSV</label>&nbsp;
                                             <label><input type="checkbox" class="format countries" name="download[]" value="pt/countries.json">JSON</label>&nbsp;
                                             <label><input type="checkbox" class="format countries" name="download[]" value="pt/countries.php">PHP</label>&nbsp;
-                                            <label><input type="checkbox" class="format countries" name="download[]" value="pt/countries.sql">SQL</label>&nbsp;
+                                            <label><input type="checkbox" class="format countries" name="download[]" value="pt/countries.sql">MySQL</label>&nbsp;
+                                            <label><input type="checkbox" class="format countries" name="download[]" value="pt/countries-mssql.sql">MSSQL</label>&nbsp;
                                             <label><input type="checkbox" class="format countries" name="download[]" value="pt/countries.xml">XML</label>
                                         </td>
                                     </tr>
@@ -1258,7 +1314,8 @@
                                             <label><input type="checkbox" class="format world" name="download[]" value="ro/world.csv">CSV</label>&nbsp;
                                             <label><input type="checkbox" class="format world" name="download[]" value="ro/world.json">JSON</label>&nbsp;
                                             <label><input type="checkbox" class="format world" name="download[]" value="ro/world.php">PHP</label>&nbsp;
-                                            <label><input type="checkbox" class="format world" name="download[]" value="ro/world.sql">SQL</label>&nbsp;
+                                            <label><input type="checkbox" class="format world" name="download[]" value="ro/world.sql">MySQL</label>&nbsp;
+                                            <label><input type="checkbox" class="format world" name="download[]" value="ro/world-mssql.sql">MSSQL</label>&nbsp;
                                             <label><input type="checkbox" class="format world" name="download[]" value="ro/world.xml">XML</label>
                                         </td>
                                     </tr>
@@ -1268,7 +1325,8 @@
                                             <label><input type="checkbox" class="format countries" name="download[]" value="ro/countries.csv">CSV</label>&nbsp;
                                             <label><input type="checkbox" class="format countries" name="download[]" value="ro/countries.json">JSON</label>&nbsp;
                                             <label><input type="checkbox" class="format countries" name="download[]" value="ro/countries.php">PHP</label>&nbsp;
-                                            <label><input type="checkbox" class="format countries" name="download[]" value="ro/countries.sql">SQL</label>&nbsp;
+                                            <label><input type="checkbox" class="format countries" name="download[]" value="ro/countries.sql">MySQL</label>&nbsp;
+                                            <label><input type="checkbox" class="format countries" name="download[]" value="ro/countries-mssql.sql">MSSQL</label>&nbsp;
                                             <label><input type="checkbox" class="format countries" name="download[]" value="ro/countries.xml">XML</label>
                                         </td>
                                     </tr>
@@ -1293,7 +1351,8 @@
                                             <label><input type="checkbox" class="format world" name="download[]" value="ru/world.csv">CSV</label>&nbsp;
                                             <label><input type="checkbox" class="format world" name="download[]" value="ru/world.json">JSON</label>&nbsp;
                                             <label><input type="checkbox" class="format world" name="download[]" value="ru/world.php">PHP</label>&nbsp;
-                                            <label><input type="checkbox" class="format world" name="download[]" value="ru/world.sql">SQL</label>&nbsp;
+                                            <label><input type="checkbox" class="format world" name="download[]" value="ru/world.sql">MySQL</label>&nbsp;
+                                            <label><input type="checkbox" class="format world" name="download[]" value="ru/world-mssql.sql">MSSQL</label>&nbsp;
                                             <label><input type="checkbox" class="format world" name="download[]" value="ru/world.xml">XML</label>
                                         </td>
                                     </tr>
@@ -1303,7 +1362,8 @@
                                             <label><input type="checkbox" class="format countries" name="download[]" value="ru/countries.csv">CSV</label>&nbsp;
                                             <label><input type="checkbox" class="format countries" name="download[]" value="ru/countries.json">JSON</label>&nbsp;
                                             <label><input type="checkbox" class="format countries" name="download[]" value="ru/countries.php">PHP</label>&nbsp;
-                                            <label><input type="checkbox" class="format countries" name="download[]" value="ru/countries.sql">SQL</label>&nbsp;
+                                            <label><input type="checkbox" class="format countries" name="download[]" value="ru/countries.sql">MySQL</label>&nbsp;
+                                            <label><input type="checkbox" class="format countries" name="download[]" value="ru/countries-mssql.sql">MSSQL</label>&nbsp;
                                             <label><input type="checkbox" class="format countries" name="download[]" value="ru/countries.xml">XML</label>
                                         </td>
                                     </tr>
@@ -1328,7 +1388,8 @@
                                             <label><input type="checkbox" class="format world" name="download[]" value="sr/world.csv">CSV</label>&nbsp;
                                             <label><input type="checkbox" class="format world" name="download[]" value="sr/world.json">JSON</label>&nbsp;
                                             <label><input type="checkbox" class="format world" name="download[]" value="sr/world.php">PHP</label>&nbsp;
-                                            <label><input type="checkbox" class="format world" name="download[]" value="sr/world.sql">SQL</label>&nbsp;
+                                            <label><input type="checkbox" class="format world" name="download[]" value="sr/world.sql">MySQL</label>&nbsp;
+                                            <label><input type="checkbox" class="format world" name="download[]" value="sr/world-mssql.sql">MSSQL</label>&nbsp;
                                             <label><input type="checkbox" class="format world" name="download[]" value="sr/world.xml">XML</label>
                                         </td>
                                     </tr>
@@ -1338,7 +1399,8 @@
                                             <label><input type="checkbox" class="format countries" name="download[]" value="sr/countries.csv">CSV</label>&nbsp;
                                             <label><input type="checkbox" class="format countries" name="download[]" value="sr/countries.json">JSON</label>&nbsp;
                                             <label><input type="checkbox" class="format countries" name="download[]" value="sr/countries.php">PHP</label>&nbsp;
-                                            <label><input type="checkbox" class="format countries" name="download[]" value="sr/countries.sql">SQL</label>&nbsp;
+                                            <label><input type="checkbox" class="format countries" name="download[]" value="sr/countries.sql">MySQL</label>&nbsp;
+                                            <label><input type="checkbox" class="format countries" name="download[]" value="sr/countries-mssql.sql">MSSQL</label>&nbsp;
                                             <label><input type="checkbox" class="format countries" name="download[]" value="sr/countries.xml">XML</label>
                                         </td>
                                     </tr>
@@ -1363,7 +1425,8 @@
                                             <label><input type="checkbox" class="format world" name="download[]" value="sk/world.csv">CSV</label>&nbsp;
                                             <label><input type="checkbox" class="format world" name="download[]" value="sk/world.json">JSON</label>&nbsp;
                                             <label><input type="checkbox" class="format world" name="download[]" value="sk/world.php">PHP</label>&nbsp;
-                                            <label><input type="checkbox" class="format world" name="download[]" value="sk/world.sql">SQL</label>&nbsp;
+                                            <label><input type="checkbox" class="format world" name="download[]" value="sk/world.sql">MySQL</label>&nbsp;
+                                            <label><input type="checkbox" class="format world" name="download[]" value="sk/world-mssql.sql">MSSQL</label>&nbsp;
                                             <label><input type="checkbox" class="format world" name="download[]" value="sk/world.xml">XML</label>
                                         </td>
                                     </tr>
@@ -1373,7 +1436,8 @@
                                             <label><input type="checkbox" class="format countries" name="download[]" value="sk/countries.csv">CSV</label>&nbsp;
                                             <label><input type="checkbox" class="format countries" name="download[]" value="sk/countries.json">JSON</label>&nbsp;
                                             <label><input type="checkbox" class="format countries" name="download[]" value="sk/countries.php">PHP</label>&nbsp;
-                                            <label><input type="checkbox" class="format countries" name="download[]" value="sk/countries.sql">SQL</label>&nbsp;
+                                            <label><input type="checkbox" class="format countries" name="download[]" value="sk/countries.sql">MySQL</label>&nbsp;
+                                            <label><input type="checkbox" class="format countries" name="download[]" value="sk/countries-mssql.sql">MSSQL</label>&nbsp;
                                             <label><input type="checkbox" class="format countries" name="download[]" value="sk/countries.xml">XML</label>
                                         </td>
                                     </tr>
@@ -1398,7 +1462,8 @@
                                             <label><input type="checkbox" class="format world" name="download[]" value="sl/world.csv">CSV</label>&nbsp;
                                             <label><input type="checkbox" class="format world" name="download[]" value="sl/world.json">JSON</label>&nbsp;
                                             <label><input type="checkbox" class="format world" name="download[]" value="sl/world.php">PHP</label>&nbsp;
-                                            <label><input type="checkbox" class="format world" name="download[]" value="sl/world.sql">SQL</label>&nbsp;
+                                            <label><input type="checkbox" class="format world" name="download[]" value="sl/world.sql">MySQL</label>&nbsp;
+                                            <label><input type="checkbox" class="format world" name="download[]" value="sl/world-mssql.sql">MSSQL</label>&nbsp;
                                             <label><input type="checkbox" class="format world" name="download[]" value="sl/world.xml">XML</label>
                                         </td>
                                     </tr>
@@ -1408,7 +1473,8 @@
                                             <label><input type="checkbox" class="format countries" name="download[]" value="sl/countries.csv">CSV</label>&nbsp;
                                             <label><input type="checkbox" class="format countries" name="download[]" value="sl/countries.json">JSON</label>&nbsp;
                                             <label><input type="checkbox" class="format countries" name="download[]" value="sl/countries.php">PHP</label>&nbsp;
-                                            <label><input type="checkbox" class="format countries" name="download[]" value="sl/countries.sql">SQL</label>&nbsp;
+                                            <label><input type="checkbox" class="format countries" name="download[]" value="sl/countries.sql">MySQL</label>&nbsp;
+                                            <label><input type="checkbox" class="format countries" name="download[]" value="sl/countries-mssql.sql">MSSQL</label>&nbsp;
                                             <label><input type="checkbox" class="format countries" name="download[]" value="sl/countries.xml">XML</label>
                                         </td>
                                     </tr>
@@ -1433,7 +1499,8 @@
                                             <label><input type="checkbox" class="format world" name="download[]" value="es/world.csv">CSV</label>&nbsp;
                                             <label><input type="checkbox" class="format world" name="download[]" value="es/world.json">JSON</label>&nbsp;
                                             <label><input type="checkbox" class="format world" name="download[]" value="es/world.php">PHP</label>&nbsp;
-                                            <label><input type="checkbox" class="format world" name="download[]" value="es/world.sql">SQL</label>&nbsp;
+                                            <label><input type="checkbox" class="format world" name="download[]" value="es/world.sql">MySQL</label>&nbsp;
+                                            <label><input type="checkbox" class="format world" name="download[]" value="es/world-mssql.sql">MSSQL</label>&nbsp;
                                             <label><input type="checkbox" class="format world" name="download[]" value="es/world.xml">XML</label>
                                         </td>
                                     </tr>
@@ -1443,7 +1510,8 @@
                                             <label><input type="checkbox" class="format countries" name="download[]" value="es/countries.csv">CSV</label>&nbsp;
                                             <label><input type="checkbox" class="format countries" name="download[]" value="es/countries.json">JSON</label>&nbsp;
                                             <label><input type="checkbox" class="format countries" name="download[]" value="es/countries.php">PHP</label>&nbsp;
-                                            <label><input type="checkbox" class="format countries" name="download[]" value="es/countries.sql">SQL</label>&nbsp;
+                                            <label><input type="checkbox" class="format countries" name="download[]" value="es/countries.sql">MySQL</label>&nbsp;
+                                            <label><input type="checkbox" class="format countries" name="download[]" value="es/countries-mssql.sql">MSSQL</label>&nbsp;
                                             <label><input type="checkbox" class="format countries" name="download[]" value="es/countries.xml">XML</label>
                                         </td>
                                     </tr>
@@ -1468,7 +1536,8 @@
                                             <label><input type="checkbox" class="format world" name="download[]" value="sv/world.csv">CSV</label>&nbsp;
                                             <label><input type="checkbox" class="format world" name="download[]" value="sv/world.json">JSON</label>&nbsp;
                                             <label><input type="checkbox" class="format world" name="download[]" value="sv/world.php">PHP</label>&nbsp;
-                                            <label><input type="checkbox" class="format world" name="download[]" value="sv/world.sql">SQL</label>&nbsp;
+                                            <label><input type="checkbox" class="format world" name="download[]" value="sv/world.sql">MySQL</label>&nbsp;
+                                            <label><input type="checkbox" class="format world" name="download[]" value="sv/world-mssql.sql">MSSQL</label>&nbsp;
                                             <label><input type="checkbox" class="format world" name="download[]" value="sv/world.xml">XML</label>
                                         </td>
                                     </tr>
@@ -1478,7 +1547,8 @@
                                             <label><input type="checkbox" class="format countries" name="download[]" value="sv/countries.csv">CSV</label>&nbsp;
                                             <label><input type="checkbox" class="format countries" name="download[]" value="sv/countries.json">JSON</label>&nbsp;
                                             <label><input type="checkbox" class="format countries" name="download[]" value="sv/countries.php">PHP</label>&nbsp;
-                                            <label><input type="checkbox" class="format countries" name="download[]" value="sv/countries.sql">SQL</label>&nbsp;
+                                            <label><input type="checkbox" class="format countries" name="download[]" value="sv/countries.sql">MySQL</label>&nbsp;
+                                            <label><input type="checkbox" class="format countries" name="download[]" value="sv/countries-mssql.sql">MSSQL</label>&nbsp;
                                             <label><input type="checkbox" class="format countries" name="download[]" value="sv/countries.xml">XML</label>
                                         </td>
                                     </tr>
@@ -1503,7 +1573,8 @@
                                             <label><input type="checkbox" class="format world" name="download[]" value="th/world.csv">CSV</label>&nbsp;
                                             <label><input type="checkbox" class="format world" name="download[]" value="th/world.json">JSON</label>&nbsp;
                                             <label><input type="checkbox" class="format world" name="download[]" value="th/world.php">PHP</label>&nbsp;
-                                            <label><input type="checkbox" class="format world" name="download[]" value="th/world.sql">SQL</label>&nbsp;
+                                            <label><input type="checkbox" class="format world" name="download[]" value="th/world.sql">MySQL</label>&nbsp;
+                                            <label><input type="checkbox" class="format world" name="download[]" value="th/world-mssql.sql">MSSQL</label>&nbsp;
                                             <label><input type="checkbox" class="format world" name="download[]" value="th/world.xml">XML</label>
                                         </td>
                                     </tr>
@@ -1513,7 +1584,8 @@
                                             <label><input type="checkbox" class="format countries" name="download[]" value="th/countries.csv">CSV</label>&nbsp;
                                             <label><input type="checkbox" class="format countries" name="download[]" value="th/countries.json">JSON</label>&nbsp;
                                             <label><input type="checkbox" class="format countries" name="download[]" value="th/countries.php">PHP</label>&nbsp;
-                                            <label><input type="checkbox" class="format countries" name="download[]" value="th/countries.sql">SQL</label>&nbsp;
+                                            <label><input type="checkbox" class="format countries" name="download[]" value="th/countries.sql">MySQL</label>&nbsp;
+                                            <label><input type="checkbox" class="format countries" name="download[]" value="th/countries-mssql.sql">MSSQL</label>&nbsp;
                                             <label><input type="checkbox" class="format countries" name="download[]" value="th/countries.xml">XML</label>
                                         </td>
                                     </tr>
@@ -1538,7 +1610,8 @@
                                             <label><input type="checkbox" class="format world" name="download[]" value="tr/world.csv">CSV</label>&nbsp;
                                             <label><input type="checkbox" class="format world" name="download[]" value="tr/world.json">JSON</label>&nbsp;
                                             <label><input type="checkbox" class="format world" name="download[]" value="tr/world.php">PHP</label>&nbsp;
-                                            <label><input type="checkbox" class="format world" name="download[]" value="tr/world.sql">SQL</label>&nbsp;
+                                            <label><input type="checkbox" class="format world" name="download[]" value="tr/world.sql">MySQL</label>&nbsp;
+                                            <label><input type="checkbox" class="format world" name="download[]" value="tr/world-mssql.sql">MSSQL</label>&nbsp;
                                             <label><input type="checkbox" class="format world" name="download[]" value="tr/world.xml">XML</label>
                                         </td>
                                     </tr>
@@ -1548,7 +1621,8 @@
                                             <label><input type="checkbox" class="format countries" name="download[]" value="tr/countries.csv">CSV</label>&nbsp;
                                             <label><input type="checkbox" class="format countries" name="download[]" value="tr/countries.json">JSON</label>&nbsp;
                                             <label><input type="checkbox" class="format countries" name="download[]" value="tr/countries.php">PHP</label>&nbsp;
-                                            <label><input type="checkbox" class="format countries" name="download[]" value="tr/countries.sql">SQL</label>&nbsp;
+                                            <label><input type="checkbox" class="format countries" name="download[]" value="tr/countries.sql">MySQL</label>&nbsp;
+                                            <label><input type="checkbox" class="format countries" name="download[]" value="tr/countries-mssql.sql">MSSQL</label>&nbsp;
                                             <label><input type="checkbox" class="format countries" name="download[]" value="tr/countries.xml">XML</label>
                                         </td>
                                     </tr>
@@ -1573,7 +1647,8 @@
                                             <label><input type="checkbox" class="format world" name="download[]" value="uk/world.csv">CSV</label>&nbsp;
                                             <label><input type="checkbox" class="format world" name="download[]" value="uk/world.json">JSON</label>&nbsp;
                                             <label><input type="checkbox" class="format world" name="download[]" value="uk/world.php">PHP</label>&nbsp;
-                                            <label><input type="checkbox" class="format world" name="download[]" value="uk/world.sql">SQL</label>&nbsp;
+                                            <label><input type="checkbox" class="format world" name="download[]" value="uk/world.sql">MySQL</label>&nbsp;
+                                            <label><input type="checkbox" class="format world" name="download[]" value="uk/world-mssql.sql">MSSQL</label>&nbsp;
                                             <label><input type="checkbox" class="format world" name="download[]" value="uk/world.xml">XML</label>
                                         </td>
                                     </tr>
@@ -1583,7 +1658,8 @@
                                             <label><input type="checkbox" class="format countries" name="download[]" value="uk/countries.csv">CSV</label>&nbsp;
                                             <label><input type="checkbox" class="format countries" name="download[]" value="uk/countries.json">JSON</label>&nbsp;
                                             <label><input type="checkbox" class="format countries" name="download[]" value="uk/countries.php">PHP</label>&nbsp;
-                                            <label><input type="checkbox" class="format countries" name="download[]" value="uk/countries.sql">SQL</label>&nbsp;
+                                            <label><input type="checkbox" class="format countries" name="download[]" value="uk/countries.sql">MySQL</label>&nbsp;
+                                            <label><input type="checkbox" class="format countries" name="download[]" value="uk/countries-mssql.sql">MSSQL</label>&nbsp;
                                             <label><input type="checkbox" class="format countries" name="download[]" value="uk/countries.xml">XML</label>
                                         </td>
                                     </tr>
@@ -1608,7 +1684,8 @@
                             <label><input type="checkbox" class="format subdivisions" name="download[]" value="subdivisions/subdivisions.csv">CSV</label>&nbsp;
                             <label><input type="checkbox" class="format subdivisions" name="download[]" value="subdivisions/subdivisions.json">JSON</label>&nbsp;
                             <label><input type="checkbox" class="format subdivisions" name="download[]" value="subdivisions/subdivisions.php">PHP</label>&nbsp;
-                            <label><input type="checkbox" class="format subdivisions" name="download[]" value="subdivisions/subdivisions.sql">SQL</label>&nbsp;
+                            <label><input type="checkbox" class="format subdivisions" name="download[]" value="subdivisions/subdivisions.sql">MySQL</label>&nbsp;
+                            <label><input type="checkbox" class="format subdivisions" name="download[]" value="subdivisions/subdivisions-mssql.sql">MSSQL</label>&nbsp;
                             <label><input type="checkbox" class="format subdivisions" name="download[]" value="subdivisions/subdivisions.xml">XML</label>
                         </div>
                     </div>
