@@ -2,6 +2,7 @@
 
 - changed license to CC BY-SA (Creative Commons Attribution Share Alike) per the requirements when using Wikipedia data
 - added data in MSSQL format see [#102](https://github.com/stefangabos/world_countries/pull/102); thanks to [Matthew David Elgert](https://github.com/mdelgert) for suggesting
+- updated database engine and charset for the MySQL format
 - updated various country names
 
 ## version 3.1.0 (May 31, 2025)
