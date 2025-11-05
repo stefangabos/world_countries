@@ -86,19 +86,22 @@ The list is available in `CSV`, `JSON`, `PHP`, `MySQL`, `MSSQL` and `XML` format
 - the <strong>country code</strong>
 - the <strong>ISO 3166-2 subdivision code</strong>
 - the <strong>ISO 3166-2 subdivision name</strong>
-- the <strong>type</strong>
+- the <strong>ISO 3166-2 subdivision name in english</strong> *(where available)*
+- the <strong>subdivision type</strong>
 - the <strong>parent</strong> (for when there are multiple administrative levels)
 
 <p>An excerpt from the CSV file looks like this</p>
 
 ```csv
-US,US-AL,Alabama,state,
-US,US-AK,Alaska,state,
-US,US-AZ,Arizona,state,
-US,US-AR,Arkansas,state,
-US,US-CA,California,state,
-US,US-CO,Colorado,state,
+US,US-AL,Alabama,,state,
+US,US-AK,Alaska,,state,
+US,US-AZ,Arizona,,state,
+US,US-AR,Arkansas,,state,
+US,US-CA,California,,state,
+US,US-CO,Colorado,,state,
 ```
+
+>   Note that english name of the subdivision is not available everywhere and also it is not duplicated if the original ISO 3166-2 name is already in english!
 
 ## License
 
