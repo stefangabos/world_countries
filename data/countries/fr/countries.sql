@@ -200,7 +200,7 @@ INSERT INTO `countries` (`id`, `alpha_2`, `alpha_3`, `name`) VALUES
 (858,"uy","ury","Uruguay"),
 (548,"vu","vut","Vanuatu"),
 (862,"ve","ven","Venezuela"),
-(704,"vn","vnm","Viêt Nam"),
+(704,"vn","vnm","Vietnam"),
 (887,"ye","yem","Yémen"),
 (894,"zm","zmb","Zambie"),
 (716,"zw","zwe","Zimbabwe")

@@ -198,7 +198,7 @@ INSERT INTO [countries] ([id], [alpha_2], [alpha_3], [name]) VALUES
 (858,'uy','ury',N'Uruguay'),
 (548,'vu','vut',N'Vanuatu'),
 (862,'ve','ven',N'Venezuela'),
-(704,'vn','vnm',N'Viêt Nam'),
+(704,'vn','vnm',N'Vietnam'),
 (887,'ye','yem',N'Yémen'),
 (894,'zm','zmb',N'Zambie'),
 (716,'zw','zwe',N'Zimbabwe')

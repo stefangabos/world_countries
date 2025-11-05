@@ -144,7 +144,7 @@
     646 => array('id' => 646, 'alpha2' => 'rw', 'alpha3' => 'rwa', 'name' => 'رواندا'),
     659 => array('id' => 659, 'alpha2' => 'kn', 'alpha3' => 'kna', 'name' => 'سانت كيتس ونيفيس'),
     662 => array('id' => 662, 'alpha2' => 'lc', 'alpha3' => 'lca', 'name' => 'سانت لوسيا'),
-    670 => array('id' => 670, 'alpha2' => 'vc', 'alpha3' => 'vct', 'name' => 'سانت فينسنت والغرينادين'),
+    670 => array('id' => 670, 'alpha2' => 'vc', 'alpha3' => 'vct', 'name' => 'سانت فنسنت وجزر غرينادين'),
     882 => array('id' => 882, 'alpha2' => 'ws', 'alpha3' => 'wsm', 'name' => 'ساموا'),
     674 => array('id' => 674, 'alpha2' => 'sm', 'alpha3' => 'smr', 'name' => 'سان مارينو'),
     678 => array('id' => 678, 'alpha2' => 'st', 'alpha3' => 'stp', 'name' => 'ساو تومي وبرينسيب'),

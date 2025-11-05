@@ -255,7 +255,7 @@ INSERT INTO `world` (`id`, `alpha_2`, `alpha_3`, `name`) VALUES
 (862,"ve","ven","Venezuela"),
 (92,"vg","vgb","Îles Vierges britanniques"),
 (850,"vi","vir","Îles Vierges des États-Unis"),
-(704,"vn","vnm","Viêt Nam"),
+(704,"vn","vnm","Vietnam"),
 (876,"wf","wlf","Wallis-et-Futuna"),
 (887,"ye","yem","Yémen"),
 (894,"zm","zmb","Zambie"),

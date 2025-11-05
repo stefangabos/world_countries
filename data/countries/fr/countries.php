@@ -188,7 +188,7 @@
     858 => array('id' => 858, 'alpha2' => 'uy', 'alpha3' => 'ury', 'name' => 'Uruguay'),
     548 => array('id' => 548, 'alpha2' => 'vu', 'alpha3' => 'vut', 'name' => 'Vanuatu'),
     862 => array('id' => 862, 'alpha2' => 've', 'alpha3' => 'ven', 'name' => 'Venezuela'),
-    704 => array('id' => 704, 'alpha2' => 'vn', 'alpha3' => 'vnm', 'name' => 'Viêt Nam'),
+    704 => array('id' => 704, 'alpha2' => 'vn', 'alpha3' => 'vnm', 'name' => 'Vietnam'),
     887 => array('id' => 887, 'alpha2' => 'ye', 'alpha3' => 'yem', 'name' => 'Yémen'),
     894 => array('id' => 894, 'alpha2' => 'zm', 'alpha3' => 'zmb', 'name' => 'Zambie'),
     716 => array('id' => 716, 'alpha2' => 'zw', 'alpha3' => 'zwe', 'name' => 'Zimbabwe'),

@@ -253,7 +253,7 @@ INSERT INTO [world] ([id], [alpha_2], [alpha_3], [name]) VALUES
 (862,'ve','ven',N'Venezuela'),
 (92,'vg','vgb',N'Îles Vierges britanniques'),
 (850,'vi','vir',N'Îles Vierges des États-Unis'),
-(704,'vn','vnm',N'Viêt Nam'),
+(704,'vn','vnm',N'Vietnam'),
 (876,'wf','wlf',N'Wallis-et-Futuna'),
 (887,'ye','yem',N'Yémen'),
 (894,'zm','zmb',N'Zambie'),

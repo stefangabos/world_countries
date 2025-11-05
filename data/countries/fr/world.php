@@ -243,7 +243,7 @@
     862 => array('id' => 862, 'alpha2' => 've', 'alpha3' => 'ven', 'name' => 'Venezuela'),
     92  => array('id' => 92 , 'alpha2' => 'vg', 'alpha3' => 'vgb', 'name' => 'Îles Vierges britanniques'),
     850 => array('id' => 850, 'alpha2' => 'vi', 'alpha3' => 'vir', 'name' => 'Îles Vierges des États-Unis'),
-    704 => array('id' => 704, 'alpha2' => 'vn', 'alpha3' => 'vnm', 'name' => 'Viêt Nam'),
+    704 => array('id' => 704, 'alpha2' => 'vn', 'alpha3' => 'vnm', 'name' => 'Vietnam'),
     876 => array('id' => 876, 'alpha2' => 'wf', 'alpha3' => 'wlf', 'name' => 'Wallis-et-Futuna'),
     887 => array('id' => 887, 'alpha2' => 'ye', 'alpha3' => 'yem', 'name' => 'Yémen'),
     894 => array('id' => 894, 'alpha2' => 'zm', 'alpha3' => 'zmb', 'name' => 'Zambie'),

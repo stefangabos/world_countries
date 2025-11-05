@@ -189,7 +189,7 @@
     662 => array('id' => 662, 'alpha2' => 'lc', 'alpha3' => 'lca', 'name' => 'سانت لوسيا'),
     663 => array('id' => 663, 'alpha2' => 'mf', 'alpha3' => 'maf', 'name' => 'تجمع سان مارتين'),
     666 => array('id' => 666, 'alpha2' => 'pm', 'alpha3' => 'spm', 'name' => 'سان بيير وميكلون'),
-    670 => array('id' => 670, 'alpha2' => 'vc', 'alpha3' => 'vct', 'name' => 'سانت فينسنت والغرينادين'),
+    670 => array('id' => 670, 'alpha2' => 'vc', 'alpha3' => 'vct', 'name' => 'سانت فنسنت وجزر غرينادين'),
     882 => array('id' => 882, 'alpha2' => 'ws', 'alpha3' => 'wsm', 'name' => 'ساموا'),
     674 => array('id' => 674, 'alpha2' => 'sm', 'alpha3' => 'smr', 'name' => 'سان مارينو'),
     678 => array('id' => 678, 'alpha2' => 'st', 'alpha3' => 'stp', 'name' => 'ساو تومي وبرينسيب'),
