@@ -6384,7 +6384,7 @@
         'alpha2' => 'vc',
         'alpha3' => 'vct',
         'name' => array(
-            'ar'     =>  'سانت فينسنت والغرينادين',
+            'ar'     =>  'سانت فنسنت وجزر غرينادين',
             'bg'     =>  'Сейнт Винсент и Гренадини',
             'br'     =>  'Sant-Visant hag ar Grenadinez',
             'cs'     =>  'Svatý Vincenc a Grenadiny',
@@ -8334,7 +8334,7 @@
             'eu'     =>  'Vietnam',
             'fa'     =>  'ویتنام',
             'fi'     =>  'Vietnam',
-            'fr'     =>  'Viêt Nam',
+            'fr'     =>  'Vietnam',
             'hr'     =>  'Vijetnam',
             'hu'     =>  'Vietnám',
             'hy'     =>  'Վիետնամ',
