@@ -1,3 +1,8 @@
+## version 3.3.0 (November 05, 2025)
+
+- added subdivision names in english, where available; see [#100](https://github.com/stefangabos/world_countries/issues/100)
+- updated various country names
+
 ## version 3.2.0 (July 01, 2025)
 
 - changed license to CC BY-SA (Creative Commons Attribution Share Alike) per the requirements when using Wikipedia data
