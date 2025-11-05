@@ -153,19 +153,24 @@
                         <li>the <strong>country code</strong></li>
                         <li>the <strong>ISO 3166-2 subdivision code</strong></li>
                         <li>the <strong>ISO 3166-2 subdivision name</strong></li>
-                        <li>the <strong>type</strong></li>
+                        <li>the <strong>subdivision name in english</strong> <em>where available</em></li>
+                        <li>the <strong>subdivision type</strong></li>
                         <li>the <strong>parent</strong> (for when there are multiple administrative levels)</li>
                     </ul>
                     <p>An excerpt from the CSV file looks like this</p>
 
                     <p><code>
-                        US,US-AL,Alabama,state,<br>
-                        US,US-AK,Alaska,state,<br>
-                        US,US-AZ,Arizona,state,<br>
-                        US,US-AR,Arkansas,state,<br>
-                        US,US-CA,California,state,<br>
-                        US,US-CO,Colorado,state,<br>
+                        US,US-AL,Alabama,,state,<br>
+                        US,US-AK,Alaska,,state,<br>
+                        US,US-AZ,Arizona,,state,<br>
+                        US,US-AR,Arkansas,,state,<br>
+                        US,US-CA,California,,state,<br>
+                        US,US-CO,Colorado,,state,<br>
                     </code></p>
+
+                    <blockquote><small>
+                        Note that english name for subdivisions is not available for all and also that it is not duplicated if the original ISO 3166-2 name is already in english!
+                    </small></blockquote>
 
                     <h3>License</h3>
 
