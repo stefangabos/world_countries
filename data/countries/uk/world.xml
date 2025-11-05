@@ -27,6 +27,7 @@
     <country id="112" alpha2="by" alpha3="blr" name="Білорусь"/>
     <country id="100" alpha2="bg" alpha3="bgr" name="Болгарія"/>
     <country id="68" alpha2="bo" alpha3="bol" name="Болівія"/>
+    <country id="535" alpha2="bq" alpha3="bes" name="Бонайре, Сінт-Естатіус і Саба"/>
     <country id="70" alpha2="ba" alpha3="bih" name="Боснія і Герцеговина"/>
     <country id="72" alpha2="bw" alpha3="bwa" name="Ботсвана"/>
     <country id="76" alpha2="br" alpha3="bra" name="Бразилія"/>
@@ -144,7 +145,6 @@
     <country id="562" alpha2="ne" alpha3="ner" name="Нігер"/>
     <country id="566" alpha2="ng" alpha3="nga" name="Нігерія"/>
     <country id="528" alpha2="nl" alpha3="nld" name="Нідерланди"/>
-    <country id="535" alpha2="bq" alpha3="bes" name="Карибські Нідерланди"/>
     <country id="558" alpha2="ni" alpha3="nic" name="Нікарагуа"/>
     <country id="276" alpha2="de" alpha3="deu" name="Німеччина"/>
     <country id="570" alpha2="nu" alpha3="niu" name="Ніуе"/>
@@ -168,7 +168,7 @@
     <country id="600" alpha2="py" alpha3="pry" name="Парагвай"/>
     <country id="604" alpha2="pe" alpha3="per" name="Перу"/>
     <country id="710" alpha2="za" alpha3="zaf" name="ПАР"/>
-    <country id="239" alpha2="gs" alpha3="sgs" name="Південна Джорджія та Південні Сандвічеві Острови"/>
+    <country id="239" alpha2="gs" alpha3="sgs" name="Південна Джорджія і Південні Сандвічеві Острови"/>
     <country id="410" alpha2="kr" alpha3="kor" name="Південна Корея"/>
     <country id="728" alpha2="ss" alpha3="ssd" name="Південний Судан"/>
     <country id="408" alpha2="kp" alpha3="prk" name="Північна Корея"/>

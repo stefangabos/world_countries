@@ -200,7 +200,7 @@
     <country id="702" alpha2="sg" alpha3="sgp" name="Singapour"/>
     <country id="654" alpha2="sh" alpha3="shn" name="Saint Helena, Ascension ha Tristan da Cunha"/>
     <country id="705" alpha2="si" alpha3="svn" name="Slovenia"/>
-    <country id="744" alpha2="sj" alpha3="sjm" name="Svalbard ha Enez Jan Mayen"/>
+    <country id="744" alpha2="sj" alpha3="sjm" name="Svalbard hag Enez Jan Mayen"/>
     <country id="703" alpha2="sk" alpha3="svk" name="Slovakia"/>
     <country id="694" alpha2="sl" alpha3="sle" name="Sierra Leone"/>
     <country id="674" alpha2="sm" alpha3="smr" name="San Marino"/>
@@ -231,7 +231,7 @@
     <country id="834" alpha2="tz" alpha3="tza" name="Tanzania"/>
     <country id="804" alpha2="ua" alpha3="ukr" name="Ukraina"/>
     <country id="800" alpha2="ug" alpha3="uga" name="Ouganda"/>
-    <country id="581" alpha2="um" alpha3="umi" name="Inizi Minor A-bell Stadoù-Unanet"/>
+    <country id="581" alpha2="um" alpha3="umi" name="Inizi Pell Bihan ar Stadoù-Unanet"/>
     <country id="840" alpha2="us" alpha3="usa" name="Stadoù-Unanet"/>
     <country id="858" alpha2="uy" alpha3="ury" name="Uruguay"/>
     <country id="860" alpha2="uz" alpha3="uzb" name="Ouzbekistan"/>
