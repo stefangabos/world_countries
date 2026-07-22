@@ -53,7 +53,7 @@ INSERT INTO `world` (`id`, `alpha_2`, `alpha_3`, `name`) VALUES
 (140,"cf","caf","Centraal-Afrikaanse Republiek"),
 (152,"cl","chl","Chili"),
 (156,"cn","chn","China"),
-(162,"cx","cxr","Christmaseiland"),
+(162,"cx","cxr","Kersteiland"),
 (166,"cc","cck","Cocoseilanden"),
 (170,"co","col","Colombia"),
 (174,"km","com","Comoren"),

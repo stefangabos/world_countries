@@ -170,7 +170,7 @@ INSERT INTO [world] ([id], [alpha_2], [alpha_3], [name]) VALUES
 (566,'ng','nga',N'Nigéria'),
 (558,'ni','nic',N'Nikaragua'),
 (570,'nu','niu',N'Niue'),
-(574,'nf','nfk',N'Norfolk'),
+(574,'nf','nfk',N'Norfolkov ostrov'),
 (578,'no','nor',N'Nórsko'),
 (540,'nc','ncl',N'Nová Kaledónia'),
 (554,'nz','nzl',N'Nový Zéland'),

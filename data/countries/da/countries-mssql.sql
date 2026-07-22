@@ -76,7 +76,7 @@ INSERT INTO [countries] ([id], [alpha_2], [alpha_3], [name]) VALUES
 (328,'gy','guy',N'Guyana'),
 (332,'ht','hti',N'Haiti'),
 (340,'hn','hnd',N'Honduras'),
-(112,'by','blr',N'Hviderusland'),
+(112,'by','blr',N'Belarus'),
 (356,'in','ind',N'Indien'),
 (360,'id','idn',N'Indonesien'),
 (368,'iq','irq',N'Irak'),

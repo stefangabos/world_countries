@@ -197,7 +197,7 @@
     729 => array('id' => 729, 'alpha2' => 'sd', 'alpha3' => 'sdn', 'name' => 'Sudan'),
     752 => array('id' => 752, 'alpha2' => 'se', 'alpha3' => 'swe', 'name' => 'Sverige'),
     702 => array('id' => 702, 'alpha2' => 'sg', 'alpha3' => 'sgp', 'name' => 'Singapore'),
-    654 => array('id' => 654, 'alpha2' => 'sh', 'alpha3' => 'shn', 'name' => 'Sankta Helena, Ascension och Tristan da Cunha'),
+    654 => array('id' => 654, 'alpha2' => 'sh', 'alpha3' => 'shn', 'name' => 'Sankt Helena, Ascension och Tristan da Cunha'),
     705 => array('id' => 705, 'alpha2' => 'si', 'alpha3' => 'svn', 'name' => 'Slovenien'),
     744 => array('id' => 744, 'alpha2' => 'sj', 'alpha3' => 'sjm', 'name' => 'Svalbard och Jan Mayen'),
     703 => array('id' => 703, 'alpha2' => 'sk', 'alpha3' => 'svk', 'name' => 'Slovakien'),

@@ -201,7 +201,7 @@
     620 => array('id' => 620, 'alpha2' => 'pt', 'alpha3' => 'prt', 'name' => 'Πορτογαλία'),
     630 => array('id' => 630, 'alpha2' => 'pr', 'alpha3' => 'pri', 'name' => 'Πουέρτο Ρίκο'),
     132 => array('id' => 132, 'alpha2' => 'cv', 'alpha3' => 'cpv', 'name' => 'Πράσινο Ακρωτήρι'),
-    638 => array('id' => 638, 'alpha2' => 're', 'alpha3' => 'reu', 'name' => 'Ρεϊνιόν'),
+    638 => array('id' => 638, 'alpha2' => 're', 'alpha3' => 'reu', 'name' => 'Ρεϋνιόν'),
     646 => array('id' => 646, 'alpha2' => 'rw', 'alpha3' => 'rwa', 'name' => 'Ρουάντα'),
     642 => array('id' => 642, 'alpha2' => 'ro', 'alpha3' => 'rou', 'name' => 'Ρουμανία'),
     643 => array('id' => 643, 'alpha2' => 'ru', 'alpha3' => 'rus', 'name' => 'Ρωσία'),

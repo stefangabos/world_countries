@@ -90,7 +90,7 @@
     334 => array('id' => 334, 'alpha2' => 'hm', 'alpha3' => 'hmd', 'name' => 'Heard-øen og McDonald-øerne'),
     340 => array('id' => 340, 'alpha2' => 'hn', 'alpha3' => 'hnd', 'name' => 'Honduras'),
     344 => array('id' => 344, 'alpha2' => 'hk', 'alpha3' => 'hkg', 'name' => 'Hongkong'),
-    112 => array('id' => 112, 'alpha2' => 'by', 'alpha3' => 'blr', 'name' => 'Hviderusland'),
+    112 => array('id' => 112, 'alpha2' => 'by', 'alpha3' => 'blr', 'name' => 'Belarus'),
     833 => array('id' => 833, 'alpha2' => 'im', 'alpha3' => 'imn', 'name' => 'Isle of Man'),
     356 => array('id' => 356, 'alpha2' => 'in', 'alpha3' => 'ind', 'name' => 'Indien'),
     360 => array('id' => 360, 'alpha2' => 'id', 'alpha3' => 'idn', 'name' => 'Indonesien'),

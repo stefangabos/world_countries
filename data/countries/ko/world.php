@@ -119,7 +119,7 @@
     729 => array('id' => 729, 'alpha2' => 'sd', 'alpha3' => 'sdn', 'name' => '수단'),
     740 => array('id' => 740, 'alpha2' => 'sr', 'alpha3' => 'sur', 'name' => '수리남'),
     144 => array('id' => 144, 'alpha2' => 'lk', 'alpha3' => 'lka', 'name' => '스리랑카'),
-    744 => array('id' => 744, 'alpha2' => 'sj', 'alpha3' => 'sjm', 'name' => '스발바르 얀마옌'),
+    744 => array('id' => 744, 'alpha2' => 'sj', 'alpha3' => 'sjm', 'name' => '스발바르 얀마옌 제도'),
     752 => array('id' => 752, 'alpha2' => 'se', 'alpha3' => 'swe', 'name' => '스웨덴'),
     756 => array('id' => 756, 'alpha2' => 'ch', 'alpha3' => 'che', 'name' => '스위스'),
     724 => array('id' => 724, 'alpha2' => 'es', 'alpha3' => 'esp', 'name' => '스페인'),

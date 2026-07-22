@@ -32,12 +32,12 @@ id,alpha2,alpha3,name
 76,br,bra,Brazil
 44,bs,bhs,Bahami
 64,bt,btn,Butan
-74,bv,bvt,"Bouvetov otok"
+74,bv,bvt,Bouvet
 72,bw,bwa,Bocvana
 112,by,blr,Bjelorusija
 84,bz,blz,Belize
 124,ca,can,Kanada
-166,cc,cck,"Kokosovi (Keeling) otoci"
+166,cc,cck,"Kokosovi Otoci"
 180,cd,cod,"Demokratska Republika Kongo"
 140,cf,caf,"Srednjoafrička Republika"
 178,cg,cog,Kongo
@@ -70,7 +70,7 @@ id,alpha2,alpha3,name
 231,et,eth,Etiopija
 246,fi,fin,Finska
 242,fj,fji,Fidži
-238,fk,flk,"Falklandi (Malvini)"
+238,fk,flk,"Falklandski otoci"
 583,fm,fsm,Mikronezija
 234,fo,fro,"Farski otoci"
 250,fr,fra,Francuska
@@ -94,7 +94,7 @@ id,alpha2,alpha3,name
 624,gw,gnb,"Gvineja Bisau"
 328,gy,guy,Gvajana
 344,hk,hkg,"Hong Kong"
-334,hm,hmd,"Otok Heard i otoci McDonald"
+334,hm,hmd,"Otok Heard i otočje McDonald"
 340,hn,hnd,Honduras
 191,hr,hrv,Hrvatska
 332,ht,hti,Haiti
@@ -104,7 +104,7 @@ id,alpha2,alpha3,name
 376,il,isr,Izrael
 833,im,imn,"Otok Man"
 356,in,ind,Indija
-86,io,iot,"Britanski indijskooceanski teritorij"
+86,io,iot,"Britanski Indijskooceanski teritorij"
 368,iq,irq,Irak
 364,ir,irn,Iran
 352,is,isl,Island
@@ -119,7 +119,7 @@ id,alpha2,alpha3,name
 296,ki,kir,Kiribati
 174,km,com,Komori
 659,kn,kna,"Sveti Kristofor i Nevis"
-408,kp,prk,"Sjeverna Korea"
+408,kp,prk,"Sjeverna Koreja"
 410,kr,kor,"Južna Koreja"
 414,kw,kwt,Kuvajt
 136,ky,cym,"Kajmanski otoci"
@@ -161,7 +161,7 @@ id,alpha2,alpha3,name
 516,na,nam,Namibija
 540,nc,ncl,"Nova Kaledonija"
 562,ne,ner,Niger
-574,nf,nfk,"Norfolk Otok"
+574,nf,nfk,Norfolk
 566,ng,nga,Nigerija
 558,ni,nic,Nikaragva
 528,nl,nld,Nizozemska
@@ -179,7 +179,7 @@ id,alpha2,alpha3,name
 586,pk,pak,Pakistan
 616,pl,pol,Poljska
 666,pm,spm,"Sveti Petar i Mikelon"
-612,pn,pcn,"Pitcairn Otoci"
+612,pn,pcn,"Pitcairnovo Otočje"
 630,pr,pri,Portoriko
 275,ps,pse,"Država Palestina"
 620,pt,prt,Portugal
@@ -199,7 +199,7 @@ id,alpha2,alpha3,name
 702,sg,sgp,Singapur
 654,sh,shn,"Sveta Helena"
 705,si,svn,Slovenija
-744,sj,sjm,"Svalbard i Jan Mayen"
+744,sj,sjm,Svalbard
 703,sk,svk,Slovačka
 694,sl,sle,"Sijera Leone"
 674,sm,smr,"San Marino"
@@ -209,12 +209,12 @@ id,alpha2,alpha3,name
 728,ss,ssd,"Južni Sudan"
 678,st,stp,"Sveti Toma i Prinsipe"
 222,sv,slv,Salvador
-534,sx,sxm,"Sint Maarten (nizozemski dio)"
+534,sx,sxm,"Sveti Martin"
 760,sy,syr,Sirija
 748,sz,swz,Esvatini
-796,tc,tca,"Turks i Kaikos Otoci"
+796,tc,tca,"Otoci Turks i Caicos"
 148,td,tcd,Čad
-260,tf,atf,"Francuski južni teritoriji"
+260,tf,atf,"Francuski južni i antarktički teritoriji"
 768,tg,tgo,Togo
 764,th,tha,Tajland
 762,tj,tjk,Tadžikistan

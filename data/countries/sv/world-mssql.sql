@@ -207,7 +207,7 @@ INSERT INTO [world] ([id], [alpha_2], [alpha_3], [name]) VALUES
 (729,'sd','sdn',N'Sudan'),
 (752,'se','swe',N'Sverige'),
 (702,'sg','sgp',N'Singapore'),
-(654,'sh','shn',N'Sankta Helena, Ascension och Tristan da Cunha'),
+(654,'sh','shn',N'Sankt Helena, Ascension och Tristan da Cunha'),
 (705,'si','svn',N'Slovenien'),
 (744,'sj','sjm',N'Svalbard och Jan Mayen'),
 (703,'sk','svk',N'Slovakien'),

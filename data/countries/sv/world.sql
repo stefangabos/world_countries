@@ -209,7 +209,7 @@ INSERT INTO `world` (`id`, `alpha_2`, `alpha_3`, `name`) VALUES
 (729,"sd","sdn","Sudan"),
 (752,"se","swe","Sverige"),
 (702,"sg","sgp","Singapore"),
-(654,"sh","shn","Sankta Helena, Ascension och Tristan da Cunha"),
+(654,"sh","shn","Sankt Helena, Ascension och Tristan da Cunha"),
 (705,"si","svn","Slovenien"),
 (744,"sj","sjm","Svalbard och Jan Mayen"),
 (703,"sk","svk","Slovakien"),

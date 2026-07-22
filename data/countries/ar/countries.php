@@ -102,7 +102,7 @@
     442 => array('id' => 442, 'alpha2' => 'lu', 'alpha3' => 'lux', 'name' => 'لوكسمبورغ'),
     807 => array('id' => 807, 'alpha2' => 'mk', 'alpha3' => 'mkd', 'name' => 'مقدونيا'),
     450 => array('id' => 450, 'alpha2' => 'mg', 'alpha3' => 'mdg', 'name' => 'مدغشقر'),
-    454 => array('id' => 454, 'alpha2' => 'mw', 'alpha3' => 'mwi', 'name' => 'مالاوي'),
+    454 => array('id' => 454, 'alpha2' => 'mw', 'alpha3' => 'mwi', 'name' => 'ملاوي'),
     458 => array('id' => 458, 'alpha2' => 'my', 'alpha3' => 'mys', 'name' => 'ماليزيا'),
     462 => array('id' => 462, 'alpha2' => 'mv', 'alpha3' => 'mdv', 'name' => 'جزر المالديف'),
     466 => array('id' => 466, 'alpha2' => 'ml', 'alpha3' => 'mli', 'name' => 'مالي'),

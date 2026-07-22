@@ -33,12 +33,12 @@
     <country id="76" alpha2="br" alpha3="bra" name="Brazil"/>
     <country id="44" alpha2="bs" alpha3="bhs" name="Bahami"/>
     <country id="64" alpha2="bt" alpha3="btn" name="Butan"/>
-    <country id="74" alpha2="bv" alpha3="bvt" name="Bouvetov otok"/>
+    <country id="74" alpha2="bv" alpha3="bvt" name="Bouvet"/>
     <country id="72" alpha2="bw" alpha3="bwa" name="Bocvana"/>
     <country id="112" alpha2="by" alpha3="blr" name="Bjelorusija"/>
     <country id="84" alpha2="bz" alpha3="blz" name="Belize"/>
     <country id="124" alpha2="ca" alpha3="can" name="Kanada"/>
-    <country id="166" alpha2="cc" alpha3="cck" name="Kokosovi (Keeling) otoci"/>
+    <country id="166" alpha2="cc" alpha3="cck" name="Kokosovi Otoci"/>
     <country id="180" alpha2="cd" alpha3="cod" name="Demokratska Republika Kongo"/>
     <country id="140" alpha2="cf" alpha3="caf" name="Srednjoafrička Republika"/>
     <country id="178" alpha2="cg" alpha3="cog" name="Kongo"/>
@@ -71,7 +71,7 @@
     <country id="231" alpha2="et" alpha3="eth" name="Etiopija"/>
     <country id="246" alpha2="fi" alpha3="fin" name="Finska"/>
     <country id="242" alpha2="fj" alpha3="fji" name="Fidži"/>
-    <country id="238" alpha2="fk" alpha3="flk" name="Falklandi (Malvini)"/>
+    <country id="238" alpha2="fk" alpha3="flk" name="Falklandski otoci"/>
     <country id="583" alpha2="fm" alpha3="fsm" name="Mikronezija"/>
     <country id="234" alpha2="fo" alpha3="fro" name="Farski otoci"/>
     <country id="250" alpha2="fr" alpha3="fra" name="Francuska"/>
@@ -95,7 +95,7 @@
     <country id="624" alpha2="gw" alpha3="gnb" name="Gvineja Bisau"/>
     <country id="328" alpha2="gy" alpha3="guy" name="Gvajana"/>
     <country id="344" alpha2="hk" alpha3="hkg" name="Hong Kong"/>
-    <country id="334" alpha2="hm" alpha3="hmd" name="Otok Heard i otoci McDonald"/>
+    <country id="334" alpha2="hm" alpha3="hmd" name="Otok Heard i otočje McDonald"/>
     <country id="340" alpha2="hn" alpha3="hnd" name="Honduras"/>
     <country id="191" alpha2="hr" alpha3="hrv" name="Hrvatska"/>
     <country id="332" alpha2="ht" alpha3="hti" name="Haiti"/>
@@ -105,7 +105,7 @@
     <country id="376" alpha2="il" alpha3="isr" name="Izrael"/>
     <country id="833" alpha2="im" alpha3="imn" name="Otok Man"/>
     <country id="356" alpha2="in" alpha3="ind" name="Indija"/>
-    <country id="86" alpha2="io" alpha3="iot" name="Britanski indijskooceanski teritorij"/>
+    <country id="86" alpha2="io" alpha3="iot" name="Britanski Indijskooceanski teritorij"/>
     <country id="368" alpha2="iq" alpha3="irq" name="Irak"/>
     <country id="364" alpha2="ir" alpha3="irn" name="Iran"/>
     <country id="352" alpha2="is" alpha3="isl" name="Island"/>
@@ -120,7 +120,7 @@
     <country id="296" alpha2="ki" alpha3="kir" name="Kiribati"/>
     <country id="174" alpha2="km" alpha3="com" name="Komori"/>
     <country id="659" alpha2="kn" alpha3="kna" name="Sveti Kristofor i Nevis"/>
-    <country id="408" alpha2="kp" alpha3="prk" name="Sjeverna Korea"/>
+    <country id="408" alpha2="kp" alpha3="prk" name="Sjeverna Koreja"/>
     <country id="410" alpha2="kr" alpha3="kor" name="Južna Koreja"/>
     <country id="414" alpha2="kw" alpha3="kwt" name="Kuvajt"/>
     <country id="136" alpha2="ky" alpha3="cym" name="Kajmanski otoci"/>
@@ -162,7 +162,7 @@
     <country id="516" alpha2="na" alpha3="nam" name="Namibija"/>
     <country id="540" alpha2="nc" alpha3="ncl" name="Nova Kaledonija"/>
     <country id="562" alpha2="ne" alpha3="ner" name="Niger"/>
-    <country id="574" alpha2="nf" alpha3="nfk" name="Norfolk Otok"/>
+    <country id="574" alpha2="nf" alpha3="nfk" name="Norfolk"/>
     <country id="566" alpha2="ng" alpha3="nga" name="Nigerija"/>
     <country id="558" alpha2="ni" alpha3="nic" name="Nikaragva"/>
     <country id="528" alpha2="nl" alpha3="nld" name="Nizozemska"/>
@@ -180,7 +180,7 @@
     <country id="586" alpha2="pk" alpha3="pak" name="Pakistan"/>
     <country id="616" alpha2="pl" alpha3="pol" name="Poljska"/>
     <country id="666" alpha2="pm" alpha3="spm" name="Sveti Petar i Mikelon"/>
-    <country id="612" alpha2="pn" alpha3="pcn" name="Pitcairn Otoci"/>
+    <country id="612" alpha2="pn" alpha3="pcn" name="Pitcairnovo Otočje"/>
     <country id="630" alpha2="pr" alpha3="pri" name="Portoriko"/>
     <country id="275" alpha2="ps" alpha3="pse" name="Država Palestina"/>
     <country id="620" alpha2="pt" alpha3="prt" name="Portugal"/>
@@ -200,7 +200,7 @@
     <country id="702" alpha2="sg" alpha3="sgp" name="Singapur"/>
     <country id="654" alpha2="sh" alpha3="shn" name="Sveta Helena"/>
     <country id="705" alpha2="si" alpha3="svn" name="Slovenija"/>
-    <country id="744" alpha2="sj" alpha3="sjm" name="Svalbard i Jan Mayen"/>
+    <country id="744" alpha2="sj" alpha3="sjm" name="Svalbard"/>
     <country id="703" alpha2="sk" alpha3="svk" name="Slovačka"/>
     <country id="694" alpha2="sl" alpha3="sle" name="Sijera Leone"/>
     <country id="674" alpha2="sm" alpha3="smr" name="San Marino"/>
@@ -210,12 +210,12 @@
     <country id="728" alpha2="ss" alpha3="ssd" name="Južni Sudan"/>
     <country id="678" alpha2="st" alpha3="stp" name="Sveti Toma i Prinsipe"/>
     <country id="222" alpha2="sv" alpha3="slv" name="Salvador"/>
-    <country id="534" alpha2="sx" alpha3="sxm" name="Sint Maarten (nizozemski dio)"/>
+    <country id="534" alpha2="sx" alpha3="sxm" name="Sveti Martin"/>
     <country id="760" alpha2="sy" alpha3="syr" name="Sirija"/>
     <country id="748" alpha2="sz" alpha3="swz" name="Esvatini"/>
-    <country id="796" alpha2="tc" alpha3="tca" name="Turks i Kaikos Otoci"/>
+    <country id="796" alpha2="tc" alpha3="tca" name="Otoci Turks i Caicos"/>
     <country id="148" alpha2="td" alpha3="tcd" name="Čad"/>
-    <country id="260" alpha2="tf" alpha3="atf" name="Francuski južni teritoriji"/>
+    <country id="260" alpha2="tf" alpha3="atf" name="Francuski južni i antarktički teritoriji"/>
     <country id="768" alpha2="tg" alpha3="tgo" name="Togo"/>
     <country id="764" alpha2="th" alpha3="tha" name="Tajland"/>
     <country id="762" alpha2="tj" alpha3="tjk" name="Tadžikistan"/>

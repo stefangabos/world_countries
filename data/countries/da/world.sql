@@ -102,7 +102,7 @@ INSERT INTO `world` (`id`, `alpha_2`, `alpha_3`, `name`) VALUES
 (334,"hm","hmd","Heard-øen og McDonald-øerne"),
 (340,"hn","hnd","Honduras"),
 (344,"hk","hkg","Hongkong"),
-(112,"by","blr","Hviderusland"),
+(112,"by","blr","Belarus"),
 (833,"im","imn","Isle of Man"),
 (356,"in","ind","Indien"),
 (360,"id","idn","Indonesien"),

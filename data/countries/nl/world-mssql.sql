@@ -51,7 +51,7 @@ INSERT INTO [world] ([id], [alpha_2], [alpha_3], [name]) VALUES
 (140,'cf','caf',N'Centraal-Afrikaanse Republiek'),
 (152,'cl','chl',N'Chili'),
 (156,'cn','chn',N'China'),
-(162,'cx','cxr',N'Christmaseiland'),
+(162,'cx','cxr',N'Kersteiland'),
 (166,'cc','cck',N'Cocoseilanden'),
 (170,'co','col',N'Colombia'),
 (174,'km','com',N'Comoren'),

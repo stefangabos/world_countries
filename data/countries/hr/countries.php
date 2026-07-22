@@ -91,7 +91,7 @@
     296 => array('id' => 296, 'alpha2' => 'ki', 'alpha3' => 'kir', 'name' => 'Kiribati'),
     174 => array('id' => 174, 'alpha2' => 'km', 'alpha3' => 'com', 'name' => 'Komori'),
     659 => array('id' => 659, 'alpha2' => 'kn', 'alpha3' => 'kna', 'name' => 'Sveti Kristofor i Nevis'),
-    408 => array('id' => 408, 'alpha2' => 'kp', 'alpha3' => 'prk', 'name' => 'Sjeverna Korea'),
+    408 => array('id' => 408, 'alpha2' => 'kp', 'alpha3' => 'prk', 'name' => 'Sjeverna Koreja'),
     410 => array('id' => 410, 'alpha2' => 'kr', 'alpha3' => 'kor', 'name' => 'Južna Koreja'),
     414 => array('id' => 414, 'alpha2' => 'kw', 'alpha3' => 'kwt', 'name' => 'Kuvajt'),
     398 => array('id' => 398, 'alpha2' => 'kz', 'alpha3' => 'kaz', 'name' => 'Kazahstan'),

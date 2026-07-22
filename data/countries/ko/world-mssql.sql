@@ -129,7 +129,7 @@ INSERT INTO [world] ([id], [alpha_2], [alpha_3], [name]) VALUES
 (729,'sd','sdn',N'수단'),
 (740,'sr','sur',N'수리남'),
 (144,'lk','lka',N'스리랑카'),
-(744,'sj','sjm',N'스발바르 얀마옌'),
+(744,'sj','sjm',N'스발바르 얀마옌 제도'),
 (752,'se','swe',N'스웨덴'),
 (756,'ch','che',N'스위스'),
 (724,'es','esp',N'스페인'),

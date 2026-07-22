@@ -103,7 +103,7 @@ INSERT INTO `countries` (`id`, `alpha_2`, `alpha_3`, `name`) VALUES
 (296,"ki","kir","Kiribati"),
 (174,"km","com","Komori"),
 (659,"kn","kna","Sveti Kristofor i Nevis"),
-(408,"kp","prk","Sjeverna Korea"),
+(408,"kp","prk","Sjeverna Koreja"),
 (410,"kr","kor","Južna Koreja"),
 (414,"kw","kwt","Kuvajt"),
 (398,"kz","kaz","Kazahstan"),

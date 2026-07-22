@@ -101,7 +101,7 @@ INSERT INTO [countries] ([id], [alpha_2], [alpha_3], [name]) VALUES
 (296,'ki','kir',N'Kiribati'),
 (174,'km','com',N'Komori'),
 (659,'kn','kna',N'Sveti Kristofor i Nevis'),
-(408,'kp','prk',N'Sjeverna Korea'),
+(408,'kp','prk',N'Sjeverna Koreja'),
 (410,'kr','kor',N'Južna Koreja'),
 (414,'kw','kwt',N'Kuvajt'),
 (398,'kz','kaz',N'Kazahstan'),

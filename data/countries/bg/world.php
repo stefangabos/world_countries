@@ -155,7 +155,7 @@
     512 => array('id' => 512, 'alpha2' => 'om', 'alpha3' => 'omn', 'name' => 'Оман'),
     574 => array('id' => 574, 'alpha2' => 'nf', 'alpha3' => 'nfk', 'name' => 'Норфолк'),
     184 => array('id' => 184, 'alpha2' => 'ck', 'alpha3' => 'cok', 'name' => 'Острови Кук'),
-    334 => array('id' => 334, 'alpha2' => 'hm', 'alpha3' => 'hmd', 'name' => 'Острови Хърд и Макдоналд'),
+    334 => array('id' => 334, 'alpha2' => 'hm', 'alpha3' => 'hmd', 'name' => 'Хърд и Макдоналд'),
     586 => array('id' => 586, 'alpha2' => 'pk', 'alpha3' => 'pak', 'name' => 'Пакистан'),
     585 => array('id' => 585, 'alpha2' => 'pw', 'alpha3' => 'plw', 'name' => 'Палау'),
     275 => array('id' => 275, 'alpha2' => 'ps', 'alpha3' => 'pse', 'name' => 'Палестинска автономия'),

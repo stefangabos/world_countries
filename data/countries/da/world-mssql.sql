@@ -100,7 +100,7 @@ INSERT INTO [world] ([id], [alpha_2], [alpha_3], [name]) VALUES
 (334,'hm','hmd',N'Heard-øen og McDonald-øerne'),
 (340,'hn','hnd',N'Honduras'),
 (344,'hk','hkg',N'Hongkong'),
-(112,'by','blr',N'Hviderusland'),
+(112,'by','blr',N'Belarus'),
 (833,'im','imn',N'Isle of Man'),
 (356,'in','ind',N'Indien'),
 (360,'id','idn',N'Indonesien'),
